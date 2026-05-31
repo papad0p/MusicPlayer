@@ -1,0 +1,373 @@
+{
+  "meta": {
+    "game_title": "Kirby Triple Deluxe",
+    "art": "https://cdn.wikirby.com/f/f2/KTD_Boxart_NA.jpg",
+    "desc": "January 11th, 2014"
+  },
+  "songs": [
+    {
+      "title": "Home Menu Banner",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/nzispudk/1-01.%20Home%20Menu%20Banner.mp3"
+    },
+    {
+      "title": "Sun, Sky, Dreamstalk (Title)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/mievruyl/1-02.%20Sun%2C%20Sky%2C%20Dreamstalk%20%28Title%29.mp3"
+    },
+    {
+      "title": "Main Menu",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/gajslawg/1-03.%20Main%20Menu%20%5B%22Save%20Area%22%20from%20Kirby%20Super%20Star%5D.mp3"
+    },
+    {
+      "title": "Waking to a Flowery Coup!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/phqitsjs/1-04.%20Waking%20to%20a%20Flowery%20Coup%21%20%28Opening%29.mp3"
+    },
+    {
+      "title": "GREEN GREENS (World Map)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/ldihkerv/1-05.%20GREEN%20GREENS%20%28World%20Map%29%20%5Bfrom%20Kirby%27s%20Dream%20Land%5D.mp3"
+    },
+    {
+      "title": "Floral Fields",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/eidqvelq/1-06.%20Floral%20Fields%20%28Beanstalk%20Area%29.mp3"
+    },
+    {
+      "title": "Suck It All Up! Hypernova",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/vfrqghtu/1-07.%20Suck%20It%20All%20Up%21%20Hypernova%20%28Hypernova%20Ability%29.mp3"
+    },
+    {
+      "title": "Get Sun Stone!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/seschffj/1-08.%20Get%20Sun%20Stone%21.mp3"
+    },
+    {
+      "title": "Kirby Dance (Short ver.)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/dqspzcme/1-09.%20Kirby%20Dance%20%28Short%20ver.%29.mp3"
+    },
+    {
+      "title": "The Cave in the Sky",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/knlonvru/1-10.%20The%20Cave%20in%20the%20Sky%20%28Cave%20Area%29.mp3"
+    },
+    {
+      "title": "Tilting the World",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/zoxuftbd/1-11.%20Tilting%20the%20World%20%28Puzzle%20Room%29.mp3"
+    },
+    {
+      "title": "Chasing Down the Mini-Boss",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/kpvieuok/1-12.%20Chasing%20Down%20the%20Mini-Boss%20%28Mid-Boss%20Battle%29.mp3"
+    },
+    {
+      "title": "Mysterious Rolling Boulders from Afar)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/gbnnaoru/1-13.%20Mysterious%20Rolling%20Boulders%20from%20Afar%20%28Prairie%20Area%29.mp3"
+    },
+    {
+      "title": "A Forest Hike",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/xctolokk/1-14.%20A%20Forest%20Hike%20%28Forest%20Area%29%20%5B%22Yogurt%20Yard%22%20from%20Kirby%27s%20Adventure%5D.mp3"
+    },
+    {
+      "title": "Get Grand Sun Stone!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/wbslccep/1-15.%20Get%20Grand%20Sun%20Stone%21.mp3"
+    },
+    {
+      "title": "Invincible",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/llxdzljm/1-16.%20Invincible.mp3"
+    },
+    {
+      "title": "Dark Clouds",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/hbinpmqt/1-17.%20Dark%20Clouds%20%28Approaching%20Boss%29.mp3"
+    },
+    {
+      "title": "Bouncing Boss Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/wbskxgoc/1-18.%20Bouncing%20Boss%20Battle%20%28Boss%20Battle%29.mp3"
+    },
+    {
+      "title": "Kirby Dance (Long ver.)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/vwtdmzmm/1-19.%20Kirby%20Dance%20%28Long%20ver.%29.mp3"
+    },
+    {
+      "title": "Under the Sunshine",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/yhpbopiu/1-20.%20Under%20the%20Sunshine.mp3"
+    },
+    {
+      "title": "Must Dash",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/arirlcci/1-21.%20Must%20Dash%20%28Candy%20Area%29.mp3"
+    },
+    {
+      "title": "Toy Rhythm",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/ggmsdoje/1-22.%20Toy%20Rhythm%20%28Toy%20Area%29.mp3"
+    },
+    {
+      "title": "Spring Smash Factory",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/ulwakaxj/1-23.%20Spring%20Smash%20Factory%20%28Factory%20Area%29.mp3"
+    },
+    {
+      "title": "Reflected Laughter",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/drxobpuf/1-24.%20Reflected%20Laughter%20%28Haunted%20Area%29.mp3"
+    },
+    {
+      "title": "Sky at Sunset",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/rrisoqlh/1-25.%20Sky%20at%20Sunset%20%28Canyon%20Area%29.mp3"
+    },
+    {
+      "title": "Silver Snow Story",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/cproteqp/1-26.%20Silver%20Snow%20Story%20%28Sky%20Area%29%20%5B%22Peanut%20Plains%22%20from%20Kirby%20Super%20Star%5D.mp3"
+    },
+    {
+      "title": "Cold Odyssey",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/eyispxrr/1-27.%20Cold%20Odyssey%20%28Snow%20Area%29.mp3"
+    },
+    {
+      "title": "Spinning Jungle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/hmncylij/1-28.%20Spinning%20Jungle%20%28Jungle%20Area%29.mp3"
+    },
+    {
+      "title": "Golden Legend",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/xkjnodde/1-29.%20Golden%20Legend%20%28Ruins%20Area%29.mp3"
+    },
+    {
+      "title": "The Road to Becoming The Grapple King",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/mxajxhtw/1-30.%20The%20Road%20to%20Becoming%20The%20Grapple%20King%20%28The%20Arena%29%20%5Bfrom%20Kirby%20Super%20Star%5D.mp3"
+    },
+    {
+      "title": "Helper's Rest",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/cxeejimk/1-31.%20Helper%27s%20Rest%20%28The%20Arena%20-%20Intermission%29%20%5B%22Ripple%20Star%20-%20Map%22%20from%20Kirby%2064%20-%20The%20Crystal%20Shards%5D.mp3"
+    },
+    {
+      "title": "Arena Showdown",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/oqovmzmi/1-32.%20Arena%20Showdown%20%28The%20Arena%20-%20Battle%29%20%5Bfrom%20Kirby%20Super%20Star%5D.mp3"
+    },
+    {
+      "title": "Keychain Collection",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/ipyxtbyq/1-33.%20Keychain%20Collection%20%5B%22Reef%20Area%22%20from%20Kirby%27s%20Return%20to%20Dream%20Land%5D.mp3"
+    },
+    {
+      "title": "The Adventure Begins",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/glluthdy/1-34.%20The%20Adventure%20Begins%20%28Triple%20Deluxe%20ver.%29%20%5Bfrom%20Kirby%27s%20Return%20to%20Dream%20Land%5D.mp3"
+    },
+    {
+      "title": "Arena Showdow",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/hpeanpkf/1-35.%20Arena%20Showdown%20%28OST%20ver.%29.mp3"
+    },
+    {
+      "title": "Mountains in an Angry Sky",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/yyzzyxoc/2-01.%20Mountains%20in%20an%20Angry%20Sky%20%28Volcano%20Area%29.mp3"
+    },
+    {
+      "title": "Mysterious Trap",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/vvteruxd/2-02.%20Mysterious%20Trap%20%28Gemstone%20Area%29.mp3"
+    },
+    {
+      "title": "Ripple Red",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/ylgzewwr/2-03.%20Ripple%20Red%20%28Boss%20Rush%29%20%5B%22Ripple%20Star%22%20from%20Kirby%2064%20-%20The%20Crystal%20Shards%5D.mp3"
+    },
+    {
+      "title": "Majestic Flora",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/wejfbpwp/2-04.%20Majestic%20Flora.mp3"
+    },
+    {
+      "title": "Moonlight Capital",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/goamgwoe/2-05.%20Moonlight%20Capital%20%28Castle%20Area%29.mp3"
+    },
+    {
+      "title": "Beautiful Prison",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/gqlgzewx/2-06.%20Beautiful%20Prison%20%28Tower%20Area%29.mp3"
+    },
+    {
+      "title": "Hypernova All-Stars",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/yyxsvapw/2-07.%20Hypernova%20All-Stars%20%28Hypernova%20Boss%20Battle%29.mp3"
+    },
+    {
+      "title": "Taranza, Master of Puppetry",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/nanoefna/2-08.%20Taranza%2C%20Master%20of%20Puppetry.mp3"
+    },
+    {
+      "title": "Revenge of the Enemy",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/lgyywmtl/2-09.%20Revenge%20of%20the%20Enemy.mp3"
+    },
+    {
+      "title": "Dedede's Royal Payback",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/wcvulxcw/2-10.%20Dedede%27s%20Royal%20Payback%20%28vs.%20Masked%20Dedede%27s%20Revenge%29%20%5Bfrom%20Kirby%20Super%20Star%20Ultra%5D.mp3"
+    },
+    {
+      "title": "Shadow Strike",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/zittkvyh/2-11.%20Shadow%20Strike%20%28vs.%20Dark%20Meta%20Knight%27s%20Revenge%29%20%5Bfrom%20Kirby%20and%20the%20Amazing%20Mirror%5D.mp3"
+    },
+    {
+      "title": "Divine Beauty",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/nschezkd/2-12.%20Divine%20Beauty.mp3"
+    },
+    {
+      "title": "Sullied Grace",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/mxbqbjot/2-13.%20Sullied%20Grace%20%28vs.%20Queen%20Sectonia%201%29.mp3"
+    },
+    {
+      "title": "She Who Holds the Stars",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/dkopgmsd/2-14.%20She%20Who%20Holds%20the%20Stars.mp3"
+    },
+    {
+      "title": "Fatal Blooms in Moonlight",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/luqwibhg/2-15.%20Fatal%20Blooms%20in%20Moonlight%20%28vs.%20Queen%20Sectonia%202%29.mp3"
+    },
+    {
+      "title": "Last-Minute Hero",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/kilchdtl/2-16.%20Last-Minute%20Hero.mp3"
+    },
+    {
+      "title": "The World to Win",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/yixmqvei/2-17.%20The%20World%20to%20Win%20%28vs.%20Queen%20Sectonia%203%29.mp3"
+    },
+    {
+      "title": "FLOWERED",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/eyfegqns/2-18.%20FLOWERED%20%28Ending%29.mp3"
+    },
+    {
+      "title": "One of the Miracles",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/axozipcs/2-19.%20One%20of%20the%20Miracles%20%28Staff%20Roll%201%29.mp3"
+    },
+    {
+      "title": "The Road is Long... Road to the True Arena",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/hgllvwxw/2-20.%20The%20Road%20is%20Long%E2%80%A6%20Road%20to%20the%20True%20Arena%20%28The%20True%20Arena%29%20%5Bfrom%20Kirby%20Super%20Star%20Ultra%5D.mp3"
+    },
+    {
+      "title": "True Peace of Mind",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/svarfdcz/2-21.%20True%20Peace%20of%20Mind%20%28The%20True%20Arena%20-%20Intermission%29.mp3"
+    },
+    {
+      "title": "True Arena Showdown",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/pblccepn/2-22.%20True%20Arena%20Showdown%20%28The%20True%20Arena%20-%20Battle%29%20%5Bfrom%20Kirby%20Super%20Star%20Ultra%5D.mp3"
+    },
+    {
+      "title": "The World to Win",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/ujkaxjcj/2-23.%20The%20World%20to%20Win%20%28vs.%20Sectonia%20Soul%20ver.%29.mp3"
+    },
+    {
+      "title": "Staff Roll 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/otauzmnb/2-24.%20Staff%20Roll%202%20%5B%22Green%20Greens%22%20from%20Kirby%27s%20Dream%20Land%20%26%20%22Peanut%20Plains%22%20from%20Kirby%20Super%20Star%5D.mp3"
+    },
+    {
+      "title": "Sullied Grace (OST ver.)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/uumcccfs/2-25.%20Sullied%20Grace%20%28OST%20ver.%29.mp3"
+    },
+    {
+      "title": "Kirby Fighters!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/awhvfswf/3-01.%20Kirby%20Fighters%21%20%5B%22Boss%22%20from%20Kirby%20Super%20Star%5D.mp3"
+    },
+    {
+      "title": "Battle Start",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/msdngrqe/3-02.%20Battle%20Start.mp3"
+    },
+    {
+      "title": "Coo's Forest",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/yebuuprl/3-03.%20Coo%27s%20Forest%20%5B%22Coo%27s%20Theme%22%20from%20Kirby%27s%20Dream%20Land%202%5D.mp3"
+    },
+    {
+      "title": "Final Battle Start",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/ifedgugu/3-04.%20Final%20Battle%20Start.mp3"
+    },
+    {
+      "title": "Kirby Fighters Deluxe! - Home Menu Banner",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/fsxkheca/3-05.%20Kirby%20Fighters%20Deluxe%20-%20Home%20Menu%20Banner.mp3"
+    },
+    {
+      "title": "Kirby Fighters Deluxe!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/rkztusdn/3-06.%20Kirby%20Fighters%20Deluxe%21.mp3"
+    },
+    {
+      "title": "Tutorial",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/hvievruy/3-07.%20Tutorial.mp3"
+    },
+    {
+      "title": "Kirby Fighters Deluxe! - Menu",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/kdkrdqve/3-08.%20Main%20Menu%20%5B%22Battle%20Among%20Friends%202%22%20from%20Kirby%2064%20-%20The%20Crystal%20Shards%5D.mp3"
+    },
+    {
+      "title": "Battle Start",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/iexzfcwb/3-09.%20Battle%20Start.mp3"
+    },
+    {
+      "title": "Flower Land",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/tnhxtxkf/3-10.%20Flower%20Land%20%5B%22Green%20Greens%22%20from%20Kirby%27s%20Dream%20Land%20%28Kirby%20Super%20Star%20ver.%29%5D.mp3"
+    },
+    {
+      "title": "History of Dedede",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/ycnlpqkc/3-11.%20History%20of%20Dedede.mp3"
+    },
+    {
+      "title": "Results]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/gyyzckvx/3-12.%20Results%20%5B%22Mix%20Me%20In%2C%20Too%22%20from%20Kirby%2064%20-%20The%20Crystal%20Shards%5D.mp3"
+    },
+    {
+      "title": "Staff Roll",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/borqexak/3-13.%20Staff%20Roll.mp3"
+    },
+    {
+      "title": "Green Greens (Dedede ver.)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/xjbfycqy/3-14.%20GREEN%20GREENS%20%28DDD%20ver.%29%20%5Bfrom%20Kirby%27s%20Dream%20Land%5D.mp3"
+    },
+    {
+      "title": "Gourmet Race (Dedede ver.)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/rqfcusgb/3-15.%20Gourmet%20Race%20%28DDD%20ver.%29%20%5Bfrom%20Kirby%20Super%20Star%5D.mp3"
+    },
+    {
+      "title": "King Dedede's Theme (Dedede ver.)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/oqnrtsjs/3-16.%20King%20Dedede%27s%20Theme%20%28DDD%20ver.%29%20%5Bfrom%20Kirby%27s%20Dream%20Land%5D.mp3"
+    },
+    {
+      "title": "Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/micnhyvg/3-17.%20Results.mp3"
+    },
+    {
+      "title": "Royal Warp",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/ueofkikz/3-18.%20Royal%20Warp%20%28Dedede%20Mode%20Warp%29.mp3"
+    },
+    {
+      "title": "Dedede's Drum Dash Deluxe - Home Menu Banner",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/vfoeehzb/3-19.%20Dedede%27s%20Drum%20Dash%20Deluxe%20-%20Home%20Menu%20Banner.mp3"
+    },
+    {
+      "title": "Dedede's Drum Dash Deluxe",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/ktooecby/3-20.%20Dedede%E2%80%99s%20Drum%20Dash%20Deluxe%20%5B%22King%20Dedede%22%20from%20Kirby%27s%20Dream%20Land%5D.mp3"
+    },
+    {
+      "title": "Dedede's Drum Dash Deluxe - Menu",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/mppfgpho/3-21.%20Main%20Menu%20%5B%22Woah%21%21%22%20from%20Kirby%2064%20-%20The%20Cyrtal%20Shards%5D.mp3"
+    },
+    {
+      "title": "Floral Fields",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/yajtraes/3-22.%20Floral%20Fields.mp3"
+    },
+    {
+      "title": "Bouncing Boss Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/bfxvmzjz/3-23.%20Bouncing%20Boss%20Battle.mp3"
+    },
+    {
+      "title": "City Trial",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/uasorsmj/3-24.%20City%20Trial%20%5Bfrom%20Kirby%20Air%20Ride%5D.mp3"
+    },
+    {
+      "title": "C-R-O-W-N-E-D [from Kirby's Return to Dream Land]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/hiuzoufv/3-25.%20CROWNED%20%5Bfrom%20Kirby%27s%20Return%20to%20Dream%20Land%5D.mp3"
+    },
+    {
+      "title": "C-R-O-W-N-E-D (Reprise) [from Kirby's Return to Dream Land]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/lsfzhmmy/3-26.%20CROWNED%20%28Reprise%29%20%5Bfrom%20Kirby%27s%20Return%20to%20Dream%20Land%5D.mp3"
+    },
+    {
+      "title": "Stage Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/gmpqivas/3-27.%20Stage%20Clear.mp3"
+    },
+    {
+      "title": "Staff Roll",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/kzqipbmi/3-28.%20Staff%20Roll.mp3"
+    },
+    {
+      "title": "Dedede Deluxe!!!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/cprnpnrv/3-29.%20Dedede%20Deluxe%21%21%21%20%5Bfrom%20Kirby%20Series%5D.mp3"
+    },
+    {
+      "title": "Forever-Sleeping Flower in Moonlight",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/focwcvul/3-30.%20Forever-Sleeping%20Flower%20in%20Moonlight.mp3"
+    },
+    {
+      "title": "Dreams and Disappearing Kings",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-triple-deluxe/vvtervbw/3-31.%20Dreams%20and%20Disappearing%20Kings.mp3"
+    }
+  ]
+}

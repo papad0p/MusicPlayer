@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "game_title": "Super Mario Sunshine",
+    "art": "https://mario.wiki.gallery/images/thumb/5/51/Box_NA_Super_Mario_Sunshine.png/1200px-Box_NA_Super_Mario_Sunshine.png",
+    "desc": "September 29th, 2002"
+  },
+  "songs": [
+    {
+      "title": "Title Screen",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/aetilcfv/01.%20Title%20Screen.mp3"
+    },
+    {
+      "title": "Title Screen (No Voice)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/mvvpoybn/02.%20Title%20Screen%20%28No%20Voice%29.mp3"
+    },
+    {
+      "title": "Opening Demo",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/jhkdkqxr/03.%20Opening%20Demo.mp3"
+    },
+    {
+      "title": "File Select",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/rghtushf/04.%20File%20Select.mp3"
+    },
+    {
+      "title": "Delfino Airstrip",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/dejjsnmt/05.%20Delfino%20Airstrip.mp3"
+    },
+    {
+      "title": "VS. Proto Piranha",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/hdyhoxwo/06.%20VS.%20Proto%20Piranha.mp3"
+    },
+    {
+      "title": "Shine Sprite Appears",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/fibhhnvn/07.%20Shine%20Sprite%20Appears.mp3"
+    },
+    {
+      "title": "Shine Sprite Get!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/dcbazttq/08.%20Shine%20Sprite%20Get%21.mp3"
+    },
+    {
+      "title": "Stage Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/xqlhbmfo/09.%20Stage%20Intro.mp3"
+    },
+    {
+      "title": "Delfino Plaza",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/egqnplkt/10.%20Delfino%20Plaza.mp3"
+    },
+    {
+      "title": "Delfino Plaza (Yoshi)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/nkkwcyiv/11.%20Delfino%20Plaza%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "Delfino Plaza (Medley)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/dhzcnhwo/12.%20Delfino%20Plaza%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Underground",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/dbvarezh/13.%20Underground.mp3"
+    },
+    {
+      "title": "Too Bad!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/oxugxsxj/14.%20Too%20Bad%21.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/ckvumcav/15.%20Game%20Over.mp3"
+    },
+    {
+      "title": "Chapter Select",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/arghspwn/16.%20Chapter%20Select.mp3"
+    },
+    {
+      "title": "Bianco Hills",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/anogmscl/17.%20Bianco%20Hills.mp3"
+    },
+    {
+      "title": "Bianco Hills (Yoshi)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/wzhowrso/18.%20Bianco%20Hills%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "Bianco Hills (Medley)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/svzmmxan/19.%20Bianco%20Hills%20%28Medley%29.mp3"
+    },
+    {
+      "title": "VS. Boss",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/lshfehxr/20.%20VS.%20Boss.mp3"
+    },
+    {
+      "title": "Secret Course",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/pbkxiwlo/21.%20Secret%20Course.mp3"
+    },
+    {
+      "title": "Secret Course (Yoshi)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/mujoqnrw/22.%20Secret%20Course%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "Secret Course (Medley)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/htavapag/23.%20Secret%20Course%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Timed Event",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/ecbxlmbw/24.%20Timed%20Event.mp3"
+    },
+    {
+      "title": "Shadow Mario (Intro)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/btqxodbv/25.%20Shadow%20Mario%20%28Intro%29.mp3"
+    },
+    {
+      "title": "Shadow Mario",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/aosyqhow/26.%20Shadow%20Mario.mp3"
+    },
+    {
+      "title": "Ricco Harbor",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/qoybnhzc/27.%20Ricco%20Harbor.mp3"
+    },
+    {
+      "title": "Ricco Harbor (Yoshi)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/lxfiaevp/28.%20Ricco%20Harbor%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "Ricco Harbor (Medley)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/molmasnl/29.%20Ricco%20Harbor%20%28Medley%29.mp3"
+    },
+    {
+      "title": "VS. Gooper Blooper",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/thfdejjq/30.%20VS.%20Gooper%20Blooper.mp3"
+    },
+    {
+      "title": "Event",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/drckrgdx/31.%20Event.mp3"
+    },
+    {
+      "title": "Race Fanfare",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/ecavbvzi/32.%20Race%20Fanfare.mp3"
+    },
+    {
+      "title": "Gelato Beach",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/vasonzjy/33.%20Gelato%20Beach.mp3"
+    },
+    {
+      "title": "Gelato Beach (Yoshi)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/nulwxaiq/34.%20Gelato%20Beach%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "Gelato Beach (Medley)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/cprrggmt/35.%20Gelato%20Beach%20%28Medley%29.mp3"
+    },
+    {
+      "title": "VS. Plungelo",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/gycolqxm/36.%20VS.%20Plungelo.mp3"
+    },
+    {
+      "title": "VS. Wiggler",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/sdqqiqir/37.%20VS.%20Wiggler.mp3"
+    },
+    {
+      "title": "VS. Wiggler (Fast)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/juxdxfje/38.%20VS.%20Wiggler%20%28Fast%29.mp3"
+    },
+    {
+      "title": "Sky & Sea",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/vnflpstp/39.%20Sky%20%26%20Sea.mp3"
+    },
+    {
+      "title": "Il Piantissimo",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/rqezhmrv/40.%20Il%20Piantissimo.mp3"
+    },
+    {
+      "title": "Pinna Park Beach",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/czsotztu/41.%20Pinna%20Park%20Beach.mp3"
+    },
+    {
+      "title": "Pinna Park Beach (Yoshi)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/qxnvrxoz/42.%20Pinna%20Park%20Beach%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "Pinna Park Beach (Medley)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/fcxeejgd/43.%20Pinna%20Park%20Beach%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Pinna Park",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/zlgzdulx/44.%20Pinna%20Park.mp3"
+    },
+    {
+      "title": "Pinna Park (Yoshi)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/glnfpgnx/45.%20Pinna%20Park%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "Pinna Park (Medley)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/vnczqeyd/46.%20Pinna%20Park%20%28Medley%29.mp3"
+    },
+    {
+      "title": "VS. Mecha Bowser",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/zlgahhss/47.%20VS.%20Mecha%20Bowser.mp3"
+    },
+    {
+      "title": "Yoshi-Go-Round",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/ipzagcvu/48.%20Yoshi-Go-Round.mp3"
+    },
+    {
+      "title": "Sirena Beach",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/nddftdlu/49.%20Sirena%20Beach.mp3"
+    },
+    {
+      "title": "VS. Phantamanta",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/psqbjpah/50.%20VS.%20Phantamanta.mp3"
+    },
+    {
+      "title": "Hotel Delfino",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/hrlendbx/51.%20Hotel%20Delfino.mp3"
+    },
+    {
+      "title": "Hotel Delfino (Yoshi)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/kheyisoq/52.%20Hotel%20Delfino%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "Hotel Delfino (Medley)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/moiyrqbl/53.%20Hotel%20Delfino%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Casino Delfino",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/zriqdunh/54.%20Casino%20Delfino.mp3"
+    },
+    {
+      "title": "Casino Delfino (Yoshi)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/xstshjxk/55.%20Casino%20Delfino%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "Casino Delfino (Medley)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/ilgxvigh/56.%20Casino%20Delfino%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Casino Delfino (Fanfare)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/sslbyoaj/57.%20Casino%20Delfino%20%28Fanfare%29.mp3"
+    },
+    {
+      "title": "Noki Bay",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/vyjwfoed/58.%20Noki%20Bay.mp3"
+    },
+    {
+      "title": "Noki Bay (Yoshi)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/difcuqve/59.%20Noki%20Bay%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "Noki Bay (Medley)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/ltlwamkp/60.%20Noki%20Bay%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Deep Sea of Mare",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/rriqfdbw/61.%20Deep%20Sea%20of%20Mare.mp3"
+    },
+    {
+      "title": "Pianta Village",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/egtzsqbk/62.%20Pianta%20Village.mp3"
+    },
+    {
+      "title": "Pianta Village (Yoshi)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/vzjyozgh/63.%20Pianta%20Village%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "Pianta Village (Medley)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/rnpkgaip/64.%20Pianta%20Village%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Pianta Village (Night)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/yxrttnfq/65.%20Pianta%20Village%20%28Night%29.mp3"
+    },
+    {
+      "title": "Pianta Village (Night - Yoshi)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/nruwanpk/66.%20Pianta%20Village%20%28Night%20-%20Yoshi%29.mp3"
+    },
+    {
+      "title": "Pianta Village (Night - Medley)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/dnflradn/67.%20Pianta%20Village%20%28Night%20-%20Medley%29.mp3"
+    },
+    {
+      "title": "Pianta Village Band (Hot Spring)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/eicngswf/68.%20Pianta%20Village%20Band%20%28Hot%20Spring%29.mp3"
+    },
+    {
+      "title": "Pianta Village Band (Hot Spring - Yoshi)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/lokioswg/69.%20Pianta%20Village%20Band%20%28Hot%20Spring%20-%20Yoshi%29.mp3"
+    },
+    {
+      "title": "Pianta Village Band (Hot Spring - Medley)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/phrkavfn/70.%20Pianta%20Village%20Band%20%28Hot%20Spring%20-%20Medley%29.mp3"
+    },
+    {
+      "title": "Piantas in Need",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/xaipzdse/71.%20Piantas%20in%20Need.mp3"
+    },
+    {
+      "title": "Pianta Village Band",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/thdwybmf/72.%20Pianta%20Village%20Band.mp3"
+    },
+    {
+      "title": "Corona Mountain",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/suxdzkft/73.%20Corona%20Mountain.mp3"
+    },
+    {
+      "title": "VS. Bowser",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/dkorsmif/74.%20VS.%20Bowser.mp3"
+    },
+    {
+      "title": "Staff Credits",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/amknjiov/75.%20Staff%20Credits.mp3"
+    },
+    {
+      "title": "Have a Relaxing Vacation!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-sunshine-game-rip/ltmcatus/76.%20Have%20a%20Relaxing%20Vacation%21.mp3"
+    }
+  ]
+}

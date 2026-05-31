@@ -1,0 +1,1177 @@
+{
+
+  "meta": {
+
+    "game_title": "Mario Kart Wii",
+
+    "art": "https://mario.wiki.gallery/images/thumb/2/29/Mkwii.jpg/800px-Mkwii.jpg",
+
+    "desc": "April 10, 2008"
+
+  },
+
+  "songs": [
+
+    {
+
+      "title": "Channel Menu",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/fjpnxcjtmg/1-01.%20Channel%20Menu.mp3"
+
+    },
+
+    {
+
+      "title": "Opening Movie",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/mlyahzrxwy/1-02.%20Opening%20Movie%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Title Screen",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/nncrgamhhe/1-03.%20Title%20Screen%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Main Menu (Phase 1)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/zrhnkeqhxj/1-04.%20Main%20Menu%20%28Phase%201%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Main Menu (Phase 2)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/zzuxxbtpjk/1-05.%20Main%20Menu%20%28Phase%202%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Main Menu (Phase 3)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/cfrbppclwo/1-06.%20Main%20Menu%20%28Phase%203%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Course Intro (Race)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/gximjahfxx/1-07.%20Course%20Intro%20%28Race%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Starting Grid (from Mario Kart - Double Dash!!)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/ofkbszxrrm/1-08.%20Starting%20Grid%E2%80%8E%20%28from%20Mario%20Kart%20-%20Double%20Dash%21%21%29.mp3"
+
+    },
+
+    {
+
+      "title": "Luigi Circuit - Mario Circuit",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/kqlurtlzbw/1-09.%20Luigi%20Circuit%20-%20Mario%20Circuit%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Final Lap!",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/tetlrsnina/1-10.%20Final%20Lap%21%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Luigi Circuit - Mario Circuit (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/vvvygyfgns/1-11.%20Luigi%20Circuit%20-%20Mario%20Circuit%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Moo Moo Meadows",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/qzvjcoplcr/1-12.%20Moo%20Moo%20Meadows%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Moo Moo Meadows (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/wovuxnnrxz/1-13.%20Moo%20Moo%20Meadows%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Mushroom Gorge",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/dcknaqbepj/1-14.%20Mushroom%20Gorge%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Mushroom Gorge (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/ykzcmbpdgt/1-15.%20Mushroom%20Gorge%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Toad's Factory",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/hyzovuandi/1-16.%20Toad%27s%20Factory%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Toad's Factory (Clapping)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/jsrzrbppps/1-17.%20Toad%27s%20Factory%20%28Clapping%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Toad's Factory (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/lzvblnvkmd/1-18.%20Toad%27s%20Factory%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Toad's Factory (Clapping, Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/siamnvpctw/1-19.%20Toad%27s%20Factory%20%28Clapping%2C%20Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Coconut Mall",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/qwdklagnpj/1-20.%20Coconut%20Mall%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Coconut Mall (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/qtnxqupogr/1-21.%20Coconut%20Mall%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "DK Summit",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/xrlktumzqe/1-22.%20DK%20Summit%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "DK Summit (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/izvgbilnej/1-23.%20DK%20Summit%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Wario's Gold Mine",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/dqadkxdtdp/1-24.%20Wario%27s%20Gold%20Mine%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Wario's Gold Mine (Mine)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/ygxwcayunj/1-25.%20Wario%27s%20Gold%20Mine%20%28Mine%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Wario's Gold Mine (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/uhtfxcbdrw/1-26.%20Wario%27s%20Gold%20Mine%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Wario's Gold Mine (Mine, Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/tebwhoiexh/1-27.%20Wario%27s%20Gold%20Mine%20%28Mine%2C%20Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Daisy Circuit",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/fjxxgvrkgn/1-28.%20Daisy%20Circuit%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Daisy Circuit (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/ifinszlrpg/1-29.%20Daisy%20Circuit%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Koopa Cape",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/kdmgbsnvwl/1-30.%20Koopa%20Cape%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Koopa Cape (River)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/hdjrdzohmd/1-31.%20Koopa%20Cape%20%28River%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Koopa Cape (Underwater)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/idwovofdjn/1-32.%20Koopa%20Cape%20%28Underwater%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Koopa Cape (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/lkdwznaaln/1-33.%20Koopa%20Cape%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Koopa Cape (River, Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/lphhbsyvpo/1-34.%20Koopa%20Cape%20%28River%2C%20Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Koopa Cape (Underwater, Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/ussufzlffg/1-35.%20Koopa%20Cape%20%28Underwater%2C%20Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Maple Treeway",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/qyvpuuqrrq/1-36.%20Maple%20Treeway%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Maple Treeway (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/esydxvpqbg/1-37.%20Maple%20Treeway%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Grumble Volcano",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/nmtvrqzydm/1-38.%20Grumble%20Volcano%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Grumble Volcano (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/upzguycanh/1-39.%20Grumble%20Volcano%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Dry Dry Ruins",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/tufajxprsr/1-40.%20Dry%20Dry%20Ruins%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Dry Dry Ruins (Ruins)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/wppsuhbvnl/1-41.%20Dry%20Dry%20Ruins%20%28Ruins%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Dry Dry Ruins (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/bkghqcstrt/1-42.%20Dry%20Dry%20Ruins%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Dry Dry Ruins (Ruins, Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/ubipmantkj/1-43.%20Dry%20Dry%20Ruins%20%28Ruins%2C%20Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Moonview Highway",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/jzeiolzjhp/1-44.%20Moonview%20Highway%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Moonview Highway (City)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/mljdzsbqkw/1-45.%20Moonview%20Highway%20%28City%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Moonview Highway (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/iorltobuhv/1-46.%20Moonview%20Highway%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Moonview Highway (City, Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/eugcciqmzt/1-47.%20Moonview%20Highway%20%28City%2C%20Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Bowser's Castle",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/xnftmdfjal/1-48.%20Bowser%27s%20Castle%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Bowser's Castle (Percussion)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/ujkngjrkcn/1-49.%20Bowser%27s%20Castle%20%28Percussion%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Bowser's Castle (Phaser)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/vlhldmohci/1-50.%20Bowser%27s%20Castle%20%28Phaser%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Bowser's Castle (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/xihxrdilwg/1-51.%20Bowser%27s%20Castle%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Bowser's Castle (Percussion, Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/edscpkjksb/1-52.%20Bowser%27s%20Castle%20%28Percussion%2C%20Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Bowser's Castle (Phaser, Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/uulmtlzqkq/1-53.%20Bowser%27s%20Castle%20%28Phaser%2C%20Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Rainbow Road",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/tkfueyvayr/1-54.%20Rainbow%20Road%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Rainbow Road (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/xlandmhubf/1-55.%20Rainbow%20Road%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Grand Prix - 1st Place",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/nazmwlyqtj/1-56.%20Grand%20Prix%20-%201st%20Place%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Grand Prix - 1st Place (Fanfare Only)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/yvwwmackum/1-57.%20Grand%20Prix%20-%201st%20Place%20%28Fanfare%20Only%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Grand Prix - 2nd-6th Place",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/rymgguejcx/1-58.%20Grand%20Prix%20-%202nd-6th%20Place%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Grand Prix - 2nd-6th Place (Fanfare Only)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/rbhibnvpyj/1-59.%20Grand%20Prix%20-%202nd-6th%20Place%20%28Fanfare%20Only%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Grand Prix - Low Place",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/mqbzkqxvfq/1-60.%20Grand%20Prix%20-%20Low%20Place%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Grand Prix - Low Place (Fanfare Only)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/ldoqwyafwg/1-61.%20Grand%20Prix%20-%20Low%20Place%20%28Fanfare%20Only%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Award Ceremony - Intro, 1st Place",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/cplbcrvmzl/1-62.%20Award%20Ceremony%20-%20Intro%2C%201st%20Place%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Award Ceremony - 1st Place",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/dmvvoljkpo/1-63.%20Award%20Ceremony%20-%201st%20Place%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Award Ceremony - Middle",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/dsecloklje/1-64.%20Award%20Ceremony%20-%20Middle%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Award Ceremony - Last",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/jovjjfvqiy/1-65.%20Award%20Ceremony%20-%20Last%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Options",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/qsahgozbzt/1-66.%20Options%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "New Kart Unlocked!",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/eswtwndfvq/1-67.%20New%20Kart%20Unlocked%21%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Mega Mushroom",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/zeekqvxdbd/1-68.%20Mega%20Mushroom%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "GCN Peach Beach",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/wlpbjbgtnr/2-01.%20GCN%20Peach%20Beach%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "GCN Peach Beach (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/xsgtxqvcpl/2-02.%20GCN%20Peach%20Beach%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "DS Yoshi Falls",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/hbyoptirls/2-03.%20DS%20Yoshi%20Falls%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "DS Yoshi Falls (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/vnoodnoehp/2-04.%20DS%20Yoshi%20Falls%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "SNES Ghost Valley 2",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/kdsueitemm/2-05.%20SNES%20Ghost%20Valley%202%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "SNES Ghost Valley 2 (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/fsbcdzdirc/2-06.%20SNES%20Ghost%20Valley%202%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "N64 Mario Raceway",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/hjxfsleqlj/2-07.%20N64%20Mario%20Raceway%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "N64 Mario Raceway (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/tsstkxjqet/2-08.%20N64%20Mario%20Raceway%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "N64 Sherbet Land",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/ghvpwzuwmh/2-09.%20N64%20Sherbet%20Land%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "N64 Sherbet Land (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/tvnuxeznvt/2-10.%20N64%20Sherbet%20Land%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "GBA Shy Guy Beach",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/inbwewadyq/2-11.%20GBA%20Shy%20Guy%20Beach%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "GBA Shy Guy Beach (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/pwvtpcjgbv/2-12.%20GBA%20Shy%20Guy%20Beach%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "DS Delfino Square",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/iejuborldq/2-13.%20DS%20Delfino%20Square%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "DS Delfino Square (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/cguzphcbnm/2-14.%20DS%20Delfino%20Square%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "GCN Waluigi Stadium",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/hkltabvasw/2-15.%20GCN%20Waluigi%20Stadium%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "GCN Waluigi Stadium (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/zfvcupqccc/2-16.%20GCN%20Waluigi%20Stadium%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "DS Desert Hills",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/yghdifnnpq/2-17.%20DS%20Desert%20Hills%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "DS Desert Hills (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/nrfwveemha/2-18.%20DS%20Desert%20Hills%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "GBA Bowser Castle 3",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/zswzmmmmpl/2-19.%20GBA%20Bowser%20Castle%E2%80%8E%203.mp3"
+
+    },
+
+    {
+
+      "title": "GBA Bowser Castle 3 (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/lkdeswysvp/2-20.%20GBA%20Bowser%20Castle%203%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "N64 DK's Jungle Parkway",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/cjuurybkck/2-21.%20N64%20DK%27s%20Jungle%20Parkway%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "N64 DK's Jungle Parkway (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/voprrtlggz/2-22.%20N64%20DK%27s%20Jungle%20Parkway%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "GCN Mario Circuit",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/lvuywlirxw/2-23.%20GCN%20Mario%20Circuit%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "GCN Mario Circuit (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/dstxeqkbkc/2-24.%20GCN%20Mario%20Circuit%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "SNES Mario Circuit 3",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/mgfiqqvmnb/2-25.%20SNES%20Mario%20Circuit%203%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "SNES Mario Circuit 3 (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/yonaidokvv/2-26.%20SNES%20Mario%20Circuit%203%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "DS Peach Gardens",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/jbrvbxtqfp/2-27.%20DS%20Peach%20Gardens%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "DS Peach Gardens (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/dxnqgfqefk/2-28.%20DS%20Peach%20Gardens%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "GCN DK Mountain",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/jzslwcvpim/2-29.%20GCN%20DK%20Mountain%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "GCN DK Mountain (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/pokjwgyqbr/2-30.%20GCN%20DK%20Mountain%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "N64 Bowser's Castle",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/pkmqmfeagy/2-31.%20N64%20Bowser%27s%20Castle%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "N64 Bowser's Castle (Final Lap)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/kfjoqqnqhh/2-32.%20N64%20Bowser%27s%20Castle%20%28Final%20Lap%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Time Trial - New Record!",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/yjuecfxixt/2-33.%20Time%20Trial%20-%20New%20Record%21%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Time Trial - New Record! (Fanfare Only)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/gqmkspggfq/2-34.%20Time%20Trial%20-%20New%20Record%21%20%28Fanfare%20Only%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Staff Credits A",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/pkpuldktci/2-35.%20Staff%20Credits%20A%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Staff Credits B",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/onrvdfffcz/2-36.%20Staff%20Credits%20B%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Course Intro (Battle Mode)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/yoekpfhown/3-01.%20Course%20Intro%20%28Battle%20Mode%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Starting Grid (Battle Mode, Online, Time Trials)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/utuenuhhtv/3-02.%20Starting%20Grid%20%28Battle%20Mode%2C%20Online%2C%20Time%20Trials%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Block Plaza",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/hiqomldqic/3-03.%20Block%20Plaza%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Block Plaza (Time's Running Out)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/udbqdfgezn/3-04.%20Block%20Plaza%20%28Time%27s%20Running%20Out%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Delfino Pier",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/hidjjieouh/3-05.%20Delfino%20Pier%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Delfino Pier (Time's Running Out)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/gzrkaubgxd/3-06.%20Delfino%20Pier%20%28Time%27s%20Running%20Out%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Funky Stadium",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/rtxonpnbxe/3-07.%20Funky%20Stadium%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Funky Stadium (Time's Running Out)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/clchadkgbu/3-08.%20Funky%20Stadium%20%28Time%27s%20Running%20Out%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Chain Chomp Wheel",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/mlgthvqdli/3-09.%20Chain%20Chomp%20Wheel%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Chain Chomp Wheel (Time's Running Out)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/gaurgotvdi/3-10.%20Chain%20Chomp%20Wheel%20%28Time%27s%20Running%20Out%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Thwomp Desert",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/vweucmxgxe/3-11.%20Thwomp%20Desert%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Thwomp Desert (Time's Running Out)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/uomikdfozl/3-12.%20Thwomp%20Desert%20%28Time%27s%20Running%20Out%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "SNES Battle Course 4",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/tntiioxldk/3-13.%20SNES%20Battle%20Course%204%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "SNES Battle Course 4 (Time's Running Out)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/cvqlelhsbr/3-14.%20SNES%20Battle%20Course%204%20%28Time%27s%20Running%20Out%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "GBA Battle Course 3",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/byekooaatv/3-15.%20GBA%20Battle%20Course%203%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "GBA Battle Course 3 (Time's Running Out)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/babqrloesw/3-16.%20GBA%20Battle%20Course%203%20%28Time%27s%20Running%20Out%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "N64 Skyscraper",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/vytmotcqti/3-17.%20N64%20Skyscraper%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "N64 Skyscraper (Time's Running Out)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/qvaykxsdzu/3-18.%20N64%20Skyscraper%20%28Time%27s%20Running%20Out%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "GCN Cookie Land",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/itjfnbwggw/3-19.%20GCN%20Cookie%20Land%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "GCN Cookie Land (Time's Running Out)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/mkrquxofeh/3-20.%20GCN%20Cookie%20Land%20%28Time%27s%20Running%20Out%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "DS Twilight House",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/zwfsepnotg/3-21.%20DS%20Twilight%20House%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "DS Twilight House (Time's Running Out)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/dlerawxlil/3-22.%20DS%20Twilight%20House%20%28Time%27s%20Running%20Out%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Battle Mode - Draw",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/wvvvghdfbd/3-23.%20Battle%20Mode%20-%20Draw%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Course Intro (Mission)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/kajukycgib/4-01.%20Course%20Intro%20%28Mission%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Mission Clear!",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/hjoduuazyf/4-02.%20Mission%20Clear%21%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Mission Clear! (Fanfare Only)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/yvycxhcncn/4-03.%20Mission%20Clear%21%20%28Fanfare%20Only%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Mission Failure...",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/vdhfotvfqy/4-04.%20Mission%20Failure...%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Misison Failure... (Fanfare Only)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/yzdmhovqco/4-05.%20Misison%20Failure...%20%28Fanfare%20Only%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Mission Mode Boss Battle",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/ivzaddflkm/4-06.%20Mission%20Mode%20Boss%20Battle%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Mission Boss Clear!",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/kntcblbbhr/4-07.%20Mission%20Boss%20Clear%21%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Course Intro (Wi-Fi)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/rgcirqlzng/4-08.%20Course%20Intro%20%28Wi-Fi%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Spectator Race",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/rbyigblyts/4-09.%20Spectator%20Race%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Main Menu (Layer 1)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/krlubiakug/4-10.%20Main%20Menu%20%28Layer%201%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Main Menu (Layer 2)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/btyrgebfpg/4-11.%20Main%20Menu%20%28Layer%202%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Main Menu (Layer 3)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/qyocevzbhy/4-12.%20Main%20Menu%20%28Layer%203%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Main Menu (Layer 4)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/ddjepiyrlh/4-13.%20Main%20Menu%20%28Layer%204%29%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Channel Menu (Mario Kart Channel)",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/qbexjwaqsp/4-14.%20Channel%E2%80%8E%20Menu%20%28Mario%20Kart%20Channel%29.mp3"
+
+    },
+
+    {
+
+      "title": "Mario Kart Channel Menu",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/lqysaoimkb/4-15.%20Mario%20Kart%20Channel%20Menu%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Wi-Fi Menu",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/dmpbirpqcf/4-16.%20Wi-Fi%20Menu%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Ranking",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/ankrfiirjo/4-17.%20Ranking%E2%80%8E.mp3"
+
+    },
+
+    {
+
+      "title": "Super Star",
+
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-wii/xjoqlooknc/4-18.%20Super%20Star%E2%80%8E.mp3"
+
+    }
+
+  ]
+
+}

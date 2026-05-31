@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "game_title": "Kirby Super Star Ultra",
+    "art": "https://m.media-amazon.com/images/I/71aL0Q3aB5L._AC_UF1000,1000_QL80_.jpg",
+    "desc": "September 22nd, 2008"
+  },
+
+
+  "songs": [
+    { "title": "Grand Opening", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/dpnwsbeq/01.%20Grand%20Opening.mp3" },
+    { "title": "Rest Area / File Select", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/pdxeargh/02.%20File%20Select%20-%20Rest%20Area.mp3" },
+    { "title": "Corkboard", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/qjzsrgdy/03.%20Corkboard.mp3" },
+    { "title": "Ability Trial Room / Settings", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/fxagglmd/26.%20Ability%20Trial%20Room.mp3" },
+    { "title": "The Beginner's Room", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/iwhudigh/04.%20The%20Beginner%27s%20Room.mp3" },
+
+    { "title": "Spring Breeze - Title", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/ysskvaqb/06.%20Spring%20Breeze%20-%20Title.mp3" },
+    { "title": "Green Greens", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/mdeofmtf/07.%20Green%20Greens.mp3" },
+    { "title": "Float Islands", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/wrspuhyw/08.%20Float%20Islands.mp3" },
+    { "title": "Bubbly Clouds", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/nyezkdmx/09.%20Bubbly%20Clouds.mp3" },
+    { "title": "Boss Battle", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/fgpiuasn/10.%20Boss%20Battle.mp3" },
+    { "title": "Sparkling Star", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/zystrclx/11.%20Sparkling%20Star.mp3" },
+    { "title": "Kirby Dance (Long)", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/njjrgivd/12.%20Kirby%20Dance%20%28Long%29.mp3" },
+    { "title": "VS. King Dedede", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/elrbhitr/13.%20VS.%20King%20Dedede.mp3" },
+    { "title": "A New Wind for Tomorrow", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/rsmicmdf/16.%20A%20New%20Wind%20for%20Tomorrow.mp3" },
+
+    { "title": "Dyna Blade - Title", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/hghveigf/18.%20Dyna%20Blade%20-%20Title.mp3" },
+    { "title": "Dyna Blade - Map", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/htatsilf/19.%20Dyna%20Blade%20-%20Map.mp3" },
+    { "title": "Peanut Plains", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/uihjzuyl/20.%20Peanut%20Plains.mp3" },
+    { "title": "Mallow Castle", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/krfyebsk/21.%20Mallow%20Castle.mp3" },
+    { "title": "Cocoa Cave", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/vapwogpe/22.%20Cocoa%20Cave.mp3" },
+    { "title": "Candy Mountain", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/ehytzspv/23.%20Candy%20Mountain.mp3" },
+    { "title": "Kirby Dance (Short)", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/jkweeifc/24.%20Kirby%20Dance%20%28Short%29.mp3" },
+    { "title": "Mini-Boss Battle", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/uthhnuks/25.%20Mid-Boss%20Battle.mp3" },
+    { "title": "Dyna Blade's Nest", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/enbtnkmf/27.%20Dyna%20Blade%27s%20Nest.mp3" },
+    { "title": "Battle With an Enormous Boss", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/rpblbxjc/28.%20Battle%20with%20an%20Enormous%20Boss.mp3" },
+    { "title": "Live Healthy", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/joqovmzl/29.%20Live%20Healthy.mp3" },
+
+    { "title": "Gourmet Race - Title", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/ybonxxxv/33.%20Gourmet%20Race%20-%20Title.mp3" },
+    { "title": "Gourmet Race", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/idulvxzh/34.%20Gourmet%20Race%20-%20Pumpkin%20Grand.mp3" },
+    { "title": "Hilltop Chase", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/jchfflni/35.%20Gourmet%20Race%20-%20Corn%20Hall.mp3" },
+    { "title": "Gourmet Race - Victory!", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/ftdlsfze/38.%20Gourmet%20Race%20-%20Victory%21.mp3" },
+    { "title": "Gourmet Race - Loss", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/zmiinqrk/39.%20Loss.mp3" },
+    { "title": "The Great Cave Offensive", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/awjdomrw/40.%20The%20Great%20Cave%20Offensive.mp3" },
+    { "title": "Cavernous Corners", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/icnhuena/41.%20Underground%20Tree%20Area.mp3" },
+    { "title": "Mine Cart Riding", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/pvihjays/42.%20Mine%20Cart%20Area.mp3" },
+    { "title": "Crystal Area", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/tqwlooeb/43.%20Crystal%20Area.mp3" },
+    { "title": "Computer Virus Battle", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/uuqvfpit/44.%20Computer%20Virus%20Battle.mp3" },
+    { "title": "The Great Cave Offensive - Victory!", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/yhoajtpt/46.%20The%20Great%20Cave%20Offensive%20-%20Victory%21.mp3" },
+
+    { "title": "Revenge Of Meta Knight", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/bayqisno/47.%20Revenge%20of%20Meta%20Knight.mp3" },
+    { "title": "Revenge of Meta Knight - Title", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/fjfxvogp/48.%20Revenge%20of%20Meta%20Knight%20-%20Title.mp3" },
+    { "title": "Boarding the Halberd", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/gllxeekm/49.%20Boarding%20the%20Halberd.mp3" },
+    { "title": "Revenge of Meta Knight - Map", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/fnbrevsz/50.%20Revenge%20of%20Meta%20Knight%20-%20Map.mp3" },
+    { "title": "Sea Stage", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/uymlvund/51.%20Sea%20Stage.mp3" },
+    { "title": "VS. Heavy Lobster", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/ccgwohtu/52.%20Heavy%20Lobster.mp3" },
+    { "title": "Havoc Aboard the Halberd", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/tlykckqy/53.%20Havoc%20Aboard%20the%20Halberd.mp3" },
+    { "title": "VS. Meta Knight", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/xswcwbqb/54.%20VS.%20Meta%20Knight.mp3" },
+    { "title": "Halberd Escape", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/bnkolrbd/56.%20Halberd%20Escape.mp3" },
+    { "title": "My Friend and the Setting Sun", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/qsskvyfi/57.%20My%20Friend%20and%20the%20Sunset.mp3" },
+
+    { "title": "Milky Way Wishes - Title", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/rkymngro/59.%20Milky%20Way%20Wishes%20-%20Title.mp3" },
+    { "title": "Milky Way Wishes - Map", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/ujjsoqnq/60.%20Milky%20Way%20Wishes%20-%20Map.mp3" },
+    { "title": "Sparkling Star (Milky Way Wishes)", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/ozfapvji/61.%20Milky%20Way%20Wishes%20-%20Sparkling%20Star.mp3" },
+    { "title": "Galactic Nova", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/sjpxvjhk/63.%20Galactic%20Nova.mp3" },
+    { "title": "VS. Marx", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/fyeanmxc/65.%20VS.%20Marx.mp3" },
+    { "title": "Kirby's Triumphant Return", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/vvpoybni/66.%20Kirby%27s%20Triumphant%20Return.mp3" },
+    { "title": "Milky Way Wishes - Staff Credits", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/bhhoaiow/67.%20Milky%20Way%20Wishes%20-%20Staff%20Credits.mp3" },
+    { "title": "Milky Way Wishes - Continue?", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/ohucbbdn/68.%20Milky%20Way%20Wishes%20-%20Continue%3F.mp3" },
+
+    { "title": "Invincible Candy", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/cauwalcg/69.%20Invincible%20Candy.mp3" },
+    { "title": "Sub-Game - Title", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/yrouepnt/72.%20Sub-Game%20-%20Title.mp3" },
+    { "title": "Kirby on the Draw", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/hitutkuq/76.%20Kirby%20on%20the%20Draw.mp3" },
+    { "title": "Snack Tracks", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/wlprpxsu/77.%20Snack%20Tracks.mp3" },
+    { "title": "Snack Tracks (30 Seconds Left)", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/xecbynvp/78.%20Snack%20Tracks%20%2830%20Seconds%20Left%29.mp3" },
+    { "title": "Megaton Punch", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/ipxuftdj/92.%20Megaton%20Punch.mp3" },
+
+    { "title": "The Arena - Title", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/ukpvhyxq/82.%20The%20Arena%20-%20Title.mp3" },
+    { "title": "The Arena", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/ouieamig/83.%20The%20Arena.mp3" },
+    { "title": "Arena Showdown", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/glnfocvw/84.%20Arena%20Showdown.mp3" },
+
+    { "title": "Revenge of the King - Title", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/kmcbaypf/86.%20Revenge%20of%20the%20King%20-%20Title.mp3" },
+    { "title": "Flying Fortress Kabula", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/ehxstqxo/87.%20Flying%20Fortress%20Kabula.mp3" },
+    { "title": "The Masked King", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/dcympoal/88.%20The%20Masked%20King.mp3" },
+    { "title": "The King and the Sun", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/bynthcrz/89.%20The%20King%20and%20the%20Sun.mp3" },
+
+    { "title": "Helper to Hero - Title", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/zxroufuh/90.%20Helper%20to%20Hero%20-%20Title.mp3" },
+    { "title": "Helper to Hero", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/bmgudknj/91.%20Helper%20to%20Hero.mp3" },
+    { "title": "Helper Showdown", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/mhbjpywm/93.%20Helper%20Showdown.mp3" },
+    { "title": "Helper's Rest", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/vtfwpkga/94.%20Helper%27s%20Rest.mp3" },
+    { "title": "Helper to Hero - Victory!", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/jtsjotcg/95.%20Helper%20to%20Hero%20-%20Victory%21.mp3" },
+
+    { "title": "Galacta Knight", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/lcdjlfqq/97.%20Galacta%20Knight.mp3" },
+    { "title": "The Greatest Warrior in the Galaxy", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/hkheapwn/98.%20The%20Greatest%20Warrior%20in%20the%20Galaxy.mp3" },
+
+    { "title": "The True Arena - Title", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/kmdgvlse/100.%20The%20True%20Arena%20-%20Title.mp3" },
+    { "title": "The True Arena", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/vogrowpi/101.%20The%20True%20Arena.mp3" },
+    { "title": "True Arena Showdown", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/vhvkkwdd/102.%20True%20Arena%20Showdown.mp3" },
+    { "title": "The True Arena - Final Four", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/djkxiwhz/103.%20The%20True%20Arena%20-%20Final%20Four.mp3" },
+    { "title": "The Arena - Victory!", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/xkgdvtgb/105.%20The%20Arena%20-%20Victory%21.mp3" },
+    { "title": "Hidden Corkboard", "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-super-star-ultra/nmwwrwhw/106.%20Hidden%20Corkboard.mp3" }
+  ]
+}

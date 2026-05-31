@@ -1,0 +1,373 @@
+{
+  "meta": {
+    "game_title": "Kirby's Epic Yarn",
+    "art": "https://cdn.wikirby.com/0/03/KEY_NA_box_art.png",
+    "desc": "October 17th, 2010"
+  },
+  "songs": [
+    {
+      "title": "Kirby's Epic Yarn",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/wcwaosuy/1-01.%20Kirby%27s%20Epic%20Yarn.mp3"
+    },
+    {
+      "title": "Kirby in Dream Land",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/ispxsvaq/1-02.%20Kirby%20in%20Dream%20Land.mp3"
+    },
+    {
+      "title": "Welcome to Patch Land",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/colppgkj/1-03.%20Welcome%20to%20Patch%20Land.mp3"
+    },
+    {
+      "title": "Patch Castle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/qbikdjnn/1-04.%20Patch%20Castle.mp3"
+    },
+    {
+      "title": "Stage Bonus",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/brevszuz/1-05.%20Stage%20Bonus.mp3"
+    },
+    {
+      "title": "Stage Clear Dance (Short)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/qezitvwu/1-06.%20Stage%20Clear%20Dance%20%5BShort%5D.mp3"
+    },
+    {
+      "title": "Stage Results",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/lvseszvd/1-07.%20Stage%20Results.mp3"
+    },
+    {
+      "title": "Curtain Closing",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/emwzezlf/1-08.%20Curtain%20Closing.mp3"
+    },
+    {
+      "title": "A Close Call",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/uiiotdls/1-09.%20A%20Close%20Call.mp3"
+    },
+    {
+      "title": "Grass Land (Level 1)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/jpzzckvx/1-10.%20Grass%20Land%20%28Level%201%29.mp3"
+    },
+    {
+      "title": "Stage Start",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/bmicnhyw/1-11.%20Stage%20Start.mp3"
+    },
+    {
+      "title": "Fountain Gardens",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/napufsym/1-12.%20Fountain%20Gardens.mp3"
+    },
+    {
+      "title": "Failure",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/qsqcpqjz/1-13.%20Failure.mp3"
+    },
+    {
+      "title": "Stage Door Unlocked",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/stmgvjjs/1-14.%20Stage%20Door%20Unlocked.mp3"
+    },
+    {
+      "title": "Flower Fields",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/onyecwam/1-15.%20Flower%20Fields.mp3"
+    },
+    {
+      "title": "Rainbow Falls ~ Sweets Park",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/lqzaaetf/1-16.%20Rainbow%20Falls%20~%20Sweets%20Park.mp3"
+    },
+    {
+      "title": "Big-Bean Vine",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/tfszuats/1-17.%20Big-Bean%20Vine.mp3"
+    },
+    {
+      "title": "Mole Hole ~ Digger",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/fzeapvlt/1-18.%20Mole%20Hole%20~%20Digger.mp3"
+    },
+    {
+      "title": "Weird Woods",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/jnoehwob/1-19.%20Weird%20Woods.mp3"
+    },
+    {
+      "title": "Boss Door Unlocked",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/rgfhvicl/1-20.%20Boss%20Door%20Unlocked.mp3"
+    },
+    {
+      "title": "VS. Fangora",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/arlbceqq/1-21.%20vs.%20Fangora.mp3"
+    },
+    {
+      "title": "Stage Clear Dance (Long)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/ffmujorr/1-22.%20Stage%20Clear%20Dance%20%5BLong%5D.mp3"
+    },
+    {
+      "title": "Grumble, Grumble...",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/kylmdcdj/1-23.%20Grumble%2C%20Grumble....mp3"
+    },
+    {
+      "title": "Hot Land (Level 2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/jwdcdhbj/1-24.%20Hot%20Land%20%28Level%202%29.mp3"
+    },
+    {
+      "title": "Pyramid Sands",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/tqzzxrqd/1-25.%20Pyramid%20Sands.mp3"
+    },
+    {
+      "title": "Off-Roader ~ Dusk Dunes ~ Frigid Fjords",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/vryqitut/1-26.%20Off-Roader%20~%20Dusk%20Dunes%20~%20Frigid%20Fjords.mp3"
+    },
+    {
+      "title": "Lava Landing ~ Temper Temple",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/jnofklwd/1-27.%20Lava%20Landing%20~%20Temper%20Temple.mp3"
+    },
+    {
+      "title": "Cool Cave",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/zovnaotd/1-28.%20Cool%20Cave.mp3"
+    },
+    {
+      "title": "Dino Jungle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/ihmlwbor/1-29.%20Dino%20Jungle.mp3"
+    },
+    {
+      "title": "VS. Hot Wings",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/pbnidtii/1-30.%20vs.%20Hot%20Wings.mp3"
+    },
+    {
+      "title": "Sinister Designs",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/snnzlgzb/1-31.%20Sinister%20Designs.mp3"
+    },
+    {
+      "title": "Quilty Square",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/jpxsvzkc/2-01.%20Quilty%20Square.mp3"
+    },
+    {
+      "title": "Quilty Court",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/fuknnzjv/2-02.%20Quilty%20Court.mp3"
+    },
+    {
+      "title": "Kirby's Pad ~ Patch Plaza",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/ariqfbtn/2-03.%20Kirby%27s%20Pad%20~%20Patch%20Plaza.mp3"
+    },
+    {
+      "title": "Treat Land (Level 3)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/icmbynry/2-04.%20Treat%20Land%20%28Level%203%29.mp3"
+    },
+    {
+      "title": "Toy Tracks ~ Cocoa Station",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/oaldjkxk/2-05.%20Toy%20Tracks%20~%20Cocoa%20Station.mp3"
+    },
+    {
+      "title": "Mushroom Run",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/fwrsrcom/2-06.%20Mushroom%20Run.mp3"
+    },
+    {
+      "title": "Melody Town Appears",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/schghrou/2-07.%20Melody%20Town%20Appears.mp3"
+    },
+    {
+      "title": "Melody Town",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/hzagfixn/2-08.%20Melody%20Town.mp3"
+    },
+    {
+      "title": "Dark Manor Appears",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/ydvsdokh/2-09.%20Dark%20Manor%20Appears.mp3"
+    },
+    {
+      "title": "Dark Manor",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/gjdppecx/2-10.%20Dark%20Manor.mp3"
+    },
+    {
+      "title": "VS. Squashini",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/ehvjhjwj/2-11.%20vs.%20Squashini.mp3"
+    },
+    {
+      "title": "Bon Appétit!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/fwujkzqf/2-12.%20Bon%20App%C3%A9tit%21.mp3"
+    },
+    {
+      "title": "Water Land (Level 4)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/egrpbjts/2-13.%20Water%20Land%20%28Level%204%29.mp3"
+    },
+    {
+      "title": "Splash Beach (Night)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/gdzkcfwp/2-14.%20Splash%20Beach%20%28Night%29.mp3"
+    },
+    {
+      "title": "Blub-Blub Ocean",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/mnehxtxk/2-15.%20Blub-Blub%20Ocean.mp3"
+    },
+    {
+      "title": "Splash Beach (Day) ~ Secret Island ~ Boom Boatyard",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/hezlhbni/2-16.%20Splash%20Beach%20%28Day%29%20~%20Secret%20Island%20~%20Boom%20Boatyard.mp3"
+    },
+    {
+      "title": "Deep-Dive Deep ~ Fossil Reef",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/agebuvte/2-17.%20Deep-Dive%20Deep%20~%20Fossil%20Reef.mp3"
+    },
+    {
+      "title": "vs. Capamari",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/sbftdlvv/2-18.%20vs.%20Capamari.mp3"
+    },
+    {
+      "title": "King Dedede, Captured!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/syqiuyiv/2-19.%20King%20Dedede%2C%20Captured%21.mp3"
+    },
+    {
+      "title": "Snow Land (Level 5)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/fpfjfaju/2-20.%20Snow%20Land%20%28Level%205%29.mp3"
+    },
+    {
+      "title": "Evergreen Lift Appears",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/xdxcvvqt/2-21.%20Evergreen%20Lift%20Appears.mp3"
+    },
+    {
+      "title": "Snowy Fields ~ Evergreen Lift",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/uqxocvvr/2-22.%20Snowy%20Fields%20~%20Evergreen%20Lift.mp3"
+    },
+    {
+      "title": "Cozy Cabin Appears",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/uasoqowo/2-23.%20Cozy%20Cabin%20Appears.mp3"
+    },
+    {
+      "title": "Cozy Cabin",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/fkikayqh/2-24.%20Cozy%20Cabin.mp3"
+    },
+    {
+      "title": "Mt. Slide Appears",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/nvmzmjlb/2-25.%20Mt.%20Slide%20Appears.mp3"
+    },
+    {
+      "title": "Mt. Slide",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/zvbyllvw/2-26.%20Mt.%20Slide.mp3"
+    },
+    {
+      "title": "Frosty Wheel Appears",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/ukrcnfnx/2-27.%20Frosty%20Wheel%20Appears.mp3"
+    },
+    {
+      "title": "Frosty Wheel",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/alcdjjvb/2-28.%20Frosty%20Wheel.mp3"
+    },
+    {
+      "title": "King Dedede Appears",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/vxzfeelq/2-29.%20King%20Dedede%20Appears.mp3"
+    },
+    {
+      "title": "VS. King Dedede",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/vfpiwjds/2-30.%20vs.%20King%20Dedede.mp3"
+    },
+    {
+      "title": "Ambush on the Halberd",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/betgxtaw/2-31.%20Ambush%20on%20the%20Halberd.mp3"
+    },
+    {
+      "title": "Space Land (Level 6)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/izwnxycp/3-01.%20Space%20Land%20%28Level%206%29.mp3"
+    },
+    {
+      "title": "Future City ~ Mysterious UFO",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/qmmzmjlc/3-02.%20Future%20City%20~%20Mysterious%20UFO.mp3"
+    },
+    {
+      "title": "Tube Town",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/eqpajutm/3-03.%20Tube%20Town.mp3"
+    },
+    {
+      "title": "Stellar Way Appears",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/ccfswhtz/3-04.%20Stellar%20Way%20Appears.mp3"
+    },
+    {
+      "title": "Stellar Way",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/oybkwbut/3-05.%20Stellar%20Way.mp3"
+    },
+    {
+      "title": "Tankbot ~ Moon Base",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/hhnrxlme/3-06.%20Tankbot%20~%20Moon%20Base.mp3"
+    },
+    {
+      "title": "Outer Rings ~ Rocket",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/idqubwgr/3-07.%20Outer%20Rings%20~%20Rocket.mp3"
+    },
+    {
+      "title": "vs. Meta Knight",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/qewyzdth/3-08.%20vs.%20Meta%20Knight.mp3"
+    },
+    {
+      "title": "The Magic Yarn",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/feibinmy/3-09.%20The%20Magic%20Yarn.mp3"
+    },
+    {
+      "title": "The Magic Yarn Acquired!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/edeltikb/3-10.%20The%20Magic%20Yarn%20Acquired%21.mp3"
+    },
+    {
+      "title": "Stitching Patch Land Together",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/bbcjnogo/3-11.%20Stitching%20Patch%20Land%20Together.mp3"
+    },
+    {
+      "title": "Back to Dream Land",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/cshgmsax/3-12.%20Back%20to%20Dream%20Land.mp3"
+    },
+    {
+      "title": "Dream Land (Level 7)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/pdyivczs/3-13.%20Dream%20Land%20%28Level%207%29%20%5B%22Ripple%20Star%20-%20Stage%20Select%22%20from%20Kirby%2064%20-%20The%20Crystal%20Shards%5D.mp3"
+    },
+    {
+      "title": "Whispy's Woods",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/pucgxvie/3-14.%20Whispy%27s%20Woods%20%5B%22Green%20Greens%22%20from%20Kirby%27s%20Dream%20Land%5D.mp3"
+    },
+    {
+      "title": "Tempest Towers",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/vqtwbrey/3-15.%20Tempest%20Towers%20%5B%22Butter%20Building%22%20from%20Kirby%27s%20Adventure%5D.mp3"
+    },
+    {
+      "title": "Cloud Palace",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/ctlzoukn/3-16.%20Cloud%20Palace%20%5B%22Bubbly%20Clouds%22%20from%20Kirby%27s%20Dream%20Land%5D.mp3"
+    },
+    {
+      "title": "VS. Kracko",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/jkuwvpln/3-17.%20vs.%20Kracko.mp3"
+    },
+    {
+      "title": "Castle Dedede",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/dgtbztwz/3-18.%20Castle%20Dedede%20%5B%22Gourmet%20Race%22%20from%20Kirby%20Super%20Star%5D.mp3"
+    },
+    {
+      "title": "Meta Melon Isle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/jxjesbfx/3-19.%20Meta%20Melon%20Isle%20%5B%22Ice%20Cream%20Island%22%20from%20Kirby%27s%20Adventure%5D.mp3"
+    },
+    {
+      "title": "Battleship Halberd",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/wrrlcdjk/3-20.%20Battleship%20Halberd%20%5B%22Boarding%20the%20Halberd%22%20from%20Kirby%20Super%20Star%5D.mp3"
+    },
+    {
+      "title": "Yin-Yarn Appears",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/awfocury/3-21.%20Yin-Yarn%20Appears.mp3"
+    },
+    {
+      "title": "Darkness Over Dream Land ~ Yin-Yarn Transforms",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/txgmsclv/3-22.%20Darkness%20Over%20Dream%20Land%20~%20Yin-Yarn%20Transforms.mp3"
+    },
+    {
+      "title": "VS. Yin-Yarn 1",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/wxwplmyi/3-23.%20vs.%20Yin-Yarn%201.mp3"
+    },
+    {
+      "title": "Stage Cleared...",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/vflsesaz/3-24.%20Stage%20Cleared....mp3"
+    },
+    {
+      "title": "VS. Yin-Yarn 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/ucbcfwrs/3-25.%20vs.%20Yin-Yarn%202.mp3"
+    },
+    {
+      "title": "Until Then!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/qywmvtgz/3-26.%20Until%20Then%21.mp3"
+    },
+    {
+      "title": "Staff Roll",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/cqudgywo/3-27.%20Staff%20Roll.mp3"
+    },
+    {
+      "title": "Ending",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/gnvpmqqk/3-28.%20Ending.mp3"
+    },
+    {
+      "title": "Thank You!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-s-epic-yarn/bchebrfb/3-29.%20Thank%20You%21.mp3"
+    }
+  ]
+}

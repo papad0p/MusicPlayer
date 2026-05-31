@@ -1,0 +1,1609 @@
+{
+  "meta": {
+    "game_title": "Mario Kart World",
+    "art": "https://www.mariowiki.com/images/7/75/Mario_Kart_World_Box_NA.png?c8c52",
+    "desc": "June 5th, 2025"
+  },
+  "songs": [
+    {
+      "title": "Main Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/jvxirbtbgk/1-01.%20Main%20Theme.mp3"
+    },
+    {
+      "title": "Mushroom Cup Intro",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/bievxsetxc/1-02.%20Mushroom%20Cup%20Intro.mp3"
+    },
+    {
+      "title": "Mario Bros. Circuit (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/lshddandwo/1-03.%20Mario%20Bros.%20Circuit%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Crown City (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/iufmfwctdc/1-04.%20Crown%20City%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Whistlestop Summit (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/zlygnkphqs/1-05.%20Whistlestop%20Summit%20%28Medley%29.mp3"
+    },
+    {
+      "title": "DK Spaceport (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/cdolzfmuzo/1-06.%20DK%20Spaceport%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Flower Cup Intro",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/epqekzcatv/1-07.%20Flower%20Cup%20Intro.mp3"
+    },
+    {
+      "title": "Desert Hills [Mario Kart DS] (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/nsgpfvnebe/1-08.%20Desert%20Hills%20%5BMario%20Kart%20DS%5D%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Shy Guy Bazaar [Mario Kart 7] (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/qaywjeziju/1-09.%20Shy%20Guy%20Bazaar%20%5BMario%20Kart%207%5D%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Wario Stadium [Mario Kart 64] (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/yuopbnbqmw/1-10.%20Wario%20Stadium%20%5BMario%20Kart%2064%5D%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Airship Fortress [Mario Kart DS] (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/zludtcyslz/1-11.%20Airship%20Fortress%20%5BMario%20Kart%20DS%5D%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Star Cup Intro",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/mctupiolwk/1-12.%20Star%20Cup%20Intro.mp3"
+    },
+    {
+      "title": "DK Pass [Mario Kart DS] (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/gsikvwfsfl/1-13.%20DK%20Pass%20%5BMario%20Kart%20DS%5D%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Starview Peak (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/qugkauegnm/1-14.%20Starview%20Peak%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Sky-High Sundae [Mario Kart 8 Deluxe] (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ixxbfabine/1-15.%20Sky-High%20Sundae%20%5BMario%20Kart%208%20Deluxe%5D%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Wario Shipyard [Mario Kart 7] (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/dkzthodkun/1-16.%20Wario%20Shipyard%20%5BMario%20Kart%207%5D%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Shell Cup Intro",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/cvdntfejxk/1-17.%20Shell%20Cup%20Intro.mp3"
+    },
+    {
+      "title": "Koopa Troopa Beach [Super Mario Kart] (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/yzuwothdbe/1-18.%20Koopa%20Troopa%20Beach%20%5BSuper%20Mario%20Kart%5D%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Faraway Oasis (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ervuxyxeyq/1-19.%20Faraway%20Oasis%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Peach Stadium (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/aorzpjpxcg/1-20.%20Peach%20Stadium%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Banana Cup Intro",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/recshqolpc/1-21.%20Banana%20Cup%20Intro.mp3"
+    },
+    {
+      "title": "Peach Beach [Mario Kart Double Dash!!] (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/suwwrjnlnm/1-22.%20Peach%20Beach%20%5BMario%20Kart%20Double%20Dash%21%21%5D%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Salty Salty Speedway (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/bgxglwrtzd/1-23.%20Salty%20Salty%20Speedway%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Dino Dino Jungle [Mario Kart Double Dash!!] (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/argnvfhvmf/1-24.%20Dino%20Dino%20Jungle%20%5BMario%20Kart%20Double%20Dash%21%21%5D%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Great ? Block Ruins (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/mvuqpqaysy/1-25.%20Great%20%3F%20Block%20Ruins%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Leaf Cup Intro",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ohvrhogmzq/1-26.%20Leaf%20Cup%20Intro.mp3"
+    },
+    {
+      "title": "Cheep Cheep Falls (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/mlxoqcipap/1-27.%20Cheep%20Cheep%20Falls%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Dandelion Depths (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/gxcacvjbqx/1-28.%20Dandelion%20Depths%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Boo Cinema (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/hmsmkgzqer/1-29.%20Boo%20Cinema%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Dry Bones Burnout (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/fqtcoqaiqq/1-30.%20Dry%20Bones%20Burnout%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Lightning Cup Intro",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/uzuptjejyl/1-31.%20Lightning%20Cup%20Intro.mp3"
+    },
+    {
+      "title": "Moo Moo Meadows [Mario Kart Wii] (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/plywqtpoph/1-32.%20Moo%20Moo%20Meadows%20%5BMario%20Kart%20Wii%5D%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Choco Mountain [Mario Kart 64] (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/efyztnfzux/1-33.%20Choco%20Mountain%20%5BMario%20Kart%2064%5D%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Toad's Factory [Mario Kart Wii] (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/fszollvapo/1-34.%20Toad%27s%20Factory%20%5BMario%20Kart%20Wii%5D%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Bowser's Castle (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/xlwodjaqyw/1-35.%20Bowser%27s%20Castle%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Special Cup Intro",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/pzwusrhqkm/1-36.%20Special%20Cup%20Intro.mp3"
+    },
+    {
+      "title": "Acorn Heights (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/krgehgpmzm/1-37.%20Acorn%20Heights%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Mario Circuit [Super Mario Kart] (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/yrbwjullgu/1-38.%20Mario%20Circuit%20%5BSuper%20Mario%20Kart%5D%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Rainbow Road (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/qlxonscygd/1-39.%20Rainbow%20Road%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Battle Course [Super Mario Kart]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/wecwewbbxb/1-40.%20Battle%20Course%20%5BSuper%20Mario%20Kart%5D.mp3"
+    },
+    {
+      "title": "Chain Chomp Wheel [Mario Kart Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/pwylikblpo/1-41.%20Chain%20Chomp%20Wheel%20%5BMario%20Kart%20Wii%5D.mp3"
+    },
+    {
+      "title": "Battle Stadium [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/plbafytoet/1-42.%20Battle%20Stadium%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Delfino Pier [Mario Kart Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/wphodpkjii/1-43.%20Delfino%20Pier%20%5BMario%20Kart%20Wii%5D.mp3"
+    },
+    {
+      "title": "Thwomp Desert [Mario Kart Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/cjpnjdbiuh/1-44.%20Thwomp%20Desert%20%5BMario%20Kart%20Wii%5D.mp3"
+    },
+    {
+      "title": "Battle Course [Mario Kart Double Dash!!]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/jweuijeekg/1-45.%20Battle%20Course%20%5BMario%20Kart%20Double%20Dash%21%21%5D.mp3"
+    },
+    {
+      "title": "Battle Course [Mario Kart 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/sepdwnkxfs/1-46.%20Battle%20Course%20%5BMario%20Kart%2064%5D.mp3"
+    },
+    {
+      "title": "Battle Course [Mario Kart DS]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/zvgqoxqmhb/1-47.%20Battle%20Course%20%5BMario%20Kart%20DS%5D.mp3"
+    },
+    {
+      "title": "Knockout Tour - Rally Intro",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/okyedmsagf/1-48.%20Knockout%20Tour%20-%20Rally%20Intro.mp3"
+    },
+    {
+      "title": "Replay Mode (Knockout Tour)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/rcxikuyfye/1-49.%20Replay%20Mode%20%28Knockout%20Tour%29.mp3"
+    },
+    {
+      "title": "Standard Cup - Ending",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/pvwkumuakr/1-50.%20Standard%20Cup%20-%20Ending.mp3"
+    },
+    {
+      "title": "Special Cup - Ending",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/tjuzqfseiz/1-51.%20Special%20Cup%20-%20Ending.mp3"
+    },
+    {
+      "title": "Results (Win)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/xnewgorhng/1-52.%20Results%20%28Win%29.mp3"
+    },
+    {
+      "title": "Results (Good)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/nctobqtxpu/1-53.%20Results%20%28Good%29.mp3"
+    },
+    {
+      "title": "Results (11th - 18th)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/xbcqomtwrb/1-54.%20Results%20%2811th%20-%2018th%29.mp3"
+    },
+    {
+      "title": "Results (Bad)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/fqcddzbwaa/1-55.%20Results%20%28Bad%29.mp3"
+    },
+    {
+      "title": "Results (Rainbow Road)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/yojkxxerje/1-56.%20Results%20%28Rainbow%20Road%29.mp3"
+    },
+    {
+      "title": "End Results",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/hixshwtzjg/1-57.%20End%20Results.mp3"
+    },
+    {
+      "title": "Track Selection (VS. Mode)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/rjcqlkhuhh/1-58.%20Track%20Selection%20%28VS.%20Mode%29.mp3"
+    },
+    {
+      "title": "Staff Credits",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ftzjgkluap/1-59.%20Staff%20Credits.mp3"
+    },
+    {
+      "title": "Super Star",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/qfixnzjfuy/1-60.%20Super%20Star.mp3"
+    },
+    {
+      "title": "Online Spectator",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/lnoluoxhsk/1-61.%20Online%20Spectator.mp3"
+    },
+    {
+      "title": "Title Screen (Fusion Ver.) [Super Mario Kart]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/tfdjosiyso/2-001.%20Title%20Screen%20%28Fusion%20Ver.%29%20%5BSuper%20Mario%20Kart%5D.mp3"
+    },
+    {
+      "title": "Title Screen (Latin Jazz Ver.) [Super Mario Kart]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/vtzgwkkper/2-002.%20Title%20Screen%20%28Latin%20Jazz%20Ver.%29%20%5BSuper%20Mario%20Kart%5D.mp3"
+    },
+    {
+      "title": "Donut Plains [Super Mario Kart]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/hileajwmie/2-003.%20Donut%20Plains%20%5BSuper%20Mario%20Kart%5D.mp3"
+    },
+    {
+      "title": "Ghost Valley [Super Mario Kart]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/soqrwazqvl/2-004.%20Ghost%20Valley%20%5BSuper%20Mario%20Kart%5D.mp3"
+    },
+    {
+      "title": "Bowser Castle [Super Mario Kart]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/pjkqnedirm/2-005.%20Bowser%20Castle%20%5BSuper%20Mario%20Kart%5D.mp3"
+    },
+    {
+      "title": "Choco Island (Samba Ver.) [Super Mario Kart]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/otcucmktkw/2-006.%20Choco%20Island%20%28Samba%20Ver.%29%20%5BSuper%20Mario%20Kart%5D.mp3"
+    },
+    {
+      "title": "Choco Island (Bossa Nova Ver.) [Super Mario Kart]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/pnpoybhxxc/2-007.%20Choco%20Island%20%28Bossa%20Nova%20Ver.%29%20%5BSuper%20Mario%20Kart%5D.mp3"
+    },
+    {
+      "title": "Koopa Beach [Super Mario Kart]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/dtzoibdljc/2-008.%20Koopa%20Beach%20%5BSuper%20Mario%20Kart%5D.mp3"
+    },
+    {
+      "title": "Vanilla Lake [Super Mario Kart]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/qfrdqtcoxj/2-009.%20Vanilla%20Lake%20%5BSuper%20Mario%20Kart%5D.mp3"
+    },
+    {
+      "title": "Rainbow Road [Super Mario Kart]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/yxtutwfatj/2-010.%20Rainbow%20Road%20%5BSuper%20Mario%20Kart%5D.mp3"
+    },
+    {
+      "title": "Staff Credits [Super Mario Kart]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/twkyeslqad/2-011.%20Staff%20Credits%20%5BSuper%20Mario%20Kart%5D.mp3"
+    },
+    {
+      "title": "Title Screen [Mario Kart 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/tjtrhvzviu/2-012.%20Title%20Screen%20%5BMario%20Kart%2064%5D.mp3"
+    },
+    {
+      "title": "Character Select [Mario Kart 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/qyqpwefxxf/2-013.%20Character%20Select%20%5BMario%20Kart%2064%5D.mp3"
+    },
+    {
+      "title": "Moo Moo Farm [Mario Kart 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/notqgxjwqu/2-014.%20Moo%20Moo%20Farm%20%5BMario%20Kart%2064%5D.mp3"
+    },
+    {
+      "title": "Koopa Troopa Beach (Rock Ver.) [Mario Kart 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/iyrvyhpjoo/2-015.%20Koopa%20Troopa%20Beach%20%28Rock%20Ver.%29%20%5BMario%20Kart%2064%5D.mp3"
+    },
+    {
+      "title": "Koopa Troopa Beach (Electro Ver.) [Mario Kart 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/fptwjvuenn/2-016.%20Koopa%20Troopa%20Beach%20%28Electro%20Ver.%29%20%5BMario%20Kart%2064%5D.mp3"
+    },
+    {
+      "title": "Kalimari Desert [Mario Kart 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/sjaioalhtt/2-017.%20Kalimari%20Desert%20%5BMario%20Kart%2064%5D.mp3"
+    },
+    {
+      "title": "Toad's Turnpike [Mario Kart 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/urjckxuffb/2-018.%20Toad%27s%20Turnpike%20%5BMario%20Kart%2064%5D.mp3"
+    },
+    {
+      "title": "Frappe Snowland (Jazz Fusion Ver.) [Mario Kart 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/sdlvhmrtis/2-019.%20Frappe%20Snowland%20%28Jazz%20Fusion%20Ver.%29%20%5BMario%20Kart%2064%5D.mp3"
+    },
+    {
+      "title": "Frappe Snowland (Soul Ver.) [Mario Kart 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/rcpvjtpyiy/2-020.%20Frappe%20Snowland%20%28Soul%20Ver.%29%20%5BMario%20Kart%2064%5D.mp3"
+    },
+    {
+      "title": "DK's Jungle Parkway [Mario Kart 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/trppviuqye/2-021.%20DK%27s%20Jungle%20Parkway%20%5BMario%20Kart%2064%5D.mp3"
+    },
+    {
+      "title": "Rainbow Road [Mario Kart 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/bfabiuzvwo/2-022.%20Rainbow%20Road%20%5BMario%20Kart%2064%5D.mp3"
+    },
+    {
+      "title": "Results Screen [Mario Kart 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/humlkaexiz/2-023.%20Results%20Screen%20%5BMario%20Kart%2064%5D.mp3"
+    },
+    {
+      "title": "Peach Circuit [Mario Kart Super Circuit]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/vcazeluiwf/2-024.%20Peach%20Circuit%20%5BMario%20Kart%20Super%20Circuit%5D.mp3"
+    },
+    {
+      "title": "Shy Guy Beach [Mario Kart Super Circuit]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/rbmefcxsvg/2-025.%20Shy%20Guy%20Beach%20%5BMario%20Kart%20Super%20Circuit%5D.mp3"
+    },
+    {
+      "title": "Riverside Park [Mario Kart Super Circuit]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/tvdcerwmpd/2-026.%20Riverside%20Park%20%5BMario%20Kart%20Super%20Circuit%5D.mp3"
+    },
+    {
+      "title": "Bowser Castle [Mario Kart Super Circuit]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/mlqrjppuyl/2-027.%20Bowser%20Castle%20%5BMario%20Kart%20Super%20Circuit%5D.mp3"
+    },
+    {
+      "title": "Cheese Land [Mario Kart Super Circuit]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/opclwbwrxv/2-028.%20Cheese%20Land%20%5BMario%20Kart%20Super%20Circuit%5D.mp3"
+    },
+    {
+      "title": "Ribbon Road [Mario Kart Super Circuit]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/xlahmhmmfn/2-029.%20Ribbon%20Road%20%5BMario%20Kart%20Super%20Circuit%5D.mp3"
+    },
+    {
+      "title": "Yoshi Desert [Mario Kart Super Circuit]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/abuekxwvtt/2-030.%20Yoshi%20Desert%20%5BMario%20Kart%20Super%20Circuit%5D.mp3"
+    },
+    {
+      "title": "Rainbow Road [Mario Kart Super Circuit]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/pwsrnidnli/2-031.%20Rainbow%20Road%20%5BMario%20Kart%20Super%20Circuit%5D.mp3"
+    },
+    {
+      "title": "Luigi Circuit [Mario Kart Double Dash!!]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/kefjbkgnit/2-032.%20Luigi%20Circuit%20%5BMario%20Kart%20Double%20Dash%21%21%5D.mp3"
+    },
+    {
+      "title": "Baby Park [Mario Kart Double Dash!!]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/sgjrptvakh/2-033.%20Baby%20Park%20%5BMario%20Kart%20Double%20Dash%21%21%5D.mp3"
+    },
+    {
+      "title": "Dry Dry Desert [Mario Kart Double Dash!!]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/umfombntry/2-034.%20Dry%20Dry%20Desert%20%5BMario%20Kart%20Double%20Dash%21%21%5D.mp3"
+    },
+    {
+      "title": "Mushroom Bridge [Mario Kart Double Dash!!]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/grlqvacekf/2-035.%20Mushroom%20Bridge%20%5BMario%20Kart%20Double%20Dash%21%21%5D.mp3"
+    },
+    {
+      "title": "Sherbet Land [Mario Kart Double Dash!!]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ygpxarlucc/2-036.%20Sherbet%20Land%20%5BMario%20Kart%20Double%20Dash%21%21%5D.mp3"
+    },
+    {
+      "title": "Bowser's Castle [Mario Kart Double Dash!!]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/dasfgpityn/2-037.%20Bowser%27s%20Castle%20%5BMario%20Kart%20Double%20Dash%21%21%5D.mp3"
+    },
+    {
+      "title": "Rainbow Road [Mario Kart Double Dash!!]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/anjuseaibi/2-038.%20Rainbow%20Road%20%5BMario%20Kart%20Double%20Dash%21%21%5D.mp3"
+    },
+    {
+      "title": "Staff Credits [Mario Kart Double Dash!!]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ybsjkdoump/2-039.%20Staff%20Credits%20%5BMario%20Kart%20Double%20Dash%21%21%5D.mp3"
+    },
+    {
+      "title": "Figure-8 Circuit [Mario Kart DS]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/euvmfxasoj/2-040.%20Figure-8%20Circuit%20%5BMario%20Kart%20DS%5D.mp3"
+    },
+    {
+      "title": "Yoshi Falls [Mario Kart DS]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/rcrsenkcms/2-041.%20Yoshi%20Falls%20%5BMario%20Kart%20DS%5D.mp3"
+    },
+    {
+      "title": "Cheep Cheep Beach [Mario Kart DS]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/dwpqxvwynt/2-042.%20Cheep%20Cheep%20Beach%20%5BMario%20Kart%20DS%5D.mp3"
+    },
+    {
+      "title": "Luigi's Mansion [Mario Kart DS]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ntwalzplma/2-043.%20Luigi%27s%20Mansion%20%5BMario%20Kart%20DS%5D.mp3"
+    },
+    {
+      "title": "Delfino Square [Mario Kart DS]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/leattfkjov/2-044.%20Delfino%20Square%20%5BMario%20Kart%20DS%5D.mp3"
+    },
+    {
+      "title": "Waluigi Pinball (Rock Ver.) [Mario Kart DS]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/tfacxtutbq/2-045.%20Waluigi%20Pinball%20%28Rock%20Ver.%29%20%5BMario%20Kart%20DS%5D.mp3"
+    },
+    {
+      "title": "Waluigi Pinball (Funk Ver.) [Mario Kart DS]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/nvakjzgshv/2-046.%20Waluigi%20Pinball%20%28Funk%20Ver.%29%20%5BMario%20Kart%20DS%5D.mp3"
+    },
+    {
+      "title": "Shroom Ridge [Mario Kart DS]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/lnfqitsgvz/2-047.%20Shroom%20Ridge%20%5BMario%20Kart%20DS%5D.mp3"
+    },
+    {
+      "title": "Tick-Tock Clock [Mario Kart DS]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/uadgopslnw/2-048.%20Tick-Tock%20Clock%20%5BMario%20Kart%20DS%5D.mp3"
+    },
+    {
+      "title": "Peach Gardens [Mario Kart DS]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/aryslxqpyv/2-049.%20Peach%20Gardens%20%5BMario%20Kart%20DS%5D.mp3"
+    },
+    {
+      "title": "Rainbow Road [Mario Kart DS]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/bpcyvpyjdn/2-050.%20Rainbow%20Road%20%5BMario%20Kart%20DS%5D.mp3"
+    },
+    {
+      "title": "Staff Credits [Mario Kart DS]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/fyajlarezh/2-051.%20Staff%20Credits%20%5BMario%20Kart%20DS%5D.mp3"
+    },
+    {
+      "title": "Luigi Circuit [Mario Kart Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/tkqxiwoinw/2-052.%20Luigi%20Circuit%20%5BMario%20Kart%20Wii%5D.mp3"
+    },
+    {
+      "title": "Mushroom Gorge [Mario Kart Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/qnffhhdrlr/2-053.%20Mushroom%20Gorge%20%5BMario%20Kart%20Wii%5D.mp3"
+    },
+    {
+      "title": "Coconut Mall [Mario Kart Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ncoeapcpkk/2-054.%20Coconut%20Mall%20%5BMario%20Kart%20Wii%5D.mp3"
+    },
+    {
+      "title": "DK Summit [Mario Kart Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/otmnmsgztb/2-055.%20DK%20Summit%20%5BMario%20Kart%20Wii%5D.mp3"
+    },
+    {
+      "title": "Wario's Gold Mine [Mario Kart Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ztraxmcpjz/2-056.%20Wario%27s%20Gold%20Mine%20%5BMario%20Kart%20Wii%5D.mp3"
+    },
+    {
+      "title": "Daisy Circuit (Acoustic Ver.) [Mario Kart Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/kddrqokmhn/2-057.%20Daisy%20Circuit%20%28Acoustic%20Ver.%29%20%5BMario%20Kart%20Wii%5D.mp3"
+    },
+    {
+      "title": "Daisy Circuit (Electro Ver.) [Mario Kart Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/yozenpixgd/2-058.%20Daisy%20Circuit%20%28Electro%20Ver.%29%20%5BMario%20Kart%20Wii%5D.mp3"
+    },
+    {
+      "title": "Maple Treeway [Mario Kart Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/kghbomktin/2-059.%20Maple%20Treeway%20%5BMario%20Kart%20Wii%5D.mp3"
+    },
+    {
+      "title": "Grumble Volcano [Mario Kart Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/frvyfyrwig/2-060.%20Grumble%20Volcano%20%5BMario%20Kart%20Wii%5D.mp3"
+    },
+    {
+      "title": "Dry Dry Ruins [Mario Kart Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/atjxuvtvfh/2-061.%20Dry%20Dry%20Ruins%20%5BMario%20Kart%20Wii%5D.mp3"
+    },
+    {
+      "title": "Moonview Highway [Mario Kart Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ltnybotkwd/2-062.%20Moonview%20Highway%20%5BMario%20Kart%20Wii%5D.mp3"
+    },
+    {
+      "title": "Rainbow Road [Mario Kart Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/fvwtonduqp/2-063.%20Rainbow%20Road%20%5BMario%20Kart%20Wii%5D.mp3"
+    },
+    {
+      "title": "Staff Credits A [Mario Kart Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/alrxnpwzjd/2-064.%20Staff%20Credits%20A%20%5BMario%20Kart%20Wii%5D.mp3"
+    },
+    {
+      "title": "Toad Circuit [Mario Kart 7]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/qvigfpvppa/2-065.%20Toad%20Circuit%20%5BMario%20Kart%207%5D.mp3"
+    },
+    {
+      "title": "Daisy Hills [Mario Kart 7]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/fvrakrtnwv/2-066.%20Daisy%20Hills%20%5BMario%20Kart%207%5D.mp3"
+    },
+    {
+      "title": "Music Park [Mario Kart 7]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/wwaqinmjrj/2-067.%20Music%20Park%20%5BMario%20Kart%207%5D.mp3"
+    },
+    {
+      "title": "Rock Rock Mountain [Mario Kart 7]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/otgvsslpqa/2-068.%20Rock%20Rock%20Mountain%20%5BMario%20Kart%207%5D.mp3"
+    },
+    {
+      "title": "Piranha Plant Slide [Mario Kart 7]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/gfoiluszat/2-069.%20Piranha%20Plant%20Slide%20%5BMario%20Kart%207%5D.mp3"
+    },
+    {
+      "title": "DK Jungle [Mario Kart 7]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/vnbxzkhgrg/2-070.%20DK%20Jungle%20%5BMario%20Kart%207%5D.mp3"
+    },
+    {
+      "title": "Rosalina's Ice World [Mario Kart 7]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/crzryfuyia/2-071.%20Rosalina%27s%20Ice%20World%20%5BMario%20Kart%207%5D.mp3"
+    },
+    {
+      "title": "Rainbow Road [Mario Kart 7]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/pmpuhbjdpg/2-072.%20Rainbow%20Road%20%5BMario%20Kart%207%5D.mp3"
+    },
+    {
+      "title": "Staff Credits [Mario Kart 7]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/dsxhifxcnu/2-073.%20Staff%20Credits%20%5BMario%20Kart%207%5D.mp3"
+    },
+    {
+      "title": "Mario Kart 8 (Jazz Fusion Ver. 1) [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/hvmsfqknew/2-074.%20Mario%20Kart%208%20%28Jazz%20Fusion%20Ver.%201%29%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Mario Kart 8 (Jazz Fusion Ver. 2) [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/zqnijrvofs/2-075.%20Mario%20Kart%208%20%28Jazz%20Fusion%20Ver.%202%29%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Water Park [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/yzxawhzsel/2-076.%20Water%20Park%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Sweet Sweet Canyon (Electro Ver.) [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/noipeqoanl/2-077.%20Sweet%20Sweet%20Canyon%20%28Electro%20Ver.%29%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Sweet Sweet Canyon (Jazz Ver.) [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/fbrdbtnmbw/2-078.%20Sweet%20Sweet%20Canyon%20%28Jazz%20Ver.%29%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Thwomp Ruins [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/lwvziymjih/2-079.%20Thwomp%20Ruins%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Mario Circuit [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/henrisfzyw/2-080.%20Mario%20Circuit%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Toad Harbor (Rock Ver.) [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/swiczudrjb/2-081.%20Toad%20Harbor%20%28Rock%20Ver.%29%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Toad Harbor (Electro Ver.) [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ujzhvipwbp/2-082.%20Toad%20Harbor%20%28Electro%20Ver.%29%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Twisted Mansion [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ncekjzqijg/2-083.%20Twisted%20Mansion%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Shy Guy Falls [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/iytnssbrdk/2-084.%20Shy%20Guy%20Falls%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Sunshine Airport (Lounge Pop Ver.) [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/oheaoauios/2-085.%20Sunshine%20Airport%20%28Lounge%20Pop%20Ver.%29%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Sunshine Airport (Electro Ver.) [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/zvpjbkxvjj/2-086.%20Sunshine%20Airport%20%28Electro%20Ver.%29%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Dolphin Shoals (Jazz Fusion Ver.) [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/qthumihobe/2-087.%20Dolphin%20Shoals%20%28Jazz%20Fusion%20Ver.%29%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Dolphin Shoals (Electro Ver.) [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/utcbnbowwu/2-088.%20Dolphin%20Shoals%20%28Electro%20Ver.%29%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Electrodrome [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/anrohupcmx/2-089.%20Electrodrome%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Mount Wario [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/hyikqcdgfd/2-090.%20Mount%20Wario%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Cloudtop Cruise [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/dbmexqfmpo/2-091.%20Cloudtop%20Cruise%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Bone-Dry Dunes [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/edblnsedpf/2-092.%20Bone-Dry%20Dunes%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Bowser's Castle [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/vezbrsyexy/2-093.%20Bowser%27s%20Castle%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Rainbow Road [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/wayftvmxrv/2-094.%20Rainbow%20Road%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Dragon Driftway [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/kblgdbcgtc/2-095.%20Dragon%20Driftway%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Ice Ice Outpost [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/hepteiwiqk/2-096.%20Ice%20Ice%20Outpost%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Wild Woods [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ykpeoqycxx/2-097.%20Wild%20Woods%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Super Bell Subway [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/xsipvjdenq/2-098.%20Super%20Bell%20Subway%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Tokyo Blur [Mario Kart Tour]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/wgnblcxmjc/2-099.%20Tokyo%20Blur%20%5BMario%20Kart%20Tour%5D.mp3"
+    },
+    {
+      "title": "Vancouver Velocity [Mario Kart Tour]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/rjymobnzbn/2-100.%20Vancouver%20Velocity%20%5BMario%20Kart%20Tour%5D.mp3"
+    },
+    {
+      "title": "Los Angeles Laps [Mario Kart Tour]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/iwhtzwgggj/2-101.%20Los%20Angeles%20Laps%20%5BMario%20Kart%20Tour%5D.mp3"
+    },
+    {
+      "title": "Merry Mountain [Mario Kart Tour]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/cmgwugknsh/2-102.%20Merry%20Mountain%20%5BMario%20Kart%20Tour%5D.mp3"
+    },
+    {
+      "title": "Ninja Hideaway [Mario Kart Tour]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/mxbrgzxgdp/2-103.%20Ninja%20Hideaway%20%5BMario%20Kart%20Tour%5D.mp3"
+    },
+    {
+      "title": "Singapore Speedway [Mario Kart Tour]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/sriwctdtdc/2-104.%20Singapore%20Speedway%20%5BMario%20Kart%20Tour%5D.mp3"
+    },
+    {
+      "title": "Bangkok Rush [Mario Kart Tour]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/plowxwttmy/2-105.%20Bangkok%20Rush%20%5BMario%20Kart%20Tour%5D.mp3"
+    },
+    {
+      "title": "Piranha Plant Pipeline [Mario Kart Tour]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/jkylppylil/2-106.%20Piranha%20Plant%20Pipeline%20%5BMario%20Kart%20Tour%5D.mp3"
+    },
+    {
+      "title": "Squeaky Clean Sprint [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/fmeikfcnzx/2-107.%20Squeaky%20Clean%20Sprint%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Title Screen [Mario Kart Live Home Circuit]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/tpsarubldu/2-108.%20Title%20Screen%20%5BMario%20Kart%20Live%20Home%20Circuit%5D.mp3"
+    },
+    {
+      "title": "Ground BGM (Latin Ver.) [Super Mario Bros.]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/qjjhsmllyj/3-001.%20Ground%20BGM%20%28Latin%20Ver.%29%20%5BSuper%20Mario%20Bros.%5D.mp3"
+    },
+    {
+      "title": "Ground BGM (Acoustic Ver.) [Super Mario Bros.]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/wlvhzwipch/3-002.%20Ground%20BGM%20%28Acoustic%20Ver.%29%20%5BSuper%20Mario%20Bros.%5D.mp3"
+    },
+    {
+      "title": "Underground BGM (Jazz Fusion Ver.) [Super Mario Bros.]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/mkzvfwnovd/3-003.%20Underground%20BGM%20%28Jazz%20Fusion%20Ver.%29%20%5BSuper%20Mario%20Bros.%5D.mp3"
+    },
+    {
+      "title": "Underground BGM (Acoustic Ver.) [Super Mario Bros.]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/svtogelkya/3-004.%20Underground%20BGM%20%28Acoustic%20Ver.%29%20%5BSuper%20Mario%20Bros.%5D.mp3"
+    },
+    {
+      "title": "Underwater BGM [Super Mario Bros.]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/qutfwxaels/3-005.%20Underwater%20BGM%20%5BSuper%20Mario%20Bros.%5D.mp3"
+    },
+    {
+      "title": "Please Select Player [Super Mario Bros. 2]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ifehzgczhe/3-006.%20Please%20Select%20Player%20%5BSuper%20Mario%20Bros.%202%5D.mp3"
+    },
+    {
+      "title": "Ground BGM [Super Mario Bros. 2]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/vcdaviqfhm/3-007.%20Ground%20BGM%20%5BSuper%20Mario%20Bros.%202%5D.mp3"
+    },
+    {
+      "title": "Underground BGM [Super Mario Bros. 2]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/hxqugszlgh/3-008.%20Underground%20BGM%20%5BSuper%20Mario%20Bros.%202%5D.mp3"
+    },
+    {
+      "title": "Overworld Medley [Super Mario Bros. 3]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/kmhguxbcbf/3-009.%20Overworld%20Medley%20%5BSuper%20Mario%20Bros.%203%5D.mp3"
+    },
+    {
+      "title": "Ground BGM [Super Mario Bros. 3]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ortlfixbjm/3-010.%20Ground%20BGM%20%5BSuper%20Mario%20Bros.%203%5D.mp3"
+    },
+    {
+      "title": "Athletic BGM [Super Mario Bros. 3]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/xrfhhmrhsd/3-011.%20Athletic%20BGM%20%5BSuper%20Mario%20Bros.%203%5D.mp3"
+    },
+    {
+      "title": "Underwater BGM [Super Mario Bros. 3]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/betquvwenn/3-012.%20Underwater%20BGM%20%5BSuper%20Mario%20Bros.%203%5D.mp3"
+    },
+    {
+      "title": "Fortress Boss BGM [Super Mario Bros. 3]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/eyqsiawyot/3-013.%20Fortress%20Boss%20BGM%20%5BSuper%20Mario%20Bros.%203%5D.mp3"
+    },
+    {
+      "title": "Airship BGM [Super Mario Bros. 3]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/mzgiltcrus/3-014.%20Airship%20BGM%20%5BSuper%20Mario%20Bros.%203%5D.mp3"
+    },
+    {
+      "title": "Ending [Super Mario Bros. 3]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/yzoehgjowb/3-015.%20Ending%20%5BSuper%20Mario%20Bros.%203%5D.mp3"
+    },
+    {
+      "title": "Ground BGM [Super Mario Land]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/oenjjdusep/3-016.%20Ground%20BGM%20%5BSuper%20Mario%20Land%5D.mp3"
+    },
+    {
+      "title": "Underground BGM [Super Mario Land]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/fahymaedlf/3-017.%20Underground%20BGM%20%5BSuper%20Mario%20Land%5D.mp3"
+    },
+    {
+      "title": "Title BGM [Super Mario World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/llejcovmej/3-018.%20Title%20BGM%20%5BSuper%20Mario%20World%5D.mp3"
+    },
+    {
+      "title": "Overworld Medley [Super Mario World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/hthhbapick/3-019.%20Overworld%20Medley%20%5BSuper%20Mario%20World%5D.mp3"
+    },
+    {
+      "title": "Ground BGM (Rock 'n' Roll Ver. 1) [Super Mario World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/derxvieecm/3-020.%20Ground%20BGM%20%28Rock%20%27n%27%20Roll%20Ver.%201%29%20%5BSuper%20Mario%20World%5D.mp3"
+    },
+    {
+      "title": "Ground BGM (Rock 'n' Roll Ver. 2) [Super Mario World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/axfziairqg/3-021.%20Ground%20BGM%20%28Rock%20%27n%27%20Roll%20Ver.%202%29%20%5BSuper%20Mario%20World%5D.mp3"
+    },
+    {
+      "title": "Ground BGM (Ska Ver.) [Super Mario World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ipftglrqyy/3-022.%20Ground%20BGM%20%28Ska%20Ver.%29%20%5BSuper%20Mario%20World%5D.mp3"
+    },
+    {
+      "title": "Ground BGM (Country Ver.) [Super Mario World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/hithapzlir/3-023.%20Ground%20BGM%20%28Country%20Ver.%29%20%5BSuper%20Mario%20World%5D.mp3"
+    },
+    {
+      "title": "Underground BGM [Super Mario World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/yraxsjxfkc/3-024.%20Underground%20BGM%20%5BSuper%20Mario%20World%5D.mp3"
+    },
+    {
+      "title": "Underwater BGM [Super Mario World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/rbcixsttgf/3-025.%20Underwater%20BGM%20%5BSuper%20Mario%20World%5D.mp3"
+    },
+    {
+      "title": "Bonus Game BGM [Super Mario World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/uvokrqoiyt/3-026.%20Bonus%20Game%20BGM%20%5BSuper%20Mario%20World%5D.mp3"
+    },
+    {
+      "title": "Castle BGM [Super Mario World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/auhnrrgkmw/3-027.%20Castle%20BGM%20%5BSuper%20Mario%20World%5D.mp3"
+    },
+    {
+      "title": "Koopalings BGM [Super Mario World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/lycpqkhpux/3-028.%20Koopalings%20BGM%20%5BSuper%20Mario%20World%5D.mp3"
+    },
+    {
+      "title": "Ending [Super Mario World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/nrytpevibs/3-029.%20Ending%20%5BSuper%20Mario%20World%5D.mp3"
+    },
+    {
+      "title": "Painting Mode 1 [Mario Paint]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/nzmwaaexck/3-030.%20Painting%20Mode%201%20%5BMario%20Paint%5D.mp3"
+    },
+    {
+      "title": "Flyswatter Level 1 [Mario Paint]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/lrfhdoknqr/3-031.%20Flyswatter%20Level%201%20%5BMario%20Paint%5D.mp3"
+    },
+    {
+      "title": "Main Theme [Super Mario Land 2 - 6 Golden Coins]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/gwhunejaeq/3-032.%20Main%20Theme%20%5BSuper%20Mario%20Land%202%20-%206%20Golden%20Coins%5D.mp3"
+    },
+    {
+      "title": "Main Theme [Wario Land Super Mario Land 3]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/mcakuoihni/3-033.%20Main%20Theme%20%5BWario%20Land%20Super%20Mario%20Land%203%5D.mp3"
+    },
+    {
+      "title": "DK Island Swing [Donkey Kong Country]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/gmksidvxwf/3-034.%20DK%20Island%20Swing%20%5BDonkey%20Kong%20Country%5D.mp3"
+    },
+    {
+      "title": "Opening Melody [Super Mario World 2 Yoshi's Island]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/hghmgjhewl/3-035.%20Opening%20Melody%20%5BSuper%20Mario%20World%202%20Yoshi%27s%20Island%5D.mp3"
+    },
+    {
+      "title": "Flower Field BGM (Ska Ver.) [Super Mario World 2 Yoshi's Island]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/jfusthieha/3-036.%20Flower%20Field%20BGM%20%28Ska%20Ver.%29%20%5BSuper%20Mario%20World%202%20Yoshi%27s%20Island%5D.mp3"
+    },
+    {
+      "title": "Flower Field BGM (Jazz Ver.) [Super Mario World 2 Yoshi's Island]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/mlbxpzuwfm/3-037.%20Flower%20Field%20BGM%20%28Jazz%20Ver.%29%20%5BSuper%20Mario%20World%202%20Yoshi%27s%20Island%5D.mp3"
+    },
+    {
+      "title": "Athletic BGM [Super Mario World 2 Yoshi's Island]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ykbrfhppja/3-038.%20Athletic%20BGM%20%5BSuper%20Mario%20World%202%20Yoshi%27s%20Island%5D.mp3"
+    },
+    {
+      "title": "Stage Boss (Rock 'n' Roll Ver.) [Super Mario World 2 Yoshi's Island]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/hdnczwaykf/3-039.%20Stage%20Boss%20%28Rock%20%27n%27%20Roll%20Ver.%29%20%5BSuper%20Mario%20World%202%20Yoshi%27s%20Island%5D.mp3"
+    },
+    {
+      "title": "Stage Boss (Jazz Ver.) [Super Mario World 2 Yoshi's Island]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/sgxtdzdyhy/3-040.%20Stage%20Boss%20%28Jazz%20Ver.%29%20%5BSuper%20Mario%20World%202%20Yoshi%27s%20Island%5D.mp3"
+    },
+    {
+      "title": "Bowser [Super Mario World 2 Yoshi's Island]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/sjxvcblehs/3-041.%20Bowser%20%5BSuper%20Mario%20World%202%20Yoshi%27s%20Island%5D.mp3"
+    },
+    {
+      "title": "File Select [Super Mario 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/jgmijydzmk/3-042.%20File%20Select%20%5BSuper%20Mario%2064%5D.mp3"
+    },
+    {
+      "title": "Title Theme (Big Band Ver.) [Super Mario 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/jelzpeuujx/3-043.%20Title%20Theme%20%28Big%20Band%20Ver.%29%20%5BSuper%20Mario%2064%5D.mp3"
+    },
+    {
+      "title": "Title Theme (Latin Ver.) [Super Mario 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/mvtznhervd/3-044.%20Title%20Theme%20%28Latin%20Ver.%29%20%5BSuper%20Mario%2064%5D.mp3"
+    },
+    {
+      "title": "Peach's Castle [Super Mario 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/mdwlekubmr/3-045.%20Peach%27s%20Castle%20%5BSuper%20Mario%2064%5D.mp3"
+    },
+    {
+      "title": "Piranha Plant's Lullaby [Super Mario 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/vdzjbhantb/3-046.%20Piranha%20Plant%27s%20Lullaby%20%5BSuper%20Mario%2064%5D.mp3"
+    },
+    {
+      "title": "Dire, Dire Docks [Super Mario 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/oivvnlwepd/3-047.%20Dire%2C%20Dire%20Docks%20%5BSuper%20Mario%2064%5D.mp3"
+    },
+    {
+      "title": "Cool, Cool Mountain [Super Mario 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/uqcedzjujg/3-048.%20Cool%2C%20Cool%20Mountain%20%5BSuper%20Mario%2064%5D.mp3"
+    },
+    {
+      "title": "Slider [Super Mario 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ofqihykxgn/3-049.%20Slider%20%5BSuper%20Mario%2064%5D.mp3"
+    },
+    {
+      "title": "Bowser's Road [Super Mario 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/dejbfpbgbj/3-050.%20Bowser%27s%20Road%20%5BSuper%20Mario%2064%5D.mp3"
+    },
+    {
+      "title": "Bowser's Theme [Super Mario 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/gqwvucmmqr/3-051.%20Bowser%27s%20Theme%20%5BSuper%20Mario%2064%5D.mp3"
+    },
+    {
+      "title": "Staff Roll [Super Mario 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/awnohczmhs/3-052.%20Staff%20Roll%20%5BSuper%20Mario%2064%5D.mp3"
+    },
+    {
+      "title": "Yoshi's Song (Latin Ver.) [Yoshi's Story]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/vorfwmaroh/3-053.%20Yoshi%27s%20Song%20%28Latin%20Ver.%29%20%5BYoshi%27s%20Story%5D.mp3"
+    },
+    {
+      "title": "Yoshi's Song (Bossa Nova Ver.) [Yoshi's Story]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/brnggvcwum/3-054.%20Yoshi%27s%20Song%20%28Bossa%20Nova%20Ver.%29%20%5BYoshi%27s%20Story%5D.mp3"
+    },
+    {
+      "title": "Yoshi's Tale [Yoshi's Story]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/klnmhpfjxj/3-055.%20Yoshi%27s%20Tale%20%5BYoshi%27s%20Story%5D.mp3"
+    },
+    {
+      "title": "Title Theme (Humming) [Luigi's Mansion]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/jijwdrizle/3-056.%20Title%20Theme%20%28Humming%29%20%5BLuigi%27s%20Mansion%5D.mp3"
+    },
+    {
+      "title": "Delfino Plaza [Super Mario Sunshine]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/abaypzqdka/3-057.%20Delfino%20Plaza%20%5BSuper%20Mario%20Sunshine%5D.mp3"
+    },
+    {
+      "title": "Bianco Hills [Super Mario Sunshine]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/uqkbkahrvj/3-058.%20Bianco%20Hills%20%5BSuper%20Mario%20Sunshine%5D.mp3"
+    },
+    {
+      "title": "Ricco Harbor [Super Mario Sunshine]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/yyfnobnbxk/3-059.%20Ricco%20Harbor%20%5BSuper%20Mario%20Sunshine%5D.mp3"
+    },
+    {
+      "title": "Secret Course - Sky and Sea [Super Mario Sunshine]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/vpehynamxk/3-060.%20Secret%20Course%20-%20Sky%20and%20Sea%20%5BSuper%20Mario%20Sunshine%5D.mp3"
+    },
+    {
+      "title": "Voices Being Carried on the Waves [WarioWare, Inc. Mega Microgame$!]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/xrfrjblumn/3-061.%20Voices%20Being%20Carried%20on%20the%20Waves%20%5BWarioWare%2C%20Inc.%20Mega%20Microgame%24%21%5D.mp3"
+    },
+    {
+      "title": "Ground BGM [New Super Mario Bros.]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/byjaqotlhb/3-062.%20Ground%20BGM%20%5BNew%20Super%20Mario%20Bros.%5D.mp3"
+    },
+    {
+      "title": "Castle BGM [New Super Mario Bros.]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/kclnohieyz/3-063.%20Castle%20BGM%20%5BNew%20Super%20Mario%20Bros.%5D.mp3"
+    },
+    {
+      "title": "Egg Planet [Super Mario Galaxy]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ehbhjhzhfh/3-064.%20Egg%20Planet%20%5BSuper%20Mario%20Galaxy%5D.mp3"
+    },
+    {
+      "title": "Rosalina in the Observatory 3 [Super Mario Galaxy]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/sihkqxpkbm/3-065.%20Rosalina%20in%20the%20Observatory%203%20%5BSuper%20Mario%20Galaxy%5D.mp3"
+    },
+    {
+      "title": "Space Junk Road [Super Mario Galaxy]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/mgiujgakma/3-066.%20Space%20Junk%20Road%20%5BSuper%20Mario%20Galaxy%5D.mp3"
+    },
+    {
+      "title": "Enter Bowser Jr.! [Super Mario Galaxy]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/kpsglggzoy/3-067.%20Enter%20Bowser%20Jr.%21%20%5BSuper%20Mario%20Galaxy%5D.mp3"
+    },
+    {
+      "title": "Buoy Base Galaxy [Super Mario Galaxy]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/bakkinvewm/3-068.%20Buoy%20Base%20Galaxy%20%5BSuper%20Mario%20Galaxy%5D.mp3"
+    },
+    {
+      "title": "Gusty Garden Galaxy [Super Mario Galaxy]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/lchdgnwffi/3-069.%20Gusty%20Garden%20Galaxy%20%5BSuper%20Mario%20Galaxy%5D.mp3"
+    },
+    {
+      "title": "Final Battle with Bowser [Super Mario Galaxy]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/izthmucvdt/3-070.%20Final%20Battle%20with%20Bowser%20%5BSuper%20Mario%20Galaxy%5D.mp3"
+    },
+    {
+      "title": "Purple Comet [Super Mario Galaxy]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/razntcwifs/3-071.%20Purple%20Comet%20%5BSuper%20Mario%20Galaxy%5D.mp3"
+    },
+    {
+      "title": "Underwater BGM [New Super Mario Bros. Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/rwwferqzgf/3-072.%20Underwater%20BGM%20%5BNew%20Super%20Mario%20Bros.%20Wii%5D.mp3"
+    },
+    {
+      "title": "Desert BGM [New Super Mario Bros. Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/izusecyggv/3-073.%20Desert%20BGM%20%5BNew%20Super%20Mario%20Bros.%20Wii%5D.mp3"
+    },
+    {
+      "title": "Beach Theme [New Super Mario Bros. Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/qkufzapwre/3-074.%20Beach%20Theme%20%5BNew%20Super%20Mario%20Bros.%20Wii%5D.mp3"
+    },
+    {
+      "title": "Volcano BGM [New Super Mario Bros. Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ziatcukpyx/3-075.%20Volcano%20BGM%20%5BNew%20Super%20Mario%20Bros.%20Wii%5D.mp3"
+    },
+    {
+      "title": "Castle BGM [New Super Mario Bros. Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/pxobonxwsn/3-076.%20Castle%20BGM%20%5BNew%20Super%20Mario%20Bros.%20Wii%5D.mp3"
+    },
+    {
+      "title": "Castle Boss [New Super Mario Bros. Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/fchphmgztf/3-077.%20Castle%20Boss%20%5BNew%20Super%20Mario%20Bros.%20Wii%5D.mp3"
+    },
+    {
+      "title": "Credits Theme 1 [New Super Mario Bros. Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/wgmgghpowz/3-078.%20Credits%20Theme%201%20%5BNew%20Super%20Mario%20Bros.%20Wii%5D.mp3"
+    },
+    {
+      "title": "Sky Station Galaxy [Super Mario Galaxy 2]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/khrwvjnlbh/3-079.%20Sky%20Station%20Galaxy%20%5BSuper%20Mario%20Galaxy%202%5D.mp3"
+    },
+    {
+      "title": "Starship Mario 1 [Super Mario Galaxy 2]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/aouovadhis/3-080.%20Starship%20Mario%201%20%5BSuper%20Mario%20Galaxy%202%5D.mp3"
+    },
+    {
+      "title": "The Starship's Journey [Super Mario Galaxy 2]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/etikcjcgjf/3-081.%20The%20Starship%27s%20Journey%20%5BSuper%20Mario%20Galaxy%202%5D.mp3"
+    },
+    {
+      "title": "Yoshi Star Galaxy [Super Mario Galaxy 2]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/lmcgkjpzyl/3-082.%20Yoshi%20Star%20Galaxy%20%5BSuper%20Mario%20Galaxy%202%5D.mp3"
+    },
+    {
+      "title": "Digga-Leg [Super Mario Galaxy 2]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/usxztiscrh/3-083.%20Digga-Leg%20%5BSuper%20Mario%20Galaxy%202%5D.mp3"
+    },
+    {
+      "title": "Puzzle Plank Galaxy [Super Mario Galaxy 2]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/hvkgevdvir/3-084.%20Puzzle%20Plank%20Galaxy%20%5BSuper%20Mario%20Galaxy%202%5D.mp3"
+    },
+    {
+      "title": "Wild Glide Galaxy [Super Mario Galaxy 2]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/tceifdijta/3-085.%20Wild%20Glide%20Galaxy%20%5BSuper%20Mario%20Galaxy%202%5D.mp3"
+    },
+    {
+      "title": "Cloudy Court Galaxy [Super Mario Galaxy 2]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/zbukqzbksn/3-086.%20Cloudy%20Court%20Galaxy%20%5BSuper%20Mario%20Galaxy%202%5D.mp3"
+    },
+    {
+      "title": "Melty Monster Galaxy [Super Mario Galaxy 2]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/szagjiuzao/3-087.%20Melty%20Monster%20Galaxy%20%5BSuper%20Mario%20Galaxy%202%5D.mp3"
+    },
+    {
+      "title": "Bowser's Galaxy Generator [Super Mario Galaxy 2]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/dobjgqfmjp/3-088.%20Bowser%27s%20Galaxy%20Generator%20%5BSuper%20Mario%20Galaxy%202%5D.mp3"
+    },
+    {
+      "title": "Ground Theme [Super Mario 3D Land]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/seqciqlozb/3-089.%20Ground%20Theme%20%5BSuper%20Mario%203D%20Land%5D.mp3"
+    },
+    {
+      "title": "Beach Theme (Jazz Ver.) [Super Mario 3D Land]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/pmugixxysp/3-090.%20Beach%20Theme%20%28Jazz%20Ver.%29%20%5BSuper%20Mario%203D%20Land%5D.mp3"
+    },
+    {
+      "title": "Beach Theme (Bossa Nova Ver.) [Super Mario 3D Land]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/otkozrsavt/3-091.%20Beach%20Theme%20%28Bossa%20Nova%20Ver.%29%20%5BSuper%20Mario%203D%20Land%5D.mp3"
+    },
+    {
+      "title": "Snow Mountain Theme [Super Mario 3D Land]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/zhipjltkjj/3-092.%20Snow%20Mountain%20Theme%20%5BSuper%20Mario%203D%20Land%5D.mp3"
+    },
+    {
+      "title": "Ground Theme [New Super Mario Bros. U]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/hvxbzmnogg/3-093.%20Ground%20Theme%20%5BNew%20Super%20Mario%20Bros.%20U%5D.mp3"
+    },
+    {
+      "title": "Super Bell Hill [Super Mario 3D World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/epazwngpud/3-094.%20Super%20Bell%20Hill%20%5BSuper%20Mario%203D%20World%5D.mp3"
+    },
+    {
+      "title": "Captain Toad Goes Forth [Super Mario 3D World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/gpluottbfh/3-095.%20Captain%20Toad%20Goes%20Forth%20%5BSuper%20Mario%203D%20World%5D.mp3"
+    },
+    {
+      "title": "Double Cherry Pass [Super Mario 3D World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/jjlfnsmmee/3-096.%20Double%20Cherry%20Pass%20%5BSuper%20Mario%203D%20World%5D.mp3"
+    },
+    {
+      "title": "Shifty Boo Mansion [Super Mario 3D World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/zmbymkaaoq/3-097.%20Shifty%20Boo%20Mansion%20%5BSuper%20Mario%203D%20World%5D.mp3"
+    },
+    {
+      "title": "Athletic Theme (Jazz Ver.) [Super Mario 3D World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ftdhyvqxuh/3-098.%20Athletic%20Theme%20%28Jazz%20Ver.%29%20%5BSuper%20Mario%203D%20World%5D.mp3"
+    },
+    {
+      "title": "Athletic Theme (Soul Ver.) [Super Mario 3D World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/dkgetzeivi/3-099.%20Athletic%20Theme%20%28Soul%20Ver.%29%20%5BSuper%20Mario%203D%20World%5D.mp3"
+    },
+    {
+      "title": "Piranha Creeper Creek [Super Mario 3D World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/drjmogdjbk/3-100.%20Piranha%20Creeper%20Creek%20%5BSuper%20Mario%203D%20World%5D.mp3"
+    },
+    {
+      "title": "Sprawling Savanna [Super Mario 3D World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/fyqdrjysza/3-101.%20Sprawling%20Savanna%20%5BSuper%20Mario%203D%20World%5D.mp3"
+    },
+    {
+      "title": "Hands-On Hall [Super Mario 3D World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/pwhabazhoe/3-102.%20Hands-On%20Hall%20%5BSuper%20Mario%203D%20World%5D.mp3"
+    },
+    {
+      "title": "Hisstocrat [Super Mario 3D World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/cjrjlxrbdg/3-103.%20Hisstocrat%20%5BSuper%20Mario%203D%20World%5D.mp3"
+    },
+    {
+      "title": "Bowser's Highway Showdown [Super Mario 3D World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/aiyavzoseg/3-104.%20Bowser%27s%20Highway%20Showdown%20%5BSuper%20Mario%203D%20World%5D.mp3"
+    },
+    {
+      "title": "World 8 [Super Mario 3D World]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/yuuwshfvjl/3-105.%20World%208%20%5BSuper%20Mario%203D%20World%5D.mp3"
+    },
+    {
+      "title": "Title Screen [Super Mario Maker]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/tpfbmlxasu/3-106.%20Title%20Screen%20%5BSuper%20Mario%20Maker%5D.mp3"
+    },
+    {
+      "title": "Fossil Falls [Super Mario Odyssey]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/yhqhindxon/3-107.%20Fossil%20Falls%20%5BSuper%20Mario%20Odyssey%5D.mp3"
+    },
+    {
+      "title": "Tostarena Ruins [Super Mario Odyssey]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/wnqsdfifar/3-108.%20Tostarena%20Ruins%20%5BSuper%20Mario%20Odyssey%5D.mp3"
+    },
+    {
+      "title": "Steam Gardens (Rock Ver.) [Super Mario Odyssey]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/bzsytnzbcu/3-109.%20Steam%20Gardens%20%28Rock%20Ver.%29%20%5BSuper%20Mario%20Odyssey%5D.mp3"
+    },
+    {
+      "title": "Steam Gardens (Soul Ver.) [Super Mario Odyssey]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ypmqzyaueq/3-110.%20Steam%20Gardens%20%28Soul%20Ver.%29%20%5BSuper%20Mario%20Odyssey%5D.mp3"
+    },
+    {
+      "title": "Lake Lamode [Super Mario Odyssey]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/nqhpjvpkmc/3-111.%20Lake%20Lamode%20%5BSuper%20Mario%20Odyssey%5D.mp3"
+    },
+    {
+      "title": "Peronza Plaza [Super Mario Odyssey]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/tssgqvsnuq/3-112.%20Peronza%20Plaza%20%5BSuper%20Mario%20Odyssey%5D.mp3"
+    },
+    {
+      "title": "Shiveria Town [Super Mario Odyssey]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/uawotdtogj/3-113.%20Shiveria%20Town%20%5BSuper%20Mario%20Odyssey%5D.mp3"
+    },
+    {
+      "title": "Bowser's Castle - Main Courtyard [Super Mario Odyssey]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ybetyvjtla/3-114.%20Bowser%27s%20Castle%20-%20Main%20Courtyard%20%5BSuper%20Mario%20Odyssey%5D.mp3"
+    },
+    {
+      "title": "Jump Up, Super Star! [Super Mario Odyssey]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ivgdvheucp/3-115.%20Jump%20Up%2C%20Super%20Star%21%20%5BSuper%20Mario%20Odyssey%5D.mp3"
+    },
+    {
+      "title": "Break Free (Lead the Way) [Super Mario Odyssey]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/lukfkodfjt/3-116.%20Break%20Free%20%28Lead%20the%20Way%29%20%5BSuper%20Mario%20Odyssey%5D.mp3"
+    },
+    {
+      "title": "Attack! Bowser's Fury [Super Mario 3D World + Bowser's Fury]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/bpbbxhyzzn/3-117.%20Attack%21%20Bowser%27s%20Fury%20%5BSuper%20Mario%203D%20World%20%2B%20Bowser%27s%20Fury%5D.mp3"
+    },
+    {
+      "title": "Plessie Ride! [Super Mario 3D World + Bowser's Fury]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ytyvgpkein/3-118.%20Plessie%20Ride%21%20%5BSuper%20Mario%203D%20World%20%2B%20Bowser%27s%20Fury%5D.mp3"
+    },
+    {
+      "title": "Mario Drawing Song [Flipnote Studio]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/fssuqwruoa/3-119.%20Mario%20Drawing%20Song%20%5BFlipnote%20Studio%5D.mp3"
+    },
+    {
+      "title": "Mario Bros. Circuit (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/arfwfjucrj/4-01.%20Mario%20Bros.%20Circuit%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Crown City (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/rtwcbuuanj/4-02.%20Crown%20City%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Whistlestop Summit (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/sacdpkpuon/4-03.%20Whistlestop%20Summit%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "DK Spaceport (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/athripzvex/4-04.%20DK%20Spaceport%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Desert Hills [Mario Kart DS] (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/sfmtspmoaf/4-05.%20Desert%20Hills%20%5BMario%20Kart%20DS%5D%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Shy Guy Bazaar [Mario Kart 7] (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/yqmucqpvbn/4-06.%20Shy%20Guy%20Bazaar%20%5BMario%20Kart%207%5D%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Wario Stadium [Mario Kart 64] (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/pfsciuofnq/4-07.%20Wario%20Stadium%20%5BMario%20Kart%2064%5D%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Airship Fortress [Mario Kart DS] (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/xlhumxjgvh/4-08.%20Airship%20Fortress%20%5BMario%20Kart%20DS%5D%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "DK Pass [Mario Kart DS] (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/lceljvtyib/4-09.%20DK%20Pass%20%5BMario%20Kart%20DS%5D%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Starview Peak (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/eesnghwxxf/4-10.%20Starview%20Peak%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Sky-High Sundae [Mario Kart 8 Deluxe] (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/istfhaffzt/4-11.%20Sky-High%20Sundae%20%5BMario%20Kart%208%20Deluxe%5D%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Wario Shipyard [Mario Kart 7] (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/fqmuefknja/4-12.%20Wario%20Shipyard%20%5BMario%20Kart%207%5D%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Koopa Troopa Beach [Super Mario Kart] (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/nhjeegjqds/4-13.%20Koopa%20Troopa%20Beach%20%5BSuper%20Mario%20Kart%5D%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Faraway Oasis (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/wufiggihci/4-14.%20Faraway%20Oasis%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Peach Stadium (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ncbykomjqm/4-15.%20Peach%20Stadium%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Peach Beach [Mario Kart Double Dash!!] (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/sknkwjzczk/4-16.%20Peach%20Beach%20%5BMario%20Kart%20Double%20Dash%21%21%5D%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Salty Salty Speedway (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/wfwnctkzgh/4-17.%20Salty%20Salty%20Speedway%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Dino Dino Jungle [Mario Kart Double Dash!!] (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/brenohhybt/4-18.%20Dino%20Dino%20Jungle%20%5BMario%20Kart%20Double%20Dash%21%21%5D%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Great ? Block Ruins (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/kjukhvkfij/4-19.%20Great%20%3F%20Block%20Ruins%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Cheep Cheep Falls (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/gwwjtgdqfl/4-20.%20Cheep%20Cheep%20Falls%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Dandelion Depths (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/abwgxajdzv/4-21.%20Dandelion%20Depths%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Boo Cinema (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ckezhjyjwa/4-22.%20Boo%20Cinema%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Dry Bones Burnout (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/qrvqiszfyc/4-23.%20Dry%20Bones%20Burnout%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Moo Moo Meadows [Mario Kart Wii] (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/nsxayjyvjr/4-24.%20Moo%20Moo%20Meadows%20%5BMario%20Kart%20Wii%5D%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Choco Mountain [Mario Kart 64] (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/kcjoftcodv/4-25.%20Choco%20Mountain%20%5BMario%20Kart%2064%5D%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Toad's Factory [Mario Kart Wii] (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/cotjndfcva/4-26.%20Toad%27s%20Factory%20%5BMario%20Kart%20Wii%5D%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Bowser's Castle (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/epvjojxlwb/4-27.%20Bowser%27s%20Castle%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Acorn Heights (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/podyojxxhu/4-28.%20Acorn%20Heights%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Mario Circuit [Super Mario Kart] (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/sfbdewsrvo/4-29.%20Mario%20Circuit%20%5BSuper%20Mario%20Kart%5D%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Rainbow Road (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/inrnhdkjwr/4-30.%20Rainbow%20Road%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "[KO Tour] Desert Hills [Mario Kart DS] (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/gbuhjslmzy/4-31%20%5BKO%20Tour%5D%20Desert%20Hills%20%5BMario%20Kart%20DS%5D%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "[KO Tour] Shy Guy Bazaar [Mario Kart 7] (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/uapuioxqkq/4-32%20%5BKO%20Tour%5D%20Shy%20Guy%20Bazaar%20%5BMario%20Kart%207%5D%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "[KO Tour] Airship Fortress [Mario Kart DS] (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/gcpfoeohco/4-33%20%5BKO%20Tour%5D%20Airship%20Fortress%20%5BMario%20Kart%20DS%5D%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "[KO Tour] Sky-High Sundae [Mario Kart 8 Deluxe] (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/tcmgnfvnhj/4-34%20%5BKO%20Tour%5D%20Sky-High%20Sundae%20%5BMario%20Kart%208%20Deluxe%5D%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "[KO Tour] Peach Beach [Mario Kart Double Dash!!] (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/yawmaxjefh/4-35%20%5BKO%20Tour%5D%20Peach%20Beach%20%5BMario%20Kart%20Double%20Dash%21%21%5D%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "[KO Tour] Boo Cinema (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/reqvjimkld/4-36%20%5BKO%20Tour%5D%20Boo%20Cinema%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "[KO Tour] Toad's Factory [Mario Kart Wii] (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/tuzxivuwyr/4-37%20%5BKO%20Tour%5D%20Toad%27s%20Factory%20%5BMario%20Kart%20Wii%5D%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "[KO Tour] Bowser's Castle (Prelude)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/iofuzdwhmk/4-38%20%5BKO%20Tour%5D%20Bowser%27s%20Castle%20%28Prelude%29.mp3"
+    },
+    {
+      "title": "Mario Bros. Circuit",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/vbtpiizzed/5-01.%20Mario%20Bros.%20Circuit.mp3"
+    },
+    {
+      "title": "Crown City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/przjphlfxg/5-02.%20Crown%20City.mp3"
+    },
+    {
+      "title": "Whistlestop Summit",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/rermymruct/5-03.%20Whistlestop%20Summit.mp3"
+    },
+    {
+      "title": "DK Spaceport (Section 1)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ivzbqlqmzk/5-04.%20DK%20Spaceport%20%28Section%201%29.mp3"
+    },
+    {
+      "title": "DK Spaceport (Section 2)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/htxokvuivp/5-05.%20DK%20Spaceport%20%28Section%202%29.mp3"
+    },
+    {
+      "title": "DK Spaceport (Section 3)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/qeigdyzylb/5-06.%20DK%20Spaceport%20%28Section%203%29.mp3"
+    },
+    {
+      "title": "DK Spaceport (Section 4)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/hijyvuyqml/5-07.%20DK%20Spaceport%20%28Section%204%29.mp3"
+    },
+    {
+      "title": "DK Spaceport (Section 5)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/oztkwpaoih/5-08.%20DK%20Spaceport%20%28Section%205%29.mp3"
+    },
+    {
+      "title": "Desert Hills [Mario Kart DS]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/kdcnpydlhj/5-09.%20Desert%20Hills%20%5BMario%20Kart%20DS%5D.mp3"
+    },
+    {
+      "title": "Shy Guy Bazaar [Mario Kart 7]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/xdwhxyprpn/5-10.%20Shy%20Guy%20Bazaar%20%5BMario%20Kart%207%5D.mp3"
+    },
+    {
+      "title": "Wario Stadium [Mario Kart 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/bdrqrvcnpz/5-11.%20Wario%20Stadium%20%5BMario%20Kart%2064%5D.mp3"
+    },
+    {
+      "title": "Airship Fortress [Mario Kart DS]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/blaedngbhs/5-12.%20Airship%20Fortress%20%5BMario%20Kart%20DS%5D.mp3"
+    },
+    {
+      "title": "DK Pass [Mario Kart DS]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/shgdufvdha/5-13.%20DK%20Pass%20%5BMario%20Kart%20DS%5D.mp3"
+    },
+    {
+      "title": "Starview Peak",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/psxtbosxxr/5-14.%20Starview%20Peak.mp3"
+    },
+    {
+      "title": "Starview Peak (Water Section)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/gdqzyfcxpo/5-15.%20Starview%20Peak%20%28Water%20Section%29.mp3"
+    },
+    {
+      "title": "Sky-High Sundae [Mario Kart 8 Deluxe]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/bakjoisstj/5-16.%20Sky-High%20Sundae%20%5BMario%20Kart%208%20Deluxe%5D.mp3"
+    },
+    {
+      "title": "Wario Shipyard [Mario Kart 7]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/zbtbctdoxi/5-17.%20Wario%20Shipyard%20%5BMario%20Kart%207%5D.mp3"
+    },
+    {
+      "title": "Koopa Troopa Beach [Super Mario Kart]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/xzglzuftyn/5-18.%20Koopa%20Troopa%20Beach%20%5BSuper%20Mario%20Kart%5D.mp3"
+    },
+    {
+      "title": "Faraway Oasis",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/bxgbuubrwp/5-19.%20Faraway%20Oasis.mp3"
+    },
+    {
+      "title": "Peach Stadium",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/tucxrpmbvs/5-20.%20Peach%20Stadium.mp3"
+    },
+    {
+      "title": "Peach Beach [Mario Kart Double Dash!!]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/lmdrvgxsod/5-21.%20Peach%20Beach%20%5BMario%20Kart%20Double%20Dash%21%21%5D.mp3"
+    },
+    {
+      "title": "Salty Salty Speedway",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/mreuoiuzdw/5-22.%20Salty%20Salty%20Speedway.mp3"
+    },
+    {
+      "title": "Dino Dino Jungle [Mario Kart Double Dash!!]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/jmnidbbvhp/5-23.%20Dino%20Dino%20Jungle%20%5BMario%20Kart%20Double%20Dash%21%21%5D.mp3"
+    },
+    {
+      "title": "Great ? Block Ruins",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/itsatpjbol/5-24.%20Great%20%3F%20Block%20Ruins.mp3"
+    },
+    {
+      "title": "Cheep Cheep Falls",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/tzubhhwuzd/5-25.%20Cheep%20Cheep%20Falls.mp3"
+    },
+    {
+      "title": "Dandelion Depths",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/gyctzuatbd/5-26.%20Dandelion%20Depths.mp3"
+    },
+    {
+      "title": "Boo Cinema",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/hdvobgbufc/5-27.%20Boo%20Cinema.mp3"
+    },
+    {
+      "title": "Boo Cinema (Movie Screen)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/zoudelqcvy/5-28.%20Boo%20Cinema%20%28Movie%20Screen%29.mp3"
+    },
+    {
+      "title": "Dry Bones Burnout",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/vtnsvrtinq/5-29.%20Dry%20Bones%20Burnout.mp3"
+    },
+    {
+      "title": "Moo Moo Meadows [Mario Kart Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/todhtfngue/5-30.%20Moo%20Moo%20Meadows%20%5BMario%20Kart%20Wii%5D.mp3"
+    },
+    {
+      "title": "Choco Mountain [Mario Kart 64]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/dewtgtnvbb/5-31.%20Choco%20Mountain%20%5BMario%20Kart%2064%5D.mp3"
+    },
+    {
+      "title": "Toad's Factory [Mario Kart Wii]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/lhzmmitnay/5-32.%20Toad%27s%20Factory%20%5BMario%20Kart%20Wii%5D.mp3"
+    },
+    {
+      "title": "Bowser's Castle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ouxebzhppk/5-33.%20Bowser%27s%20Castle.mp3"
+    },
+    {
+      "title": "Acorn Heights",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/hupsafhsak/5-34.%20Acorn%20Heights.mp3"
+    },
+    {
+      "title": "Mario Circuit [Super Mario Kart]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/xbhdwcudvu/5-35.%20Mario%20Circuit%20%5BSuper%20Mario%20Kart%5D.mp3"
+    },
+    {
+      "title": "Rainbow Road (Section 1)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/zvjfqzlzph/5-36.%20Rainbow%20Road%20%28Section%201%29.mp3"
+    },
+    {
+      "title": "Rainbow Road (Section 2)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ejfdhezswj/5-37.%20Rainbow%20Road%20%28Section%202%29.mp3"
+    },
+    {
+      "title": "Rainbow Road (Section 3)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/cjsmapletx/5-38.%20Rainbow%20Road%20%28Section%203%29.mp3"
+    },
+    {
+      "title": "Mario Bros. Circuit (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/erqstavcmx/6-01.%20Mario%20Bros.%20Circuit%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Crown City (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/afjqyrnoal/6-02.%20Crown%20City%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Whistlestop Summit (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/zucojbttou/6-03.%20Whistlestop%20Summit%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "DK Spaceport (Final Section)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/yrmvfasktm/6-04.%20DK%20Spaceport%20%28Final%20Section%29.mp3"
+    },
+    {
+      "title": "Desert Hills [Mario Kart DS] (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/sakvggtirc/6-05.%20Desert%20Hills%20%5BMario%20Kart%20DS%5D%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Shy Guy Bazaar [Mario Kart 7] (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/vvmsghwupa/6-06.%20Shy%20Guy%20Bazaar%20%5BMario%20Kart%207%5D%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Wario Stadium [Mario Kart 64] (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/qniskqdgyr/6-07.%20Wario%20Stadium%20%5BMario%20Kart%2064%5D%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Airship Fortress [Mario Kart DS] (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/csszugilev/6-08.%20Airship%20Fortress%20%5BMario%20Kart%20DS%5D%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "DK Pass [Mario Kart DS] (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/xoxbaaqcuq/6-09.%20DK%20Pass%20%5BMario%20Kart%20DS%5D%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Starview Peak (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/fymglzsyuy/6-10.%20Starview%20Peak%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Starview Peak [Water Section] (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/akuccdnizg/6-11.%20Starview%20Peak%20%5BWater%20Section%5D%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Sky-High Sundae [Mario Kart 8 Deluxe] (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/rcnzuhezod/6-12.%20Sky-High%20Sundae%20%5BMario%20Kart%208%20Deluxe%5D%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Wario Shipyard [Mario Kart 7] (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/wchoklrgge/6-13.%20Wario%20Shipyard%20%5BMario%20Kart%207%5D%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Koopa Troopa Beach [Super Mario Kart] (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/thwvzunoop/6-14.%20Koopa%20Troopa%20Beach%20%5BSuper%20Mario%20Kart%5D%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Faraway Oasis (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/xjwuocabmf/6-15.%20Faraway%20Oasis%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Peach Stadium (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/nnzzunilvf/6-16.%20Peach%20Stadium%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Peach Beach [Mario Kart Double Dash!!] (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/kiszjfcwva/6-17.%20Peach%20Beach%20%5BMario%20Kart%20Double%20Dash%21%21%5D%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Salty Salty Speedway (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/dyqseeewhc/6-18.%20Salty%20Salty%20Speedway%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Dino Dino Jungle [Mario Kart Double Dash!!] (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/qnjijmbkqm/6-19.%20Dino%20Dino%20Jungle%20%5BMario%20Kart%20Double%20Dash%21%21%5D%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Great ? Block Ruins (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/fxpkgzxevj/6-20.%20Great%20%3F%20Block%20Ruins%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Cheep Cheep Falls (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/lpdakodjru/6-21.%20Cheep%20Cheep%20Falls%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Dandelion Depths (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/aoervahwko/6-22.%20Dandelion%20Depths%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Boo Cinema (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/heiyvbbxpy/6-23.%20Boo%20Cinema%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Boo Cinema [Movie Screen] (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/xolvqkeyur/6-24.%20Boo%20Cinema%20%5BMovie%20Screen%5D%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Dry Bones Burnout (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/cutdnpkwca/6-25.%20Dry%20Bones%20Burnout%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Moo Moo Meadows [Mario Kart Wii] (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/ddjficjogl/6-26.%20Moo%20Moo%20Meadows%20%5BMario%20Kart%20Wii%5D%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Choco Mountain [Mario Kart 64] (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/fwvnuobwxo/6-27.%20Choco%20Mountain%20%5BMario%20Kart%2064%5D%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Toad's Factory [Mario Kart Wii] (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/qrmkmjcqyb/6-28.%20Toad%27s%20Factory%20%5BMario%20Kart%20Wii%5D%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Bowser's Castle (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/hkmgtilxoy/6-29.%20Bowser%27s%20Castle%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Acorn Heights (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/brwzucxrlo/6-30.%20Acorn%20Heights%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Mario Circuit [Super Mario Kart] (Final Lap)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/etzpxzhfkk/6-31.%20Mario%20Circuit%20%5BSuper%20Mario%20Kart%5D%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Rainbow Road (Final Section)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/twwdlpgkss/6-32.%20Rainbow%20Road%20%28Final%20Section%29.mp3"
+    },
+    {
+      "title": "[Alt.] DK Spaceport (Medley)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/tmmqpqdzmx/7-01.%20%5BAlt.%5D%20DK%20Spaceport%20%28Medley%29.mp3"
+    },
+    {
+      "title": "Rainbow Road (Pre-Section 4)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/avqthgrgbh/7-02.%20Rainbow%20Road%20%28Pre-Section%204%29.mp3"
+    },
+    {
+      "title": "Rainbow Road (Section 1) [Melody Only]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/xljrnszfwh/7-03.%20Rainbow%20Road%20%28Section%201%29%20%5BMelody%20Only%5D.mp3"
+    },
+    {
+      "title": "Rainbow Road (Section 1) [No Melody]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-kart-world-gamerip-2025/vxxcpxyraq/7-04.%20Rainbow%20Road%20%28Section%201%29%20%5BNo%20Melody%5D.mp3"
+    }
+  ]
+}

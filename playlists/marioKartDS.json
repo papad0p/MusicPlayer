@@ -1,0 +1,437 @@
+{
+  "meta": {
+    "game_title": "Mario Kart DS",
+    "art": "https://upload.wikimedia.org/wikipedia/en/8/86/Mario_Kart_DS_cover.jpg",
+    "desc": "November 14th, 2005"
+  },
+  "songs": [
+    {
+      "title": "'Here We Go'",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/sgamgvlt/1-01.%20%27%27Here%20We%20Go%27%27.mp3"
+    },
+    {
+      "title": "Main Menu",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/kskxhrou/1-02.%20Main%20Menu.mp3"
+    },
+    {
+      "title": "Single Player Menu",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/gvmxakat/1-03.%20Single%20Player%20Menu.mp3"
+    },
+    {
+      "title": "Multiplayer Menu",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/vxzdvsay/1-04.%20Multiplayer%20Menu.mp3"
+    },
+    {
+      "title": "Wi-Fi Menu",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/tykhcqxr/1-05.%20Wi-Fi%20Menu.mp3"
+    },
+    {
+      "title": "Records",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/qbmdguha/1-06.%20Records.mp3"
+    },
+    {
+      "title": "Options Menu",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/geejilif/1-07.%20Options%20Menu.mp3"
+    },
+    {
+      "title": "Unused Menu",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/cyitxgmr/1-08.%20Unused%20Menu.mp3"
+    },
+    {
+      "title": "Flyover (Figure-8 Circuit, Waluigi Pinball, Mario Circuit, GCN Luigi Circuit)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/wicksmdh/1-09.%20Flyover%20%28Figure-8%20Circuit%2C%20Waluigi%20Pinball%2C%20Mario%20Circuit%2C%20GCN%20Luigi%20Circuit%29.mp3"
+    },
+    {
+      "title": "Starting Grid (Grand Prix)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/yzacnibj/1-10.%20Starting%20Grid%20%28Grand%20Prix%29.mp3"
+    },
+    {
+      "title": "Figure-8 Circuit, Mario Circuit",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/orsnkoob/1-11.%20Figure-8%20Circuit%2C%20Mario%20Circuit.mp3"
+    },
+    {
+      "title": "Final Lap",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/shkdlvtg/1-12.%20Final%20Lap.mp3"
+    },
+    {
+      "title": "Figure-8 Circuit, Mario Circuit (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/cqzzyuek/1-13.%20Figure-8%20Circuit%2C%20Mario%20Circuit%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Flyover",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/kfwrwgpi/1-14.%20Flyover.mp3"
+    },
+    {
+      "title": "Yoshi Falls",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/njhlfugx/1-15.%20Yoshi%20Falls.mp3"
+    },
+    {
+      "title": "Yoshi Falls (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/vltlwaml/1-16.%20Yoshi%20Falls%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Cheep Cheep Beach",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/sfaiqdwx/1-17.%20Cheep%20Cheep%20Beach.mp3"
+    },
+    {
+      "title": "Cheep Cheep Beach (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/yzaexxxu/1-18.%20Cheep%20Cheep%20Beach%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Luigi's Mansion",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/fsvddfta/1-19.%20Luigi%27s%20Mansion.mp3"
+    },
+    {
+      "title": "Luigi's Mansion (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/yrotdigj/1-20.%20Luigi%27s%20Mansion%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Desert Hills",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/zucbyqiu/1-21.%20Desert%20Hills.mp3"
+    },
+    {
+      "title": "Desert Hills (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/xgkhgixo/1-22.%20Desert%20Hills%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Delfino Square",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/zjvczpzc/1-23.%20Delfino%20Square.mp3"
+    },
+    {
+      "title": "Delfino Square (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/olpssmek/1-24.%20Delfino%20Square%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Waluigi Pinball, Wario Stadium",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/yuemyfhv/1-25.%20Waluigi%20Pinball%2C%20Wario%20Stadium.mp3"
+    },
+    {
+      "title": "Waluigi Pinball, Wario Stadium (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/hxsvzken/1-26.%20Waluigi%20Pinball%2C%20Wario%20Stadium%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Shroom Ridge",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/efqovnao/1-27.%20Shroom%20Ridge.mp3"
+    },
+    {
+      "title": "Shroom Ridge (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/ruvwtgze/1-28.%20Shroom%20Ridge%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "DK Pass",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/wvqowuft/1-29.%20DK%20Pass.mp3"
+    },
+    {
+      "title": "DK Pass (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/enbsjvxc/1-30.%20DK%20Pass%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Tick-Tock Clock",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/rfzhoxvm/1-31.%20Tick-Tock%20Clock.mp3"
+    },
+    {
+      "title": "Tick-Tock Clock (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/vryrpzbi/1-32.%20Tick-Tock%20Clock%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Airship Fortress",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/lfujjsmg/1-33.%20Airship%20Fortress.mp3"
+    },
+    {
+      "title": "Airship Fortress (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/wnygixqj/1-34.%20Airship%20Fortress%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Flyover (Wario Stadium)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/nlpsuunh/1-35.%20Flyover%20%28Wario%20Stadium%29.mp3"
+    },
+    {
+      "title": "Peach Gardens",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/zsqdsclz/1-36.%20Peach%20Gardens.mp3"
+    },
+    {
+      "title": "Peach Gardens (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/lhexakby/1-37.%20Peach%20Gardens%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Bowser Castle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/oxybjpzb/1-38.%20Bowser%20Castle.mp3"
+    },
+    {
+      "title": "Bowser Castle (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/kusfxyah/1-39.%20Bowser%20Castle%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Rainbow Road",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/ivekktrc/1-40.%20Rainbow%20Road.mp3"
+    },
+    {
+      "title": "Rainbow Road (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/lxeejjqd/1-41.%20Rainbow%20Road%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Finished 1st",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/sesbgyyy/1-42.%20Finished%201st.mp3"
+    },
+    {
+      "title": "Finished 2nd-4th",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/wlqvhzae/1-43.%20Finished%202nd-4th.mp3"
+    },
+    {
+      "title": "Success",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/tfwpntdn/1-44.%20Success.mp3"
+    },
+    {
+      "title": "Finished 5th-8th",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/flqtwcwa/1-45.%20Finished%205th-8th.mp3"
+    },
+    {
+      "title": "Race - Mission Failure",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/nmyecyli/1-46.%20Race%20-%20Mission%20Failure.mp3"
+    },
+    {
+      "title": "End of Cup",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/ispvifct/1-47.%20End%20of%20Cup.mp3"
+    },
+    {
+      "title": "Got a Trophy",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/njileqpb/1-48.%20Got%20a%20Trophy.mp3"
+    },
+    {
+      "title": "No Trophy for You",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/njhjypgk/1-49.%20No%20Trophy%20for%20You.mp3"
+    },
+    {
+      "title": "Credits (50cc + 100cc)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/fycrabhg/1-50.%20Credits%20%2850cc%20%2B%20100cc%29.mp3"
+    },
+    {
+      "title": "SNES Mario Circuit 1",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/tvyecykh/2-01.%20SNES%20Mario%20Circuit%201.mp3"
+    },
+    {
+      "title": "SNES Mario Circuit 1 (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/cqyvfodc/2-02.%20SNES%20Mario%20Circuit%201%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "N64 Moo Moo Farm",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/cfteogro/2-03.%20N64%20Moo%20Moo%20Farm.mp3"
+    },
+    {
+      "title": "N64 Moo Moo Farm (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/tawicjpx/2-04.%20N64%20Moo%20Moo%20Farm%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "GBA Peach Circuit - GBA Luigi Circuit",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/rttlyiyr/2-05.%20GBA%20Peach%20Circuit%20-%20GBA%20Luigi%20Circuit.mp3"
+    },
+    {
+      "title": "GBA Peach Circuit - GBA Luigi Circuit (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/nqnujnny/2-06.%20GBA%20Peach%20Circuit%20-%20GBA%20Luigi%20Circuit%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "GCN Luigi Circuit - GCN Yoshi Circuit",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/eanoiyqm/2-07.%20GCN%20Luigi%20Circuit%20-%20GCN%20Yoshi%20Circuit.mp3"
+    },
+    {
+      "title": "GCN Luigi Circuit - GCN Yoshi Circuit (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/jmgueogn/2-08.%20GCN%20Luigi%20Circuit%20-%20GCN%20Yoshi%20Circuit%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "SNES Donut Plains 1",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/wwqqhnsz/2-09.%20SNES%20Donut%20Plains%201.mp3"
+    },
+    {
+      "title": "SNES Donut Plains 1 (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/stopfgpi/2-10.%20SNES%20Donut%20Plains%201%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "N64 Frappe Snowland",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/uatrafyb/2-11.%20N64%20Frappe%20Snowland.mp3"
+    },
+    {
+      "title": "N64 Frappe Snowland (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/oodaqfbq/2-12.%20N64%20Frappe%20Snowland%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "GBA Bowser Castle 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/cpphqgke/2-13.%20GBA%20Bowser%20Castle%202.mp3"
+    },
+    {
+      "title": "GBA Bowser Castle 2 (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/saxnxyyz/2-14.%20GBA%20Bowser%20Castle%202%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "GCN Baby Park",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/zabilfsz/2-15.%20GCN%20Baby%20Park.mp3"
+    },
+    {
+      "title": "GCN Baby Park (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/srgdbtrc/2-16.%20GCN%20Baby%20Park%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "SNES Koopa Beach 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/kuthiqho/2-17.%20SNES%20Koopa%20Beach%202.mp3"
+    },
+    {
+      "title": "SNES Koopa Beach 2 (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/vpjclwbr/2-18.%20SNES%20Koopa%20Beach%202%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "N64 Choco Mountain",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/fcsjpafb/2-19.%20N64%20Choco%20Mountain.mp3"
+    },
+    {
+      "title": "N64 Choco Mountain (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/rfalcgzd/2-20.%20N64%20Choco%20Mountain%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "GCN Mushroom Bridge",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/sdpoyajt/2-21.%20GCN%20Mushroom%20Bridge.mp3"
+    },
+    {
+      "title": "GCN Mushroom Bridge (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/rcngqmlv/2-22.%20GCN%20Mushroom%20Bridge%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "SNES Choco Island 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/ungqljnm/2-23.%20SNES%20Choco%20Island%202.mp3"
+    },
+    {
+      "title": "SNES Choco Island 2 (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/xairhlkp/2-24.%20SNES%20Choco%20Island%202%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "N64 Banshee Boardwalk",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/uceogrnr/2-25.%20N64%20Banshee%20Boardwalk.mp3"
+    },
+    {
+      "title": "N64 Banshee Boardwalk (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/soswdcba/2-26.%20N64%20Banshee%20Boardwalk%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "GBA Sky Garden",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/xnxybkvz/2-27.%20GBA%20Sky%20Garden.mp3"
+    },
+    {
+      "title": "GBA Sky Garden (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/kdkrcoki/2-28.%20GBA%20Sky%20Garden%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Credits (150cc + Mirror)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/kaypgjdo/2-29.%20Credits%20%28150cc%20%2B%20Mirror%29.mp3"
+    },
+    {
+      "title": "New Reward",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/lnfnziqh/3-01.%20New%20Reward.mp3"
+    },
+    {
+      "title": "Starting Grid (Time Trials - VS. Race)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/nuihnruw/3-02.%20Starting%20Grid%20%28Time%20Trials%20-%20VS.%20Race%29.mp3"
+    },
+    {
+      "title": "Time Trial Results - New High Scores",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/bskvwxxw/3-03.%20Time%20Trial%20Results%20-%20New%20High%20Scores.mp3"
+    },
+    {
+      "title": "Time Trial Results - In Rankings",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/qmncymng/3-04.%20Time%20Trial%20Results%20-%20In%20Rankings.mp3"
+    },
+    {
+      "title": "Time Trial Results - No Rankings",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/pgkhgiwl/3-05.%20Time%20Trial%20Results%20-%20No%20Rankings.mp3"
+    },
+    {
+      "title": "Battle Flyover",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/nhvhbjpw/3-06.%20Battle%20Flyover.mp3"
+    },
+    {
+      "title": "Starting Grid (Battle - Mission Mode)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/jcktmdgx/3-07.%20Starting%20Grid%20%28Battle%20-%20Mission%20Mode%29.mp3"
+    },
+    {
+      "title": "Battle Mode",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/ogoboqov/3-08.%20Battle%20Mode.mp3"
+    },
+    {
+      "title": "Battle Mode (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/mxdxbqac/3-09.%20Battle%20Mode%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Mission Mode - Level 6 unlocked",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/olpoakyo/3-10.%20Mission%20Mode%20-%20Level%206%20unlocked.mp3"
+    },
+    {
+      "title": "Mission Mode - Level 7 unlocked",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/yaiotdjk/3-11.%20Mission%20Mode%20-%20Level%207%20unlocked.mp3"
+    },
+    {
+      "title": "Multiplayer Results - Win - Mission Complete",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/zqhoxwrq/3-12.%20Multiplayer%20Results%20-%20Win%20-%20Mission%20Complete.mp3"
+    },
+    {
+      "title": "Multiplayer Results - Draw",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/gjciiqgg/3-13.%20Multiplayer%20Results%20-%20Draw.mp3"
+    },
+    {
+      "title": "Multiplayer Results - Lose",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/pedeklbx/3-14.%20Multiplayer%20Results%20-%20Lose.mp3"
+    },
+    {
+      "title": "Coin Mission",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/ufqnrxkh/3-15.%20Coin%20Mission.mp3"
+    },
+    {
+      "title": "Coin Mission (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/gixnyfdc/3-16.%20Coin%20Mission%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Mission Failure",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/bzsqaeww/3-17.%20Mission%20Failure.mp3"
+    },
+    {
+      "title": "Mission Success",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/qrmhzdth/3-18.%20Mission%20Success.mp3"
+    },
+    {
+      "title": "Mission Success - Low Rating",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/fdbzqecw/3-19.%20Mission%20Success%20-%20Low%20Rating.mp3"
+    },
+    {
+      "title": "Finish! 2nd-3rd (VS. Race)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/cxdaskyn/3-20.%20Finish%21%202nd-3rd%20%28VS.%20Race%29.mp3"
+    },
+    {
+      "title": "Finish! 1st Place (VS. Race)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/thcoobqa/3-21.%20Finish%21%201st%20Place%20%28VS.%20Race%29.mp3"
+    },
+    {
+      "title": "New Record!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/fybnmvrv/3-22.%20New%20Record%21.mp3"
+    },
+    {
+      "title": "Boss Mission Start",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/czrkymsa/3-23.%20Boss%20Mission%20Start.mp3"
+    },
+    {
+      "title": "Boss Battle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/ytyketdk/3-24.%20Boss%20Battle.mp3"
+    },
+    {
+      "title": "Boss Battle (Final Lap)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/qywmulyh/3-25.%20Boss%20Battle%20%28Final%20Lap%29.mp3"
+    },
+    {
+      "title": "Boss Mission Success",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/qjvdfrri/3-26.%20Boss%20Mission%20Success.mp3"
+    },
+    {
+      "title": "Super Star",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/wrwhuemw/3-27.%20Super%20Star.mp3"
+    },
+    {
+      "title": "Chain Chomp (Mission 5-1)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-ds/smhzzzae/3-28.%20Chain%20Chomp%20%28Mission%205-1%29.mp3"
+    }
+  ]
+}

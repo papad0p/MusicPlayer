@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+    <link rel="stylesheet" href="player.css">
+    <script src="player.js" defer></script>
+    <script src="https://kit.fontawesome.com/9b6d1f3105.js" crossorigin="anonymous"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+
+    <button id="back-btn" onclick="backBtn()"><i class="fa-solid fa-left-long"></i></button>
+
+    <div class="cont">
+        <div id="playlist-info">
+            <img id="album-art" src="" alt="Cover Art">
+            <h1 id="game-title"></h1>
+            <p id="desc"></p>
+        </div>
+        <div id="playlist"></div>
+    </div>
+        
+
+        <audio id="audio-player"></audio>
+
+        <div class="music-controls">
+            <h2 id="song-title">No Song Playing</h2>
+            <input type="range" id="seek-bar" value="0" min="0" step="any">
+
+            <div class="control-btns">
+                <button></button>
+                <button onclick="prevTrack()"><i class="fa-solid fa-backward"></i></button>
+                <button onclick="togglePlay()" id="play-pause" ><i class="fa-solid fa-play"></i></button>
+                <button onclick="nextTrack()"><i class="fa-solid fa-forward"></i></button>
+                <button onclick="toggleLoop()" id="loop-btn" aria-pressed="false"><i class="fa-solid fa-repeat"></i></button>
+            </div>
+        </div>
+
+
+</body>
+</html>

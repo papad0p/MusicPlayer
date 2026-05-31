@@ -1,0 +1,525 @@
+{
+  "meta": {
+    "game_title": "Super Mario 3D Land",
+    "art": "https://mario.wiki.gallery/images/1/13/SM3DL_UScover.png",
+    "desc": "November 13th, 2011"
+  },
+  "songs": [
+    {
+      "title": "Super Mario 3D Land (HOME Menu)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/twvyipovcu/1-01.%20Super%20Mario%203D%20Land%20%28HOME%20Menu%29.mp3"
+    },
+    {
+      "title": "Title Screen",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/uypgeszlml/1-02.%20Title%20Screen.mp3"
+    },
+    {
+      "title": "Game Start",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/zqdwghjesf/1-03.%20Game%20Start.mp3"
+    },
+    {
+      "title": "Prologue 1",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/llrlqdnnpi/1-04.%20Prologue%201.mp3"
+    },
+    {
+      "title": "Prologue 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/pbhovdmjys/1-05.%20Prologue%202.mp3"
+    },
+    {
+      "title": "World 1",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/zssgbbsxdw/1-06.%20World%201.mp3"
+    },
+    {
+      "title": "Course Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/dcweugyily/1-07.%20Course%20Intro.mp3"
+    },
+    {
+      "title": "Ground Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/iygdqfpyyy/1-08.%20Ground%20Theme.mp3"
+    },
+    {
+      "title": "Hurry Up!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/qjqluucism/1-09.%20Hurry%20Up%21.mp3"
+    },
+    {
+      "title": "Ground Theme (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/shecmixajb/1-10.%20Ground%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Course Clear",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/haciyqzgfc/1-11.%20Course%20Clear.mp3"
+    },
+    {
+      "title": "Castle Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/uiyfllumnu/1-12.%20Castle%20Theme.mp3"
+    },
+    {
+      "title": "Castle Theme (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/xpfywuajyf/1-13.%20Castle%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "A Letter",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/fnqkboxtll/1-14.%20A%20Letter.mp3"
+    },
+    {
+      "title": "To the Next World",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/wczawhpqle/1-15.%20To%20the%20Next%20World.mp3"
+    },
+    {
+      "title": "World 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/qoodpphkqp/1-16.%20World%202.mp3"
+    },
+    {
+      "title": "Underground Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/xrzsknkank/1-17.%20Underground%20Theme.mp3"
+    },
+    {
+      "title": "Underground Theme (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/qnfcfxaehy/1-18.%20Underground%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "World 3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/mgrrzvwpbv/1-19.%20World%203.mp3"
+    },
+    {
+      "title": "Beach Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/oacptvgzvi/1-20.%20Beach%20Theme.mp3"
+    },
+    {
+      "title": "Beach Theme (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/hwxxtvdkgs/1-21.%20Beach%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Beach Theme (Underwater)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/ewqeqmxofv/1-22.%20Beach%20Theme%20%28Underwater%29.mp3"
+    },
+    {
+      "title": "Beach Theme (Underwater) [Hurry Up!]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/tgybqxbeje/1-23.%20Beach%20Theme%20%28Underwater%29%20%5BHurry%20Up%21%5D.mp3"
+    },
+    {
+      "title": "Photo Album Open",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/pliptmedou/1-24.%20Photo%20Album%20Open.mp3"
+    },
+    {
+      "title": "Photo Album Close",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/coazohxkob/1-25.%20Photo%20Album%20Close.mp3"
+    },
+    {
+      "title": "World 4",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/cpxnmrimuz/1-26.%20World%204.mp3"
+    },
+    {
+      "title": "Athletic Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/giumktuobp/1-27.%20Athletic%20Theme.mp3"
+    },
+    {
+      "title": "Athletic Theme (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/ykemwxmukw/1-28.%20Athletic%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Course Clear (Special)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/nhkhaioasx/1-29.%20Course%20Clear%20%28Special%29.mp3"
+    },
+    {
+      "title": "World 5",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/axltfsxdus/1-30.%20World%205.mp3"
+    },
+    {
+      "title": "Desert Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/jrmylgaodq/1-31.%20Desert%20Theme.mp3"
+    },
+    {
+      "title": "Desert Theme (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/jlepbuuliu/1-32.%20Desert%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Puzzle Solved",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/oorsjkgaxm/1-33.%20Puzzle%20Solved.mp3"
+    },
+    {
+      "title": "Puzzle Solved (3D Land)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/yssxqyappz/1-34.%20Puzzle%20Solved%20%283D%20Land%29.mp3"
+    },
+    {
+      "title": "Medium Puzzle Solved",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/fnpfpvtihg/1-35.%20Medium%20Puzzle%20Solved.mp3"
+    },
+    {
+      "title": "Small Puzzle Solved",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/idzujgkhau/1-36.%20Small%20Puzzle%20Solved.mp3"
+    },
+    {
+      "title": "World 6",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/shgzepecnp/1-37.%20World%206.mp3"
+    },
+    {
+      "title": "Snow Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/loherqcoqt/1-38.%20Snow%20Theme.mp3"
+    },
+    {
+      "title": "Snow Theme (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/mkyehdzbvw/1-39.%20Snow%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "World 7",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/icwmqekvrh/1-40.%20World%207.mp3"
+    },
+    {
+      "title": "Clock Tower",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/eauagttwnz/1-41.%20Clock%20Tower.mp3"
+    },
+    {
+      "title": "Clock Tower (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/vmaxfyxfgo/1-42.%20Clock%20Tower%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Boom Boom Battle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/ehighdqejc/1-43.%20Boom%20Boom%20Battle.mp3"
+    },
+    {
+      "title": "Boom Boom Battle (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/dhinwhnxcg/1-44.%20Boom%20Boom%20Battle%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Boom Boom Battle - Stomp Hit",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/hdbvhpdhrb/1-45.%20Boom%20Boom%20Battle%20-%20Stomp%20Hit.mp3"
+    },
+    {
+      "title": "Boom Boom Battle - Blow Damage",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/tdtetzsuke/1-46.%20Boom%20Boom%20Battle%20-%20Blow%20Damage.mp3"
+    },
+    {
+      "title": "Boom Boom Battle - Final Hit",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/rrllvghzwd/1-47.%20Boom%20Boom%20Battle%20-%20Final%20Hit.mp3"
+    },
+    {
+      "title": "The Final Letter",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/zfkauqyprx/1-48.%20The%20Final%20Letter.mp3"
+    },
+    {
+      "title": "To the Final World",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/gjbskkvgoz/1-49.%20To%20the%20Final%20World.mp3"
+    },
+    {
+      "title": "World 8",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/lvqhozxohs/1-50.%20World%208.mp3"
+    },
+    {
+      "title": "Castle Theme (World 8)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/rtyaaqjpkn/1-51.%20Castle%20Theme%20%28World%208%29.mp3"
+    },
+    {
+      "title": "Castle Theme (World 8) [Hurry Up!]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/irjgggavch/1-52.%20Castle%20Theme%20%28World%208%29%20%5BHurry%20Up%21%5D.mp3"
+    },
+    {
+      "title": "World 8 (Bowser's Castle)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/jxxqdyilmg/1-53.%20World%208%20%28Bowser%27s%20Castle%29.mp3"
+    },
+    {
+      "title": "Bowser Battle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/lsmovutnzi/1-54.%20Bowser%20Battle.mp3"
+    },
+    {
+      "title": "Bowser Battle (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/gmjpetnxxs/1-55.%20Bowser%20Battle%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Fake Bowser Uncovered",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/cmolvqnuxw/1-56.%20Fake%20Bowser%20Uncovered.mp3"
+    },
+    {
+      "title": "Victory Parade",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/oskaqgjnip/1-57.%20Victory%20Parade.mp3"
+    },
+    {
+      "title": "Victory Parade (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/ytnwlyygcs/1-58.%20Victory%20Parade%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "World Clear",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/lowqqryiuz/1-59.%20World%20Clear.mp3"
+    },
+    {
+      "title": "Special World 1",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/fiumjfpyar/2-01.%20Special%20World%201.mp3"
+    },
+    {
+      "title": "Rainbow Park",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/oqhojworlw/2-02.%20Rainbow%20Park.mp3"
+    },
+    {
+      "title": "Rainbow Park (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/xnvrjvtgpl/2-03.%20Rainbow%20Park%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Super Star",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/oeisvyyttt/2-04.%20Super%20Star.mp3"
+    },
+    {
+      "title": "Special World 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/tycbtbttht/2-05.%20Special%20World%202.mp3"
+    },
+    {
+      "title": "Block Land",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/cqvrbcsapx/2-06.%20Block%20Land.mp3"
+    },
+    {
+      "title": "Block Land (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/sfaenxsvbp/2-07.%20Block%20Land%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Special World 3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/jlmhooejdl/2-08.%20Special%20World%203.mp3"
+    },
+    {
+      "title": "Beep Block Beat (Three In a Row)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/bisyejzwvz/2-09.%20Beep%20Block%20Beat%20%28Three%20In%20a%20Row%29.mp3"
+    },
+    {
+      "title": "Special World 4",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/sabejipkpk/2-10.%20Special%20World%204.mp3"
+    },
+    {
+      "title": "Mystery Box",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/xwvsyuktim/2-11.%20Mystery%20Box.mp3"
+    },
+    {
+      "title": "Toad House (Outside)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/xgwpfumndy/2-12.%20Toad%20House%20%28Outside%29.mp3"
+    },
+    {
+      "title": "Toad House (Inside)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/hzgjcpdsgh/2-13.%20Toad%20House%20%28Inside%29.mp3"
+    },
+    {
+      "title": "Gift Box Open Gold",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/zwrudnrgph/2-14.%20Gift%20Box%20Open%20Gold.mp3"
+    },
+    {
+      "title": "Gift Gold Fanfare",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/ejfipybtbx/2-15.%20Gift%20Gold%20Fanfare.mp3"
+    },
+    {
+      "title": "Deluxe Gift Get",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/uhfylikypy/2-16.%20Deluxe%20Gift%20Get.mp3"
+    },
+    {
+      "title": "Gift Box Open Silver",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/qhcqpoeqgl/2-17.%20Gift%20Box%20Open%20Silver.mp3"
+    },
+    {
+      "title": "Gift Silver Fanfare",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/kyvnjrntyn/2-18.%20Gift%20Silver%20Fanfare.mp3"
+    },
+    {
+      "title": "Silver Gift Get",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/wexacusfaj/2-19.%20Silver%20Gift%20Get.mp3"
+    },
+    {
+      "title": "Special World 5",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/dhbuujlmyf/2-20.%20Special%20World%205.mp3"
+    },
+    {
+      "title": "Ghost House Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/vztxpdbhnc/2-21.%20Ghost%20House%20Theme.mp3"
+    },
+    {
+      "title": "Ghost House Theme (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/bmqhlokrnz/2-22.%20Ghost%20House%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Too Bad!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/lpzwsckfzk/2-23.%20Too%20Bad%21.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/awymvmrxxl/2-24.%20Game%20Over.mp3"
+    },
+    {
+      "title": "Special World 6",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/tppzbbtsek/2-25.%20Special%20World%206.mp3"
+    },
+    {
+      "title": "Cosmic Clone",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/ouxaoecpxy/2-26.%20Cosmic%20Clone.mp3"
+    },
+    {
+      "title": "Cosmic Clone (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/faqftxxtor/2-27.%20Cosmic%20Clone%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Special World 7",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/cnocsffhwk/2-28.%20Special%20World%207.mp3"
+    },
+    {
+      "title": "Beep Block Beat (One By One)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/ytlfqafacl/2-29.%20Beep%20Block%20Beat%20%28One%20By%20One%29.mp3"
+    },
+    {
+      "title": "Special World 8",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/mfbefvjxci/2-30.%20Special%20World%208.mp3"
+    },
+    {
+      "title": "Airship Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/emdthqnjuy/2-31.%20Airship%20Theme.mp3"
+    },
+    {
+      "title": "Airship Theme (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/sckuvjiudz/2-32.%20Airship%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Pom Pom Battle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/viuzlzlrcu/2-33.%20Pom%20Pom%20Battle.mp3"
+    },
+    {
+      "title": "Pom Pom Battle (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/ivmazhderp/2-34.%20Pom%20Pom%20Battle%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Pom Pom Battle - Press Down",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/aqgweacavi/2-35.%20Pom%20Pom%20Battle%20-%20Press%20Down.mp3"
+    },
+    {
+      "title": "Pom Pom Battle - Tail Down",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/sjqbdyvshr/2-36.%20Pom%20Pom%20Battle%20-%20Tail%20Down.mp3"
+    },
+    {
+      "title": "Pom Pom Battle - Final Hit",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/bgfhdtzmed/2-37.%20Pom%20Pom%20Battle%20-%20Final%20Hit.mp3"
+    },
+    {
+      "title": "Bowser Stage Start",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/ygkygbilje/2-38.%20Bowser%20Stage%20Start.mp3"
+    },
+    {
+      "title": "Bowser's Castle Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/hrzsdfmgwg/2-39.%20Bowser%27s%20Castle%20Theme.mp3"
+    },
+    {
+      "title": "Bowser's Castle Theme (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/qqoixwhohc/2-40.%20Bowser%27s%20Castle%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Confrontation With Bowser",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/psxswnzifc/2-41.%20Confrontation%20With%20Bowser.mp3"
+    },
+    {
+      "title": "Final Bowser Battle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/qptxbdldbe/2-42.%20Final%20Bowser%20Battle.mp3"
+    },
+    {
+      "title": "Final Bowser Battle (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/ogamltrmiw/2-43.%20Final%20Bowser%20Battle%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Bowser's Defeat",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/oawqnuhodg/2-44.%20Bowser%27s%20Defeat.mp3"
+    },
+    {
+      "title": "Bowser's Defeat (Hurry Up!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/olfgsafdid/2-45.%20Bowser%27s%20Defeat%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Princess Peach Rescued",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/cuotpdncqn/2-46.%20Princess%20Peach%20Rescued.mp3"
+    },
+    {
+      "title": "Staff Roll",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/brxzgqhrpa/2-47.%20Staff%20Roll.mp3"
+    },
+    {
+      "title": "Special World 8 (Crown)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/lumbpucucs/2-48.%20Special%20World%208%20%28Crown%29.mp3"
+    },
+    {
+      "title": "Title Screen (Alternate)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/gpujmwblwj/2-49.%20Title%20Screen%20%28Alternate%29.mp3"
+    },
+    {
+      "title": "Rainbow Road (Hurry Up!) [Alternate]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/jurvlmyhpq/2-50.%20Rainbow%20Road%20%28Hurry%20Up%21%29%20%5BAlternate%5D.mp3"
+    },
+    {
+      "title": "Course Clear (Special) [Alternate]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/dglsgzhyvj/2-51.%20Course%20Clear%20%28Special%29%20%5BAlternate%5D.mp3"
+    },
+    {
+      "title": "Course Select (E3 Demo)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/tfiqnbehtw/3-01.%20Course%20Select%20%28E3%20Demo%29.mp3"
+    },
+    {
+      "title": "Ground Theme (E3 Demo)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/popgyqbhlc/3-02.%20Ground%20Theme%20%28E3%20Demo%29.mp3"
+    },
+    {
+      "title": "Hurry Up! (E3 Demo)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/gpajtnnkop/3-03.%20Hurry%20Up%21%20%28E3%20Demo%29.mp3"
+    },
+    {
+      "title": "Ground Theme (Hurry Up!) [E3 Demo]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/qcfasqmxpq/3-04.%20Ground%20Theme%20%28Hurry%20Up%21%29%20%5BE3%20Demo%5D.mp3"
+    },
+    {
+      "title": "Course Clear (E3 Demo)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/zhnajgsnbq/3-05.%20Course%20Clear%20%28E3%20Demo%29.mp3"
+    },
+    {
+      "title": "Mystery Box (E3 Demo)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/afkcaclgrn/3-06.%20Mystery%20Box%20%28E3%20Demo%29.mp3"
+    },
+    {
+      "title": "Underground Theme (E3 Demo)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/ebccqahliq/3-07.%20Underground%20Theme%20%28E3%20Demo%29.mp3"
+    },
+    {
+      "title": "Underground Theme (Hurry Up!) [E3 Demo]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/bcdiujfqni/3-08.%20Underground%20Theme%20%28Hurry%20Up%21%29%20%5BE3%20Demo%5D.mp3"
+    },
+    {
+      "title": "Too Bad! (E3 Demo)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/rrelnfhysw/3-09.%20Too%20Bad%21%20%28E3%20Demo%29.mp3"
+    },
+    {
+      "title": "Game Over (E3 Demo)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/woaykvcznu/3-10.%20Game%20Over%20%28E3%20Demo%29.mp3"
+    },
+    {
+      "title": "Athletic Theme (E3 Demo)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/foimxulktf/3-11.%20Athletic%20Theme%20%28E3%20Demo%29.mp3"
+    },
+    {
+      "title": "Athletic Theme (Hurry Up!) [E3 Demo]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/vothdnjdeh/3-12.%20Athletic%20Theme%20%28Hurry%20Up%21%29%20%5BE3%20Demo%5D.mp3"
+    },
+    {
+      "title": "Super Star (E3 Demo)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/lhnfymbzja/3-13.%20Super%20Star%20%28E3%20Demo%29.mp3"
+    },
+    {
+      "title": "Airship Theme (E3 Demo)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/llduyzbaoq/3-14.%20Airship%20Theme%20%28E3%20Demo%29.mp3"
+    },
+    {
+      "title": "Airship Theme (Hurry Up!) [E3 Demo]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/xwsmimcftp/3-15.%20Airship%20Theme%20%28Hurry%20Up%21%29%20%5BE3%20Demo%5D.mp3"
+    },
+    {
+      "title": "Boom Boom Battle (E3 Demo)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/letkthnjiv/3-16.%20Boom%20Boom%20Battle%20%28E3%20Demo%29.mp3"
+    },
+    {
+      "title": "Boom Boom Battle (Hurry Up!) [E3 Demo]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/ctbwjvpxyu/3-17.%20Boom%20Boom%20Battle%20%28Hurry%20Up%21%29%20%5BE3%20Demo%5D.mp3"
+    },
+    {
+      "title": "Victory Parade (E3 Demo)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/moxxhdeedc/3-18.%20Victory%20Parade%20%28E3%20Demo%29.mp3"
+    },
+    {
+      "title": "Victory Parade (Hurry Up!) [E3 Demo]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/super-mario-3d-land/oqnerauhbh/3-19.%20Victory%20Parade%20%28Hurry%20Up%21%29%20%5BE3%20Demo%5D.mp3"
+    }
+  ]
+}

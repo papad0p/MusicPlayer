@@ -1,0 +1,705 @@
+{
+  "meta": {
+    "game_title": "Pokémon: HeartGold and SoulSilver",
+    "art": "https://upload.wikimedia.org/wikipedia/en/c/cb/PokemonHGSSBox.jpg",
+    "desc": "September 12th, 2009"
+  },
+  "songs": [
+    {
+      "title": "Opening Movie",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/cnweeovosq/01.%20Opening%20Movie.mp3"
+    },
+    {
+      "title": "Title Screen",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/uqkjkdritm/02.%20Title%20Screen.mp3"
+    },
+    {
+      "title": "An Adventure Begins!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ptylhusnrw/03.%20An%20Adventure%20Begins%21.mp3"
+    },
+    {
+      "title": "New Bark Town",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ynmlyzlrte/04.%20New%20Bark%20Town.mp3"
+    },
+    {
+      "title": "Hurry Along",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/sfxsgdlqvp/05.%20Hurry%20Along.mp3"
+    },
+    {
+      "title": "Lyra",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/yrwhaenwtj/06.%20Lyra.mp3"
+    },
+    {
+      "title": "Elm Pokémon Lab",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ldrvtprjfa/07.%20Elm%20Pok%C3%A9mon%20Lab.mp3"
+    },
+    {
+      "title": "Obtained a Key Item!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/mhdnpjbvym/08.%20Obtained%20a%20Key%20Item%21.mp3"
+    },
+    {
+      "title": "Route 29",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/guirxquqhu/09.%20Route%2029.mp3"
+    },
+    {
+      "title": "Battle! (Wild Pokémon)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/cczsceqeju/10.%20Battle%21%20%28Wild%20Pok%C3%A9mon%E2%80%94Johto%20Version%29.mp3"
+    },
+    {
+      "title": "Victory! (Wild Pokémon)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/syrzmfyfwh/11.%20Victory%21%20%28Wild%20Pok%C3%A9mon%29.mp3"
+    },
+    {
+      "title": "Level Up!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/dyrugyujaw/12.%20Level%20Up%21.mp3"
+    },
+    {
+      "title": "Cherrygrove City",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/jfikqolchk/13.%20Cherrygrove%20City.mp3"
+    },
+    {
+      "title": "Hurry Along",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/dibcgwwcgb/14.%20Hurry%20Along%202.mp3"
+    },
+    {
+      "title": "Pokémon Center",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/nyaijyqjri/15.%20Pok%C3%A9mon%20Center.mp3"
+    },
+    {
+      "title": "Pokémon Healed",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/vyvmavzqzw/16.%20Pok%C3%A9mon%20Healed.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Boy 1)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/rmpzioxzsn/17.%20Trainers%27%20Eyes%20Meet%20%28Boy%201%29.mp3"
+    },
+    {
+      "title": "Battle! (Trainer)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ahsmsweinf/18.%20Battle%21%20%28Trainer%E2%80%94Johto%20Version%29.mp3"
+    },
+    {
+      "title": "Victory! (Trainer)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/qlhndbikoc/19.%20Victory%21%20%28Trainer%20Battle%29.mp3"
+    },
+    {
+      "title": "Route 30",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/spkngoxgcl/20.%20Route%2030.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... No Good!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/iorbsshxqs/21.%20Pok%C3%A9dex%20Evaluation...%20No%20Good%21.mp3"
+    },
+    {
+      "title": "Violet City",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/nqudhpgcme/22.%20Violet%20City.mp3"
+    },
+    {
+      "title": "Sprout Tower",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/rvqnkmroqn/23.%20Sprout%20Tower.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Sage)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ouohecjtso/24.%20Trainers%27%20Eyes%20Meet%20%28Sage%29.mp3"
+    },
+    {
+      "title": "Poké Mart",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/sjfojymawh/25.%20Pok%C3%A9%20Mart.mp3"
+    },
+    {
+      "title": "Received a Pokémon Egg!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/fiuxkhqods/26.%20Received%20a%20Pok%C3%A9mon%20Egg%21.mp3"
+    },
+    {
+      "title": "Kimono Girl",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/dykfywesku/27.%20Kimono%20Girl.mp3"
+    },
+    {
+      "title": "Union Cave",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/phcufkrmus/28.%20Union%20Cave.mp3"
+    },
+    {
+      "title": "Picked Up an Item!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/fkwhqlnzyw/29.%20Picked%20Up%20an%20Item%21.mp3"
+    },
+    {
+      "title": "Ruins of Alph",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/zxokqgqhjr/30.%20Ruins%20of%20Alph.mp3"
+    },
+    {
+      "title": "Pokégear Radio - Unown",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/robnijfhem/31.%20Pok%C3%A9gear%20Radio%20-%20Unown.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... You're on Your Way!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/zxwqsvfdre/32.%20Pok%C3%A9dex%20Evaluation...%20You%27re%20on%20Your%20Way%21.mp3"
+    },
+    {
+      "title": "Azalea Town",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/vizqsyzbzh/33.%20Azalea%20Town.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Team Rocket)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ajpjxzgdme/34.%20Trainers%27%20Eyes%20Meet%20%28Team%20Rocket%29.mp3"
+    },
+    {
+      "title": "Battle! (Team Rocket)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/upblenfmyl/35.%20Battle%21%20%28Team%20Rocket%29.mp3"
+    },
+    {
+      "title": "Route 34",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/tjpwbxowmp/36.%20Route%2034.mp3"
+    },
+    {
+      "title": "A Rival Appears!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/aiadudrgam/37.%20A%20Rival%20Appears%21.mp3"
+    },
+    {
+      "title": "Battle! (Rival)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/cdptlkqpwv/38.%20Battle%21%20%28Rival%29.mp3"
+    },
+    {
+      "title": "Evolution",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ssbrbkcaxy/39.%20Evolution.mp3"
+    },
+    {
+      "title": "Congratulations! Your Pokémon Evolved!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/wihugvuodg/40.%20Congratulations%21%20Your%20Pok%C3%A9mon%20Evolved%21.mp3"
+    },
+    {
+      "title": "Goldenrod City",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/mnpfzvnrep/41.%20Goldenrod%20City.mp3"
+    },
+    {
+      "title": "Pokémon Gym",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/aokjhbzgax/42.%20Pok%C3%A9mon%20Gym.mp3"
+    },
+    {
+      "title": "Battle! (Gym Leader)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/bcvfnyblox/43.%20Battle%21%20%28Gym%20Leader%E2%80%94Johto%20Version%29.mp3"
+    },
+    {
+      "title": "Victory! (Gym Leader)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/xcfyrdhctn/44.%20Victory%21%20%28Gym%20Leader%29.mp3"
+    },
+    {
+      "title": "Received a Gym Badge!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/wvworndrlb/45.%20Received%20a%20Gym%20Badge%21.mp3"
+    },
+    {
+      "title": "Pokégear Radio - Pokémon Channel",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ehgeicxyrn/46.%20Pok%C3%A9gear%20Radio%20-%20Pok%C3%A9mon%20Channel.mp3"
+    },
+    {
+      "title": "Pokégear Radio - Buena's Password",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/dfrevqmsop/47.%20Pok%C3%A9gear%20Radio%20-%20Buena%27s%20Password.mp3"
+    },
+    {
+      "title": "Received a TM!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ttxkuemgmi/48.%20Received%20a%20TM%21.mp3"
+    },
+    {
+      "title": "Goldenrod Game Corner",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/rmktkfhofx/49.%20Goldenrod%20Game%20Corner.mp3"
+    },
+    {
+      "title": "Voltorb Flip Start",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/sdjsaqwjay/50.%20Voltorb%20Flip%20Start.mp3"
+    },
+    {
+      "title": "Goldenrod Game Corner (Retire)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/vfzqrigskl/51.%20Goldenrod%20Game%20Corner%20%28Retire%29.mp3"
+    },
+    {
+      "title": "You're a Winner!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/osbykgtmes/52.%20You%27re%20a%20Winner%21.mp3"
+    },
+    {
+      "title": "Obtained an Accessory",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ofpdyvfgza/53.%20Obtained%20an%20Accessory.mp3"
+    },
+    {
+      "title": "Global Terminal",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/hvlvgyedxf/54.%20Global%20Terminal.mp3"
+    },
+    {
+      "title": "Nintendo Wi-Fi Connection",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/kefcspjoni/55.%20Nintendo%20Wi-Fi%20Connection.mp3"
+    },
+    {
+      "title": "Wi-Fi Plaza",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/zmzusvgeqm/56.%20Wi-Fi%20Plaza.mp3"
+    },
+    {
+      "title": "Wi-Fi Plaza - Plaza Games",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/xyzydgjfne/57.%20Wi-Fi%20Plaza%20-%20Plaza%20Games.mp3"
+    },
+    {
+      "title": "Cleared Wobbuffet Pop!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/iyifvltwwe/58.%20Cleared%20Wobbuffet%20Pop%21.mp3"
+    },
+    {
+      "title": "Wi-Fi Plaza - Parade",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ytprhcpsmt/59.%20Wi-Fi%20Plaza%20-%20Parade.mp3"
+    },
+    {
+      "title": "Spin Trade",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/flmrmuyrbw/60.%20Spin%20Trade.mp3"
+    },
+    {
+      "title": "GTS",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/nlykpvtjps/61.%20GTS.mp3"
+    },
+    {
+      "title": "Trade",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/eibqcqremy/62.%20Trade.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... Keep at It!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/aitphyhcpx/63.%20Pok%C3%A9dex%20Evaluation...%20Keep%20at%20It%21.mp3"
+    },
+    {
+      "title": "Bicycle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/tvcgytxuec/64.%20Bicycle.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Girl 1)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/zqwbpjbdly/65.%20Trainers%27%20Eyes%20Meet%20%28Girl%201%29.mp3"
+    },
+    {
+      "title": "Registered in the Pokégear!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/avqftxinkx/66.%20Registered%20in%20the%20Pok%C3%A9gear%21.mp3"
+    },
+    {
+      "title": "National Park",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/nvqugkjrnt/67.%20National%20Park.mp3"
+    },
+    {
+      "title": "The Bug-Catching Contest Begins!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/lowyzrazoj/68.%20The%20Bug-Catching%20Contest%20Begins%21.mp3"
+    },
+    {
+      "title": "The Bug-Catching Contest",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/fgarqxtngj/69.%20The%20Bug-Catching%20Contest.mp3"
+    },
+    {
+      "title": "Bug-Catching Contest - Third Place",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/vcbzwsqldp/70.%20Bug-Catching%20Contest%20-%20Third%20Place.mp3"
+    },
+    {
+      "title": "Bug-Catching Contest - Second Place",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/vgggkdwwco/71.%20Bug-Catching%20Contest%20-%20Second%20Place.mp3"
+    },
+    {
+      "title": "Bug-Catching Contest - Winner",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/hjpueifdzv/72.%20Bug-Catching%20Contest%20-%20Winner.mp3"
+    },
+    {
+      "title": "Pokéathlon - In the Pokéathlon Dome",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/oxrojvllmv/73.%20Pok%C3%A9athlon%20-%20In%20the%20Pok%C3%A9athlon%20Dome.mp3"
+    },
+    {
+      "title": "Pokéathlon - Getting Changed",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/jcawuvwynz/74.%20Pok%C3%A9athlon%20-%20Getting%20Changed.mp3"
+    },
+    {
+      "title": "Pokéathlon - Opening Ceremony",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/fnmhhqfnwa/75.%20Pok%C3%A9athlon%20-%20Opening%20Ceremony.mp3"
+    },
+    {
+      "title": "Pokéathlon - An Event Begins!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/geoqeupher/76.%20Pok%C3%A9athlon%20-%20An%20Event%20Begins%21.mp3"
+    },
+    {
+      "title": "Pokéathlon - Event Time!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/xeotqgkrft/77.%20Pok%C3%A9athlon%20-%20Event%20Time%21.mp3"
+    },
+    {
+      "title": "Pokéathlon - In First Place!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/kjdqalhhme/78.%20Pok%C3%A9athlon%20-%20In%20First%20Place%21.mp3"
+    },
+    {
+      "title": "Pokéathlon - Finals!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/fgqpmurifb/79.%20Pok%C3%A9athlon%20-%20Finals%21.mp3"
+    },
+    {
+      "title": "Pokéathlon - Results Announcement",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/qisuvretmc/80.%20Pok%C3%A9athlon%20-%20Results%20Announcement.mp3"
+    },
+    {
+      "title": "Pokéathlon - Medal Ceremony",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/igulotjnxu/81.%20Pok%C3%A9athlon%20-%20Medal%20Ceremony.mp3"
+    },
+    {
+      "title": "Pokéathlon Winner!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/jfjltxnsye/82.%20Pok%C3%A9athlon%20Winner%21.mp3"
+    },
+    {
+      "title": "Ecruteak City",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/gzbnywowkt/83.%20Ecruteak%20City.mp3"
+    },
+    {
+      "title": "Ecruteak Dance Theater",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/qnyylnngsz/84.%20Ecruteak%20Dance%20Theater.mp3"
+    },
+    {
+      "title": "Burned Tower",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/eneyoeounv/85.%20Burned%20Tower.mp3"
+    },
+    {
+      "title": "Eusine",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/uxerfhsavf/86.%20Eusine.mp3"
+    },
+    {
+      "title": "Pokégear Radio - Professor Oak's Pokémon Talk",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ndpfedrjri/87.%20Pok%C3%A9gear%20Radio%20-%20Professor%20Oak%27s%20Pok%C3%A9mon%20Talk.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... Not Bad!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/vawdweaasw/88.%20Pok%C3%A9dex%20Evaluation...%20Not%20Bad%21.mp3"
+    },
+    {
+      "title": "Route 38",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ektcxqddup/89.%20Route%2038.mp3"
+    },
+    {
+      "title": "Obtained a Berry!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/zywxjxvois/90.%20Obtained%20a%20Berry%21.mp3"
+    },
+    {
+      "title": "Pokégear Radio - Pokémon March",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/jxzbqwierd/91.%20Pok%C3%A9gear%20Radio%20-%20Pok%C3%A9mon%20March.mp3"
+    },
+    {
+      "title": "Battle! (Raikou)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/kyvngruzlr/92.%20Battle%21%20%28Raikou%29.mp3"
+    },
+    {
+      "title": "Olivine Lighthouse",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/hgftuztbgd/93.%20Olivine%20Lighthouse.mp3"
+    },
+    {
+      "title": "Surf",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/zrouotflqc/94.%20Surf.mp3"
+    },
+    {
+      "title": "Cianwood City",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/gqybyumxmr/95.%20Cianwood%20City.mp3"
+    },
+    {
+      "title": "Received a Pokémon!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/mahkjflkfs/96.%20Received%20a%20Pok%C3%A9mon%21.mp3"
+    },
+    {
+      "title": "Route 42",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/vmawgvxjxh/97.%20Route%2042.mp3"
+    },
+    {
+      "title": "Radio Transmission",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ksoiuondjw/98.%20Radio%20Transmission.mp3"
+    },
+    {
+      "title": "Team Rocket HQ",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/uzzhtdhgkj/99.%20Team%20Rocket%20HQ.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Suspicious Figure 1)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/tscifihnkr/100.%20Trainers%27%20Eyes%20Meet%20%28Suspicious%20Figure%201%29.mp3"
+    },
+    {
+      "title": "A Rival Appears! (Version 2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/jznujzuduo/101.%20A%20Rival%20Appears%21%20%28Version%202%29.mp3"
+    },
+    {
+      "title": "Radio Tower Occupied!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/etvctwokui/102.%20Radio%20Tower%20Occupied%21.mp3"
+    },
+    {
+      "title": "Ice Path",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/vcaihyhjea/103.%20Ice%20Path.mp3"
+    },
+    {
+      "title": "Move Deleted",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/wicfdpotid/104.%20Move%20Deleted.mp3"
+    },
+    {
+      "title": "Dragon's Den",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/yodqfarsja/105.%20Dragon%27s%20Den.mp3"
+    },
+    {
+      "title": "Clair",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/rtaqjqorjl/106.%20Clair.mp3"
+    },
+    {
+      "title": "Battle! (Entei)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/pfyrgugvar/107.%20Battle%21%20%28Entei%29.mp3"
+    },
+    {
+      "title": "Bell Tower",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/zhfbgfsawt/108.%20Bell%20Tower.mp3"
+    },
+    {
+      "title": "The Dance of Ecruteak",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/qntbwpsvuq/109.%20The%20Dance%20of%20Ecruteak.mp3"
+    },
+    {
+      "title": "Ho-Oh Appears!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/utqwwvoarc/110.%20Ho-Oh%20Appears%21.mp3"
+    },
+    {
+      "title": "Battle! (Ho-Oh)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/kllnkzijwg/111.%20Battle%21%20%28Ho-Oh%29.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Kimono Girl)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ptbrbawlli/112.%20Trainers%27%20Eyes%20Meet%20%28Kimono%20Girl%29.mp3"
+    },
+    {
+      "title": "Lugia Appears!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/aclgqfrhpo/113.%20Lugia%20Appears%21.mp3"
+    },
+    {
+      "title": "Battle! (Lugia)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/unoqdtxtda/114.%20Battle%21%20%28Lugia%29.mp3"
+    },
+    {
+      "title": "Route 26",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/slqkpxpljz/115.%20Route%2026.mp3"
+    },
+    {
+      "title": "S.S. Aqua",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/rfxpirqnqg/116.%20S.S.%20Aqua.mp3"
+    },
+    {
+      "title": "Vermilion City",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ttvepitbke/117.%20Vermilion%20City.mp3"
+    },
+    {
+      "title": "Battle! (Gym Leader—Kanto Version)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/icnzkqweju/118.%20Battle%21%20%28Gym%20Leader%E2%80%94Kanto%20Version%29.mp3"
+    },
+    {
+      "title": "Lavender Town",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/xiatdqqydy/119.%20Lavender%20Town.mp3"
+    },
+    {
+      "title": "Rock Tunnel",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/woteuhenut/120.%20Rock%20Tunnel.mp3"
+    },
+    {
+      "title": "Battle! (Wild Pokémon—Kanto Version)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/gyyteltrso/121.%20Battle%21%20%28Wild%20Pok%C3%A9mon%E2%80%94Kanto%20Version%29.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... Just a Little More!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/nzzcsaxaog/122.%20Pok%C3%A9dex%20Evaluation...%20Just%20a%20Little%20More%21.mp3"
+    },
+    {
+      "title": "Cerulean City",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/crunragptu/123.%20Cerulean%20City.mp3"
+    },
+    {
+      "title": "Route 24",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/xqriikqmlk/124.%20Route%2024.mp3"
+    },
+    {
+      "title": "Magnet Train",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/jyxzsragcv/125.%20Magnet%20Train.mp3"
+    },
+    {
+      "title": "Pokégear Radio - Pokémon Lullaby",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/lhlehulbnn/126.%20Pok%C3%A9gear%20Radio%20-%20Pok%C3%A9mon%20Lullaby.mp3"
+    },
+    {
+      "title": "Battle! (Suicune)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/zbcbgplgrk/127.%20Battle%21%20%28Suicune%29.mp3"
+    },
+    {
+      "title": "Celadon City",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/fhemllrian/128.%20Celadon%20City.mp3"
+    },
+    {
+      "title": "Ethan",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/xbneylxmad/129.%20Ethan.mp3"
+    },
+    {
+      "title": "Route 11",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/tqvhihuplr/130.%20Route%2011.mp3"
+    },
+    {
+      "title": "Pokégear Radio - Poké Flute",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/kqcxkdtxlh/131.%20Pok%C3%A9gear%20Radio%20-%20Pok%C3%A9%20Flute.mp3"
+    },
+    {
+      "title": "Viridian Forest",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/pakricnzid/132.%20Viridian%20Forest.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Boy 2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/qmveppblbk/133.%20Trainers%27%20Eyes%20Meet%20%28Boy%202%29.mp3"
+    },
+    {
+      "title": "Pewter City",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/axbdnwuvya/134.%20Pewter%20City.mp3"
+    },
+    {
+      "title": "Route 3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/nttzepbfpm/135.%20Route%203.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Suspicious Figure 2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ezjqnyibvh/136.%20Trainers%27%20Eyes%20Meet%20%28Suspicious%20Figure%202%29.mp3"
+    },
+    {
+      "title": "Mt. Moon",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/vphedjjncc/137.%20Mt.%20Moon.mp3"
+    },
+    {
+      "title": "Route 1",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/qviwdfydvi/138.%20Route%201.mp3"
+    },
+    {
+      "title": "Pallet Town",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/asozwwvbgj/139.%20Pallet%20Town.mp3"
+    },
+    {
+      "title": "Professor Oak",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/mnmbodxqfp/140.%20Professor%20Oak.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... Complete!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/jdpgzbmffz/141.%20Pok%C3%A9dex%20Evaluation...%20Complete%21.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Girl 2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/patzbdnffx/142.%20Trainers%27%20Eyes%20Meet%20%28Girl%202%29.mp3"
+    },
+    {
+      "title": "Battle! (Trainer Battle—Kanto Version)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/fdlqwnraiv/143.%20Battle%21%20%28Trainer%20Battle%E2%80%94Kanto%20Version%29.mp3"
+    },
+    {
+      "title": "Cinnabar Island",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/lnirgsemcm/144.%20Cinnabar%20Island.mp3"
+    },
+    {
+      "title": "Route 47",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/reqhgezzso/145.%20Route%2047.mp3"
+    },
+    {
+      "title": "Safari Zone Gate",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/fjmbpieeiy/146.%20Safari%20Zone%20Gate.mp3"
+    },
+    {
+      "title": "Safari Zone",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/rqlxldflmu/147.%20Safari%20Zone.mp3"
+    },
+    {
+      "title": "Pokégear Radio - Variety Channel",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/weretmxfgg/148.%20Pok%C3%A9gear%20Radio%20-%20Variety%20Channel.mp3"
+    },
+    {
+      "title": "Pokégear Radio - Trainer Channel",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/cibtyfecfr/149.%20Pok%C3%A9gear%20Radio%20-%20Trainer%20Channel.mp3"
+    },
+    {
+      "title": "Victory Road",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ttxxcidtuk/150.%20Victory%20Road.mp3"
+    },
+    {
+      "title": "The Pokémon League",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/migegttqfj/151.%20The%20Pok%C3%A9mon%20League.mp3"
+    },
+    {
+      "title": "Battle! (Champion)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/tujhxqtksj/152.%20Battle%21%20%28Champion%29.mp3"
+    },
+    {
+      "title": "The Hall of Fame",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/chjubuulpb/153.%20The%20Hall%20of%20Fame.mp3"
+    },
+    {
+      "title": "Ending Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/arjdybwuzg/154.%20Ending%20Theme.mp3"
+    },
+    {
+      "title": "THE END",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/eozxghyawc/155.%20THE%20END.mp3"
+    },
+    {
+      "title": "Pokéwalker",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/hqxxqtzxzb/156.%20Pok%C3%A9walker.mp3"
+    },
+    {
+      "title": "Pokégear Radio - Route 101",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/uppuqbcait/157.%20Pok%C3%A9gear%20Radio%20-%20Route%20101.mp3"
+    },
+    {
+      "title": "Battle! (Super-Ancient Pokémon)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ziuagdwcot/158.%20Battle%21%20%28Super-Ancient%20Pok%C3%A9mon%29.mp3"
+    },
+    {
+      "title": "Battle Tower Reception Desk",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/dqxrkojacn/159.%20Battle%20Tower%20Reception%20Desk.mp3"
+    },
+    {
+      "title": "Battle Tower (Johto)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ghxxkzyxad/160.%20Battle%20Tower%20%28Johto%29.mp3"
+    },
+    {
+      "title": "Received Battle Points!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/fwruvhwjem/161.%20Received%20Battle%20Points%21.mp3"
+    },
+    {
+      "title": "Battle Factory",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/adojhqefzm/162.%20Battle%20Factory.mp3"
+    },
+    {
+      "title": "Battle Hall",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/eohsebafjv/163.%20Battle%20Hall.mp3"
+    },
+    {
+      "title": "Battle Arcade",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/lgznmkejda/164.%20Battle%20Arcade.mp3"
+    },
+    {
+      "title": "Received Battle Points in the Battle Arcade!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/qbcemvtvlf/165.%20Received%20Battle%20Points%20in%20the%20Battle%20Arcade%21.mp3"
+    },
+    {
+      "title": "Battle Castle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/mnfngmalyw/166.%20Battle%20Castle.mp3"
+    },
+    {
+      "title": "Received Castle Points!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/nwkagtoxhm/167.%20Received%20Castle%20Points%21.mp3"
+    },
+    {
+      "title": "Battle! (Frontier Brain)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ojyjihlajp/168.%20Battle%21%20%28Frontier%20Brain%29.mp3"
+    },
+    {
+      "title": "Victory! (Frontier Brain)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/iducvriwtz/169.%20Victory%21%20%28Frontier%20Brain%29.mp3"
+    },
+    {
+      "title": "Mystery Gift",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/yooennvwjs/170.%20Mystery%20Gift.mp3"
+    },
+    {
+      "title": "Spiky-Eared Pichu Appears!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ukgwtvkyzr/171.%20Spiky-Eared%20Pichu%20Appears%21.mp3"
+    },
+    {
+      "title": "Pokégear Radio - Route 201",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/fepechsusv/172.%20Pok%C3%A9gear%20Radio%20-%20Route%20201.mp3"
+    },
+    {
+      "title": "Sinjoh Ruins",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/omzpgseqxa/173.%20Sinjoh%20Ruins.mp3"
+    },
+    {
+      "title": "Arceus",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-heartgold-and-soulsilver/ncxjhtincx/174.%20Arceus.mp3"
+    }
+  ]
+}
