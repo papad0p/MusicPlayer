@@ -61,11 +61,11 @@ body {
     
 }
 #playlist-info img {
-    width: 100%;
+    /* width: 100%; */
     /* height: 100%; */
     max-width: 30em;
     max-height: 45vh;
-    border-radius: 30px;
+    border-radius: 20px;
     object-fit: contain;
     flex-shrink: 0;
     display: grid;
