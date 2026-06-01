@@ -3,7 +3,9 @@ body {
     color: #eee;
     font-family: inter;
 }
-
+a {
+    color: #4da8da;
+}
 h2 {
     /* text-align: center; */
     margin: 0.5em;
