@@ -69,3 +69,10 @@ li:hover {
   color: white;
 
 }
+
+@media (max-width: 780px) {
+    li {
+        padding: 1.2em 1em;
+    }
+    
+}

@@ -272,6 +272,10 @@ body {
         margin: 0;
         padding: 0;
     }
+
+.song-bar {
+    padding: 1.2em 1em;    
+}
     
     /* .music-controls h2, input {
         max-width: calc(100vw - 1em);
