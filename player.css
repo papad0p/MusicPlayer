@@ -276,8 +276,9 @@ body {
 .song-bar {
     padding: 1.2em 1em;    
 }
+    #playlist {
+        margin-bottom: 22em;
+    }
     
-    /* .music-controls h2, input {
-        max-width: calc(100vw - 1em);
-    } */
+
 }
