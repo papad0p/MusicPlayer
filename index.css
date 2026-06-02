@@ -74,5 +74,7 @@ li:hover {
     li {
         padding: 1.2em 1em;
     }
-    
+    .new-playlist::after {
+        right: 2%;
+    }
 }
