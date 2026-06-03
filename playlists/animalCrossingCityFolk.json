@@ -1,0 +1,1265 @@
+{
+  "meta": {
+    "game_title": "Animal Crossing: City Folk",
+    "art": "https://dodo.ac/np/images/0/09/CF_Box_NA.jpg",
+    "desc": "November 16, 2008"
+  },
+  "songs": [
+    {
+      "title": "Channel Intro",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/oycomsfy/001%20-%20Channel%20Intro.mp3"
+    },
+    {
+      "title": "Title",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/zbkwdczt/002%20-%20Title.mp3"
+    },
+    {
+      "title": "Rover's Introduction",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/rfzhovne/003%20-%20Rover%27s%20Introduction.mp3"
+    },
+    {
+      "title": "In Kapp'n's Bus",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/fpjysslb/004%20-%20In%20Kapp%27n%27s%20Bus.mp3"
+    },
+    {
+      "title": "Arrival in Town",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/avcbzrmk/005%20-%20Arrival%20in%20Town.mp3"
+    },
+    {
+      "title": "Looking for a House",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/qvjhhqit/006%20-%20Looking%20for%20a%20House.mp3"
+    },
+    {
+      "title": "Bought The House",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/rdsetdlx/007%20-%20Bought%20The%20House.mp3"
+    },
+    {
+      "title": "Got the House",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/dxdasmid/008%20-%20Got%20the%20House.mp3"
+    },
+    {
+      "title": "Working for Nook",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/qvdhbmcd/009%20-%20Working%20for%20Nook.mp3"
+    },
+    {
+      "title": "Achievement",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ifecaxia/010%20-%20Achievement.mp3"
+    },
+    {
+      "title": "Town Hall (Pelly)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/aacmbxiv/011%20-%20Town%20Hall%20%28Pelly%29.mp3"
+    },
+    {
+      "title": "Town Hall (Phyllis)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/grsnnydw/012%20-%20Town%20Hall%20%28Phyllis%29.mp3"
+    },
+    {
+      "title": "Default Town Tune",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/xyblynrx/013%20-%20Default%20Town%20Tune.mp3"
+    },
+    {
+      "title": "Mr. Resetti",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/nulvvpox/014%20-%20Mr.%20Resetti.mp3"
+    },
+    {
+      "title": "Don Resetti",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/yxtauzml/015%20-%20Don%20Resetti.mp3"
+    },
+    {
+      "title": "Attic",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/tjslzqgh/016%20-%20Attic.mp3"
+    },
+    {
+      "title": "Get Item",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ubylndfq/017%20-%20Get%20Item.mp3"
+    },
+    {
+      "title": "Nook's Cranny",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/pzexboqo/018%20-%20Nook%27s%20Cranny.mp3"
+    },
+    {
+      "title": "Nook 'n' Go",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ujmgtava/019%20-%20Nook%20%27n%27%20Go.mp3"
+    },
+    {
+      "title": "Nookway",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/toqnsxkk/020%20-%20Nookway.mp3"
+    },
+    {
+      "title": "Nookington's",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/shlhdvsd/021%20-%20Nookington%27s.mp3"
+    },
+    {
+      "title": "Nookington's (Closing Time)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/mcxiytxf/022%20-%20Nookington%27s%20%28Closing%20Time%29.mp3"
+    },
+    {
+      "title": "Able Sisters",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/jetgybky/023%20-%20Able%20Sisters.mp3"
+    },
+    {
+      "title": "Town Gate",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/khcshgja/024%20-%20Town%20Gate.mp3"
+    },
+    {
+      "title": "Museum (Entrance)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/clvvrvdg/025%20-%20Museum%20%28Entrance%29.mp3"
+    },
+    {
+      "title": "Museum (Paintings)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/udkptzsp/026%20-%20Museum%20%28Paintings%29.mp3"
+    },
+    {
+      "title": "Museum (Fossils)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/tawhvicm/027%20-%20Museum%20%28Fossils%29.mp3"
+    },
+    {
+      "title": "Museum (Fish)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/bzrkceog/028%20-%20Museum%20%28Fish%29.mp3"
+    },
+    {
+      "title": "Museum (Observatory)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/phqgkihn/029%20-%20Museum%20%28Observatory%29.mp3"
+    },
+    {
+      "title": "Museum (Stargazing)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/tervcykg/030%20-%20Museum%20%28Stargazing%29.mp3"
+    },
+    {
+      "title": "Museum (Bugs)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/crdqtvwx/031%20-%20Museum%20%28Bugs%29.mp3"
+    },
+    {
+      "title": "The Roost",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/voflonww/032%20-%20The%20Roost.mp3"
+    },
+    {
+      "title": "Drink Coffee",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/qpduqwhw/033%20-%20Drink%20Coffee.mp3"
+    },
+    {
+      "title": "Bee Chase",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/nbreumyk/034%20-%20Bee%20Chase.mp3"
+    },
+    {
+      "title": "Bee Sting",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/eqrnmyhp/035%20-%20Bee%20Sting.mp3"
+    },
+    {
+      "title": "Attacked By A Tarantula",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/boqmndce/036%20-%20Attacked%20By%20A%20Tarantula.mp3"
+    },
+    {
+      "title": "Midnight (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/mvvoibeu/037%20-%20Midnight%20%28Normal%29.mp3"
+    },
+    {
+      "title": "1 AM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/jlfqpahk/038%20-%201%20AM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "2 AM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/gybkxfjh/039%20-%202%20AM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "3 AM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/gjdmdcdk/040%20-%203%20AM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "4 AM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/qzyviewv/041%20-%204%20AM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "5 AM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/oiystoql/042%20-%205%20AM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "6 AM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/jmgwmxzf/043%20-%206%20AM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "7 AM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/cyivejip/044%20-%207%20AM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "8 AM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/agdygmrw/045%20-%208%20AM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "9 AM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/kikcfuhc/046%20-%209%20AM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "10 AM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/rcimifed/047%20-%2010%20AM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "11 AM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/fpkdohwm/048%20-%2011%20AM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "Noon (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/vszwhxsu/049%20-%20Noon%20%28Normal%29.mp3"
+    },
+    {
+      "title": "1 PM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/xbnnygiz/050%20-%201%20PM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "2 PM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/xqkbeqrn/051%20-%202%20PM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "3 PM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/pljpudhb/052%20-%203%20PM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "4 PM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/memvuijt/053%20-%204%20PM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "5 PM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/tlzowrtu/054%20-%205%20PM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "6 PM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/qvfocyht/055%20-%206%20PM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "7 PM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/tqwkkxeg/056%20-%207%20PM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "8 PM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/rpbkxgoz/057%20-%208%20PM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "9 PM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/gkfwrvbu/058%20-%209%20PM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "10 PM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/wwvofkkv/059%20-%2010%20PM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "11 PM (Normal)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ygkiirld/060%20-%2011%20PM%20%28Normal%29.mp3"
+    },
+    {
+      "title": "The City Intro",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/jldgyads/061%20-%20The%20City%20Intro.mp3"
+    },
+    {
+      "title": "The City (Morning)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/erubvbsk/062%20-%20The%20City%20%28Morning%29.mp3"
+    },
+    {
+      "title": "The City (New Hour)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/wbuupqle/063%20-%20The%20City%20%28New%20Hour%29.mp3"
+    },
+    {
+      "title": "The City (Day)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/nfjhitvw/064%20-%20The%20City%20%28Day%29.mp3"
+    },
+    {
+      "title": "The City (Evening)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/uksikdjl/065%20-%20The%20City%20%28Evening%29.mp3"
+    },
+    {
+      "title": "The City (Night)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/elvrxpgk/066%20-%20The%20City%20%28Night%29.mp3"
+    },
+    {
+      "title": "The City (Raining)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/jnpljmjh/067%20-%20The%20City%20%28Raining%29.mp3"
+    },
+    {
+      "title": "The City (Snowing)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ljldjlbb/068%20-%20The%20City%20%28Snowing%29.mp3"
+    },
+    {
+      "title": "Crazy Redd's Shady Shack",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/awjgdzlh/069%20-%20Crazy%20Redd%27s%20Shady%20Shack.mp3"
+    },
+    {
+      "title": "Marquee",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/eaotcdmx/070%20-%20Marquee.mp3"
+    },
+    {
+      "title": "Dr. Shrunk",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/brfzisnn/071%20-%20Dr.%20Shrunk.mp3"
+    },
+    {
+      "title": "Dr. Shrunk Outro",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/zlfrttnk/072%20-%20Dr.%20Shrunk%20Outro.mp3"
+    },
+    {
+      "title": "Dr. Shrunk First Time Outro",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/lariqhke/073%20-%20Dr.%20Shrunk%20First%20Time%20Outro.mp3"
+    },
+    {
+      "title": "HRA",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/sbdlwycr/074%20-%20HRA.mp3"
+    },
+    {
+      "title": "GracieGrace",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/cksipywm/075%20-%20GracieGrace.mp3"
+    },
+    {
+      "title": "Frillard",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/yecwbtoo/076%20-%20Frillard.mp3"
+    },
+    {
+      "title": "Frillard Outro",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/anncwcvw/077%20-%20Frillard%20Outro.mp3"
+    },
+    {
+      "title": "Auction House",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ujldkoql/078%20-%20Auction%20House.mp3"
+    },
+    {
+      "title": "Shampoodle",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/jkypbopi/079%20-%20Shampoodle.mp3"
+    },
+    {
+      "title": "Katrina's Luck Shop",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/vekmdfru/080%20-%20Katrina%27s%20Luck%20Shop.mp3"
+    },
+    {
+      "title": "Midnight (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/zlfvncwa/081%20-%20Midnight%20%28Snow%29.mp3"
+    },
+    {
+      "title": "1 AM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/lhahlgzd/082%20-%201%20AM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "2 AM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ulxefmvp/083%20-%202%20AM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "3 AM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/oajuxdyg/084%20-%203%20AM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "4 AM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/mqroufqq/085%20-%204%20AM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "5 AM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/gixocusd/086%20-%205%20AM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "6 AM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/qqjvbuvu/087%20-%206%20AM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "7 AM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/jnodddhz/088%20-%207%20AM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "8 AM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/cpssmhzz/089%20-%208%20AM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "9 AM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/bgfefpja/090%20-%209%20AM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "10 AM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/zysrhmmz/091%20-%2010%20AM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "11 AM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/kdnbvzkd/092%20-%2011%20AM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "Noon (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/mwakaype/093%20-%20Noon%20%28Snow%29.mp3"
+    },
+    {
+      "title": "1 PM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/btpsuuon/094%20-%201%20PM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "2PM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/wugahjzv/095%20-%202PM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "3 PM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/gtzqhlkq/096%20-%203%20PM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "4 PM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/bkwapwoc/097%20-%204%20PM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "5 PM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/xglmeiex/098%20-%205%20PM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "6 PM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ajvygkgd/099%20-%206%20PM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "7 PM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/xctlarlc/100%20-%207%20PM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "8 PM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ftcesxnu/101%20-%208%20PM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "9 PM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/lwaopkdl/102%20-%209%20PM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "10 PM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/yhpedbzs/103%20-%2010%20PM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "11 PM (Snow)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/pwlsgdwx/104%20-%2011%20PM%20%28Snow%29.mp3"
+    },
+    {
+      "title": "Birthday",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/aiovkqyu/105%20-%20Birthday.mp3"
+    },
+    {
+      "title": "New Year's Day",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ceogqkbe/106%20-%20New%20Year%27s%20Day.mp3"
+    },
+    {
+      "title": "Festivale",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/pnthdumd/107%20-%20Festivale.mp3"
+    },
+    {
+      "title": "Bunny Day",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/frspwlse/108%20-%20Bunny%20Day.mp3"
+    },
+    {
+      "title": "Fireworks Festival",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/uihljpud/109%20-%20Fireworks%20Festival.mp3"
+    },
+    {
+      "title": "Halloween",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/kopfjgbp/110%20-%20Halloween.mp3"
+    },
+    {
+      "title": "Harvest Festival",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/wlpphqjy/111%20-%20Harvest%20Festival.mp3"
+    },
+    {
+      "title": "Toy Day",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/oairkaxj/112%20-%20Toy%20Day.mp3"
+    },
+    {
+      "title": "New Year's Eve (1 Hour Left)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/evpnsbfu/113%20-%20New%20Year%27s%20Eve%20%281%20Hour%20Left%29.mp3"
+    },
+    {
+      "title": "New Year's Eve (30 Minutes Left)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/krafzfeh/114%20-%20New%20Year%27s%20Eve%20%2830%20Minutes%20Left%29.mp3"
+    },
+    {
+      "title": "New Year's Eve (10 Minutes Left)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/wmvqspvi/115%20-%20New%20Year%27s%20Eve%20%2810%20Minutes%20Left%29.mp3"
+    },
+    {
+      "title": "New Year's Eve (5 Minutes Left)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/fbshkcij/116%20-%20New%20Year%27s%20Eve%20%285%20Minutes%20Left%29.mp3"
+    },
+    {
+      "title": "Happy New Year!",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/vaqcqxoa/117%20-%20Happy%20New%20Year%21.mp3"
+    },
+    {
+      "title": "New Year's Party",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/lepkeuig/118%20-%20New%20Year%27s%20Party.mp3"
+    },
+    {
+      "title": "Midnight (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/htvydzjx/119%20-%20Midnight%20%28Rain%29.mp3"
+    },
+    {
+      "title": "1 AM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/kkslbavb/120%20-%201%20AM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "2 AM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/utlzqdsg/121%20-%202%20AM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "3 AM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/dwyezkch/122%20-%203%20AM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "4 AM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/dvqvddkp/123%20-%204%20AM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "5 AM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/txiwkiml/124%20-%205%20AM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "6 AM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/uqsqcood/125%20-%206%20AM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "7 AM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/zovnbslb/126%20-%207%20AM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "8 AM (Rain",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/awhudgvl/127%20-%208%20AM%20%28Rain.mp3"
+    },
+    {
+      "title": "9 AM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/tilfsztw/128%20-%209%20AM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "10 AM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/amlsijyo/129%20-%2010%20AM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "11 AM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/xxsypezm/130%20-%2011%20AM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "Noon (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/mxanknjh/131%20-%20Noon%20%28Rain%29.mp3"
+    },
+    {
+      "title": "1 PM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/iuyixmsb/132%20-%201%20PM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "2 PM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/dngrrghr/133%20-%202%20PM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "3 PM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/lftencyl/134%20-%203%20PM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "4 PM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/jmkmfqox/135%20-%204%20PM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "5 PM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/xrrkynsz/136%20-%205%20PM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "6 PM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/vgrsmgwp/137%20-%206%20PM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "7 PM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/kdmyjypd/138%20-%207%20PM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "8 PM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/vwteqqhm/139%20-%208%20PM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "9 PM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/qqisqzyu/140%20-%209%20PM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "10 PM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/digfizyr/141%20-%2010%20PM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "11 PM (Rain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/rghpfgpf/142%20-%2011%20PM%20%28Rain%29.mp3"
+    },
+    {
+      "title": "TV - News (K.K. D & B)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ixodxefo/143%20-%20TV%20-%20News%20%28K.K.%20D%20%26%20B%29.mp3"
+    },
+    {
+      "title": "TV - Weather 1 (K.K. Swing)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/bsinofjh/144%20-%20TV%20-%20Weather%201%20%28K.K.%20Swing%29.mp3"
+    },
+    {
+      "title": "TV - Weather 2 (K.K. Love Song)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/jypcuryr/145%20-%20TV%20-%20Weather%202%20%28K.K.%20Love%20Song%29.mp3"
+    },
+    {
+      "title": "TV - Weather 3 (Café K.K.)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/pxtzsorr/146%20-%20TV%20-%20Weather%203%20%28Caf%C3%A9%20K.K.%29.mp3"
+    },
+    {
+      "title": "TV - Soap (The Roost)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/irkxkfvp/147%20-%20TV%20-%20Soap%20%28The%20Roost%29.mp3"
+    },
+    {
+      "title": "TV - Toon (Go K.K. Rider!)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/mpozhljo/148%20-%20TV%20-%20Toon%20%28Go%20K.K.%20Rider%21%29.mp3"
+    },
+    {
+      "title": "TV - Comedy (K.K. Ragtime)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/qmndcbch/149%20-%20TV%20-%20Comedy%20%28K.K.%20Ragtime%29.mp3"
+    },
+    {
+      "title": "TV - Quiz",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/bnknhvko/150%20-%20TV%20-%20Quiz.mp3"
+    },
+    {
+      "title": "TV - Movie",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/msfyzahi/151%20-%20TV%20-%20Movie.mp3"
+    },
+    {
+      "title": "TV - Music (K.K. Jazz)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ttnjhjyr/152%20-%20TV%20-%20Music%20%28K.K.%20Jazz%29.mp3"
+    },
+    {
+      "title": "Pinball Machine",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/lgwncvye/153%20-%20Pinball%20Machine.mp3"
+    },
+    {
+      "title": "Music Box",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/dbylkusf/154%20-%20Music%20Box.mp3"
+    },
+    {
+      "title": "Master Sword",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/yzdsdmbv/155%20-%20Master%20Sword.mp3"
+    },
+    {
+      "title": "Triforce",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/arezhoyb/156%20-%20Triforce.mp3"
+    },
+    {
+      "title": "Fire Bar",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/lbawfoee/157%20-%20Fire%20Bar.mp3"
+    },
+    {
+      "title": "Starman",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/iewsbftd/158%20-%20Starman.mp3"
+    },
+    {
+      "title": "Metroid",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/maqcnkjq/159%20-%20Metroid.mp3"
+    },
+    {
+      "title": "Starwing",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/bkvzlgwq/160%20-%20Starwing.mp3"
+    },
+    {
+      "title": "Pikmin",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/mokgdwyd/161%20-%20Pikmin.mp3"
+    },
+    {
+      "title": "K.K. Chorale (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/tkslzqfc/162%20-%20K.K.%20Chorale%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. March (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/xdczpcse/163%20-%20K.K.%20March%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Waltz (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ulxcvvpq/164%20-%20K.K.%20Waltz%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Swing (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/glndfogo/165%20-%20K.K.%20Swing%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Jazz (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/zfedhyuf/166%20-%20K.K.%20Jazz%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Fusion (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/sxhvfpke/167%20-%20K.K.%20Fusion%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Étude (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/pnvqpbps/168%20-%20K.K.%20%C3%89tude%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Lullaby (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/wflngswd/169%20-%20K.K.%20Lullaby%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Aria (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/eknicppe/170%20-%20K.K.%20Aria%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Samba (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/eieujoqo/171%20-%20K.K.%20Samba%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Bossa (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ujjsldkn/172%20-%20K.K.%20Bossa%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Calypso (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/lsclzlkp/173%20-%20K.K.%20Calypso%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Salsa (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/vidtjpue/174%20-%20K.K.%20Salsa%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Mambo (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ndczsnmu/175%20-%20K.K.%20Mambo%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Reggae (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/prlhbjsl/176%20-%20K.K.%20Reggae%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Ska (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/baypcurx/177%20-%20K.K.%20Ska%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Tango (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/obpwnyeb/178%20-%20K.K.%20Tango%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Faire (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/rhlgaipz/179%20-%20K.K.%20Faire%20%28Live%29.mp3"
+    },
+    {
+      "title": "Aloha K.K. (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ewxuhbme/180%20-%20Aloha%20K.K.%20%28Live%29.mp3"
+    },
+    {
+      "title": "Lucky K.K. (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/lsgaleoe/181%20-%20Lucky%20K.K.%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Condor (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ejjqcnkk/182%20-%20K.K.%20Condor%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Steppe (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/wedhzbhj/183%20-%20K.K.%20Steppe%20%28Live%29.mp3"
+    },
+    {
+      "title": "Imperial K.K. (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/xmscjmjh/184%20-%20Imperial%20K.K.%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Casbah (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/jazxmtfx/185%20-%20K.K.%20Casbah%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Safari (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/xtbaztxe/186%20-%20K.K.%20Safari%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Folk (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ddidupmr/187%20-%20K.K.%20Folk%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Rock (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ypgllzlj/188%20-%20K.K.%20Rock%20%28Live%29.mp3"
+    },
+    {
+      "title": "Rockin' K.K. (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/lfplkreu/189%20-%20Rockin%27%20K.K.%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Ragtime (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/lwxbnmwv/190%20-%20K.K.%20Ragtime%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Gumbo (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ogpecatt/191%20-%20K.K.%20Gumbo%20%28Live%29.mp3"
+    },
+    {
+      "title": "The K. Funk (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/mfphqjyn/192%20-%20The%20K.%20Funk%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Blues (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/tihoukpv/193%20-%20K.K.%20Blues%20%28Live%29.mp3"
+    },
+    {
+      "title": "Soulful K.K. (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/gxqnruwb/194%20-%20Soulful%20K.K.%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Soul (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/pxudhbjr/195%20-%20K.K.%20Soul%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Cruisin' (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/hkckpwoe/196%20-%20K.K.%20Cruisin%27%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Love Song (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ehxswdau/197%20-%20K.K.%20Love%20Song%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. D & B (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/vwukpuen/198%20-%20K.K.%20D%20%26%20B%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Technopop (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/aqzcppff/199%20-%20K.K.%20Technopop%20%28Live%29.mp3"
+    },
+    {
+      "title": "DJ K.K (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/nwxuihlj/200%20-%20DJ%20K.K%20%28Live%29.mp3"
+    },
+    {
+      "title": "Only Me (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/nodarkxi/201%20-%20Only%20Me%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Country (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/yqmkpstq/202%20-%20K.K.%20Country%20%28Live%29.mp3"
+    },
+    {
+      "title": "Surfin' K.K. (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/zyvjgfjc/203%20-%20Surfin%27%20K.K.%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Ballad (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/kuryucby/204%20-%20K.K.%20Ballad%20%28Live%29.mp3"
+    },
+    {
+      "title": "Comrade K.K. (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/rlhcpqkc/205%20-%20Comrade%20K.K.%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Lament (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/fwruwzhl/206%20-%20K.K.%20Lament%20%28Live%29.mp3"
+    },
+    {
+      "title": "Go K.K. Rider! (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/kqzyufpj/207%20-%20Go%20K.K.%20Rider%21%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Dirge (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/aazwibhi/208%20-%20K.K.%20Dirge%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Western (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/sqzywknl/209%20-%20K.K.%20Western%20%28Live%29.mp3"
+    },
+    {
+      "title": "Mr. K.K (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/nidquaso/210%20-%20Mr.%20K.K%20%28Live%29.mp3"
+    },
+    {
+      "title": "Café K.K (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/qlgblavb/211%20-%20Caf%C3%A9%20K.K%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Parade (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/xfklatpu/212%20-%20K.K.%20Parade%20%28Live%29.mp3"
+    },
+    {
+      "title": "Señor K.K (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/eltktnie/213%20-%20Se%C3%B1or%20K.K%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Song (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ungrnqrj/214%20-%20K.K.%20Song%20%28Live%29.mp3"
+    },
+    {
+      "title": "I Love You (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/tuqwkinq/215%20-%20I%20Love%20You%20%28Live%29.mp3"
+    },
+    {
+      "title": "Two Days Ago (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/pahkeqrk/216%20-%20Two%20Days%20Ago%20%28Live%29.mp3"
+    },
+    {
+      "title": "My Place (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ztvwvneh/217%20-%20My%20Place%20%28Live%29.mp3"
+    },
+    {
+      "title": "Forest Life (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/woeddgvj/218%20-%20Forest%20Life%20%28Live%29.mp3"
+    },
+    {
+      "title": "To the Edge (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/hmogobpv/219%20-%20To%20the%20Edge%20%28Live%29.mp3"
+    },
+    {
+      "title": "Pondering (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ifaoqoxt/220%20-%20Pondering%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Dixie (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/djlcfugx/221%20-%20K.K.%20Dixie%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Marathon (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/vjjrjvbu/222%20-%20K.K.%20Marathon%20%28Live%29.mp3"
+    },
+    {
+      "title": "King K.K. (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/uppecyll/223%20-%20King%20K.K.%20%28Live%29.mp3"
+    },
+    {
+      "title": "Mountain Song (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/vwwqoyag/224%20-%20Mountain%20Song%20%28Live%29.mp3"
+    },
+    {
+      "title": "Marine Song 2001 (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ecbyozfd/225%20-%20Marine%20Song%202001%20%28Live%29.mp3"
+    },
+    {
+      "title": "Neapolitan (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/znsxkikb/226%20-%20Neapolitan%20%28Live%29.mp3"
+    },
+    {
+      "title": "Steep Hill (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/dmbusesb/227%20-%20Steep%20Hill%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Rockabilly (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/fuiirhlh/228%20-%20K.K.%20Rockabilly%20%28Live%29.mp3"
+    },
+    {
+      "title": "Agent K.K. (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/exdxdyiu/229%20-%20Agent%20K.K.%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Rally (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/yjbepoyc/230%20-%20K.K.%20Rally%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Metal (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/opfjfybm/231%20-%20K.K.%20Metal%20%28Live%29.mp3"
+    },
+    {
+      "title": "Stale Cupcakes (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/fofkhhow/232%20-%20Stale%20Cupcakes%20%28Live%29.mp3"
+    },
+    {
+      "title": "Spring Blossoms (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/swixqjyo/233%20-%20Spring%20Blossoms%20%28Live%29.mp3"
+    },
+    {
+      "title": "Wandering (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/akylndel/234%20-%20Wandering%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. House (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/umdhyugt/235%20-%20K.K.%20House%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Sonata (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/djmicmei/236%20-%20K.K.%20Sonata%20%28Live%29.mp3"
+    },
+    {
+      "title": "Off-Time Jive 1 (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/fbosymoi/237%20-%20Off-Time%20Jive%201%20%28Live%29.mp3"
+    },
+    {
+      "title": "Off-Time Jive 2 (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/zysvxdxe/238%20-%20Off-Time%20Jive%202%20%28Live%29.mp3"
+    },
+    {
+      "title": "Off-Time Jive 3 (Live)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ddgyvkme/239%20-%20Off-Time%20Jive%203%20%28Live%29.mp3"
+    },
+    {
+      "title": "K.K. Chorale (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/kptasqxs/240%20-%20K.K.%20Chorale%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. March (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/uwwuhezj/241%20-%20K.K.%20March%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Waltz (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/xmrxoajw/242%20-%20K.K.%20Waltz%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Swing (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/fmthdxam/243%20-%20K.K.%20Swing%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Jazz (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/haexzfbs/244%20-%20K.K.%20Jazz%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Fusion (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/hkbfugzc/245%20-%20K.K.%20Fusion%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Étude (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/qvhxstsf/246%20-%20K.K.%20%C3%89tude%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Lullaby (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ycprpyza/247%20-%20K.K.%20Lullaby%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Aria (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/euncavzk/248%20-%20K.K.%20Aria%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Samba (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/dltkvvui/249%20-%20K.K.%20Samba%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Bossa (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/jxizyrqb/250%20-%20K.K.%20Bossa%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Calypso (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/kuunfmvq/251%20-%20K.K.%20Calypso%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Salsa (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/qkbazubx/252%20-%20K.K.%20Salsa%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Mambo (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ixnwuihl/253%20-%20K.K.%20Mambo%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Reggae (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ihlikavc/254%20-%20K.K.%20Reggae%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Ska (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/zozdthho/255%20-%20K.K.%20Ska%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Tango (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/zfeejios/256%20-%20K.K.%20Tango%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Faire (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/wgssnjfc/257%20-%20K.K.%20Faire%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Aloha K.K. (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/upstprqd/258%20-%20Aloha%20K.K.%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Lucky K.K. (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/tkutjmkq/259%20-%20Lucky%20K.K.%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Condor (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/vibikdmz/260%20-%20K.K.%20Condor%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Steppe (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/mjmifalc/261%20-%20K.K.%20Steppe%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Imperial K.K. (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/hblavaou/262%20-%20Imperial%20K.K.%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Casbah (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/gwndasle/263%20-%20K.K.%20Casbah%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Safari (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ltktmhyv/264%20-%20K.K.%20Safari%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Folk (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/gvidtikb/265%20-%20K.K.%20Folk%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Rock (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/bckpufsw/266%20-%20K.K.%20Rock%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Rockin' K.K. (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/gqjazwib/267%20-%20Rockin%27%20K.K.%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Ragtime (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/inqmpoze/268%20-%20K.K.%20Ragtime%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Gumbo (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/zjvzownc/269%20-%20K.K.%20Gumbo%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "The K. Funk (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/znsynxwq/270%20-%20The%20K.%20Funk%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Blues (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/oyzagctk/271%20-%20K.K.%20Blues%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Soulful K.K. (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/vvujnlqv/272%20-%20Soulful%20K.K.%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Soul (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/fpiwicoj/273%20-%20K.K.%20Soul%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Cruisin' (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/fxxxsvcx/274%20-%20K.K.%20Cruisin%27%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Love Song (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/hubwdavb/275%20-%20K.K.%20Love%20Song%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. D & B (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/utileogp/276%20-%20K.K.%20D%20%26%20B%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Technopop (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/gmrxmrzu/277%20-%20K.K.%20Technopop%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "DJ K.K. (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/bztuqwmu/278%20-%20DJ%20K.K.%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Only Me (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/krexzewu/279%20-%20Only%20Me%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Country (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ltlarkby/280%20-%20K.K.%20Country%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Surfin' K.K. (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/rldkretf/281%20-%20Surfin%27%20K.K.%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Ballad (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/uigjabfy/282%20-%20K.K.%20Ballad%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Comrade K.K. (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/aipzbjqb/283%20-%20Comrade%20K.K.%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Lament (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/lzrisptb/284%20-%20K.K.%20Lament%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Go K.K. Rider! (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/baytuumd/285%20-%20Go%20K.K.%20Rider%21%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K Dirge (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/fpkesbdo/286%20-%20K.K%20Dirge%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Western (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/kjqaexxv/287%20-%20K.K.%20Western%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Mr. K.K. (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/luniabhi/288%20-%20Mr.%20K.K.%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Café K.K. (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/uygoxwsy/289%20-%20Caf%C3%A9%20K.K.%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Parade (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/qhmojcmb/290%20-%20K.K.%20Parade%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Señor K.K. (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/xgnxaiqd/291%20-%20Se%C3%B1or%20K.K.%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Song (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/tjnohrou/292%20-%20K.K.%20Song%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "I Love You (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/gwpkgblc/293%20-%20I%20Love%20You%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Two Days Ago (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/bdmznswe/294%20-%20Two%20Days%20Ago%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "My Place (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/kjqduojd/295%20-%20My%20Place%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Forest Life (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ppgkgcre/296%20-%20Forest%20Life%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "To the Edge (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/sdmaskzp/297%20-%20To%20the%20Edge%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Pondering (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ajtrdomt/298%20-%20Pondering%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Dixie (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/ikxllwal/299%20-%20K.K.%20Dixie%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Marathon (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/fugxrtre/300%20-%20K.K.%20Marathon%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "King K.K. (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/vokgcrck/301%20-%20King%20K.K.%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Mountain Song (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/vyfehwmt/302%20-%20Mountain%20Song%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Marine Song 2001 (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/jnnbutkv/303%20-%20Marine%20Song%202001%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Neapolitan (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/wukqzadr/304%20-%20Neapolitan%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Steep Hill (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/zvfqlhcq/305%20-%20Steep%20Hill%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Rockabilly (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/vibkuvqs/306%20-%20K.K.%20Rockabilly%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Agent K.K. (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/tooeegwl/307%20-%20Agent%20K.K.%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Rally (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/tjqafaka/308%20-%20K.K.%20Rally%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Metal (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/xjdqsskv/309%20-%20K.K.%20Metal%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Stale Cupcakes (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/brgeeiex/310%20-%20Stale%20Cupcakes%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Spring Blossoms (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/xxvhcomu/311%20-%20Spring%20Blossoms%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "Wandering (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/nekkxfje/312%20-%20Wandering%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. House (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/sdlvwuig/313%20-%20K.K.%20House%20%28Aircheck%29.mp3"
+    },
+    {
+      "title": "K.K. Sonata (Aircheck)",
+      "src": "https://vgmtreasurechest.com/soundtracks/animal-crossing-let-s-go-to-the-city/jcjmjkyl/314%20-%20K.K.%20Sonata%20%28Aircheck%29.mp3"
+    }
+  ]
+}
