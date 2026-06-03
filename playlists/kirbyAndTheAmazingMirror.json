@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "game_title": "Kirby & The Amazing Mirror",
+    "art": "https://upload.wikimedia.org/wikipedia/en/0/0b/Kirby_%26_the_Amazing_Mirror.jpg",
+    "desc": "April 15, 2004"
+  },
+  "songs": [
+    {
+      "title": "Title Screen",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/fmulxfgr/01%20Title%20Screen.mp3"
+    },
+    {
+      "title": "Legend of the Mirror World",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/rhmnfkkx/02%20Legend%20of%20the%20Mirror%20World.mp3"
+    },
+    {
+      "title": "Main Menu",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/fjdokilf/03%20Main%20Menu.mp3"
+    },
+    {
+      "title": "Intro Stage",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/szvddhag/04%20Intro%20Stage.mp3"
+    },
+    {
+      "title": "Dark Meta Knight Attacks",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/edfpkgbo/05%20Dark%20Meta%20Knight%20Attacks.mp3"
+    },
+    {
+      "title": "Overworld",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/obpyufrs/06%20Overworld.mp3"
+    },
+    {
+      "title": "Area 1 - Rainbow Route",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/nlrbijwg/07%20Area%201%20-%20Rainbow%20Route.mp3"
+    },
+    {
+      "title": "b Area 1 - Rainbow Route (Echo)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/stradqrn/07b%20Area%201%20-%20Rainbow%20Route%20%28Echo%29.mp3"
+    },
+    {
+      "title": "Area 2 - Moonlight Mansion, Area 5 - Carrot Castle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/ohubxhub/08%20Area%202%20-%20Moonlight%20Mansion%2C%20Area%205%20-%20Carrot%20Castle.mp3"
+    },
+    {
+      "title": "b Area 2 - Moonlight Mansion, Area 5 - Carrot Castle (Echo)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/zqiuvvrv/08b%20Area%202%20-%20Moonlight%20Mansion%2C%20Area%205%20-%20Carrot%20Castle%20%28Echo%29.mp3"
+    },
+    {
+      "title": "Area 3 - Cabbage Caven (Forest Stage)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/ehzyxpjy/09.%20Area%203%20-%20Cabbage%20Caven%20%28Forest%20Stage%29.mp3"
+    },
+    {
+      "title": "Area 4 - Mustard Mountain",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/rnqqgjdl/10%20Area%204%20-%20Mustard%20Mountain.mp3"
+    },
+    {
+      "title": "Area 6 - Olive Ocean",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/walepkhd/11%20Area%206%20-%20Olive%20Ocean.mp3"
+    },
+    {
+      "title": "Area 7 - Peppermint Place",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/xbqxqlhf/12%20Area%207%20-%20Peppermint%20Place.mp3"
+    },
+    {
+      "title": "Area 8 - Radish Ruins",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/cwzjyozg/13%20Area%208%20-%20Radish%20Ruins.mp3"
+    },
+    {
+      "title": "b Area 8 - Radish Ruins (Echo)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/hqjvdgta/13b%20Area%208%20-%20Radish%20Ruins%20%28Echo%29.mp3"
+    },
+    {
+      "title": "Area 9 - Candy Costellation",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/uxdzmkqa/14%20Area%209%20-%20Candy%20Costellation.mp3"
+    },
+    {
+      "title": "Mini-Boss Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/fzezlgyx/15%20Mini-Boss%20Battle.mp3"
+    },
+    {
+      "title": "Victory Star",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/rtqacmat/16%20Victory%20Star.mp3"
+    },
+    {
+      "title": "Bonus Chance",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/qwmvtepl/17%20Bonus%20Chance.mp3"
+    },
+    {
+      "title": "Kirby Dance (Short)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/lyitvxyb/18%20Kirby%20Dance%20%28Short%29.mp3"
+    },
+    {
+      "title": "Boss Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/nkmejjuu/19%20Boss%20Battle.mp3"
+    },
+    {
+      "title": "Kirby Dance (Long)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/niclwcxf/20%20Kirby%20Dance%20%28Long%29.mp3"
+    },
+    {
+      "title": "Dark Meta Knight Battle Intro",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/jdprliez/21%20Dark%20Meta%20Knight%20Battle%20Intro.mp3"
+    },
+    {
+      "title": "Dark Meta Knight Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/kbaazxpf/22%20Dark%20Meta%20Knight%20Battle.mp3"
+    },
+    {
+      "title": "Dark Mind's Second Form",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/jdnhwnzi/23%20Dark%20Mind%27s%20Second%20Form.mp3"
+    },
+    {
+      "title": "Dark Mind Takes to The Sky",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/qggqjyqi/24%20Dark%20Mind%20Takes%20to%20The%20Sky.mp3"
+    },
+    {
+      "title": "Fighting Dark Mind in the Sky",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/rkyoaiqd/25%20Fighting%20Dark%20Mind%20in%20the%20Sky.mp3"
+    },
+    {
+      "title": "Ending",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/shecyjab/26%20Ending.mp3"
+    },
+    {
+      "title": "Invincibility Lollipop",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/fvognyea/27%20Invincibility%20Lollipop.mp3"
+    },
+    {
+      "title": "Out of Heath",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/osxjbhhm/28%20Out%20of%20Heath.mp3"
+    },
+    {
+      "title": "You Got An Item",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/pnwrxkgc/29%20You%20Got%20An%20Item.mp3"
+    },
+    {
+      "title": "Kirby Wave Ride (Get Ready)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/tjqbmdha/30%20Kirby%20Wave%20Ride%20%28Get%20Ready%29.mp3"
+    },
+    {
+      "title": "Kirby Wave Ride",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/evqpfehz/31%20Kirby%20Wave%20Ride.mp3"
+    },
+    {
+      "title": "Kirby Wave Ride (Finish)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/zytxjbgz/32%20Kirby%20Wave%20Ride%20%28Finish%29.mp3"
+    },
+    {
+      "title": "Crackity Hack",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/eydvvpmq/33%20Crackity%20Hack.mp3"
+    },
+    {
+      "title": "Speed Eaters",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/ttptzovo/34%20Speed%20Eaters.mp3"
+    },
+    {
+      "title": "You Lose",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/gqituryu/35%20You%20Lose.mp3"
+    },
+    {
+      "title": "CPU Wins!! (Speed Eaters)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/asqyudgy/36%20CPU%20Wins%21%21%20%28Speed%20Eaters%29.mp3"
+    },
+    {
+      "title": "You Win",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/yxrqggmq/37%20You%20Win.mp3"
+    },
+    {
+      "title": "You Win 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/twbtmhwm/38%20You%20Win%202.mp3"
+    },
+    {
+      "title": "You Win (Crowd)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/vsazuasm/39%20You%20Win%20%28Crowd%29.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/ifdyhqiu/40%20Game%20Over.mp3"
+    },
+    {
+      "title": "You Are the Champion",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/wbskuumc/41%20You%20Are%20the%20Champion.mp3"
+    },
+    {
+      "title": "Kirby Copies a Skill",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/bbchcqxr/42%20Kirby%20Copies%20a%20Skill.mp3"
+    },
+    {
+      "title": "Mirror Kirby Appears",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/qfbtpsrg/43%20Mirror%20Kirby%20Appears.mp3"
+    },
+    {
+      "title": "Calling a Friend",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/ivdhxudg/44%20Calling%20a%20Friend.mp3"
+    },
+    {
+      "title": "Calling for a Ride",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/yaevrvdg/45%20Calling%20for%20a%20Ride.mp3"
+    },
+    {
+      "title": "Cell Phone Rings",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-the-amazing-mirror/udiggnvq/46%20Cell%20Phone%20Rings.mp3"
+    }
+  ]
+}
