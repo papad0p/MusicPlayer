@@ -1,0 +1,389 @@
+{
+  "meta": {
+    "game_title": "The Legend of Zelda: Link's Awakening",
+    "art": "https://upload.wikimedia.org/wikipedia/en/c/c1/Link%27s_Awakening.png",
+    "desc": "June 6, 1993"
+  },
+  "songs": [
+    {
+      "title": "Prologue",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/famhzbhh/01.%20Prologue.mp3"
+    },
+    {
+      "title": "Main Theme (With Opening)",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/pdvuktnh/02.%20Main%20Theme%20%28With%20Opening%29.mp3"
+    },
+    {
+      "title": "Main Theme (Without Opening)",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/wnxbmhyw/03.%20Main%20Theme%20%28Without%20Opening%29.mp3"
+    },
+    {
+      "title": "File Select",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/odzljmha/04.%20File%20Select.mp3"
+    },
+    {
+      "title": "Link Awakens",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/dsdmznsx/05.%20Link%20Awakens.mp3"
+    },
+    {
+      "title": "Overworld (Unarmed)",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/lnhxrqdu/06.%20Overworld%20%28Unarmed%29.mp3"
+    },
+    {
+      "title": "Owl",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/pntihmpl/07.%20Owl.mp3"
+    },
+    {
+      "title": "Get Sword",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/lvxcrcnj/08.%20Get%20Sword.mp3"
+    },
+    {
+      "title": "Overworld (With Intro)",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/dprmjjwc/09.%20Overworld%20%28With%20Intro%29.mp3"
+    },
+    {
+      "title": "Mabe Village",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/xehvhxrs/10.%20Mabe%20Village.mp3"
+    },
+    {
+      "title": "Mini-Games",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/mjipxtce/11.%20Mini-Games.mp3"
+    },
+    {
+      "title": "Inside a House",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/nejfakax/12.%20Inside%20a%20House.mp3"
+    },
+    {
+      "title": "Phone Booth",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/jdngtzqf/13.%20Phone%20Booth.mp3"
+    },
+    {
+      "title": "Marin Singing",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/datsikay/14.%20Marin%20Singing.mp3"
+    },
+    {
+      "title": "Mysterious Woods",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/peegrtrd/15.%20Mysterious%20Woods.mp3"
+    },
+    {
+      "title": "Get Power-Up",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/pqhrlepk/16.%20Get%20Power-Up.mp3"
+    },
+    {
+      "title": "Powerful Link",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/hgketesy/17.%20Powerful%20Link.mp3"
+    },
+    {
+      "title": "Fairy Fountain",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/rnmyffkk/18.%20Fairy%20Fountain.mp3"
+    },
+    {
+      "title": "Cave",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/wcvxzeye/19.%20Cave.mp3"
+    },
+    {
+      "title": "Overworld",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/zlfujkzr/20.%20Overworld.mp3"
+    },
+    {
+      "title": "Witch's House, Crazy Tracy's House",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/jwfoalfs/21.%20Witch%27s%20House%2C%20Crazy%20Tracy%27s%20House.mp3"
+    },
+    {
+      "title": "Get Minor Item",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/zuznqpbn/22.%20Get%20Minor%20Item.mp3"
+    },
+    {
+      "title": "Get Important Item",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/lpqkcijt/23.%20Get%20Important%20Item.mp3"
+    },
+    {
+      "title": "Tail Cave",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/shhoxyag/24.%20Tail%20Cave.mp3"
+    },
+    {
+      "title": "Underground",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/eeicngst/25.%20Underground.mp3"
+    },
+    {
+      "title": "Sub-Boss",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/rbgamgwn/26.%20Sub-Boss.mp3"
+    },
+    {
+      "title": "Boss",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/aoqpcpuf/27.%20Boss.mp3"
+    },
+    {
+      "title": "Get Heart Container",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/ofkhitvv/28.%20Get%20Heart%20Container.mp3"
+    },
+    {
+      "title": "Instrument Room",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/ruauuolp/29.%20Instrument%20Room.mp3"
+    },
+    {
+      "title": "Get Instrument",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/oakzrldm/30.%20Get%20Instrument.mp3"
+    },
+    {
+      "title": "Get Full Moon Cello",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/wxzfanmv/31.%20Get%20Full%20Moon%20Cello.mp3"
+    },
+    {
+      "title": "Trouble in Mabe Village",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/tgajsnls/32.%20Trouble%20in%20Mabe%20Village.mp3"
+    },
+    {
+      "title": "Moblin Hideout",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/gdwybood/33.%20Moblin%20Hideout.mp3"
+    },
+    {
+      "title": "Mr. Write's House",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/ygoxzcoo/34.%20Mr.%20Write%27s%20House.mp3"
+    },
+    {
+      "title": "Bottle Grotto",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/dykcjmgw/35.%20Bottle%20Grotto.mp3"
+    },
+    {
+      "title": "Get Conch Horn",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/qoxuiggl/36.%20Get%20Conch%20Horn.mp3"
+    },
+    {
+      "title": "Richard's Villa",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/mdeltlwc/37.%20Richard%27s%20Villa.mp3"
+    },
+    {
+      "title": "Monkeys at Work",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/vxbnnyff/38.%20Monkeys%20at%20Work.mp3"
+    },
+    {
+      "title": "Kanalet Castle",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/klasophq/39.%20Kanalet%20Castle.mp3"
+    },
+    {
+      "title": "Key Cavern",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/itskvwyd/40.%20Key%20Cavern.mp3"
+    },
+    {
+      "title": "Get Sea Lily's Bell",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/tikaysrg/41.%20Get%20Sea%20Lily%27s%20Bell.mp3"
+    },
+    {
+      "title": "Dream Shrine (Intro)",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/fgstprrh/42.%20Dream%20Shrine%20%28Intro%29.mp3"
+    },
+    {
+      "title": "Dream Shrine (Dreaming)",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/liiqdvsc/43.%20Dream%20Shrine%20%28Dreaming%29.mp3"
+    },
+    {
+      "title": "Dream Shrine",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/hecwamjj/44.%20Dream%20Shrine.mp3"
+    },
+    {
+      "title": "Tal Tal Mountain Range",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/tsgbrcni/45.%20Tal%20Tal%20Mountain%20Range.mp3"
+    },
+    {
+      "title": "Bee Scene",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/zzadnhxp/46.%20Bee%20Scene.mp3"
+    },
+    {
+      "title": "Animal Village",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/gnvpnujm/47.%20Animal%20Village.mp3"
+    },
+    {
+      "title": "Goat's House",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/gxswddic/48.%20Goat%27s%20House.mp3"
+    },
+    {
+      "title": "Beach Scene (Intro)",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/pqivcawf/49.%20Beach%20Scene%20%28Intro%29.mp3"
+    },
+    {
+      "title": "Beach Scene",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/kkwdcceq/50.%20Beach%20Scene.mp3"
+    },
+    {
+      "title": "Learn Ballad of the Wind Fish",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/qhljotzq/51.%20Learn%20Ballad%20of%20the%20Wind%20Fish.mp3"
+    },
+    {
+      "title": "Angler's Tunnel (Intro)",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/gjdmzmnd/52.%20Angler%27s%20Tunnel%20%28Intro%29.mp3"
+    },
+    {
+      "title": "Angler's Tunnel",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/cdjjslcf/53.%20Angler%27s%20Tunnel.mp3"
+    },
+    {
+      "title": "Get Sea Harp",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/ugwqmppb/54.%20Get%20Sea%20Harp.mp3"
+    },
+    {
+      "title": "Learn Manbo's Mambo",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/nnzkyqit/55.%20Learn%20Manbo%27s%20Mambo.mp3"
+    },
+    {
+      "title": "Ghost's House",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/rexagiwg/56.%20Ghost%27s%20House.mp3"
+    },
+    {
+      "title": "Catfish's Maw",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/svapwohq/57.%20Catfish%27s%20Maw.mp3"
+    },
+    {
+      "title": "Get Wind Marimba",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/ivcbaynx/58.%20Get%20Wind%20Marimba.mp3"
+    },
+    {
+      "title": "Rapids Ride House",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/yahhoaiq/59.%20Rapids%20Ride%20House.mp3"
+    },
+    {
+      "title": "Rapids Ride",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/cradnfph/60.%20Rapids%20Ride.mp3"
+    },
+    {
+      "title": "Southern Face Shrine",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/qitvwvma/61.%20Southern%20Face%20Shrine.mp3"
+    },
+    {
+      "title": "Face Shrine",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/pyxrpafd/62.%20Face%20Shrine.mp3"
+    },
+    {
+      "title": "Get Coral Triangle",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/yjzxlnje/63.%20Get%20Coral%20Triangle.mp3"
+    },
+    {
+      "title": "Learn Frog's Song of Soul",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/sesbbfvm/64.%20Learn%20Frog%27s%20Song%20of%20Soul.mp3"
+    },
+    {
+      "title": "Flying Rooster Revival",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/xebuuqtw/65.%20Flying%20Rooster%20Revival.mp3"
+    },
+    {
+      "title": "House of Chickens",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/amltmbxj/66.%20House%20of%20Chickens.mp3"
+    },
+    {
+      "title": "Eagle's Tower",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/bdpmpqis/67.%20Eagle%27s%20Tower.mp3"
+    },
+    {
+      "title": "Eagle's Tower (Roof)",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/qzckvygl/68.%20Eagle%27s%20Tower%20%28Roof%29.mp3"
+    },
+    {
+      "title": "Evil Eagle Intro",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/lvvschff/69.%20Evil%20Eagle%20Intro.mp3"
+    },
+    {
+      "title": "Get Organ of Evening Calm",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/kkvwxwoh/70.%20Get%20Organ%20of%20Evening%20Calm.mp3"
+    },
+    {
+      "title": "Turtle Rock",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/tweekkvy/71.%20Turtle%20Rock.mp3"
+    },
+    {
+      "title": "Get Thunder Drum",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/edcaxlnf/72.%20Get%20Thunder%20Drum.mp3"
+    },
+    {
+      "title": "Seashell Sword",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/ocvwwszv/73.%20Seashell%20Sword.mp3"
+    },
+    {
+      "title": "Opening the Wind Fish's Egg (Two Instruments)",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/elprnqnv/74.%20Opening%20the%20Wind%20Fish%27s%20Egg%20%28Two%20Instruments%29.mp3"
+    },
+    {
+      "title": "Opening the Wind Fish's Egg (Four Instruments)",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/ncarkztv/75.%20Opening%20the%20Wind%20Fish%27s%20Egg%20%28Four%20Instruments%29.mp3"
+    },
+    {
+      "title": "Opening the Wind Fish's Egg (Five Instruments)",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/wwsaysrf/76.%20Opening%20the%20Wind%20Fish%27s%20Egg%20%28Five%20Instruments%29.mp3"
+    },
+    {
+      "title": "Opening the Wind Fish's Egg (Six Instruments)",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/dzlgxwoh/77.%20Opening%20the%20Wind%20Fish%27s%20Egg%20%28Six%20Instruments%29.mp3"
+    },
+    {
+      "title": "Wind Fish's Egg",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/qleqrlem/78.%20Wind%20Fish%27s%20Egg.mp3"
+    },
+    {
+      "title": "Shadow Nightmare Intro",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/xcsjsjuv/79.%20Shadow%20Nightmare%20Intro.mp3"
+    },
+    {
+      "title": "Shadow Nightmare Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/ulxeehad/80.%20Shadow%20Nightmare%20Battle.mp3"
+    },
+    {
+      "title": "Shadow Nightmare Defeated",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/ppgkikbb/81.%20Shadow%20Nightmare%20Defeated.mp3"
+    },
+    {
+      "title": "Stairway Appears",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/cjptbyrl/82.%20Stairway%20Appears.mp3"
+    },
+    {
+      "title": "Talking to the Wind Fish",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/epmollvx/83.%20Talking%20to%20the%20Wind%20Fish.mp3"
+    },
+    {
+      "title": "Ballad of the Wind Fish",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/zfdbympp/84.%20Ballad%20of%20the%20Wind%20Fish.mp3"
+    },
+    {
+      "title": "Unknown Song",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/dxcsgfgo/85.%20Unknown%20Song.mp3"
+    },
+    {
+      "title": "Marin's Song, The End",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/bsinrspx/86.%20Marin%27s%20Song%2C%20The%20End.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/qnrttmde/87.%20Game%20Over.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Theme (Remix)",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/ogozipak/88.%20The%20Legend%20of%20Zelda%20Theme%20%28Remix%29.mp3"
+    },
+    {
+      "title": "Totaka's Song",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/xgnxxxru/89.%20Totaka%27s%20Song.mp3"
+    },
+    {
+      "title": "Totaka's Song (Ocarina - Unused)",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/xcsktpsv/90.%20Totaka%27s%20Song%20%28Ocarina%20-%20Unused%29.mp3"
+    },
+    {
+      "title": "Unused Fanfare",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/xebtrdoj/91.%20Unused%20Fanfare.mp3"
+    },
+    {
+      "title": "Main Theme (Without Intro)",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/geddhagd/92.%20Main%20Theme%20%28Without%20Intro%29.mp3"
+    },
+    {
+      "title": "Hidden Track Lolo (French)",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/yjaypgki/93.%20Hidden%20Track%20Lolo%20%28French%29.mp3"
+    },
+    {
+      "title": "Hidden Track Moyse (German)",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/lhzbkxfk/94.%20Hidden%20Track%20Moyse%20%28German%29.mp3"
+    },
+    {
+      "title": "Color Dungeon",
+      "src": "https://vgmtreasurechest.com/soundtracks/legend-of-zelda-the-link-s-awakening-1993-gb/imluquas/95.%20Color%20Dungeon.mp3"
+    }
+  ]
+}
