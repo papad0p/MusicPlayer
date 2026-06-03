@@ -1,0 +1,445 @@
+{
+  "meta": {
+    "game_title": "Kirby Mass Attack",
+    "art": "https://upload.wikimedia.org/wikipedia/en/b/be/Kirby_Mass_Attack_cover.jpg",
+    "desc": "August 4, 2011"
+  },
+  "songs": [
+    {
+      "title": "Meadow Breeze",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/mwzgivfp/01.%20Meadow%20Breeze.mp3"
+    },
+    {
+      "title": "Woods Wayfarer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/xhuauxbq/02.%20Woods%20Wayfarer.mp3"
+    },
+    {
+      "title": "Dark Clouds",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/myitutgc/03.%20Dark%20Clouds.mp3"
+    },
+    {
+      "title": "Desert Scorcher",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/inpkhgix/04.%20Desert%20Scorcher.mp3"
+    },
+    {
+      "title": "Lovely Oasis",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/nvpkhhnv/05.%20Lovely%20Oasis.mp3"
+    },
+    {
+      "title": "Night Desert (Sky Sands)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/qspvltik/06.%20Night%20Desert%20%28Sky%20Sands%29.mp3"
+    },
+    {
+      "title": "Ruins at Night",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/ddhzbimj/07.%20Ruins%20at%20Night.mp3"
+    },
+    {
+      "title": "Ruins Ahead",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/xeeidsdn/08.%20Ruins%20Ahead.mp3"
+    },
+    {
+      "title": "Over the Water",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/iwhxqkes/09.%20Over%20the%20Water.mp3"
+    },
+    {
+      "title": "At the Bottom",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/tzrlgxsx/10.%20At%20the%20Bottom.mp3"
+    },
+    {
+      "title": "Fun Castle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/ipagfizy/11.%20Fun%20Castle.mp3"
+    },
+    {
+      "title": "Snowy Zone",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/okgdvulu/12.%20Snowy%20Zone.mp3"
+    },
+    {
+      "title": "Icy Realm (Frozen Hillside)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/vtjpvkoo/13.%20Icy%20Realm%20%28Frozen%20Hillside%29.mp3"
+    },
+    {
+      "title": "Scalding Spring (Magma Flows)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/myiveicp/14.%20Scalding%20Spring%20%28Magma%20Flows%29.mp3"
+    },
+    {
+      "title": "Scary Graveyard",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/phowufvm/15.%20Scary%20Graveyard.mp3"
+    },
+    {
+      "title": "Vast Darkness",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/jeujkbzu/16.%20Vast%20Darkness.mp3"
+    },
+    {
+      "title": "Off into Space",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/gwnanmwx/17.%20Off%20into%20Space.mp3"
+    },
+    {
+      "title": "Climbing Trees",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/dktnjewv/18.%20Climbing%20Trees.mp3"
+    },
+    {
+      "title": "Tree to Tree",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/cyjzuzow/19.%20Tree%20to%20Tree.mp3"
+    },
+    {
+      "title": "Fearsome Foe",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/eoizxphp/20.%20Fearsome%20Foe.mp3"
+    },
+    {
+      "title": "Tough Enemy (King Dedede's Theme)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/olrxpebw/21.%20Tough%20Enemy%20%28King%20Dedede%27s%20Theme%29.mp3"
+    },
+    {
+      "title": "Piggy Enemy",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/xmqrougw/22.%20Piggy%20Enemy.mp3"
+    },
+    {
+      "title": "Terrifying Fiend",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/gmqttprq/23.%20Terrifying%20Fiend.mp3"
+    },
+    {
+      "title": "Fetching Fruit",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/boqkgzdt/24.%20Fetching%20Fruit.mp3"
+    },
+    {
+      "title": "Base Infiltration",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/pzdsfydt/25.%20Base%20Infiltration.mp3"
+    },
+    {
+      "title": "Lifted Upward",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/djiowplm/26.%20Lifted%20Upward.mp3"
+    },
+    {
+      "title": "Through the Sky",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/izyuemvu/27.%20Through%20the%20Sky.mp3"
+    },
+    {
+      "title": "Underground",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/rrlenaqb/28.%20Underground.mp3"
+    },
+    {
+      "title": "Lonely Desert",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/aqexzhnp/29.%20Lonely%20Desert.mp3"
+    },
+    {
+      "title": "Swallowed Exit",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/htxiwjhj/30.%20Swallowed%20Exit.mp3"
+    },
+    {
+      "title": "Bug-Eyed Foes",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/hblzrjux/31.%20Bug-Eyed%20Foes.mp3"
+    },
+    {
+      "title": "Vehicle Blast",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/aqfedguf/32.%20Vehicle%20Blast.mp3"
+    },
+    {
+      "title": "Gulpy Ghost",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/nnzlfswi/33.%20Gulpy%20Ghost.mp3"
+    },
+    {
+      "title": "Let's Play",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/ycptaspu/34.%20Let%27s%20Play.mp3"
+    },
+    {
+      "title": "Southern Shore",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/sfycqvgs/35.%20Southern%20Shore.mp3"
+    },
+    {
+      "title": "Surfing Stars",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/xxyyvkky/36.%20Surfing%20Stars.mp3"
+    },
+    {
+      "title": "Fly Far Far Away",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/tsilhblz/37.%20Fly%20Far%20Far%20Away.mp3"
+    },
+    {
+      "title": "Skull Tower",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/fkikayro/38.%20Skull%20Tower.mp3"
+    },
+    {
+      "title": "The Skull Gang",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/atqzadrw/39.%20The%20Skull%20Gang.mp3"
+    },
+    {
+      "title": "Unrivaled Size",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/oeelpqjw/40.%20Unrivaled%20Size.mp3"
+    },
+    {
+      "title": "Invincible Candy",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/dxefnydu/41.%20Invincible%20Candy.mp3"
+    },
+    {
+      "title": "Goal in Sight",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/dqrnqozd/42.%20Goal%20in%20Sight.mp3"
+    },
+    {
+      "title": "Foes Spring Up",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/ovmxdapy/43.%20Foes%20Spring%20Up.mp3"
+    },
+    {
+      "title": "Sunken Ship",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/cyjbdnfn/44.%20Sunken%20Ship.mp3"
+    },
+    {
+      "title": "Kirby Collecting",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/pmokileq/45.%20Kirby%20Collecting.mp3"
+    },
+    {
+      "title": "Daroach Reunion",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/sjrhmogr/46.%20Daroach%20Reunion.mp3"
+    },
+    {
+      "title": "Checking Extras",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/dpmsckqz/47.%20Checking%20Extras.mp3"
+    },
+    {
+      "title": "Jump Out",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/pqjxjfxw/48.%20Jump%20Out.mp3"
+    },
+    {
+      "title": "Rally Forth",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/tlznrxll/49.%20Rally%20Forth.mp3"
+    },
+    {
+      "title": "Cleared at Last",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/yuelraes/50.%20Cleared%20at%20Last.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/ucdknlra/51.%20Game%20Over.mp3"
+    },
+    {
+      "title": "Well Played",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/fvkrafwt/52.%20Well%20Played.mp3"
+    },
+    {
+      "title": "Notebook Notes",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/peburcmd/53.%20Notebook%20Notes.mp3"
+    },
+    {
+      "title": "That's That",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/blbxjetf/54.%20That%27s%20That.mp3"
+    },
+    {
+      "title": "From Above",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/wnbslcdi/55.%20From%20Above.mp3"
+    },
+    {
+      "title": "Dark Island",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/uolokkwb/56.%20Dark%20Island.mp3"
+    },
+    {
+      "title": "Green Grounds",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/sfxxvifa/57.%20Green%20Grounds.mp3"
+    },
+    {
+      "title": "Sandy Canyon",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/ddhbiote/58.%20Sandy%20Canyon.mp3"
+    },
+    {
+      "title": "Dedede Resort",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/dwvncats/59.%20Dedede%20Resort.mp3"
+    },
+    {
+      "title": "Volcano Valley",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/ptzrmjim/60.%20Volcano%20Valley.mp3"
+    },
+    {
+      "title": "Necro Nebula",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/swflomse/61.%20Necro%20Nebula.mp3"
+    },
+    {
+      "title": "Skulls Swing In",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/synvoiab/62.%20Skulls%20Swing%20In.mp3"
+    },
+    {
+      "title": "Rainbow Riches (Green Greens)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/auxctlat/63.%20Rainbow%20Riches%20%28Green%20Greens%29.mp3"
+    },
+    {
+      "title": "Eerie Island (Green Greens)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/jhiuargf/64.%20Eerie%20Island%20%28Green%20Greens%29.mp3"
+    },
+    {
+      "title": "Stone Statue (Dyna Blade)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/gueoflnf/65.%20Stone%20Statue%20%28Dyna%20Blade%29.mp3"
+    },
+    {
+      "title": "Down to One",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/oamhzdqw/66.%20Down%20to%20One.mp3"
+    },
+    {
+      "title": "Staff Pond",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/gdaqdumd/67.%20Staff%20Pond.mp3"
+    },
+    {
+      "title": "Staff Collection",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/mbypcpvj/68.%20Staff%20Collection.mp3"
+    },
+    {
+      "title": "Out of the Holes",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/zfaorsop/69.%20Out%20of%20the%20Holes.mp3"
+    },
+    {
+      "title": "Mole Mayhem",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/gobqacne/70.%20Mole%20Mayhem.mp3"
+    },
+    {
+      "title": "Smash 'Em Up",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/mfrqdvsd/71.%20Smash%20%27Em%20Up.mp3"
+    },
+    {
+      "title": "Pinball Play",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/qoyagede/72.%20Pinball%20Play.mp3"
+    },
+    {
+      "title": "Slots Aplenty",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/gcqzxrqb/73.%20Slots%20Aplenty.mp3"
+    },
+    {
+      "title": "Pinball Scuffle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/nbreyduo/74.%20Pinball%20Scuffle.mp3"
+    },
+    {
+      "title": "Showdown",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/xzhntcif/75.%20Showdown.mp3"
+    },
+    {
+      "title": "Big Gold Star",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/ckrhkcjm/76.%20Big%20Gold%20Star.mp3"
+    },
+    {
+      "title": "Final Curtain",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/ktnkjpxr/77.%20Final%20Curtain.mp3"
+    },
+    {
+      "title": "Mushroom Path",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/lprpzbio/78.%20Mushroom%20Path.mp3"
+    },
+    {
+      "title": "Hopscotch Time",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/aabiiuxc/79.%20Hopscotch%20Time.mp3"
+    },
+    {
+      "title": "Space Explorer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/wgocuqwk/80.%20Space%20Explorer.mp3"
+    },
+    {
+      "title": "Team Triumph",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/xlmbwfjh/81.%20Team%20Triumph.mp3"
+    },
+    {
+      "title": "Way Blocked",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/oiwjgdzl/82.%20Way%20Blocked.mp3"
+    },
+    {
+      "title": "Kirby Gale",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/fpiyrpyx/83.%20Kirby%20Gale.mp3"
+    },
+    {
+      "title": "Service Song",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/vtfvmyfh/84.%20Service%20Song.mp3"
+    },
+    {
+      "title": "Popstar Ahead",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/numaskwd/85.%20Popstar%20Ahead.mp3"
+    },
+    {
+      "title": "The Asteroid",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/vltlyjzu/86.%20The%20Asteroid.mp3"
+    },
+    {
+      "title": "Asteroid Ship",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/rkzrkzso/87.%20Asteroid%20Ship.mp3"
+    },
+    {
+      "title": "Bad Nightmare",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/iaackslz/88.%20Bad%20Nightmare.mp3"
+    },
+    {
+      "title": "Kirby Quest",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/qpyyzzaf/89.%20Kirby%20Quest.mp3"
+    },
+    {
+      "title": "Kirby Conflict",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/qeannbsm/90.%20Kirby%20Conflict.mp3"
+    },
+    {
+      "title": "Rumored Place",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/mfohtvye/91.%20Rumored%20Place.mp3"
+    },
+    {
+      "title": "Victory Fanfare",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/pmmbtsgb/92.%20Victory%20Fanfare.mp3"
+    },
+    {
+      "title": "Fate's Crossroad",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/jdqrnqnt/93.%20Fate%27s%20Crossroad.mp3"
+    },
+    {
+      "title": "Strongest Sword",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/ocxgoajv/94.%20Strongest%20Sword.mp3"
+    },
+    {
+      "title": "Time to Shine",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/kqzacnek/95.%20Time%20to%20Shine.mp3"
+    },
+    {
+      "title": "Action Heaven",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/vapyxrri/96.%20Action%20Heaven.mp3"
+    },
+    {
+      "title": "Survive It All",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/lvrazxpf/97.%20Survive%20It%20All.mp3"
+    },
+    {
+      "title": "Battle Extremes",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/jpyxpkep/98.%20Battle%20Extremes.mp3"
+    },
+    {
+      "title": "Shining Trophy",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/uccfugvm/99.%20Shining%20Trophy.mp3"
+    },
+    {
+      "title": "Survival Lobby",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/lluqwjim/100.%20Survival%20Lobby.mp3"
+    },
+    {
+      "title": "Beach Ambience",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/ozfedelr/Beach%20Ambience.mp3"
+    },
+    {
+      "title": "Cave Ambience",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/ebtonygj/Cave%20Ambience.mp3"
+    },
+    {
+      "title": "Dedede Pachinko",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/qdupoziq/Dedede%20Pachinko.mp3"
+    },
+    {
+      "title": "Night-Time Ambience",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/vulurxph/Night-Time%20Ambience.mp3"
+    },
+    {
+      "title": "Night-Time Ambience 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/bzvgsvbv/Night-Time%20Ambience%202.mp3"
+    },
+    {
+      "title": "Unknown Song",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/etesbcjn/Unknown%20Song.mp3"
+    },
+    {
+      "title": "Unknown Song 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/jqeyecxe/Unknown%20Song%202.mp3"
+    },
+    {
+      "title": "Unknown Song 3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/fobrgfib/Unknown%20Song%203.mp3"
+    },
+    {
+      "title": "Wind Ambience",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-mass-attack/fuifdark/Wind%20Ambience.mp3"
+    }
+  ]
+}
