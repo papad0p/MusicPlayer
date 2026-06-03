@@ -70,6 +70,13 @@ li:hover {
 
 }
 
+
+footer {
+    text-align: center;
+    margin: 1em;
+    font-size: 0.75em;
+}
+
 @media (max-width: 780px) {
     li {
         padding: 1.2em 1em;
