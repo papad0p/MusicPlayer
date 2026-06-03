@@ -1,0 +1,925 @@
+{
+  "meta": {
+    "game_title": "The Legend of Zelda: Twilight Princess",
+    "art": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/38/Twilight_Princess_GCN_US_boxart.jpg/",
+    "desc": "November 19, 2006"
+  },
+  "songs": [
+    {
+      "title": "Channel Menu",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/bbcjnmvr/1-01%20Channel%20Menu.mp3"
+    },
+    {
+      "title": "Title",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/xnvrwhuc/1-02%20Title.mp3"
+    },
+    {
+      "title": "The Legend of Zelda- Orchestra Piece #1",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ceogobqc/1-03%20The%20Legend%20of%20Zelda-%20Orchestra%20Piece%20%231.mp3"
+    },
+    {
+      "title": "Menu Select",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/lyjabgah/1-04%20Menu%20Select.mp3"
+    },
+    {
+      "title": "Opening Demo",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/kfvndbyn/1-05%20Opening%20Demo.mp3"
+    },
+    {
+      "title": "Meet Ilia",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/thcserzw/1-06%20Meet%20Ilia.mp3"
+    },
+    {
+      "title": "Horse Grass - Epona's Song (Blow)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/kjqcnkly/1-07%20Horse%20Grass%20-%20Epona%27s%20Song%20%28Blow%29.mp3"
+    },
+    {
+      "title": "Ordon Village",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ljopjbga/1-08%20Ordon%20Village.mp3"
+    },
+    {
+      "title": "Ordon Ranch",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/jvaotcdn/1-09%20Ordon%20Ranch.mp3"
+    },
+    {
+      "title": "Herd Game",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/cykgahlj/1-10%20Herd%20Game.mp3"
+    },
+    {
+      "title": "Mini-Game Goal",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/lbbaxodx/1-11%20Mini-Game%20Goal.mp3"
+    },
+    {
+      "title": "Inside a House",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/cvumasnm/1-12%20Inside%20a%20House.mp3"
+    },
+    {
+      "title": "Hawk Grass (Blow)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/uomqtwbs/1-13%20Hawk%20Grass%20%28Blow%29.mp3"
+    },
+    {
+      "title": "The Hawk and the Cat",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/jqeyeczq/1-14%20The%20Hawk%20and%20the%20Cat.mp3"
+    },
+    {
+      "title": "Shop",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/hkdndceo/1-15%20Shop.mp3"
+    },
+    {
+      "title": "Instruction in the Art of the Sword",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/fkjrfamh/1-16%20Instruction%20in%20the%20Art%20of%20the%20Sword.mp3"
+    },
+    {
+      "title": "Talo's Rescue",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/drcikztt/1-17%20Talo%27s%20Rescue.mp3"
+    },
+    {
+      "title": "Battle First Half",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/lccenegs/1-18%20Battle%20First%20Half.mp3"
+    },
+    {
+      "title": "Battle Second Half",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/uxbpvhxu/1-19%20Battle%20Second%20Half.mp3"
+    },
+    {
+      "title": "Cave",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/encwbqzd/1-20%20Cave.mp3"
+    },
+    {
+      "title": "Departure",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ppfhwlom/1-21%20Departure.mp3"
+    },
+    {
+      "title": "Wild Goat",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/rabgbonz/1-22%20Wild%20Goat.mp3"
+    },
+    {
+      "title": "Ilia's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ldjnlqud/1-23%20Ilia%27s%20Theme.mp3"
+    },
+    {
+      "title": "Enter the Darkness",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/gwqnsyro/1-24%20Enter%20the%20Darkness.mp3"
+    },
+    {
+      "title": "Link's Transformation",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/rtretika/1-25%20Link%27s%20Transformation.mp3"
+    },
+    {
+      "title": "Midna's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/uzmndeji/1-26%20Midna%27s%20Theme.mp3"
+    },
+    {
+      "title": "A Helping Hand",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/pzbmcavd/1-27%20A%20Helping%20Hand.mp3"
+    },
+    {
+      "title": "Twilight",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/gsvcymma/1-28%20Twilight.mp3"
+    },
+    {
+      "title": "Twilit Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/riqdtijy/1-29%20Twilit%20Battle.mp3"
+    },
+    {
+      "title": "Princess Zelda Appears",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/oxxvkpsu/1-30%20Princess%20Zelda%20Appears.mp3"
+    },
+    {
+      "title": "Succumbed to Twilight",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/tkwbqcme/1-31%20Succumbed%20to%20Twilight.mp3"
+    },
+    {
+      "title": "Meeting with Princess Zelda",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/kpqkdjor/1-32%20Meeting%20with%20Princess%20Zelda.mp3"
+    },
+    {
+      "title": "A Beast in the Village",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/rkzrkceo/1-33%20A%20Beast%20in%20the%20Village.mp3"
+    },
+    {
+      "title": "Hawk Grass (Howl)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ixphsosx/1-34%20Hawk%20Grass%20%28Howl%29.mp3"
+    },
+    {
+      "title": "Shadow Beast Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/iysskwdd/1-35%20Shadow%20Beast%20Battle.mp3"
+    },
+    {
+      "title": "The Light Spirit Appears",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/gwoeeico/1-36%20The%20Light%20Spirit%20Appears.mp3"
+    },
+    {
+      "title": "Reduced to a Netherworld",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/mrxphrmh/1-37%20Reduced%20to%20a%20Netherworld.mp3"
+    },
+    {
+      "title": "Recover the Lost Light",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/cqxqljjv/1-38%20Recover%20the%20Lost%20Light.mp3"
+    },
+    {
+      "title": "The Lamentation of the Spirit",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ygjerxlp/2-01%20The%20Lamentation%20of%20the%20Spirit.mp3"
+    },
+    {
+      "title": "The Vessel of Light is Full of Tears",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ocshgkjo/2-02%20The%20Vessel%20of%20Light%20is%20Full%20of%20Tears.mp3"
+    },
+    {
+      "title": "The Hero Chosen by the Gods",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/sxiackuq/2-03%20The%20Hero%20Chosen%20by%20the%20Gods.mp3"
+    },
+    {
+      "title": "Faron Woods",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/xpgmrype/2-04%20Faron%20Woods.mp3"
+    },
+    {
+      "title": "Hidden Skill Training",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/cxfizbfa/2-05%20Hidden%20Skill%20Training.mp3"
+    },
+    {
+      "title": "Hidden Skill Get",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/jvyjwicj/2-06%20Hidden%20Skill%20Get.mp3"
+    },
+    {
+      "title": "Forest Temple",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/qbilhezi/2-07%20Forest%20Temple.mp3"
+    },
+    {
+      "title": "Treasure Chest Open",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ttoocsim/2-08%20Treasure%20Chest%20Open.mp3"
+    },
+    {
+      "title": "Item Get",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/jmievryp/2-09%20Item%20Get.mp3"
+    },
+    {
+      "title": "Small Item Get",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ffmungsw/2-10%20Small%20Item%20Get.mp3"
+    },
+    {
+      "title": "Rupee Get",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/brinpjet/2-11%20Rupee%20Get.mp3"
+    },
+    {
+      "title": "Ooccoo's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/fwrtuseu/2-12%20Ooccoo%27s%20Theme.mp3"
+    },
+    {
+      "title": "Ook Appears",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/jkypajuv/2-13%20Ook%20Appears.mp3"
+    },
+    {
+      "title": "Ook Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ukqyufqq/2-14%20Ook%20Battle.mp3"
+    },
+    {
+      "title": "Ook Defeated",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/eyedcelt/2-15%20Ook%20Defeated.mp3"
+    },
+    {
+      "title": "Twilit Parasite, Diababa Battle First Half",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/jpyywmvq/2-16%20Twilit%20Parasite%2C%20Diababa%20Battle%20First%20Half.mp3"
+    },
+    {
+      "title": "Twilit Parasite, Diababa Battle Second Half",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/rmmwycrb/2-17%20Twilit%20Parasite%2C%20Diababa%20Battle%20Second%20Half.mp3"
+    },
+    {
+      "title": "Diababa Clear Fanfare",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/gbpvhage/2-18%20Diababa%20Clear%20Fanfare.mp3"
+    },
+    {
+      "title": "Fused Shadow Get",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/btpsuwwv/2-19%20Fused%20Shadow%20Get.mp3"
+    },
+    {
+      "title": "Heart Container Get",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/krdqtuuo/2-20%20Heart%20Container%20Get.mp3"
+    },
+    {
+      "title": "The Next Light Spirit",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/llyiuauv/2-21%20The%20Next%20Light%20Spirit.mp3"
+    },
+    {
+      "title": "Our Children Taken",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/tfvoiyuc/2-22%20Our%20Children%20Taken.mp3"
+    },
+    {
+      "title": "Hyrule Plain Morning and Twilight Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/djkauznq/2-23%20Hyrule%20Plain%20Morning%20and%20Twilight%20Theme.mp3"
+    },
+    {
+      "title": "Hyrule Plain Main Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/pakzrkau/2-24%20Hyrule%20Plain%20Main%20Theme.mp3"
+    },
+    {
+      "title": "Hyrule Plain Night Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/aqezkbcf/2-25%20Hyrule%20Plain%20Night%20Theme.mp3"
+    },
+    {
+      "title": "Golden Bug Catch",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/vofkjrgh/2-26%20Golden%20Bug%20Catch.mp3"
+    },
+    {
+      "title": "Postman's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/sreycrcj/2-27%20Postman%27s%20Theme.mp3"
+    },
+    {
+      "title": "Scared",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/revqrlep/2-28%20Scared.mp3"
+    },
+    {
+      "title": "Having Faith in Link",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ljnodatp/2-29%20Having%20Faith%20in%20Link.mp3"
+    },
+    {
+      "title": "Burning Storehouse",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/vgvjinqo/2-30%20Burning%20Storehouse.mp3"
+    },
+    {
+      "title": "Wolf Song 1 - Song of Healing (Howling Stone)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ahlkqbhh/2-31%20Wolf%20Song%201%20-%20Song%20of%20Healing%20%28Howling%20Stone%29.mp3"
+    },
+    {
+      "title": "Wolf Song 1 - Song of Healing",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/pcsfamif/2-32%20Wolf%20Song%201%20-%20Song%20of%20Healing.mp3"
+    },
+    {
+      "title": "Wolf Song 1 - Song of Healing (Duo)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/zhowpmpm/2-33%20Wolf%20Song%201%20-%20Song%20of%20Healing%20%28Duo%29.mp3"
+    },
+    {
+      "title": "Kakariko Saved",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ppfeibik/2-34%20Kakariko%20Saved.mp3"
+    },
+    {
+      "title": "The Mountain-Dwelling Goron Tribe",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/bepmryqi/2-35%20The%20Mountain-Dwelling%20Goron%20Tribe.mp3"
+    },
+    {
+      "title": "Kakariko Village",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/uyjzuzmn/2-36%20Kakariko%20Village.mp3"
+    },
+    {
+      "title": "Sanctuary",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/fjimkrcm/2-37%20Sanctuary.mp3"
+    },
+    {
+      "title": "Graveyard",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/bymppcsg/2-38%20Graveyard.mp3"
+    },
+    {
+      "title": "Death Mountain",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ebwbuqxq/2-39%20Death%20Mountain.mp3"
+    },
+    {
+      "title": "Epona Appears",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/mkqwodbx/2-40%20Epona%20Appears.mp3"
+    },
+    {
+      "title": "Rodeo Game",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ixpecyke/2-41%20Rodeo%20Game.mp3"
+    },
+    {
+      "title": "Seize Epona Fanfare",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/sztuuolm/2-42%20Seize%20Epona%20Fanfare.mp3"
+    },
+    {
+      "title": "Sumo Wrestling",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/cccgzcnk/2-43%20Sumo%20Wrestling.mp3"
+    },
+    {
+      "title": "The Thundering Herd",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/lbweguen/3-01%20The%20Thundering%20Herd.mp3"
+    },
+    {
+      "title": "Before the Battle at Eldin Bridge",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/aosxkjot/3-02%20Before%20the%20Battle%20at%20Eldin%20Bridge.mp3"
+    },
+    {
+      "title": "Battle at Eldin Bridge",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/cgzahiwf/3-03%20Battle%20at%20Eldin%20Bridge.mp3"
+    },
+    {
+      "title": "King Bulblin and Lord Bullbo Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/mthgiwib/3-04%20King%20Bulblin%20and%20Lord%20Bullbo%20Battle.mp3"
+    },
+    {
+      "title": "King Bulblin and Lord Bullbo Clear Fanfare",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ikdkptaw/3-05%20King%20Bulblin%20and%20Lord%20Bullbo%20Clear%20Fanfare.mp3"
+    },
+    {
+      "title": "Courage",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/fobsimkq/3-06%20Courage.mp3"
+    },
+    {
+      "title": "Inside Death Mountain",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/xstsgebw/3-07%20Inside%20Death%20Mountain.mp3"
+    },
+    {
+      "title": "Goron Mines",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/cwbrghoy/3-08%20Goron%20Mines.mp3"
+    },
+    {
+      "title": "Before Battle With Dangoro",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/aimogqiu/3-09%20Before%20Battle%20With%20Dangoro.mp3"
+    },
+    {
+      "title": "Dangoro Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/wcwamlqx/3-10%20Dangoro%20Battle.mp3"
+    },
+    {
+      "title": "Twilit Igniter, Fyrus Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/odbuuoms/3-11%20Twilit%20Igniter%2C%20Fyrus%20Battle.mp3"
+    },
+    {
+      "title": "Fyrus Clear Fanfare",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/cktnhzzy/3-12%20Fyrus%20Clear%20Fanfare.mp3"
+    },
+    {
+      "title": "Save Ilia",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/wkmeknkk/3-13%20Save%20Ilia.mp3"
+    },
+    {
+      "title": "Burning Bridge",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/vwxwrsnm/3-14%20Burning%20Bridge.mp3"
+    },
+    {
+      "title": "Twilight Cargo Game",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/wvpkijyn/3-15%20Twilight%20Cargo%20Game.mp3"
+    },
+    {
+      "title": "Queen Rutela's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/tfvncymm/3-16%20Queen%20Rutela%27s%20Theme.mp3"
+    },
+    {
+      "title": "Wolf Song 2 - Requiem of Spirit (Howling Stone)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/yfjdoiza/3-17%20Wolf%20Song%202%20-%20Requiem%20of%20Spirit%20%28Howling%20Stone%29.mp3"
+    },
+    {
+      "title": "Wolf Song 2 - Requiem of Spirit",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/cmbvzjyo/3-18%20Wolf%20Song%202%20-%20Requiem%20of%20Spirit.mp3"
+    },
+    {
+      "title": "Wolf Song 2 - Requiem of Spirit (Duo)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/aldkptaw/3-19%20Wolf%20Song%202%20-%20Requiem%20of%20Spirit%20%28Duo%29.mp3"
+    },
+    {
+      "title": "Shadow Insect Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/dfqlkpxq/3-20%20Shadow%20Insect%20Battle.mp3"
+    },
+    {
+      "title": "Hyrule Legend",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/lhfefmvq/3-21%20Hyrule%20Legend.mp3"
+    },
+    {
+      "title": "Lake Hylia",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/rlgzcomr/3-22%20Lake%20Hylia.mp3"
+    },
+    {
+      "title": "Fyer's Cannon",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/aacmasnk/3-23%20Fyer%27s%20Cannon.mp3"
+    },
+    {
+      "title": "Falbi's House",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/lcbaayss/3-24%20Falbi%27s%20House.mp3"
+    },
+    {
+      "title": "Hyrule Castle Town",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/kzpcptxi/3-25%20Hyrule%20Castle%20Town.mp3"
+    },
+    {
+      "title": "Musicians",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/xocuqtyj/3-26%20Musicians.mp3"
+    },
+    {
+      "title": "Overpriced Shop",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/dmaqcrzw/3-27%20Overpriced%20Shop.mp3"
+    },
+    {
+      "title": "STAR Tent",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/mulxcuse/3-28%20STAR%20Tent.mp3"
+    },
+    {
+      "title": "STAR Game",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/tgbmfqnt/3-29%20STAR%20Game.mp3"
+    },
+    {
+      "title": "Agitha's Castle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/fujjsleo/3-30%20Agitha%27s%20Castle.mp3"
+    },
+    {
+      "title": "The Fortune-Telling Mansion",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/goajvbva/3-31%20The%20Fortune-Telling%20Mansion.mp3"
+    },
+    {
+      "title": "Reunion with Ilia",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/nogobort/4-01%20Reunion%20with%20Ilia.mp3"
+    },
+    {
+      "title": "Escorting Prince Ralis",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/sgfhsvwx/4-02%20Escorting%20Prince%20Ralis.mp3"
+    },
+    {
+      "title": "Ralis, Prince of the Zoras",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ybjqbmdg/4-03%20Ralis%2C%20Prince%20of%20the%20Zoras.mp3"
+    },
+    {
+      "title": "Lakebed Temple",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ufugwogq/4-04%20Lakebed%20Temple.mp3"
+    },
+    {
+      "title": "Deku Toad Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/jxlmccdl/4-05%20Deku%20Toad%20Battle.mp3"
+    },
+    {
+      "title": "Twilit Aquatic, Morpheel Battle First Half",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/tjpzcngt/4-06%20Twilit%20Aquatic%2C%20Morpheel%20Battle%20First%20Half.mp3"
+    },
+    {
+      "title": "Twilit Aquatic, Morpheel Battle Second Half",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/atvuohwk/4-07%20Twilit%20Aquatic%2C%20Morpheel%20Battle%20Second%20Half.mp3"
+    },
+    {
+      "title": "Zant Appears",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/lbxixnxz/4-08%20Zant%20Appears.mp3"
+    },
+    {
+      "title": "Zant's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ewvqqitr/4-09%20Zant%27s%20Theme.mp3"
+    },
+    {
+      "title": "Light and Shadow",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/fyeanncx/4-10%20Light%20and%20Shadow.mp3"
+    },
+    {
+      "title": "Midna's Lament",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/gozhowpk/4-11%20Midna%27s%20Lament.mp3"
+    },
+    {
+      "title": "Reunion with Princess Zelda",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/fultmcaw/4-12%20Reunion%20with%20Princess%20Zelda.mp3"
+    },
+    {
+      "title": "Sacrifice",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/fmvtdndc/4-13%20Sacrifice.mp3"
+    },
+    {
+      "title": "The Barrier Around the Castle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/chajrgiv/4-14%20The%20Barrier%20Around%20the%20Castle.mp3"
+    },
+    {
+      "title": "Howling Stone 3 - Prelude of Light (Howling Stone)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ejiljmft/4-15%20Howling%20Stone%203%20-%20Prelude%20of%20Light%20%28Howling%20Stone%29.mp3"
+    },
+    {
+      "title": "Howling Stone 3 - Prelude of Light",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/avcbyoaj/4-16%20Howling%20Stone%203%20-%20Prelude%20of%20Light.mp3"
+    },
+    {
+      "title": "Howling Stone 3 - Prelude of Light (Duo)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/tqxphrkc/4-17%20Howling%20Stone%203%20-%20Prelude%20of%20Light%20%28Duo%29.mp3"
+    },
+    {
+      "title": "Howling Stone 4 - Zelda's Lullaby (Howling Stone)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/igiyrlig/4-18%20Howling%20Stone%204%20-%20Zelda%27s%20Lullaby%20%28Howling%20Stone%29.mp3"
+    },
+    {
+      "title": "Howling Stone 4 - Zelda's Lullaby",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/jytvwxwr/4-19%20Howling%20Stone%204%20-%20Zelda%27s%20Lullaby.mp3"
+    },
+    {
+      "title": "Sacred Grove",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/sqyxofgr/4-20%20Sacred%20Grove.mp3"
+    },
+    {
+      "title": "Guardians of the Sacred Grove",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ripzblzq/4-21%20Guardians%20of%20the%20Sacred%20Grove.mp3"
+    },
+    {
+      "title": "Master Sword",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/fflmcaxi/4-22%20Master%20Sword.mp3"
+    },
+    {
+      "title": "Midna's Request",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ackslzpc/4-23%20Midna%27s%20Request.mp3"
+    },
+    {
+      "title": "Horse Grass - Epona's Song (Howl)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/qvhywlrb/4-24%20Horse%20Grass%20-%20Epona%27s%20Song%20%28Howl%29.mp3"
+    },
+    {
+      "title": "Wolf Song 5 - Song of Heroes (Howling Stone)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/iisoqmoj/4-25%20Wolf%20Song%205%20-%20Song%20of%20Heroes%20%28Howling%20Stone%29.mp3"
+    },
+    {
+      "title": "Wolf Song 5 - Song of Heroes",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/fvplkskw/4-26%20Wolf%20Song%205%20-%20Song%20of%20Heroes.mp3"
+    },
+    {
+      "title": "Wolf Song 5 - Song of Heroes (Duo)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/dzpconyd/4-27%20Wolf%20Song%205%20-%20Song%20of%20Heroes%20%28Duo%29.mp3"
+    },
+    {
+      "title": "The Twilight Realm",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/yfeicmby/4-28%20The%20Twilight%20Realm.mp3"
+    },
+    {
+      "title": "Gerudo Desert",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ozdumbux/4-29%20Gerudo%20Desert.mp3"
+    },
+    {
+      "title": "Arbiter's Grounds",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/borspsvb/4-30%20Arbiter%27s%20Grounds.mp3"
+    },
+    {
+      "title": "The Death Sword Appears",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/skykgcrc/4-31%20The%20Death%20Sword%20Appears.mp3"
+    },
+    {
+      "title": "Death Sword Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/lxhqhnsd/4-32%20Death%20Sword%20Battle.mp3"
+    },
+    {
+      "title": "Twilit Fossil, Stallord Battle First Half",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/kqzzxqlh/4-33%20Twilit%20Fossil%2C%20Stallord%20Battle%20First%20Half.mp3"
+    },
+    {
+      "title": "Twilit Fossil, Stallord Battle Second Half",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/eyhmqrle/4-34%20Twilit%20Fossil%2C%20Stallord%20Battle%20Second%20Half.mp3"
+    },
+    {
+      "title": "Mirror of Twilight Fragmented",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/pljmkonx/5-01%20Mirror%20of%20Twilight%20Fragmented.mp3"
+    },
+    {
+      "title": "The Sages' Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/aiqezkax/5-02%20The%20Sages%27%20Theme.mp3"
+    },
+    {
+      "title": "The Demon Thief",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/mrzxoale/5-03%20The%20Demon%20Thief.mp3"
+    },
+    {
+      "title": "Cargo Game",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/napxrtqa/5-04%20Cargo%20Game.mp3"
+    },
+    {
+      "title": "River Game",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ewuigjzw/5-05%20River%20Game.mp3"
+    },
+    {
+      "title": "Fishing Hole",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/kinpmqqg/5-06%20Fishing%20Hole.mp3"
+    },
+    {
+      "title": "Fishing Hit",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/kfwrvcbz/5-07%20Fishing%20Hit.mp3"
+    },
+    {
+      "title": "Fish Catch",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/rjxmpqis/5-08%20Fish%20Catch.mp3"
+    },
+    {
+      "title": "Ordon Catfish Catch",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/rdrzystp/5-09%20Ordon%20Catfish%20Catch.mp3"
+    },
+    {
+      "title": "Rollgoal",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/uekldifb/5-10%20Rollgoal.mp3"
+    },
+    {
+      "title": "Rollgoal Failure",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/qcolqtvy/5-11%20Rollgoal%20Failure.mp3"
+    },
+    {
+      "title": "Zora's Domain",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/glksjskx/5-12%20Zora%27s%20Domain.mp3"
+    },
+    {
+      "title": "Entering the Zora Prince's Throne Room",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ketfsazt/5-13%20Entering%20the%20Zora%20Prince%27s%20Throne%20Room.mp3"
+    },
+    {
+      "title": "Snowpeak",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/xgpearhm/5-14%20Snowpeak.mp3"
+    },
+    {
+      "title": "Wolf Song 6 - Wind's Requiem (Howling Stone)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/krbhisrf/5-15%20Wolf%20Song%206%20-%20Wind%27s%20Requiem%20%28Howling%20Stone%29.mp3"
+    },
+    {
+      "title": "Wolf Song 6 - Wind's Requiem",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/zjwfmtii/5-16%20Wolf%20Song%206%20-%20Wind%27s%20Requiem.mp3"
+    },
+    {
+      "title": "Wolf Song 6 - Wind's Requiem (Duo)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ttnjfybo/5-17%20Wolf%20Song%206%20-%20Wind%27s%20Requiem%20%28Duo%29.mp3"
+    },
+    {
+      "title": "Snowpeak Ruins",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/qjberwhv/5-18%20Snowpeak%20Ruins.mp3"
+    },
+    {
+      "title": "Darkhammer Appears",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/jhhoyafc/5-19%20Darkhammer%20Appears.mp3"
+    },
+    {
+      "title": "Twilit Ice Mass, Blizzetta Battle First Half",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/usfvpmrx/5-20%20Twilit%20Ice%20Mass%2C%20Blizzetta%20Battle%20First%20Half.mp3"
+    },
+    {
+      "title": "Twilit Ice Mass, Blizzetta Battle Second Half",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/lppebsmg/5-21%20Twilit%20Ice%20Mass%2C%20Blizzetta%20Battle%20Second%20Half.mp3"
+    },
+    {
+      "title": "Love",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/vlpsuupp/5-22%20Love.mp3"
+    },
+    {
+      "title": "Boss Defeated",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/glkskxgo/5-23%20Boss%20Defeated.mp3"
+    },
+    {
+      "title": "Snowboarding",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/bophrosw/5-24%20Snowboarding.mp3"
+    },
+    {
+      "title": "Snowboarding Goal",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/goeddgwq/5-25%20Snowboarding%20Goal.mp3"
+    },
+    {
+      "title": "Snowboarding Failure",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/owrvapzd/5-26%20Snowboarding%20Failure.mp3"
+    },
+    {
+      "title": "Chamber of Stone - Past",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/sfwsztvw/5-27%20Chamber%20of%20Stone%20-%20Past.mp3"
+    },
+    {
+      "title": "Temple of Time",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/uihmpnwt/5-28%20Temple%20of%20Time.mp3"
+    },
+    {
+      "title": "Darknut Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/dkqaclzm/5-29%20Darknut%20Battle.mp3"
+    },
+    {
+      "title": "Twilit Arachnid, Armogohma Battle First Half",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/oiyuejhl/5-30%20Twilit%20Arachnid%2C%20Armogohma%20Battle%20First%20Half.mp3"
+    },
+    {
+      "title": "Armogohma Clear...",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ihkfwsyp/5-31%20Armogohma%20Clear....mp3"
+    },
+    {
+      "title": "Twilit Arachnid, Armogohma Battle Second Half",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ebskympo/5-32%20Twilit%20Arachnid%2C%20Armogohma%20Battle%20Second%20Half.mp3"
+    },
+    {
+      "title": "Armogohma Clear Fanfare",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/xxvifbrd/5-33%20Armogohma%20Clear%20Fanfare.mp3"
+    },
+    {
+      "title": "The Hidden Village",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/thgiytvx/5-34%20The%20Hidden%20Village.mp3"
+    },
+    {
+      "title": "Wolf Song 7 - Ballad of Twilight (Howling Stone)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/dwybldhc/5-35%20Wolf%20Song%207%20-%20Ballad%20of%20Twilight%20%28Howling%20Stone%29.mp3"
+    },
+    {
+      "title": "Wolf Song 7 - Ballad of Twilight",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/njinoehy/5-36%20Wolf%20Song%207%20-%20Ballad%20of%20Twilight.mp3"
+    },
+    {
+      "title": "Wolf Song 7 - Ballad of Twilight (Duo)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/tykiisnk/5-37%20Wolf%20Song%207%20-%20Ballad%20of%20Twilight%20%28Duo%29.mp3"
+    },
+    {
+      "title": "Ilia's Memory Restored",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/prpagdbu/5-38%20Ilia%27s%20Memory%20Restored.mp3"
+    },
+    {
+      "title": "Jovani's House",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/tinnapzc/5-39%20Jovani%27s%20House.mp3"
+    },
+    {
+      "title": "Malo's Mart",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/mcccigjb/5-40%20Malo%27s%20Mart.mp3"
+    },
+    {
+      "title": "Sky Character Get",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/eryoboql/5-41%20Sky%20Character%20Get.mp3"
+    },
+    {
+      "title": "The Sky Cannon",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/jleltjqb/5-42%20The%20Sky%20Cannon.mp3"
+    },
+    {
+      "title": "Cannon Repair",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ilihlihm/5-43%20Cannon%20Repair.mp3"
+    },
+    {
+      "title": "City in the Sky",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/nfobshiu/6-01%20City%20in%20the%20Sky.mp3"
+    },
+    {
+      "title": "Aeralfos Appears",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/yjaytyix/6-02%20Aeralfos%20Appears.mp3"
+    },
+    {
+      "title": "Twilit Dragon, Argorok Battle First Half",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ozitqxtx/6-03%20Twilit%20Dragon%2C%20Argorok%20Battle%20First%20Half.mp3"
+    },
+    {
+      "title": "Twilit Dragon, Argorok Battle Second Half",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ixqjyrmj/6-04%20Twilit%20Dragon%2C%20Argorok%20Battle%20Second%20Half.mp3"
+    },
+    {
+      "title": "Great Fairy's Fountain",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/mfrsmftc/6-05%20Great%20Fairy%27s%20Fountain.mp3"
+    },
+    {
+      "title": "Mirror of Twilight Completed",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/gzcmgsuw/6-06%20Mirror%20of%20Twilight%20Completed.mp3"
+    },
+    {
+      "title": "The Twilight Princess",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/xxxudkra/6-07%20The%20Twilight%20Princess.mp3"
+    },
+    {
+      "title": "Entering the Twilight Realm",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/eumyivfm/6-08%20Entering%20the%20Twilight%20Realm.mp3"
+    },
+    {
+      "title": "Palace of Twilight",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/sgbpswcy/6-09%20Palace%20of%20Twilight.mp3"
+    },
+    {
+      "title": "Phantom Zant Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/likymrxm/6-10%20Phantom%20Zant%20Battle.mp3"
+    },
+    {
+      "title": "Confrontation with Zant",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/thezivat/6-11%20Confrontation%20with%20Zant.mp3"
+    },
+    {
+      "title": "Usurper King, Zant Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/qxsuuqvf/6-12%20Usurper%20King%2C%20Zant%20Battle.mp3"
+    },
+    {
+      "title": "Zant's Death",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/odcavczq/6-13%20Zant%27s%20Death.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ghuatpvi/6-14%20Game%20Over.mp3"
+    },
+    {
+      "title": "Shattering the Barrier",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/cmfqmltn/6-15%20Shattering%20the%20Barrier.mp3"
+    },
+    {
+      "title": "Hyrule Castle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/jgfgobor/6-16%20Hyrule%20Castle.mp3"
+    },
+    {
+      "title": "Resistance",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/riqfefnz/6-17%20Resistance.mp3"
+    },
+    {
+      "title": "Hyrule Castle Tower",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/kcertvvp/6-18%20Hyrule%20Castle%20Tower.mp3"
+    },
+    {
+      "title": "Entering the Throne Room",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/nulvvqsr/6-19%20Entering%20the%20Throne%20Room.mp3"
+    },
+    {
+      "title": "Ganon's Puppet, Zelda Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/famhzcok/6-20%20Ganon%27s%20Puppet%2C%20Zelda%20Battle.mp3"
+    },
+    {
+      "title": "Zelda Rescued",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/kvxcretf/6-21%20Zelda%20Rescued.mp3"
+    },
+    {
+      "title": "Ganon Transforms",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/vnbvxzhl/6-22%20Ganon%20Transforms.mp3"
+    },
+    {
+      "title": "Dark Beast, Ganon Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/jldknloo/6-23%20Dark%20Beast%2C%20Ganon%20Battle.mp3"
+    },
+    {
+      "title": "Combining the Fused Shadows",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ctlyjabg/6-24%20Combining%20the%20Fused%20Shadows.mp3"
+    },
+    {
+      "title": "Midna's Sacrifice",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/zdsdngst/6-25%20Midna%27s%20Sacrifice.mp3"
+    },
+    {
+      "title": "The Light Arrows",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/qyuenaou/6-26%20The%20Light%20Arrows.mp3"
+    },
+    {
+      "title": "Princess Zelda's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/enefocus/6-27%20Princess%20Zelda%27s%20Theme.mp3"
+    },
+    {
+      "title": "Dark Lord, Ganondorf Battle First Half",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/esdlvxyy/6-28%20Dark%20Lord%2C%20Ganondorf%20Battle%20First%20Half.mp3"
+    },
+    {
+      "title": "Dark Lord, Ganondorf Battle Second Half",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/yxqlhcqv/6-29%20Dark%20Lord%2C%20Ganondorf%20Battle%20Second%20Half.mp3"
+    },
+    {
+      "title": "Ganondorf's End",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/gufrtrbk/6-30%20Ganondorf%27s%20End.mp3"
+    },
+    {
+      "title": "Ending",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/vvujleog/6-31%20Ending.mp3"
+    },
+    {
+      "title": "Staff Credits",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/phoxyaex/6-32%20Staff%20Credits.mp3"
+    },
+    {
+      "title": "The Legend of Zelda- Orchestra Piece #2 (MIDI)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ybkxhrou/7-01%20The%20Legend%20of%20Zelda-%20Orchestra%20Piece%20%232%20%28MIDI%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda- Orchestra Piece #3",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/iduoizzx/7-02%20The%20Legend%20of%20Zelda-%20Orchestra%20Piece%20%233.mp3"
+    },
+    {
+      "title": "Title Logo (E3 2005)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/nydvrazu/7-03%20Title%20Logo%20%28E3%202005%29.mp3"
+    },
+    {
+      "title": "Zelda Gallery",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/cbaxmqub/7-04%20Zelda%20Gallery.mp3"
+    },
+    {
+      "title": "Title Logo (E3 2006)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/ypbopgkk/7-05%20Title%20Logo%20%28E3%202006%29.mp3"
+    },
+    {
+      "title": "Stage Select (E3 2006)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/tpqkbcii/7-06%20Stage%20Select%20%28E3%202006%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda- Orchestra Piece #2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/qdwwuife/7-07%20The%20Legend%20of%20Zelda-%20Orchestra%20Piece%20%232.mp3"
+    },
+    {
+      "title": "Midna's Theme (Album Version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/legend-of-zelda-the-twilight-princess-gamerip/deoeeidt/7-08%20Midna%27s%20Theme%20%28Album%20Version%29.mp3"
+    }
+  ]
+}
