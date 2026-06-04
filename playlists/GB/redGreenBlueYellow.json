@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "game_title": "Pokémon: Red, Green, Blue & Yellow",
+    "art": "https://upload.wikimedia.org/wikipedia/en/a/af/Pok%C3%A9mon_Red_and_Blue_cover_art.webp",
+    "desc": "February 27, 1996"
+  },
+  "songs": [
+    {
+      "title": "Opening Movie",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/sxkijvde/01.%20Opening%20Movie%20%28Red%2C%20Green%20%26%20Blue%20Version%29.mp3"
+    },
+    {
+      "title": "Opening Movie - Stereo",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/jjrgfizx/02.%20Opening%20Movie%20-%20Stereo%20%28Red%2C%20Green%20%26%20Blue%20Version%29.mp3"
+    },
+    {
+      "title": "Title Screen",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/qmnegucf/03%20Title%20Screen.mp3"
+    },
+    {
+      "title": "Pallet Town",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/syqhoybn/04%20Pallet%20Town.mp3"
+    },
+    {
+      "title": "Professor Oak",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/ibkvvujm/05%20Professor%20Oak.mp3"
+    },
+    {
+      "title": "Hurry Along",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/idtgcuol/06.%20Hurry%20Along.mp3"
+    },
+    {
+      "title": "Pokémon Lab",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/qsskwcxf/07.%20Pok%C3%A9mon%20Lab.mp3"
+    },
+    {
+      "title": "Pokémon Obtained!",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/jdqsslzp/08.%20Poke%CC%81mon%20Obtained%21.mp3"
+    },
+    {
+      "title": "Rival Appears!",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/dvseqtwz/09.%20Rival%20Appears%21.mp3"
+    },
+    {
+      "title": "Battle! (Trainer Battle)",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/itsilhcr/10.%20Battle%21%20%28Trainer%20Battle%29.mp3"
+    },
+    {
+      "title": "Level Up!",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/bfxzbkwe/11.%20Level%20Up%21.mp3"
+    },
+    {
+      "title": "Victory! (Trainer Battle)",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/ekolquas/12.%20Victory%21%20%28Trainer%20Battle%29.mp3"
+    },
+    {
+      "title": "Route 1",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/mftcfuji/13%20Route%201.mp3"
+    },
+    {
+      "title": "Battle! (Wild Pokémon)",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/rhlkpudh/14%20Battle%21%20%28Wild%20Pok%C3%A9mon%29.mp3"
+    },
+    {
+      "title": "Victory! (Wild Pokémon)",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/colpsrhl/15%20Victory%21%20%28Wild%20Pok%C3%A9mon%29.mp3"
+    },
+    {
+      "title": "Item Obtained!",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/hfehvhyx/16.%20Item%20Obtained%21.mp3"
+    },
+    {
+      "title": "Viridian City",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/pgoaleoh/17%20Viridian%20City.mp3"
+    },
+    {
+      "title": "Pokémon Center",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/vdhywoed/18%20Pok%C3%A9mon%20Center.mp3"
+    },
+    {
+      "title": "Pokémon Healed",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/cftaypec/19.%20Pok%C3%A9mon%20Healed.mp3"
+    },
+    {
+      "title": "Pokémon Caught!",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/zowpjacj/20.%20Pok%C3%A9mon%20Caught%21.mp3"
+    },
+    {
+      "title": "Traded Pokémon Received!",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/pwoeeiex/21.%20Traded%20Pok%C3%A9mon%20Received%21.mp3"
+    },
+    {
+      "title": "Viridian Forest",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/bldgzbkt/22%20Viridian%20Forest.mp3"
+    },
+    {
+      "title": "A Trainer Appears (Boy Version)",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/qxrrhmpk/23.%20A%20Trainer%20Appears%20%28Boy%20Version%29.mp3"
+    },
+    {
+      "title": "Jigglypuff's Song",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/gdxbqxrs/24%20Jigglypuff%27s%20Song.mp3"
+    },
+    {
+      "title": "Professor Oak's Evaluation!",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/mgvlqwjg/25.%20Professor%20Oak%27s%20Evaluation%21.mp3"
+    },
+    {
+      "title": "Evolution",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/glkusgcr/26%20Evolution.mp3"
+    },
+    {
+      "title": "Pokémon Gym",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/clylikyo/27%20Pok%C3%A9mon%20Gym.mp3"
+    },
+    {
+      "title": "Battle! (Gym Leader)",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/zfbrgdzn/28.%20Battle%21%20%28Gym%20Leader%29.mp3"
+    },
+    {
+      "title": "Victory! (Gym Leader)",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/pntfugyx/29.%20Victory%21%20%28Gym%20Leader%29.mp3"
+    },
+    {
+      "title": "Route 3",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/vhyywoee/30%20Route%203.mp3"
+    },
+    {
+      "title": "A Trainer Appears (Girl Version)",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/ibkuvqve/31.%20A%20Trainer%20Appears%20%28Girl%20Version%29.mp3"
+    },
+    {
+      "title": "Mt. Moon",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/lrzxobqz/32%20Mt.%20Moon.mp3"
+    },
+    {
+      "title": "A Trainer Appears (Bad Guy Version)",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/zyuemxcu/33.%20A%20Trainer%20Appears%20%28Bad%20Guy%20Version%29.mp3"
+    },
+    {
+      "title": "Cerulean City",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/rxpeeicm/34%20Cerulean%20City.mp3"
+    },
+    {
+      "title": "Route 24 - Welcome to the World of Pokémon!",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/czrnlqyu/35%20Route%2024%20-%20Welcome%20to%20the%20World%20of%20Pok%C3%A9mon%21.mp3"
+    },
+    {
+      "title": "Vermilion City",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/dhaexakx/36%20Vermilion%20City.mp3"
+    },
+    {
+      "title": "S.S. Anne",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/jdpmsdog/37.%20S.S.%20Anne.mp3"
+    },
+    {
+      "title": "Bicycle",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/srjsophs/38.%20Bicycle.mp3"
+    },
+    {
+      "title": "Route 11",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/skvanofl/39%20Route%2011.mp3"
+    },
+    {
+      "title": "Lavender Town",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/quasnlsg/40%20Lavender%20Town.mp3"
+    },
+    {
+      "title": "Celadon City",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/ctnhyvgw/41%20Celadon%20City.mp3"
+    },
+    {
+      "title": "Rocket Game Corner",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/phtwdbvy/42%20Rocket%20Game%20Corner.mp3"
+    },
+    {
+      "title": "Rocket Hideout",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/gmqsrhjx/43%20Rocket%20Hideout.mp3"
+    },
+    {
+      "title": "Sylph Co.",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/lpozebrf/44%20Sylph%20Co..mp3"
+    },
+    {
+      "title": "Pokémon Tower",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/bpvjkwbs/45%20Pok%C3%A9mon%20Tower.mp3"
+    },
+    {
+      "title": "Poké Flute",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/ipyyvkla/46%20Pok%C3%A9%20Flute.mp3"
+    },
+    {
+      "title": "Surf",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/uxdxeden/47%20Surf.mp3"
+    },
+    {
+      "title": "Cinnabar Island",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/busdpnuj/48%20Cinnabar%20Island.mp3"
+    },
+    {
+      "title": "Pokémon Mansion",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/oswgpgkh/49%20Pok%C3%A9mon%20Mansion.mp3"
+    },
+    {
+      "title": "Victory Road",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/fflnjgbp/50%20Victory%20Road.mp3"
+    },
+    {
+      "title": "Final Battle! (Rival)",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/wnyezkdk/51%20Final%20Battle%21%20%28Rival%29.mp3"
+    },
+    {
+      "title": "Hall of Fame",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/qackuses/52%20Hall%20of%20Fame.mp3"
+    },
+    {
+      "title": "Ending Theme",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/bgybkvzj/53.%20Ending%20Theme.mp3"
+    },
+    {
+      "title": "Unused Song",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/yqjvcbyp/54.%20Unused%20Song.mp3"
+    },
+    {
+      "title": "Opening Movie (Yellow Version)",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/fdcbzrnm/55.%20Opening%20Movie%20%28Yellow%20Version%29.mp3"
+    },
+    {
+      "title": "Printer Menu",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/xdygmqtw/56%20Printer%20Menu.mp3"
+    },
+    {
+      "title": "A Trainer Appears (Rocket Duo Version)",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/zlenehzy/57.%20A%20Trainer%20Appears%20%28Rocket%20Duo%20Version%29.mp3"
+    },
+    {
+      "title": "Pikachu's Beach",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-red-green-blue-yellow/wklcbaxl/58%20Pikachu%27s%20Beach.mp3"
+    }
+  ]
+}
