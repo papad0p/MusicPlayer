@@ -1,0 +1,397 @@
+{
+  "meta": {
+    "game_title": "Kirby Planet Robobot",
+    "art": "https://cdn.wikirby.com/2/2f/KPR_Box.png",
+    "desc": "April 28, 2016"
+  },
+  "songs": [
+    {
+      "title": "Bright Spinning Planet",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/ncxefmwt/1-01.%20Bright%20Spinning%20Planet.mp3"
+    },
+    {
+      "title": "First Contact",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/hfcvvsci/1-02.%20First%20Contact.mp3"
+    },
+    {
+      "title": "Magical Planet Popstar",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/hmqpfefp/1-03.%20Magical%20Planet%20Popstar.mp3"
+    },
+    {
+      "title": "Patched Plains",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/hrpwodar/1-04.%20Patched%20Plains.mp3"
+    },
+    {
+      "title": "Venturing into the Mechanized World",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/kxjeqtut/1-05.%20Venturing%20into%20the%20Mechanized%20World.mp3"
+    },
+    {
+      "title": "Re - Green Greens",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/ktolpstn/1-06.%20Re%20-%20Green%20Greens.mp3"
+    },
+    {
+      "title": "Metal N. Vasion",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/msfvpmqq/1-07.%20Metal%20N.%20Vasion.mp3"
+    },
+    {
+      "title": "Pink Ball Activate!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/hpezlepl/1-08.%20Pink%20Ball%20Activate%21.mp3"
+    },
+    {
+      "title": "Steel Beat",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/jpxtauyi/1-09.%20Steel%20Beat.mp3"
+    },
+    {
+      "title": "Green Laboratory",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/ttmfqouh/1-10.%20Green%20Laboratory.mp3"
+    },
+    {
+      "title": "Invincible",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/eygjbfxw/1-11.%20Invincible.mp3"
+    },
+    {
+      "title": "Kirby Dance (short version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/ogpffklz/1-12.%20Kirby%20Dance%20%28short%20version%29.mp3"
+    },
+    {
+      "title": "Clouds Park",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/pzdrbeuj/1-13.%20Clouds%20Park.mp3"
+    },
+    {
+      "title": "Resolution Road",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/leoehyvh/1-14.%20Resolution%20Road.mp3"
+    },
+    {
+      "title": "Yearning for Yellow (Vroom!)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/xucdjkyo/1-15.%20Yearning%20for%20Yellow%20%28Vroom%21%29.mp3"
+    },
+    {
+      "title": "Flight of Azure",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/zhjcgahl/1-16.%20Flight%20of%20Azure.mp3"
+    },
+    {
+      "title": "Residential Laboratory",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/krcnicmc/1-17.%20Residential%20Laboratory.mp3"
+    },
+    {
+      "title": "Gorgeous-Go-Round",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/ccgwrtqb/1-18.%20Gorgeous-Go-Round.mp3"
+    },
+    {
+      "title": "Overload Ocean",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/hjzspxsy/1-19.%20Overload%20Ocean.mp3"
+    },
+    {
+      "title": "Bountiful Star",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/lnddiged/1-20.%20Bountiful%20Star.mp3"
+    },
+    {
+      "title": "Rhythm Code",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/gtbaztyi/1-21.%20Rhythm%20Code.mp3"
+    },
+    {
+      "title": "Industrial Laboratory",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/xlpobrcl/1-22.%20Industrial%20Laboratory.mp3"
+    },
+    {
+      "title": "Time for Dessert!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/xegqotch/1-23.%20Time%20for%20Dessert%21.mp3"
+    },
+    {
+      "title": "Submarine Suburbs",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/fcykfvoe/1-24.%20Submarine%20Suburbs.mp3"
+    },
+    {
+      "title": "Gigabyte Grounds",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/iaclyljl/1-25.%20Gigabyte%20Grounds.mp3"
+    },
+    {
+      "title": "Dried-up Sea",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/fqqhntch/1-26.%20Dried-up%20Sea.mp3"
+    },
+    {
+      "title": "Core Kabula Surprise!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/cptzoyyy/1-27.%20Core%20Kabula%20Surprise%21.mp3"
+    },
+    {
+      "title": "Studying the Power Plant",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/wogmqsqc/1-28.%20Studying%20the%20Power%20Plant.mp3"
+    },
+    {
+      "title": "Done In",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/onycraes/1-29.%20Done%20In.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/zxpebwcz/1-30.%20Game%20Over.mp3"
+    },
+    {
+      "title": "Mother's Intuition",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/mokgbmfs/1-31.%20Mother%27s%20Intuition.mp3"
+    },
+    {
+      "title": "Loading...",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/xllwyezj/1-32.%20Loading....mp3"
+    },
+    {
+      "title": "Haltmann Works Co. Theme Song",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/xmrvfnap/1-33.%20Haltmann%20Works%20Co.%20Theme%20Song.mp3"
+    },
+    {
+      "title": "VS. The Wicked Company",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/vjkwfjfy/1-34.%20VS.%20The%20Wicked%20Company.mp3"
+    },
+    {
+      "title": "Let's Go Home",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/dvulwxzd/1-35.%20Let%27s%20Go%20Home.mp3"
+    },
+    {
+      "title": "Kirby Dance (full version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/vthdumej/1-36.%20Kirby%20Dance%20%28full%20version%29.mp3"
+    },
+    {
+      "title": "Toy Box",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/jqfaotyp/1-37.%20Toy%20Box.mp3"
+    },
+    {
+      "title": "Memorial Theatre",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/dvrzxmul/1-38.%20Memorial%20Theatre.mp3"
+    },
+    {
+      "title": "Kirby 3D Rumble",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/vvppeaqe/1-39.%20Kirby%203D%20Rumble.mp3"
+    },
+    {
+      "title": "Green Greens",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/vtfwrrle/1-40.%20Green%20Greens.mp3"
+    },
+    {
+      "title": "VS. Mini Masher",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/mxankmhz/1-41.%20VS.%20Mini%20Masher.mp3"
+    },
+    {
+      "title": "VS. Mega Masher",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/afybmgwo/1-42.%20VS.%20Mega%20Masher.mp3"
+    },
+    {
+      "title": "Team Kirby Clash",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/eejimmzn/1-43.%20Team%20Kirby%20Clash.mp3"
+    },
+    {
+      "title": "TIME BEEEAM!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/ncxhqjxl/1-44.%20TIME%20BEEEAM%21.mp3"
+    },
+    {
+      "title": "City Trial - Rowdy Charge Tank (Kirby Air Ride)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/mddihixk/1-45.%20City%20Trial%20-%20Rowdy%20Charge%20Tank%20%28Kirby%20Air%20Ride%29.mp3"
+    },
+    {
+      "title": "Above the Clouds (Kirby 64 - The Crystal Shards)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/kwannano/1-46.%20Above%20the%20Clouds%20%28Kirby%2064%20-%20The%20Crystal%20Shards%29.mp3"
+    },
+    {
+      "title": "VS. Chef Kawasaki (Kirby's Star Stacker)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/eejipzcn/1-47.%20VS.%20Chef%20Kawasaki%20%28Kirby%27s%20Star%20Stacker%29.mp3"
+    },
+    {
+      "title": "Halberd (Kirby's Epic Yarn)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/kjskykii/1-48.%20Halberd%20%28Kirby%27s%20Epic%20Yarn%29.mp3"
+    },
+    {
+      "title": "Spectacle Space (Kirby - Canvas Curse)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/pcqyvhza/1-49.%20Spectacle%20Space%20%28Kirby%20-%20Canvas%20Curse%29.mp3"
+    },
+    {
+      "title": "CROWNED-Ver.2 (Dedede's Drum Dash Deluxe)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/fxagfgrs/1-50.%20CROWNED-Ver.2%20%28Dedede%27s%20Drum%20Dash%20Deluxe%29.mp3"
+    },
+    {
+      "title": "Pocket Diary",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/kxgphpec/1-51.%20Pocket%20Diary.mp3"
+    },
+    {
+      "title": "Select a File!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/wedgvlrc/1-52.%20Select%20a%20File%21.mp3"
+    },
+    {
+      "title": "Rhythm Route",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/lyixmsdm/2-01.%20Rhythm%20Route.mp3"
+    },
+    {
+      "title": "Sky-High and Smitten",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/bxhsrhlg/2-02.%20Sky-High%20and%20Smitten.mp3"
+    },
+    {
+      "title": "Outlaw Driver",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/ainszrmj/2-03.%20Outlaw%20Driver.mp3"
+    },
+    {
+      "title": "Neon Laboratory",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/lekoqnoj/2-04.%20Neon%20Laboratory.mp3"
+    },
+    {
+      "title": "Loud Locomotive",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/dpmpqken/2-05.%20Loud%20Locomotive.mp3"
+    },
+    {
+      "title": "Caught Me Singing",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/eibikdlt/2-06.%20Caught%20Me%20Singing.mp3"
+    },
+    {
+      "title": "Dedede's Tridimensional Cannon",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/mcbzspvi/2-07.%20Dedede%27s%20Tridimensional%20Cannon.mp3"
+    },
+    {
+      "title": "9.3 Billion in Anguish",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/fdarioxu/2-08.%209.3%20Billion%20in%20Anguish.mp3"
+    },
+    {
+      "title": "Secret Area - HAL Room (Dedede's Drum Dash Deluxe)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/gywmydvw/2-09.%20Secret%20Area%20-%20HAL%20Room%20%28Dedede%27s%20Drum%20Dash%20Deluxe%29.mp3"
+    },
+    {
+      "title": "Access Ark",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/terwhvfq/2-10.%20Access%20Ark.mp3"
+    },
+    {
+      "title": "Working Sounds",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/llwxzfee/2-11.%20Working%20Sounds.mp3"
+    },
+    {
+      "title": "Haltmann Works Co. HQ",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/iclzqexb/2-12.%20Haltmann%20Works%20Co.%20HQ.mp3"
+    },
+    {
+      "title": "Pristine Office March",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/nmvrzvfq/2-13.%20Pristine%20Office%20March.mp3"
+    },
+    {
+      "title": "L86",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/mnegsweh/2-14.%20L86.mp3"
+    },
+    {
+      "title": "Inner Struggle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/xrrghsrg/2-15.%20Inner%20Struggle.mp3"
+    },
+    {
+      "title": "Loveless Command",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/efmsclwz/2-16.%20Loveless%20Command.mp3"
+    },
+    {
+      "title": "Crazy Rolling in Money",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/jyowuigj/2-17.%20Crazy%20Rolling%20in%20Money.mp3"
+    },
+    {
+      "title": "Apocalyptic Reboot",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/yqkbbchg/2-18.%20Apocalyptic%20Reboot.mp3"
+    },
+    {
+      "title": "Final Takeoff",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/kgcqvifz/2-19.%20Final%20Takeoff.mp3"
+    },
+    {
+      "title": "VS. Star Dream",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/hllvumzm/2-20.%20VS.%20Star%20Dream.mp3"
+    },
+    {
+      "title": "Fatal Error",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/nfkinofm/2-21.%20Fatal%20Error.mp3"
+    },
+    {
+      "title": "Intermezzo Without a Leader",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/racktlav/2-22.%20Intermezzo%20Without%20a%20Leader.mp3"
+    },
+    {
+      "title": "First Cry of a Newborn Star",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/zmkorsop/2-23.%20First%20Cry%20of%20a%20Newborn%20Star.mp3"
+    },
+    {
+      "title": "Vagrant Counting Song of Retrospection",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/jypgllyh/2-24.%20Vagrant%20Counting%20Song%20of%20Retrospection.mp3"
+    },
+    {
+      "title": "Pink Ball Revolution",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/pdxanlqx/2-25.%20Pink%20Ball%20Revolution.mp3"
+    },
+    {
+      "title": "Shell Scream",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/nyezmkra/2-26.%20Shell%20Scream.mp3"
+    },
+    {
+      "title": "Planet Heart",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/eukpwnbs/2-27.%20Planet%20Heart.mp3"
+    },
+    {
+      "title": "Memories (I'll Never Forget You)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/hlhcpqmm/2-28.%20Memories%20%28I%27ll%20Never%20Forget%20You%29.mp3"
+    },
+    {
+      "title": "Return of Meta Knight",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/yglkrgho/2-29.%20Return%20of%20Meta%20Knight.mp3"
+    },
+    {
+      "title": "Brothers in Arms",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/zhnqqfeh/2-30.%20Brothers%20in%20Arms.mp3"
+    },
+    {
+      "title": "You Lack Discipline",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/wnaoqpbm/2-31.%20You%20Lack%20Discipline.mp3"
+    },
+    {
+      "title": "StreetPass wins (Normal)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/haewuhbl/2-32.%20StreetPass%20wins%20%28Normal%29.mp3"
+    },
+    {
+      "title": "StreetPass wins (True)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/bzttnhwm/2-33.%20StreetPass%20wins%20%28True%29.mp3"
+    },
+    {
+      "title": "Spinning Planet Complete",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/tjnnzjyq/2-34.%20Spinning%20Planet%20Complete.mp3"
+    },
+    {
+      "title": "Combat Evaluation Program",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/jypcrbil/2-35.%20Combat%20Evaluation%20Program.mp3"
+    },
+    {
+      "title": "Reproduction of Darkness",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/gwrrlgue/2-36.%20Reproduction%20of%20Darkness.mp3"
+    },
+    {
+      "title": "Faded & Flower",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/negtzrmj/2-37.%20Faded%20%26%20Flower.mp3"
+    },
+    {
+      "title": "The Greatest Warrior In the Galaxy Ever",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/jtrdquat/2-38.%20The%20Greatest%20Warrior%20In%20the%20Galaxy%20Ever.mp3"
+    },
+    {
+      "title": "Broken Heart",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/qadojgcu/2-39.%20Broken%20Heart.mp3"
+    },
+    {
+      "title": "Soul 0 System - Vagrant Keepsake of Oblivion",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/ppgmpnwt/2-40.%20Soul%200%20System%20-%20Vagrant%20Keepsake%20of%20Oblivion.mp3"
+    },
+    {
+      "title": "Heartless Tears",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/eqrmigfj/2-41.%20Heartless%20Tears.mp3"
+    },
+    {
+      "title": "Well-fed Victory",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/eumzmnbr/2-42.%20Well-fed%20Victory.mp3"
+    },
+    {
+      "title": "Homeland Restored",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/hlifeeko/2-43.%20Homeland%20Restored.mp3"
+    },
+    {
+      "title": "Are You Sure",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/lqwmracj/2-44.%20Are%20You%20Sure.mp3"
+    },
+    {
+      "title": "The Noble Haltmann - Final Recital",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/kirby-planet-robobot-original-soundtrack/mkmgugwn/2-45.%20The%20Noble%20Haltmann%20-%20Final%20Recital.mp3"
+    }
+  ]
+}
