@@ -246,6 +246,10 @@ body {
         margin-bottom: 4em;
         text-align: center;
     }
+    #playlist-info img {
+        width: 100%;
+        max-width: 25em;
+    }
     
     .music-controls {
         gap: 0.5em;
