@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "game_title": "Yoshi's Island: Super Mario Advance 3",
+    "art": "https://mario.wiki.gallery/images/thumb/b/b9/Super_Mario_Advance_3_Box_Art.jpg/1200px-Super_Mario_Advance_3_Box_Art.jpg",
+    "desc": "September 20, 2002"
+  },
+  "songs": [
+    {
+      "title": "a Story Music Box",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/hmmzmnaq/01a%20Story%20Music%20Box.mp3"
+    },
+    {
+      "title": "b Super Mario Advance 3 Title",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/agcvxzds/01b%20Super%20Mario%20Advance%203%20Title.mp3"
+    },
+    {
+      "title": "c Choose a Game!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/esbfxwnb/01c%20Choose%20a%20Game%21.mp3"
+    },
+    {
+      "title": "Yoshi's Island (Extended)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/urclzljl/02a%20Yoshi%27s%20Island.mp3"
+    },
+    {
+      "title": "Yoshi's Island",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/enddeltl/02b%20Yoshi%27s%20Island.mp3"
+    },
+    {
+      "title": "Yoshi Start Demo",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/yhturacm/03%20Yoshi%20Start%20Demo.mp3"
+    },
+    {
+      "title": "Training Course",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/cawfkkus/04%20Training%20Course.mp3"
+    },
+    {
+      "title": "Game Start",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/euijwgpf/05%20Game%20Start.mp3"
+    },
+    {
+      "title": "Flower Garden",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/grqfbqae/06%20Flower%20Garden.mp3"
+    },
+    {
+      "title": "a Goal",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/tgbpswdc/07a%20Goal.mp3"
+    },
+    {
+      "title": "b Score",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/auyhrkcg/07b%20Score.mp3"
+    },
+    {
+      "title": "Underground BGM",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/zbkvzlie/08%20Underground%20BGM.mp3"
+    },
+    {
+      "title": "Castle & Fortress",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/zkzsqafy/09%20Castle%20%26%20Fortress.mp3"
+    },
+    {
+      "title": "Kamek's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/dvunczou/10%20Kamek%27s%20Theme.mp3"
+    },
+    {
+      "title": "Mini-Boss",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/kophsrew/11%20Mini-Boss.mp3"
+    },
+    {
+      "title": "Athletic",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/xvncvzho/12%20Athletic.mp3"
+    },
+    {
+      "title": "Overworld",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/xugyaexy/13%20Overworld.mp3"
+    },
+    {
+      "title": "Player Down",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/ywofjcnf/14%20Player%20Down.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/pgozhnte/15%20Game%20Over.mp3"
+    },
+    {
+      "title": "Room Before Boss",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/rtuqvhzb/16%20Room%20Before%20Boss.mp3"
+    },
+    {
+      "title": "Big Boss BGM",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/joszspvk/17%20Big%20Boss%20BGM.mp3"
+    },
+    {
+      "title": "Big Boss Clear",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/mfoegrrk/18%20Big%20Boss%20Clear.mp3"
+    },
+    {
+      "title": "a Map BGM",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/ymoizwkk/19a%20Map%20BGM.mp3"
+    },
+    {
+      "title": "b Map BGM",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/xfkkvxbp/19b%20Map%20BGM.mp3"
+    },
+    {
+      "title": "c Map BGM",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/wkonvsch/19c%20Map%20BGM.mp3"
+    },
+    {
+      "title": "d Map BGM",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/cpswdats/19d%20Map%20BGM.mp3"
+    },
+    {
+      "title": "e Map BGM",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/jqblyker/19e%20Map%20BGM.mp3"
+    },
+    {
+      "title": "f Map BGM",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/vfnzhovo/19f%20Map%20BGM.mp3"
+    },
+    {
+      "title": "g Map BGM",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/gqmjnlpq/19g%20Map%20BGM.mp3"
+    },
+    {
+      "title": "Bonus Game",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/mmzmkpud/20%20Bonus%20Game.mp3"
+    },
+    {
+      "title": "Powerful Infant",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/hdrbeukr/21%20Powerful%20Infant.mp3"
+    },
+    {
+      "title": "Koopa",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/bhitshis/22%20Koopa.mp3"
+    },
+    {
+      "title": "Koopa Clear",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/qaeumarh/23%20Koopa%20Clear.mp3"
+    },
+    {
+      "title": "Luigi is Rescued",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/kcheaovi/24%20Luigi%20is%20Rescued.mp3"
+    },
+    {
+      "title": "a Ending",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/famlsetf/25a%20Ending.mp3"
+    },
+    {
+      "title": "b Ending",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/ujmgwnap/25b%20Ending.mp3"
+    },
+    {
+      "title": "a Perfect Clear",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/uhblbyoy/26a%20Perfect%20Clear.mp3"
+    },
+    {
+      "title": "b Ending",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/bnkmfnam/26b%20Ending.mp3"
+    },
+    {
+      "title": "Baby Mario Captured",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/iezkavby/91%20Baby%20Mario%20Captured.mp3"
+    },
+    {
+      "title": "Boss Introduction",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-3-super-mario-world-yoshis-island/likaypec/92%20Boss%20Introduction.mp3"
+    }
+  ]
+}

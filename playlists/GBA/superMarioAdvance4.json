@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "game_title": "Super Mario Bros. 3: Super Mario Advance 4",
+    "art": "https://mario.wiki.gallery/images/thumb/5/57/Super_Mario_Advance_4_Box.png/1200px-Super_Mario_Advance_4_Box.png",
+    "desc": "July 11, 2003"
+  },
+  "songs": [
+    {
+      "title": "Opening Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/xhrosztt/01%20Opening%20Theme.mp3"
+    },
+    {
+      "title": "Title",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/nhzbjpyw/02%20Title.mp3"
+    },
+    {
+      "title": "Choose a Game",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/ofhxqkcg/03%20Choose%20a%20Game.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 Title",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/zcolqtwd/04%20Super%20Mario%20Bros.%203%20Title.mp3"
+    },
+    {
+      "title": "World Select",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/cauxebwf/05%20World%20Select.mp3"
+    },
+    {
+      "title": "World 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/jfyexbos/06%20World%201.mp3"
+    },
+    {
+      "title": "World 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/tshgllwc/07%20World%202.mp3"
+    },
+    {
+      "title": "World 3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/usesdktm/08%20World%203.mp3"
+    },
+    {
+      "title": "World 4",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/dgvltlyj/09%20World%204.mp3"
+    },
+    {
+      "title": "World 5 (Ground)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/bgyzconx/10%20World%205%20%28Ground%29.mp3"
+    },
+    {
+      "title": "World 5 (Sky)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/xywncvxy/11%20World%205%20%28Sky%29.mp3"
+    },
+    {
+      "title": "World 6",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/blbaypdy/12%20World%206.mp3"
+    },
+    {
+      "title": "World 7",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/gkiisnmv/13%20World%207.mp3"
+    },
+    {
+      "title": "World 8",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/tgakvapy/14%20World%208.mp3"
+    },
+    {
+      "title": "Magic Whistle - Warp World",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/yudgzbin/15%20Magic%20Whistle%20-%20Warp%20World.mp3"
+    },
+    {
+      "title": "Music Box",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/qpdxajuv/16%20Music%20Box.mp3"
+    },
+    {
+      "title": "Normal Level 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/wsabcjmi/17%20Normal%20Level%201.mp3"
+    },
+    {
+      "title": "Normal Level 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/ghrkbdkp/18%20Normal%20Level%202.mp3"
+    },
+    {
+      "title": "Underground Level",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/tavcynuj/19%20Underground%20Level.mp3"
+    },
+    {
+      "title": "Water Level",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/lccifdbv/20%20Water%20Level.mp3"
+    },
+    {
+      "title": "Fortress",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/ygkgbqwm/21%20Fortress.mp3"
+    },
+    {
+      "title": "Airship",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/tikypebt/22%20Airship.mp3"
+    },
+    {
+      "title": "Boss Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/omwtgxvk/23%20Boss%20Battle.mp3"
+    },
+    {
+      "title": "Hammer Brothers",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/omwuihmn/24%20Hammer%20Brothers.mp3"
+    },
+    {
+      "title": "Bowser Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/dejlawde/25%20Bowser%20Battle.mp3"
+    },
+    {
+      "title": "P-Switch",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/kmemuqsr/26%20P-Switch.mp3"
+    },
+    {
+      "title": "Star",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/gedgtaxm/27%20Star.mp3"
+    },
+    {
+      "title": "Coin Heaven",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/ppdznpns/28%20Coin%20Heaven.mp3"
+    },
+    {
+      "title": "Bonus Level",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/ztuumbwe/29%20Bonus%20Level.mp3"
+    },
+    {
+      "title": "Course Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/fqouhexz/30%20Course%20Clear.mp3"
+    },
+    {
+      "title": "Thank you",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/eapyxtxj/31%20Thank%20you.mp3"
+    },
+    {
+      "title": "World Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/clwbpyud/32%20World%20Clear.mp3"
+    },
+    {
+      "title": "Course Clear, You get a Live",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/jlauvvqu/33%20Course%20Clear%2C%20You%20get%20a%20Live.mp3"
+    },
+    {
+      "title": "Fortress Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/xfizwmth/34%20Fortress%20Clear.mp3"
+    },
+    {
+      "title": "N-Spade Bonus",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/hnsbckqz/35%20N-Spade%20Bonus.mp3"
+    },
+    {
+      "title": "Unknown",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/adpozfdd/36%20Unknown.mp3"
+    },
+    {
+      "title": "You Miss",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/diinpowt/37%20You%20Miss.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/djkawhtx/38%20Game%20Over.mp3"
+    },
+    {
+      "title": "Help",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/hvdhzacn/39%20Help.mp3"
+    },
+    {
+      "title": "Koopa Kid steals Wand",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/gqnruzou/40%20Koopa%20Kid%20steals%20Wand.mp3"
+    },
+    {
+      "title": "Bowser's Letter",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/ihjyqkaz/41%20Bowser%27s%20Letter%20.mp3"
+    },
+    {
+      "title": "Peach's Letter",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/tyiyqiva/42%20Peach%27s%20Letter.mp3"
+    },
+    {
+      "title": "Bowser Dies",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/tpsutlwc/43%20Bowser%20Dies.mp3"
+    },
+    {
+      "title": "Bowser Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/wcwcupty/44%20Bowser%20Clear.mp3"
+    },
+    {
+      "title": "Ending Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/kerubuwx/45%20Ending%20Theme.mp3"
+    },
+    {
+      "title": "Ending Theme 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/yahiwgtz/46%20Ending%20Theme%202.mp3"
+    },
+    {
+      "title": "Credits",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/pzggozhl/47%20Credits.mp3"
+    },
+    {
+      "title": "World e",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/ksimjlby/48%20World%20e.mp3"
+    },
+    {
+      "title": "Scaning an e-Card",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/qhpcpvgt/49%20Scaning%20an%20e-Card.mp3"
+    },
+    {
+      "title": "World e Castle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/zrldhezi/50%20World%20e%20Castle.mp3"
+    },
+    {
+      "title": "Super Mario Brothers Normal Level",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/ttnjfanl/51%20Super%20Mario%20Brothers%20Normal%20Level.mp3"
+    },
+    {
+      "title": "Underground Level",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/qvibjrfb/52%20Underground%20Level.mp3"
+    },
+    {
+      "title": "Super Mario Brothers Water Level",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/rdtgctkw/53%20Super%20Mario%20Brothers%20Water%20Level.mp3"
+    },
+    {
+      "title": "Super Mario Brothers Castle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/zitrevol/54%20Super%20Mario%20Brothers%20Castle.mp3"
+    },
+    {
+      "title": "Super Mario World Ghost House",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/kuracksh/55%20Super%20Mario%20World%20Ghost%20House.mp3"
+    },
+    {
+      "title": "Super Mario World P-Switch",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/lhbkxhtv/56%20Super%20Mario%20World%20P-Switch.mp3"
+    },
+    {
+      "title": "Thank you, but the Princess is in another Castle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-advance-4-super-mario-brothers-3/wwugyzad/57%20Thank%20you%2C%20but%20the%20Princess%20is%20in%20another%20Castle.mp3"
+    }
+  ]
+}

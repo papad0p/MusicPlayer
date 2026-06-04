@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "game_title": "Super Mario Advance",
+    "art": "https://mario.wiki.gallery/images/thumb/3/30/SMA.jpg/1200px-SMA.jpg",
+    "desc": "March 21, 2001"
+  },
+  "songs": [
+    {
+      "title": "Super Mario Advance Title",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/yrlhbmel/01%20Super%20Mario%20Advance%20Title.mp3"
+    },
+    {
+      "title": "Game Select",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/rdppdzkb/02%20Game%20Select.mp3"
+    },
+    {
+      "title": "Choose A Player",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/bdndfplh/03%20Choose%20A%20Player.mp3"
+    },
+    {
+      "title": "Overworld",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/eaqbjsni/04%20Overworld.mp3"
+    },
+    {
+      "title": "Underground",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/ewteokfx/05%20Underground.mp3"
+    },
+    {
+      "title": "Subspace",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/wqpaioxt/06%20Subspace.mp3"
+    },
+    {
+      "title": "Power Up Fanfare",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/bazuarhk/07%20Power%20Up%20Fanfare.mp3"
+    },
+    {
+      "title": "Boss Nearby",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/eruxfhvh/08%20Boss%20Nearby.mp3"
+    },
+    {
+      "title": "Area with Gate, Boss",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/zzabhhmp/09%20Area%20with%20Gate%2C%20Boss.mp3"
+    },
+    {
+      "title": "Gate Opens",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/ozggnxxt/10%20Gate%20Opens.mp3"
+    },
+    {
+      "title": "Boss Cleared",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/bcfxtcfu/11%20Boss%20Cleared.mp3"
+    },
+    {
+      "title": "Yoshi Egg Challenge",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/ihkgaipy/12%20Yoshi%20Egg%20Challenge.mp3"
+    },
+    {
+      "title": "Wart",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/zafyblzs/13%20Wart.mp3"
+    },
+    {
+      "title": "Ending",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/mjlatuqw/14%20Ending.mp3"
+    },
+    {
+      "title": "Invincibility",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/ibktpucd/15%20Invincibility.mp3"
+    },
+    {
+      "title": "Warping",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/lsfxybip/16%20Warping.mp3"
+    },
+    {
+      "title": "Death",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/xvjlzrmh/17%20Death.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/biouepjd/18%20Game%20Over.mp3"
+    },
+    {
+      "title": "Jar",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/oibevncz/19%20Jar.mp3"
+    },
+    {
+      "title": "All Ace Coins Collected",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/qeyfhvgt/20%20All%20Ace%20Coins%20Collected.mp3"
+    },
+    {
+      "title": "Fifth Cherry",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/bbzwhxrq/21%20Fifth%20Cherry.mp3"
+    },
+    {
+      "title": "Unused",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/exbqxpiv/22%20Unused.mp3"
+    },
+    {
+      "title": "Battle Mode",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/cdhzevrv/23%20Battle%20Mode.mp3"
+    },
+    {
+      "title": "Battle Mode Level Start",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/bxgoamhz/24%20Battle%20Mode%20Level%20Start.mp3"
+    },
+    {
+      "title": "Battle Mode Stage 4",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/agbrdqwj/25%20Battle%20Mode%20Stage%204.mp3"
+    },
+    {
+      "title": "Battle Mode Invincibility",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/ewvogocv/26%20Battle%20Mode%20Invincibility.mp3"
+    },
+    {
+      "title": "Battle Mode You Win",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/tgcqzyty/27%20Battle%20Mode%20You%20Win.mp3"
+    },
+    {
+      "title": "Battle Mode Draw",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/lmyiuaqe/28%20Battle%20Mode%20Draw.mp3"
+    },
+    {
+      "title": "Battle Mode Game Over, You Win",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/xcsfamie/29%20Battle%20Mode%20Game%20Over%2C%20You%20Win.mp3"
+    },
+    {
+      "title": "Mario Bros Title",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/ycqzzadq/30%20Mario%20Bros%20Title.mp3"
+    },
+    {
+      "title": "Mario Bros Game Start",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/vdfpivgr/31%20Mario%20Bros%20Game%20Start.mp3"
+    },
+    {
+      "title": "Mario Bros Stage Theme 1",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/qduqspyw/32%20Mario%20Bros%20Stage%20Theme%201.mp3"
+    },
+    {
+      "title": "Mario Bros Stage Theme 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/nbqaewuj/33%20Mario%20Bros%20Stage%20Theme%202.mp3"
+    },
+    {
+      "title": "Mario Bros Results",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/jvyisqae/34%20Mario%20Bros%20Results.mp3"
+    },
+    {
+      "title": "Mario Bros Bonus Round Intro",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/umzljkzr/35%20Mario%20Bros%20Bonus%20Round%20Intro.mp3"
+    },
+    {
+      "title": "Mario Bros Bonus Round",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/kcftbcjl/36%20Mario%20Bros%20Bonus%20Round.mp3"
+    },
+    {
+      "title": "Mario Bros Bonus Round Clear",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/dhcnlppi/37%20Mario%20Bros%20Bonus%20Round%20Clear.mp3"
+    },
+    {
+      "title": "Mario Bros Player Restarts",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/tsjuseum/38%20Mario%20Bros%20Player%20Restarts.mp3"
+    },
+    {
+      "title": "Mario Bros Next Level Start",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/zljlelrd/39%20Mario%20Bros%20Next%20Level%20Start.mp3"
+    },
+    {
+      "title": "Mario Bros Game Over",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/okjrhitu/40%20Mario%20Bros%20Game%20Over.mp3"
+    },
+    {
+      "title": "Mario Bros Game Over, Continue",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/sdojcngr/41%20Mario%20Bros%20Game%20Over%2C%20Continue.mp3"
+    },
+    {
+      "title": "Mario Bros Unused 1",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/qeaotawg/42%20Mario%20Bros%20Unused%201.mp3"
+    },
+    {
+      "title": "Mario Bros Unused 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-advance-1-super-mario-brothers-2/pitutimi/43%20Mario%20Bros%20Unused%202.mp3"
+    }
+  ]
+}
