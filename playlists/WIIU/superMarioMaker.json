@@ -1,0 +1,509 @@
+{
+  "meta": {
+    "game_title": "Super Mario Maker",
+    "art": "https://mario.wiki.gallery/images/f/fa/Super_Mario_Maker_Wii_U_NA_Boxart.jpg",
+    "desc": "September 10, 2015"
+  },
+  "songs": [
+    {
+      "title": "Intro",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/giwibhjy/1-01%20Intro.mp3"
+    },
+    {
+      "title": "Super Maker!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/nwtcgaio/1-02.%20Super%20Maker%21.mp3"
+    },
+    {
+      "title": "Title",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/vkmhbhjw/1-03%20Title.mp3"
+    },
+    {
+      "title": "Coursebot",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/icjrevok/1-04%20Coursebot.mp3"
+    },
+    {
+      "title": "Course World",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/ksjqcpro/1-05%20Course%20World.mp3"
+    },
+    {
+      "title": "100 Mario Challenge",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/vkoqlhdu/1-06%20100%20Mario%20Challenge.mp3"
+    },
+    {
+      "title": "100 Mario Challenge (Expert)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/pobptavd/1-07%20100%20Mario%20Challenge%20%28Expert%29.mp3"
+    },
+    {
+      "title": "100 Mario Challenge - Staffroll (Easy)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/ejjtptat/1-08%20100%20Mario%20Challenge%20-%20Staffroll%20%28Easy%29.mp3"
+    },
+    {
+      "title": "100 Mario Challenge - Staffroll (Normal)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/shiuarhk/1-09%20100%20Mario%20Challenge%20-%20Staffroll%20%28Normal%29.mp3"
+    },
+    {
+      "title": "10 Mario Challenge",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/fxvjinrw/1-10%2010%20Mario%20Challenge.mp3"
+    },
+    {
+      "title": "Course Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/fodbuvsb/1-11.%20Course%20Clear.mp3"
+    },
+    {
+      "title": "Gnat Attack - Level 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/clxgkksk/1-12%20Gnat%20Attack%20-%20Level%201.mp3"
+    },
+    {
+      "title": "Gnat Attack - Congratulations!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/xjazvfqo/1-13%20Gnat%20Attack%20-%20Congratulations%21.mp3"
+    },
+    {
+      "title": "Gnat Attack - Level 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/ujjttjsk/1-14%20Gnat%20Attack%20-%20Level%202.mp3"
+    },
+    {
+      "title": "Gnat Attack - Game Over",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/wcykfvmz/1-15%20Gnat%20Attack%20-%20Game%20Over.mp3"
+    },
+    {
+      "title": "Gnat Attack - Boss",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/mnaqdryu/1-16%20Gnat%20Attack%20-%20Boss.mp3"
+    },
+    {
+      "title": "Gnat Attack - Boss (Hurry)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/bawfmthf/1-17%20Gnat%20Attack%20-%20Boss%20%28Hurry%29.mp3"
+    },
+    {
+      "title": "Gnat Attack - Congratulations! (Boss)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/flmelsga/1-18%20Gnat%20Attack%20-%20Congratulations%21%20%28Boss%29.mp3"
+    },
+    {
+      "title": "Gnat Attack - Hard Mode - Level 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/ipyywoee/1-19%20Gnat%20Attack%20-%20Hard%20Mode%20-%20Level%201.mp3"
+    },
+    {
+      "title": "Gnat Attack - Hard Mode - Level 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/jinpkhdx/1-20%20Gnat%20Attack%20-%20Hard%20Mode%20-%20Level%202.mp3"
+    },
+    {
+      "title": "Title (8-bit version)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/amgwqpzf/1-21%20Title%20%288-bit%20version%29.mp3"
+    },
+    {
+      "title": "Super Mario Bros. - Ground",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/dzovnbsk/2-01%20Super%20Mario%20Bros.%20-%20Ground.mp3"
+    },
+    {
+      "title": "Super Mario Bros. - Ground (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/xfmserxo/2-02%20Super%20Mario%20Bros.%20-%20Ground%20%28Edit%29.mp3"
+    },
+    {
+      "title": "Super Mario Bros. - Underground",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/zgivgsts/2-03%20Super%20Mario%20Bros.%20-%20Underground.mp3"
+    },
+    {
+      "title": "Super Mario Bros. - Underground (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/hjwiadqs/2-04%20Super%20Mario%20Bros.%20-%20Underground%20%28Edit%29.mp3"
+    },
+    {
+      "title": "Super Mario Bros. - Underwater",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/pxrqezkd/2-05%20Super%20Mario%20Bros.%20-%20Underwater.mp3"
+    },
+    {
+      "title": "Super Mario Bros. - Underwater (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/lshhqgkg/2-06%20Super%20Mario%20Bros.%20-%20Underwater%20%28Edit%29.mp3"
+    },
+    {
+      "title": "Super Mario Bros. - Ghost House",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/cqxqnsyo/2-07%20Super%20Mario%20Bros.%20-%20Ghost%20House.mp3"
+    },
+    {
+      "title": "Super Mario Bros. - Ghost House (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/zfehucep/2-08%20Super%20Mario%20Bros.%20-%20Ghost%20House%20%28Edit%29.mp3"
+    },
+    {
+      "title": "Super Mario Bros. - Airship",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/lmykberu/2-09%20Super%20Mario%20Bros.%20-%20Airship.mp3"
+    },
+    {
+      "title": "Super Mario Bros. - Airship (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/znpkhfdd/2-10%20Super%20Mario%20Bros.%20-%20Airship%20%28Edit%29.mp3"
+    },
+    {
+      "title": "Super Mario Bros. - Castle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/guhbjqbm/2-11%20Super%20Mario%20Bros.%20-%20Castle.mp3"
+    },
+    {
+      "title": "Super Mario Bros. - Castle (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/cemyfeic/2-12%20Super%20Mario%20Bros.%20-%20Castle%20%28Edit%29.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 - Ground",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/olonxyze/2-13%20Super%20Mario%20Bros.%203%20-%20Ground.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 - Ground (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/vpnwsaxk/2-14%20Super%20Mario%20Bros.%203%20-%20Ground%20%28Edit%29.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 - Underground",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/kuupqhox/2-15%20Super%20Mario%20Bros.%203%20-%20Underground.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 - Underground (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/wqmpnumx/2-16%20Super%20Mario%20Bros.%203%20-%20Underground%20%28Edit%29.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 - Underwater",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/cwyfehyt/2-17%20Super%20Mario%20Bros.%203%20-%20Underwater.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 - Underwater (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/ynujmgxr/2-18%20Super%20Mario%20Bros.%203%20-%20Underwater%20%28Edit%29.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 - Ghost House",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/rjvanrvb/2-19%20Super%20Mario%20Bros.%203%20-%20Ghost%20House.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 - Ghost House (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/wddfsypa/2-20%20Super%20Mario%20Bros.%203%20-%20Ghost%20House%20%28Edit%29.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 - Airship",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/lekpvhxt/2-21%20Super%20Mario%20Bros.%203%20-%20Airship.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 - Airship (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/yoyyzbhg/2-22%20Super%20Mario%20Bros.%203%20-%20Airship%20%28Edit%29.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 - Castle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/jdppffji/2-23%20Super%20Mario%20Bros.%203%20-%20Castle.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 - Castle (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/miipyaew/2-24%20Super%20Mario%20Bros.%203%20-%20Castle%20%28Edit%29.mp3"
+    },
+    {
+      "title": "Super Mario World - Ground",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/wrsnmuqs/2-25%20Super%20Mario%20World%20-%20Ground.mp3"
+    },
+    {
+      "title": "Super Mario World - Ground (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/rexzezhq/2-26%20Super%20Mario%20World%20-%20Ground%20%28Edit%29.mp3"
+    },
+    {
+      "title": "Super Mario World - Underground",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/ffmsbfvp/2-27%20Super%20Mario%20World%20-%20Underground.mp3"
+    },
+    {
+      "title": "Super Mario World - Underground (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/nsbesazx/2-28%20Super%20Mario%20World%20-%20Underground%20%28Edit%29.mp3"
+    },
+    {
+      "title": "Super Mario World - Underwater",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/msetgxwq/2-29%20Super%20Mario%20World%20-%20Underwater.mp3"
+    },
+    {
+      "title": "Super Mario World - Underwater (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/oxvltika/2-30%20Super%20Mario%20World%20-%20Underwater%20%28Edit%29.mp3"
+    },
+    {
+      "title": "Super Mario World - Ghost House",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/wjdqrosy/2-31%20Super%20Mario%20World%20-%20Ghost%20House.mp3"
+    },
+    {
+      "title": "Super Mario World - Ghost House (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/nvojdnhu/2-32%20Super%20Mario%20World%20-%20Ghost%20House%20%28Edit%29.mp3"
+    },
+    {
+      "title": "Super Mario World - Airship",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/elrclzox/2-33%20Super%20Mario%20World%20-%20Airship.mp3"
+    },
+    {
+      "title": "Super Mario World - Airship (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/ugxswgrp/2-34%20Super%20Mario%20World%20-%20Airship%20%28Edit%29.mp3"
+    },
+    {
+      "title": "Super Mario World - Castle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/xvicquau/2-35%20Super%20Mario%20World%20-%20Castle.mp3"
+    },
+    {
+      "title": "Super Mario World - Castle (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/wzhnqtto/2-36%20Super%20Mario%20World%20-%20Castle%20%28Edit%29.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Ground",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/mvqqirle/2-37%20New%20Super%20Mario%20Bros.%20U%20-%20Ground.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Ground (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/mwwuihkf/2-38%20New%20Super%20Mario%20Bros.%20U%20-%20Ground%20%28Edit%29.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Underground",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/wruwbsim/2-39%20New%20Super%20Mario%20Bros.%20U%20-%20Underground.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Underground (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/jlelupqk/2-40%20New%20Super%20Mario%20Bros.%20U%20-%20Underground%20%28Edit%29.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Underwater",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/bbervccd/2-41%20New%20Super%20Mario%20Bros.%20U%20-%20Underwater.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Underwater (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/ltjrggll/2-42%20New%20Super%20Mario%20Bros.%20U%20-%20Underwater%20%28Edit%29.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Ghost House",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/xfkhitsj/2-43%20New%20Super%20Mario%20Bros.%20U%20-%20Ghost%20House.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Ghost House (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/qdtjoudj/2-44%20New%20Super%20Mario%20Bros.%20U%20-%20Ghost%20House%20%28Edit%29.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Airship",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/mfrttoln/2-45%20New%20Super%20Mario%20Bros.%20U%20-%20Airship.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Airship (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/hxswefof/2-46%20New%20Super%20Mario%20Bros.%20U%20-%20Airship%20%28Edit%29.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Castle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/jgbostre/2-47%20New%20Super%20Mario%20Bros.%20U%20-%20Castle.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Castle (Edit)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/sdokikzt/2-48%20New%20Super%20Mario%20Bros.%20U%20-%20Castle%20%28Edit%29.mp3"
+    },
+    {
+      "title": "Title (Yoshi)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/vwwqsort/3-01%20Title%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "Super Mario World - Ground (Yoshi)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/rcmfmuma/3-02%20Super%20Mario%20World%20-%20Ground%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "Super Mario World - Underground (Yoshi)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/tptawfoa/3-03%20Super%20Mario%20World%20-%20Underground%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "Super Mario World - Underwater (Yoshi)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/nlumccfs/3-04%20Super%20Mario%20World%20-%20Underwater%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "Super Mario World - Ghost House (Yoshi)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/zuxdyjab/3-05%20Super%20Mario%20World%20-%20Ghost%20House%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "Super Mario World - Airship (Yoshi)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/dngpglkt/3-06%20Super%20Mario%20World%20-%20Airship%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "Super Mario World - Castle (Yoshi)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/ooanmwyd/3-07%20Super%20Mario%20World%20-%20Castle%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Ground (Yoshi)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/tjnofibi/3-08%20New%20Super%20Mario%20Bros.%20U%20-%20Ground%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Underground (Yoshi)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/noiwhxro/3-09%20New%20Super%20Mario%20Bros.%20U%20-%20Underground%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Underwater (Yoshi)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/wsvbtoro/3-10%20New%20Super%20Mario%20Bros.%20U%20-%20Underwater%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Ghost House (Yoshi)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/wplijwfl/3-11%20New%20Super%20Mario%20Bros.%20U%20-%20Ghost%20House%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Airship (Yoshi)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/qxmtikyn/3-12%20New%20Super%20Mario%20Bros.%20U%20-%20Airship%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Castle (Yoshi)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/wrsqzbjp/3-13%20New%20Super%20Mario%20Bros.%20U%20-%20Castle%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "Super Mario Bros. - Secret Room",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/vmuokikz/3-14%20Super%20Mario%20Bros.%20-%20Secret%20Room.mp3"
+    },
+    {
+      "title": "Super Mario Bros. - Boss Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/uyljmids/3-15%20Super%20Mario%20Bros.%20-%20Boss%20Battle.mp3"
+    },
+    {
+      "title": "Super Mario Bros. - Star",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/fwsxmrys/3-16%20Super%20Mario%20Bros.%20-%20Star.mp3"
+    },
+    {
+      "title": "Super Mario Bros. - Lost a Life",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/skxgnyak/3-17%20Super%20Mario%20Bros.%20-%20Lost%20a%20Life.mp3"
+    },
+    {
+      "title": "Super Mario Bros. - Game Over",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/vaqcpqjx/3-18%20Super%20Mario%20Bros.%20-%20Game%20Over.mp3"
+    },
+    {
+      "title": "Super Mario Bros. - Course Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/kimkpssn/3-19%20Super%20Mario%20Bros.%20-%20Course%20Clear.mp3"
+    },
+    {
+      "title": "Super Mario Bros. - Castle Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/jjripagg/3-20%20Super%20Mario%20Bros.%20-%20Castle%20Clear.mp3"
+    },
+    {
+      "title": "Super Mario Bros. - Ending",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/lollxgpd/3-21%20Super%20Mario%20Bros.%20-%20Ending.mp3"
+    },
+    {
+      "title": "Super Mario Bros. (1 & 3) - Hurry Up",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/zkciipbo/3-22%20Super%20Mario%20Bros.%20%281%20%26%203%29%20-%20Hurry%20Up.mp3"
+    },
+    {
+      "title": "Super Mario Bros. (1 & 3) - P Switch",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/phqjvegt/3-23%20Super%20Mario%20Bros.%20%281%20%26%203%29%20-%20P%20Switch.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 - Secret Room",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/zrkypbmj/3-24%20Super%20Mario%20Bros.%203%20-%20Secret%20Room.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 - Boss Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/gedcepjb/3-25%20Super%20Mario%20Bros.%203%20-%20Boss%20Battle.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 - Star",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/escjnmwy/3-26%20Super%20Mario%20Bros.%203%20-%20Star.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 - Lost a Life",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/crdngpjz/3-27%20Super%20Mario%20Bros.%203%20-%20Lost%20a%20Life.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 - Course Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/vgrpzfan/3-28%20Super%20Mario%20Bros.%203%20-%20Course%20Clear.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 - Castle Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/ncwzjyqg/3-29%20Super%20Mario%20Bros.%203%20-%20Castle%20Clear.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 - Ending (Version 1)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/jckqbkvz/3-30%20Super%20Mario%20Bros.%203%20-%20Ending%20%28Version%201%29.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 - Ending (Version 2)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/jwfmscmz/3-31%20Super%20Mario%20Bros.%203%20-%20Ending%20%28Version%202%29.mp3"
+    },
+    {
+      "title": "Super Mario World - Secret Room",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/nrtvulxd/3-32%20Super%20Mario%20World%20-%20Secret%20Room.mp3"
+    },
+    {
+      "title": "Super Mario World - Boss Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/askynrxl/3-33%20Super%20Mario%20World%20-%20Boss%20Battle.mp3"
+    },
+    {
+      "title": "Super Mario World - Star",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/pozhllwa/3-34%20Super%20Mario%20World%20-%20Star.mp3"
+    },
+    {
+      "title": "Super Mario World - Lost a Life",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/lgxsxiac/3-35%20Super%20Mario%20World%20-%20Lost%20a%20Life.mp3"
+    },
+    {
+      "title": "Super Mario World - Course Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/mznpkhfe/3-36%20Super%20Mario%20World%20-%20Course%20Clear.mp3"
+    },
+    {
+      "title": "Super Mario World - Castle Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/izzxroug/3-37%20Super%20Mario%20World%20-%20Castle%20Clear.mp3"
+    },
+    {
+      "title": "Super Mario World - Ending",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/wpiwklyi/3-38%20Super%20Mario%20World%20-%20Ending.mp3"
+    },
+    {
+      "title": "Super Mario World - Hurry Up",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/xmschecw/3-39%20Super%20Mario%20World%20-%20Hurry%20Up.mp3"
+    },
+    {
+      "title": "Super Mario World - P Switch",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/bslauusb/3-40%20Super%20Mario%20World%20-%20P%20Switch.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Secret Room",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/gdupqisr/3-41%20New%20Super%20Mario%20Bros.%20U%20-%20Secret%20Room.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Secret Room (Yoshi)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/gdzmlvum/3-42%20New%20Super%20Mario%20Bros.%20U%20-%20Secret%20Room%20%28Yoshi%29.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Boss Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/zlfvogpf/3-43%20New%20Super%20Mario%20Bros.%20U%20-%20Boss%20Battle.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Star",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/hvfphtyi/3-44%20New%20Super%20Mario%20Bros.%20U%20-%20Star.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Lost a Life",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/yqhrlene/3-45%20New%20Super%20Mario%20Bros.%20U%20-%20Lost%20a%20Life.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Course Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/hywlraaa/3-46%20New%20Super%20Mario%20Bros.%20U%20-%20Course%20Clear.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Castle Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/dpnxwqpa/3-47%20New%20Super%20Mario%20Bros.%20U%20-%20Castle%20Clear.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Ending (Version 1)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/hkcjopiw/3-48%20New%20Super%20Mario%20Bros.%20U%20-%20Ending%20%28Version%201%29.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Ending (Version 2)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/iafxwpmm/3-49%20New%20Super%20Mario%20Bros.%20U%20-%20Ending%20%28Version%202%29.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - Hurry Up",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/czpzfbqc/3-50%20New%20Super%20Mario%20Bros.%20U%20-%20Hurry%20Up.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. U - P Switch",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/ngrrjsoo/3-51%20New%20Super%20Mario%20Bros.%20U%20-%20P%20Switch.mp3"
+    },
+    {
+      "title": "Star (Mario Kart)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/gmqveidq/3-52%20Star%20%28Mario%20Kart%29.mp3"
+    },
+    {
+      "title": "Star (Metallic Mario)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/xnzgiwjh/3-53%20Star%20%28Metallic%20Mario%29.mp3"
+    },
+    {
+      "title": "\"Go! Go! Mario in the Sky!\"",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/iuznqpdu/3-54.%20%22Go%21%20Go%21%20Mario%20in%20the%20Sky%21%22.mp3"
+    },
+    {
+      "title": "Samba",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/qvdgvlqx/3-55%20Samba.mp3"
+    },
+    {
+      "title": "Disco",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-mario-maker-soundtrack/nzirkbce/3-56%20Disco.mp3"
+    }
+  ]
+}
