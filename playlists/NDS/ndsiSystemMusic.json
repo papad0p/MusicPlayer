@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "game_title": "DSi System Music",
+    "art": "https://upload.wikimedia.org/wikipedia/en/b/b2/Nintendo_DSi_Home_Menu.png",
+    "desc": "November 1, 2008"
+  },
+  "songs": [
+    {
+      "title": "Startup",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/zvibkvzj/01.%20Startup.mp3"
+    },
+    {
+      "title": "Nintendo DSi Menu",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/xlktnids/02.%20Nintendo%20DSi%20Menu.mp3"
+    },
+    {
+      "title": "Nintendo DSi Camera - Tutorial",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/dollxdcz/03.%20Nintendo%20DSi%20Camera%20-%20Tutorial.mp3"
+    },
+    {
+      "title": "Nintendo DSi Camera - Main Menu",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/pbmfpiyr/04.%20Nintendo%20DSi%20Camera%20-%20Main%20Menu.mp3"
+    },
+    {
+      "title": "Nintendo DSi Camera - Take Photos",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/oufruwxb/05.%20Nintendo%20DSi%20Camera%20-%20Take%20Photos.mp3"
+    },
+    {
+      "title": "Nintendo DSi Camera - Album",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/nmuololp/06.%20Nintendo%20DSi%20Camera%20-%20Album.mp3"
+    },
+    {
+      "title": "Nintendo DSi Camera - Album (Star)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/pgmojfai/07.%20Nintendo%20DSi%20Camera%20-%20Album%20%28Star%29.mp3"
+    },
+    {
+      "title": "Nintendo DSi Camera - Album (Clover)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/qexajtrb/08.%20Nintendo%20DSi%20Camera%20-%20Album%20%28Clover%29.mp3"
+    },
+    {
+      "title": "Nintendo DSi Camera - Album (Heart)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/ileohsus/09.%20Nintendo%20DSi%20Camera%20-%20Album%20%28Heart%29.mp3"
+    },
+    {
+      "title": "Nintendo DSi Camera - Edit Photo (Camera)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/fycrdnhy/10.%20Nintendo%20DSi%20Camera%20-%20Edit%20Photo%20%28Camera%29.mp3"
+    },
+    {
+      "title": "Nintendo DSi Camera - Edit Photo (Album)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/svziuzow/11.%20Nintendo%20DSi%20Camera%20-%20Edit%20Photo%20%28Album%29.mp3"
+    },
+    {
+      "title": "Nintendo DSi Camera - Slideshow (Memories)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/qqdvumbw/12.%20Nintendo%20DSi%20Camera%20-%20Slideshow%20%28Memories%29.mp3"
+    },
+    {
+      "title": "Nintendo DSi Camera - Slideshow (Whistle)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/cxhrpwqm/13.%20Nintendo%20DSi%20Camera%20-%20Slideshow%20%28Whistle%29.mp3"
+    },
+    {
+      "title": "Nintendo DSi Camera - Slideshow (Sparkle)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/nfklylhe/14.%20Nintendo%20DSi%20Camera%20-%20Slideshow%20%28Sparkle%29.mp3"
+    },
+    {
+      "title": "Nintendo DSi Camera - Slideshow (Showtime)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/aorttlym/15.%20Nintendo%20DSi%20Camera%20-%20Slideshow%20%28Showtime%29.mp3"
+    },
+    {
+      "title": "Nintendo DSi Camera - Settings",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/ncauyivc/16.%20Nintendo%20DSi%20Camera%20-%20Settings.mp3"
+    },
+    {
+      "title": "Nintendo DSi Sound - Startup",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/zrldjkyo/17.%20Nintendo%20DSi%20Sound%20-%20Startup.mp3"
+    },
+    {
+      "title": "Nintendo DSi Sound - Super Mario Bros Medley (Ingame)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/bervdfru/18.%20Nintendo%20DSi%20Sound%20-%20Super%20Mario%20Bros%20Medley%20%28Ingame%29.mp3"
+    },
+    {
+      "title": "Nintendo DSi Shop",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/cdigfgsv/19.%20Nintendo%20DSi%20Shop.mp3"
+    },
+    {
+      "title": "Nintendo Zone - Startup",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/aouhconv/20.%20Nintendo%20Zone%20-%20Startup.mp3"
+    },
+    {
+      "title": "System Settings",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/sysrfakb/21.%20System%20Settings.mp3"
+    },
+    {
+      "title": "Nintendo DSi Sound - Super Mario Bros Medley (General MIDI)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/nintendo-dsi-system-music/xvkqytwd/22.%20Nintendo%20DSi%20Sound%20-%20Super%20Mario%20Bros%20Medley%20%28General%20MIDI%29.mp3"
+    }
+  ]
+}
