@@ -1,0 +1,829 @@
+{
+  "meta": {
+    "game_title": "Pokémon Sun & Pokémon Moon: Super Music Collection (Expanded & Complete)",
+    "art": "https://upload.wikimedia.org/wikipedia/en/b/ba/Pokemon_Sun_Boxart.jpg",
+    "desc": "November 18, 2016"
+  },
+  "songs": [
+    {
+      "title": "Title Screen",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/qwmemdkwja/1-01%20Title%20Screen.mp3"
+    },
+    {
+      "title": "An Adventure Is Beginning",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ewxaxivqnb/1-02%20An%20Adventure%20Is%20Beginning.mp3"
+    },
+    {
+      "title": "The Alola Region",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/quhsbzykwg/1-03%20The%20Alola%20Region.mp3"
+    },
+    {
+      "title": "Escape!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/fbgcyolchl/1-04%20Escape%21.mp3"
+    },
+    {
+      "title": "Waking Up",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/qpoteixuxz/1-05%20Waking%20Up.mp3"
+    },
+    {
+      "title": "My Home",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/wldxhikyca/1-06%20My%20Home.mp3"
+    },
+    {
+      "title": "Professor Kukui",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/zcxcwynduu/1-07%20Professor%20Kukui.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... You've Just Begun!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ocaugnrwir/1-08%20Poke%CC%81dex%20Evaluation...%20You%27ve%20Just%20Begun%21.mp3"
+    },
+    {
+      "title": "Route 1 On Melemele Island",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/odzrgstibh/1-09%20Route%201%20On%20Melemele%20Island.mp3"
+    },
+    {
+      "title": "Iki Town (Day)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/hbhasfupdy/1-10%20Iki%20Town%20%28Day%29.mp3"
+    },
+    {
+      "title": "Iki Town (Night)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/jhphqydljk/1-11%20Iki%20Town%20%28Night%29.mp3"
+    },
+    {
+      "title": "Mahalo Trail",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/thunbiunbe/1-12%20Mahalo%20Trail.mp3"
+    },
+    {
+      "title": "On the Bridge...",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/tbicvnhaek/1-13%20On%20the%20Bridge....mp3"
+    },
+    {
+      "title": "A Tapu Appears!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/cbazgsntmn/1-14%20A%20Tapu%20Appears%21.mp3"
+    },
+    {
+      "title": "Lillie",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/tvftyozxwo/1-15%20Lillie.mp3"
+    },
+    {
+      "title": "Caught a Pokémon!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/nvfeteccmg/1-16%20Caught%20a%20Poke%CC%81mon%21.mp3"
+    },
+    {
+      "title": "Obtained An Item!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/lukjnxwyry/1-17%20Obtained%20An%20Item%21.mp3"
+    },
+    {
+      "title": "Hau",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/bhnbparokf/1-18%20Hau.mp3"
+    },
+    {
+      "title": "Battle! (Hau)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/jhdplirsmv/1-19%20Battle%21%20%28Hau%29.mp3"
+    },
+    {
+      "title": "Obtained a Key Item!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/phtmvacqlg/1-20%20Obtained%20a%20Key%20Item%21.mp3"
+    },
+    {
+      "title": "Good Night",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ncwtjbmzkl/1-21%20Good%20Night.mp3"
+    },
+    {
+      "title": "Battle! (Wild Pokémon)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/taaxqklxun/1-22%20Battle%21%20%28Wild%20Poke%CC%81mon%29.mp3"
+    },
+    {
+      "title": "Victory! (Wild Pokémon)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/oyasymtoba/1-23%20Victory%21%20%28Wild%20Poke%CC%81mon%29.mp3"
+    },
+    {
+      "title": "The Festival In Iki Town",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/lmmxtmzsfm/1-24%20The%20Festival%20In%20Iki%20Town.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Trainer)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ibsgqckyra/1-25%20Trainers%27%20Eyes%20Meet%20%28Trainer%29.mp3"
+    },
+    {
+      "title": "Battle! (Trainer)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/beyghwnpyj/1-26%20Battle%21%20%28Trainer%29.mp3"
+    },
+    {
+      "title": "Victory! (Trainer)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/cpuehuaucn/1-27%20Victory%21%20%28Trainer%29.mp3"
+    },
+    {
+      "title": "Level Up!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/tuyyyiqysv/1-28%20Level%20Up%21.mp3"
+    },
+    {
+      "title": "The Pokémon Research Lab",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/vwwmeorshn/1-29%20The%20Poke%CC%81mon%20Research%20Lab.mp3"
+    },
+    {
+      "title": "Pokémon Center",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/tgkyhyuagk/1-30%20Poke%CC%81mon%20Center.mp3"
+    },
+    {
+      "title": "Pokémon Healed",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/banxygafkk/1-31%20Poke%CC%81mon%20Healed.mp3"
+    },
+    {
+      "title": "Have a Break At the Café",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ttawxxeodh/1-32%20Have%20a%20Break%20At%20the%20Cafe%CC%81.mp3"
+    },
+    {
+      "title": "Received Poké Beans!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/mxxjhgwcdu/1-33%20Received%20Poke%CC%81%20Beans%21.mp3"
+    },
+    {
+      "title": "Festival Plaza (Day)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/dlceztamvl/1-34%20Festival%20Plaza%20%28Day%29.mp3"
+    },
+    {
+      "title": "Festival Plaza (Night)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/huoltxrisv/1-35%20Festival%20Plaza%20%28Night%29.mp3"
+    },
+    {
+      "title": "Level Up At Festival Plaza",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ftblgxuzrf/1-36%20Level%20Up%20At%20Festival%20Plaza.mp3"
+    },
+    {
+      "title": "A New Shop Is Open At Festival Plaza!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ngyouhixgo/1-37%20A%20New%20Shop%20Is%20Open%20At%20Festival%20Plaza%21.mp3"
+    },
+    {
+      "title": "Fortune-Telling At Festival Plaza",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/mxwfuauchp/1-38%20Fortune-Telling%20At%20Festival%20Plaza.mp3"
+    },
+    {
+      "title": "Trade",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/fnbaijhdsb/1-39%20Trade.mp3"
+    },
+    {
+      "title": "A Mission At Festival Plaza",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/hoetwribke/1-40%20A%20Mission%20At%20Festival%20Plaza.mp3"
+    },
+    {
+      "title": "Festival Plaza Mission Results",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/efmubqxjkv/1-41%20Festival%20Plaza%20Mission%20Results.mp3"
+    },
+    {
+      "title": "Festival Plaza Mission Complete!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ufwxzpcvup/1-42%20Festival%20Plaza%20Mission%20Complete%21.mp3"
+    },
+    {
+      "title": "Festival Plaza Mission Failed...",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/fjotyfnagq/1-43%20Festival%20Plaza%20Mission%20Failed....mp3"
+    },
+    {
+      "title": "Trainers' School",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/niaohxboao/1-44%20Trainers%27%20School.mp3"
+    },
+    {
+      "title": "Obtained a TM!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/vlhqfupnui/1-45%20Obtained%20a%20TM%21.mp3"
+    },
+    {
+      "title": "Hau'oli City (Day)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/iekcoxsqqh/1-46%20Hau%27oli%20City%20%28Day%29.mp3"
+    },
+    {
+      "title": "Hau'oli City (Night)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/zjyvniwhfk/1-47%20Hau%27oli%20City%20%28Night%29.mp3"
+    },
+    {
+      "title": "Hurry Along",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/qowdqddfoq/1-48%20Hurry%20Along.mp3"
+    },
+    {
+      "title": "Poké Finder Updated!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/qrllbtuqgm/1-49%20Poke%CC%81%20Finder%20Updated%21.mp3"
+    },
+    {
+      "title": "Move Deleted",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/mkhpyxdwts/1-50%20Move%20Deleted.mp3"
+    },
+    {
+      "title": "Salon",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/tbnwqefkgr/1-51%20Salon.mp3"
+    },
+    {
+      "title": "Apparel Shop",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/fgqrsdufav/1-52%20Apparel%20Shop.mp3"
+    },
+    {
+      "title": "Changed Clothes",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/krquxjzpdw/1-53%20Changed%20Clothes.mp3"
+    },
+    {
+      "title": "Malasada Shop",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/vfrkivhskz/1-54%20Malasada%20Shop.mp3"
+    },
+    {
+      "title": "Evolution",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/fehryiqorr/1-55%20Evolution.mp3"
+    },
+    {
+      "title": "Evolution (Alola)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/hwprwfwgvo/1-56%20Evolution%20%28Alola%29.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... You're On Your Way!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/zpwfjhsssi/1-57%20Poke%CC%81dex%20Evaluation...%20You%27re%20On%20Your%20Way%21.mp3"
+    },
+    {
+      "title": "Ferry Terminal",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/nzmytbiaml/1-58%20Ferry%20Terminal.mp3"
+    },
+    {
+      "title": "Route 2 On Melemele Island",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/sobpttevox/2-01%20Route%202%20On%20Melemele%20Island.mp3"
+    },
+    {
+      "title": "Obtained a Berry!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ejfrdgdehp/2-02%20Obtained%20a%20Berry%21.mp3"
+    },
+    {
+      "title": "Team Skull Appears!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/rodatkkslc/2-03%20Team%20Skull%20Appears%21.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Team Skull)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/hyegbnfsfb/2-04%20Trainers%27%20Eyes%20Meet%20%28Team%20Skull%29.mp3"
+    },
+    {
+      "title": "Battle! (Team Skull)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ecbzynrrgd/2-05%20Battle%21%20%28Team%20Skull%29.mp3"
+    },
+    {
+      "title": "Victory! (Team Skull)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/rygqzlfcwn/2-06%20Victory%21%20%28Team%20Skull%29.mp3"
+    },
+    {
+      "title": "Verdant Cavern - A Trial Site",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/eajwluqxms/2-07%20Verdant%20Cavern%20-%20A%20Trial%20Site.mp3"
+    },
+    {
+      "title": "A Captain's Trial Begins!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/rxqhmsaohx/2-08%20A%20Captain%27s%20Trial%20Begins%21.mp3"
+    },
+    {
+      "title": "A Totem Pokémon Appears!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/akznrrrvgn/2-09%20A%20Totem%20Poke%CC%81mon%20Appears%21.mp3"
+    },
+    {
+      "title": "Battle! (Totem Pokémon)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/kzdodjofah/2-10%20Battle%21%20%28Totem%20Poke%CC%81mon%29.mp3"
+    },
+    {
+      "title": "Victory! (Totem Pokémon)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/xixyohdwzh/2-11%20Victory%21%20%28Totem%20Poke%CC%81mon%29.mp3"
+    },
+    {
+      "title": "Obtained a Z-Crystal!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/gwsnobycrp/2-12%20Obtained%20a%20Z-Crystal%21.mp3"
+    },
+    {
+      "title": "Seaward Cave",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/pisrnsxksr/2-13%20Seaward%20Cave.mp3"
+    },
+    {
+      "title": "Island Kahuna",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/cdaobignib/2-14%20Island%20Kahuna.mp3"
+    },
+    {
+      "title": "Battle! (Island Kahuna)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/elgmvkmyni/2-15%20Battle%21%20%28Island%20Kahuna%29.mp3"
+    },
+    {
+      "title": "Victory! (Island Kahuna)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/inlolplxed/2-16%20Victory%21%20%28Island%20Kahuna%29.mp3"
+    },
+    {
+      "title": "Registered a Ride Pokémon!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ncwigugzbr/2-17%20Registered%20a%20Ride%20Poke%CC%81mon%21.mp3"
+    },
+    {
+      "title": "Ride Pokémon (Land)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/acscmeqorg/2-18%20Ride%20Poke%CC%81mon%20%28Land%29.mp3"
+    },
+    {
+      "title": "Ten Carat Hill",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/luwpkqpatd/2-19%20Ten%20Carat%20Hill.mp3"
+    },
+    {
+      "title": "On the Ship",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/vmtwcssmrv/2-20%20On%20the%20Ship.mp3"
+    },
+    {
+      "title": "Heahea City (Day)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/wgifqjwtac/2-21%20Heahea%20City%20%28Day%29.mp3"
+    },
+    {
+      "title": "Heahea City (Night)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/tpvubfhiql/2-22%20Heahea%20City%20%28Night%29.mp3"
+    },
+    {
+      "title": "Sina and Dexio",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ypfsxecrst/2-23%20Sina%20and%20Dexio.mp3"
+    },
+    {
+      "title": "Route 4 On Akala Island",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/delizdxcet/2-24%20Route%204%20On%20Akala%20Island.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... Keep At It!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/eezxafekmx/2-25%20Poke%CC%81dex%20Evaluation...%20Keep%20At%20It%21.mp3"
+    },
+    {
+      "title": "Paniola City (Day)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/teddoxtebn/2-26%20Paniola%20City%20%28Day%29.mp3"
+    },
+    {
+      "title": "Paniola City (Night)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/axsydvnvhs/2-27%20Paniola%20City%20%28Night%29.mp3"
+    },
+    {
+      "title": "Paniola Ranch",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/adctwbwhrr/2-28%20Paniola%20Ranch.mp3"
+    },
+    {
+      "title": "Received a Pokémon Egg!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/fwkayqgtjk/2-29%20Received%20a%20Poke%CC%81mon%20Egg%21.mp3"
+    },
+    {
+      "title": "Gladion",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/xaiqngnkvb/2-30%20Gladion.mp3"
+    },
+    {
+      "title": "Battle! (Gladion)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/kgrwrpevja/2-31%20Battle%21%20%28Gladion%29.mp3"
+    },
+    {
+      "title": "Ride Pokémon (Aquatic)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/knfpgnjnwi/2-32%20Ride%20Poke%CC%81mon%20%28Aquatic%29.mp3"
+    },
+    {
+      "title": "Royal Avenue",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/bcmxvbbcov/2-33%20Royal%20Avenue.mp3"
+    },
+    {
+      "title": "Thrifty Megamart",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/fyrpoonyhl/2-34%20Thrifty%20Megamart.mp3"
+    },
+    {
+      "title": "Battle Royale Dome",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/jwkusrryoj/2-35%20Battle%20Royale%20Dome.mp3"
+    },
+    {
+      "title": "Battle! (Battle Royale)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/acwxcaiyst/2-36%20Battle%21%20%28Battle%20Royale%29.mp3"
+    },
+    {
+      "title": "Battle Royale Results",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ytonpylfou/2-37%20Battle%20Royale%20Results.mp3"
+    },
+    {
+      "title": "Kiawe's Trial",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/lqqjnugxdh/2-38%20Kiawe%27s%20Trial.mp3"
+    },
+    {
+      "title": "Mallow's Trial",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/zodudpzlsf/2-39%20Mallow%27s%20Trial.mp3"
+    },
+    {
+      "title": "Poké Pelago (Day)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ryijnhfzko/2-40%20Poke%CC%81%20Pelago%20%28Day%29.mp3"
+    },
+    {
+      "title": "Poké Pelago (Night)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/cefnvdakuh/2-41%20Poke%CC%81%20Pelago%20%28Night%29.mp3"
+    },
+    {
+      "title": "Poké Pelago Renovations Complete!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/jpndnnbmgc/2-42%20Poke%CC%81%20Pelago%20Renovations%20Complete%21.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... Not Bad!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/fijgaqfrif/2-43%20Poke%CC%81dex%20Evaluation...%20Not%20Bad%21.mp3"
+    },
+    {
+      "title": "Burnet's Lab",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/fxxruttyoe/2-44%20Burnet%27s%20Lab.mp3"
+    },
+    {
+      "title": "Konikoni City (Day)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/fjhagvjmzh/3-01%20Konikoni%20City%20%28Day%29.mp3"
+    },
+    {
+      "title": "Konikoni City (Night)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ngsekjtuxy/3-02%20Konikoni%20City%20%28Night%29.mp3"
+    },
+    {
+      "title": "Massage",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/tmqofcjaif/3-03%20Massage.mp3"
+    },
+    {
+      "title": "Battle! (Team Skull Admin)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/lbeycbcjxk/3-04%20Battle%21%20%28Team%20Skull%20Admin%29.mp3"
+    },
+    {
+      "title": "Aether Paradise",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/csyjiypyix/3-05%20Aether%20Paradise.mp3"
+    },
+    {
+      "title": "An Encounter",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/xxrygdakjo/3-06%20An%20Encounter.mp3"
+    },
+    {
+      "title": "Lusamine",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/zknmweouwe/3-07%20Lusamine.mp3"
+    },
+    {
+      "title": "The Entrance to Another World",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/pmhsuyjvit/3-08%20The%20Entrance%20to%20Another%20World.mp3"
+    },
+    {
+      "title": "Ultra Beasts..._",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/xhvriwjnvr/3-09%20Ultra%20Beasts..._.mp3"
+    },
+    {
+      "title": "Battle! (Ultra Beast)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/yppolfwazp/3-10%20Battle%21%20%28Ultra%20Beast%29.mp3"
+    },
+    {
+      "title": "Malie City (Day)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ogvcegptyn/3-11%20Malie%20City%20%28Day%29.mp3"
+    },
+    {
+      "title": "Malie City (Night)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/npscclrqaq/3-12%20Malie%20City%20%28Night%29.mp3"
+    },
+    {
+      "title": "Sushi High Roller",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/fmcoxilexe/3-13%20Sushi%20High%20Roller.mp3"
+    },
+    {
+      "title": "Route 10 On Ula'ula Island",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/jbvzzpgsec/3-14%20Route%2010%20On%20Ula%27ula%20Island.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... Looking Good!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/fgyykxcwmt/3-15%20Poke%CC%81dex%20Evaluation...%20Looking%20Good%21.mp3"
+    },
+    {
+      "title": "Guzma",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/kkginlcdtf/3-16%20Guzma.mp3"
+    },
+    {
+      "title": "Battle! (Team Skull Boss)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/jwmckupaps/3-17%20Battle%21%20%28Team%20Skull%20Boss%29.mp3"
+    },
+    {
+      "title": "Aether House",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/swqcqzttmp/3-18%20Aether%20House.mp3"
+    },
+    {
+      "title": "Acerola's Trial",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/zyfmozispl/3-19%20Acerola%27s%20Trial.mp3"
+    },
+    {
+      "title": "Haina Desert",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/rncbaaicfs/3-20%20Haina%20Desert.mp3"
+    },
+    {
+      "title": "O-Power",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/nvrinbpgyq/3-21%20O-Power.mp3"
+    },
+    {
+      "title": "Po Town",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/lxlztehlmy/3-22%20Po%20Town.mp3"
+    },
+    {
+      "title": "Found a Z-Crystal!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/zbypokbiul/3-23%20Found%20a%20Z-Crystal%21.mp3"
+    },
+    {
+      "title": "Nanu",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/gjebjiwvyp/3-24%20Nanu.mp3"
+    },
+    {
+      "title": "Infiltration",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/cjjqpckesc/3-25%20Infiltration.mp3"
+    },
+    {
+      "title": "The Secret Side of Aether Paradise",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/tiljvunajk/3-26%20The%20Secret%20Side%20of%20Aether%20Paradise.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Aether Foundation)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/kodqpxoksz/3-27%20Trainers%27%20Eyes%20Meet%20%28Aether%20Foundation%29.mp3"
+    },
+    {
+      "title": "Battle! (Aether Foundation)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/jibalvarpr/3-28%20Battle%21%20%28Aether%20Foundation%29.mp3"
+    },
+    {
+      "title": "Aether Paradise Labs",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/mbxmwsnzlj/3-29%20Aether%20Paradise%20Labs.mp3"
+    },
+    {
+      "title": "Unsettling Atmosphere",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/xrmvlwvfik/3-30%20Unsettling%20Atmosphere.mp3"
+    },
+    {
+      "title": "There's Trouble!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/btzetiomyk/3-31%20There%27s%20Trouble%21.mp3"
+    },
+    {
+      "title": "A Crisis In Alola",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/gnjyrsfpmi/3-32%20A%20Crisis%20In%20Alola.mp3"
+    },
+    {
+      "title": "Battle! (Lusamine)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/yeoirpohmb/3-33%20Battle%21%20%28Lusamine%29.mp3"
+    },
+    {
+      "title": "Lillie's Resolve",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/gsjhbqzxxx/3-34%20Lillie%27s%20Resolve.mp3"
+    },
+    {
+      "title": "Lively Lillie!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/kmhxbuxlwm/3-35%20Lively%20Lillie%21.mp3"
+    },
+    {
+      "title": "Poké Finder Fully Updated!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/uoiylepvho/3-36%20Poke%CC%81%20Finder%20Fully%20Updated%21.mp3"
+    },
+    {
+      "title": "Seafolk Village (Day)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/wvutwkshfx/3-37%20Seafolk%20Village%20%28Day%29.mp3"
+    },
+    {
+      "title": "Seafolk Village (Night)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/bllyzwkyjp/3-38%20Seafolk%20Village%20%28Night%29.mp3"
+    },
+    {
+      "title": "Anceint Poni Path",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/yfuspcijnr/3-39%20Anceint%20Poni%20Path.mp3"
+    },
+    {
+      "title": "The Protecter of the Island",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/qaoddlrmyz/3-40%20The%20Protecter%20of%20the%20Island.mp3"
+    },
+    {
+      "title": "Vast Poni Canyon",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/kmzvfqjhcc/3-41%20Vast%20Poni%20Canyon.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... It's Great!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/rhzrrmdfkn/3-42%20Poke%CC%81dex%20Evaluation...%20It%27s%20Great%21.mp3"
+    },
+    {
+      "title": "To the Altar...",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/irbfebpvmk/3-43%20To%20the%20Altar....mp3"
+    },
+    {
+      "title": "Solgaleo Lunala Appears!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/mstmqznoqm/3-44%20Solgaleo%20Lunala%20Appears%21.mp3"
+    },
+    {
+      "title": "Let's Go to Ultra Space!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/pnktljhgyq/3-45%20Let%27s%20Go%20to%20Ultra%20Space%21.mp3"
+    },
+    {
+      "title": "Ultra Space",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ihrjnfkbbu/4-01%20Ultra%20Space.mp3"
+    },
+    {
+      "title": "Lusamine's Madness",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ppwodsbdmj/4-02%20Lusamine%27s%20Madness.mp3"
+    },
+    {
+      "title": "Steely Lillie!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/joelasvegr/4-03%20Steely%20Lillie%21.mp3"
+    },
+    {
+      "title": "Lusamine's Revenge",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/yoyjeivwcv/4-04%20Lusamine%27s%20Revenge.mp3"
+    },
+    {
+      "title": "Showdown! (Lusamine)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/cglbuvxgrj/4-05%20Showdown%21%20%28Lusamine%29.mp3"
+    },
+    {
+      "title": "Victory! (Aether Foundation)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/yqgkqcpktg/4-06%20Victory%21%20%28Aether%20Foundation%29.mp3"
+    },
+    {
+      "title": "A World Falls Apart",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/fqjuhrzlan/4-07%20A%20World%20Falls%20Apart.mp3"
+    },
+    {
+      "title": "Mother and Daughter",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/btmpobobqy/4-08%20Mother%20and%20Daughter.mp3"
+    },
+    {
+      "title": "Battle! (Solgaleo Lunala)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/kmibmxvggw/4-09%20Battle%21%20%28Solgaleo%20Lunala%29.mp3"
+    },
+    {
+      "title": "Lonely Lillie",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/tnumelebaa/4-10%20Lonely%20Lillie.mp3"
+    },
+    {
+      "title": "Obtained Wallpapers!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/tjwnncwesi/4-11%20Obtained%20Wallpapers%21.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... It's Amazing!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ovkvyspknp/4-12%20Poke%CC%81dex%20Evaluation...%20It%27s%20Amazing%21.mp3"
+    },
+    {
+      "title": "Battle Spot",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/thufjimupw/4-13%20Battle%20Spot.mp3"
+    },
+    {
+      "title": "Wonder Trade",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/vdcohzqalh/4-14%20Wonder%20Trade.mp3"
+    },
+    {
+      "title": "GTS",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/fctahdhewt/4-15%20GTS.mp3"
+    },
+    {
+      "title": "Mystery Gift",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/kyqglrbhaz/4-16%20Mystery%20Gift.mp3"
+    },
+    {
+      "title": "Happy Birthday from the Pokémon Center!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/gvwqdcneqp/4-17%20Happy%20Birthday%20from%20the%20Poke%CC%81mon%20Center%21.mp3"
+    },
+    {
+      "title": "Happy Birthday!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/zgewdljxfo/4-18%20Happy%20Birthday%21.mp3"
+    },
+    {
+      "title": "Battle Tree",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/liatthsigp/4-19%20Battle%20Tree.mp3"
+    },
+    {
+      "title": "Blue",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/jicjzmhbgq/4-20%20Blue.mp3"
+    },
+    {
+      "title": "Battle! (Battle Tree Boss)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ujuyxzmdhm/4-21%20Battle%21%20%28Battle%20Tree%20Boss%29.mp3"
+    },
+    {
+      "title": "Received Battle Points!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ybovqnveqd/4-22%20Received%20Battle%20Points%21.mp3"
+    },
+    {
+      "title": "Obtained a Mega Stone!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/qbidolqxld/4-23%20Obtained%20a%20Mega%20Stone%21.mp3"
+    },
+    {
+      "title": "Battle! (Frontier Brain)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/oatblwukjx/4-24%20Battle%21%20%28Frontier%20Brain%29.mp3"
+    },
+    {
+      "title": "Battle! (Champion - Sinnoh Version)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/xwsygmxcji/4-25%20Battle%21%20%28Champion%20-%20Sinnoh%20Version%29.mp3"
+    },
+    {
+      "title": "Battle! (Elite Four - Unova Version)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/budxuierxv/4-26%20Battle%21%20%28Elite%20Four%20-%20Unova%20Version%29.mp3"
+    },
+    {
+      "title": "Battle! (Colress)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/bsbskcpyar/4-27%20Battle%21%20%28Colress%29.mp3"
+    },
+    {
+      "title": "Battle! (Trainer - Kalos Version)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/gjevattapn/4-28%20Battle%21%20%28Trainer%20-%20Kalos%20Version%29.mp3"
+    },
+    {
+      "title": "Battle! (Wally)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ngmgczzhve/4-29%20Battle%21%20%28Wally%29.mp3"
+    },
+    {
+      "title": "Final Battle! (World Championships)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/dhkfpwatsb/4-30%20Final%20Battle%21%20%28World%20Championships%29.mp3"
+    },
+    {
+      "title": "Battle! (Tapu)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/timdlvlskh/4-31%20Battle%21%20%28Tapu%29.mp3"
+    },
+    {
+      "title": "Another Chapter In Looker's Tale",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/tydekcdzmw/4-32%20Another%20Chapter%20In%20Looker%27s%20Tale.mp3"
+    },
+    {
+      "title": "Looker",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ukfaelpfdv/4-33%20Looker.mp3"
+    },
+    {
+      "title": "Looker's Sorrow",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/rhqrrbtvtd/4-34%20Looker%27s%20Sorrow.mp3"
+    },
+    {
+      "title": "Gester's Lesson",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/qbvclxeyzh/4-35%20Gester%27s%20Lesson.mp3"
+    },
+    {
+      "title": "The Zygarde Cube",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/saxbisojhs/4-36%20The%20Zygarde%20Cube.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... It's Complete!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/daqzyeacnb/4-37%20Poke%CC%81dex%20Evaluation...%20It%27s%20Complete%21.mp3"
+    },
+    {
+      "title": "The Path to the League",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/qtueuwhrix/4-38%20The%20Path%20to%20the%20League.mp3"
+    },
+    {
+      "title": "The Summit of Mount Lanakila",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/xfvfhdcnoh/4-39%20The%20Summit%20of%20Mount%20Lanakila.mp3"
+    },
+    {
+      "title": "The Pokémon League",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/bczhsnydpq/4-40%20The%20Poke%CC%81mon%20League.mp3"
+    },
+    {
+      "title": "Battle! (Elite Four)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/wukabntxbm/4-41%20Battle%21%20%28Elite%20Four%29.mp3"
+    },
+    {
+      "title": "Battle! (Champion)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/nlqxbcpyca/4-42%20Battle%21%20%28Champion%29.mp3"
+    },
+    {
+      "title": "A Champion Is Born!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/bsngxthxqd/4-43%20A%20Champion%20Is%20Born%21.mp3"
+    },
+    {
+      "title": "Hall of Fame",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/qjuuwheemt/4-44%20Hall%20of%20Fame.mp3"
+    },
+    {
+      "title": "Someday...",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/cmnjeweeei/4-45%20Someday....mp3"
+    },
+    {
+      "title": "Welcome Back",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/wlmniseilu/4-46%20Welcome%20Back.mp3"
+    },
+    {
+      "title": "Ending",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/yqekvqvpoj/4-47%20Ending.mp3"
+    },
+    {
+      "title": "The End",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/nztvpgthig/4-48%20The%20End.mp3"
+    },
+    {
+      "title": "Special Demo Version Movie",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/sekwuwexsv/4-49%20Special%20Demo%20Version%20Movie.mp3"
+    },
+    {
+      "title": "Logo (Pokémon Sun)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/ghkzmnzrjl/4-50%20Logo%20%28Poke%CC%81mon%20Sun%29.mp3"
+    },
+    {
+      "title": "Logo (Pokémon Moon)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/kgzxtyfsko/4-51%20Logo%20%28Poke%CC%81mon%20Moon%29.mp3"
+    },
+    {
+      "title": "Title Screen Z-Ring Synchronized Version",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/wqebmxizup/4-52%20Title%20Screen%20Z-Ring%20Synchronized%20Version.mp3"
+    },
+    {
+      "title": "The Alola Region Z-Ring Synchronized Version",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/tvrtaauaxe/4-53%20The%20Alola%20Region%20Z-Ring%20Synchronized%20Version.mp3"
+    },
+    {
+      "title": "The Pokémon Center Z-Ring Synchronized Version",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/lqvqvmwjlh/4-54%20The%20Poke%CC%81mon%20Center%20Z-Ring%20Synchronized%20Version.mp3"
+    },
+    {
+      "title": "Battle! (Wild Pokémon) Z-Ring Synchronized Version",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/efuaskvnem/4-55%20Battle%21%20%28Wild%20Poke%CC%81mon%29%20Z-Ring%20Synchronized%20Version.mp3"
+    },
+    {
+      "title": "Battle! (Trainer) Z-Ring Synchronized Version",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/cmvdsajwpd/4-56%20Battle%21%20%28Trainer%29%20Z-Ring%20Synchronized%20Version.mp3"
+    },
+    {
+      "title": "Battle! (Team Skull) Z-Ring Synchronized Version",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/qaqvotyvsy/4-57%20Battle%21%20%28Team%20Skull%29%20Z-Ring%20Synchronized%20Version.mp3"
+    },
+    {
+      "title": "Chimes",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokémon-sun-pokémon-moon-super-music-collection-expanded-complete-2016/giuhkofxmo/4-58%20Chimes.mp3"
+    }
+  ]
+}
