@@ -1,0 +1,433 @@
+{
+  "meta": {
+    "game_title": "3DS Background Music",
+    "art": "https://upload.wikimedia.org/wikipedia/en/9/9a/Nintendo_3DS_Home_Menu.jpg",
+    "desc": "February 26, 2011"
+  },
+  "songs": [
+    {
+      "title": "Initial Setup",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/bcpbqieiir/01.%20Initial%20Setup.mp3"
+    },
+    {
+      "title": "Home Menu",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/snuiavcyas/02.%20Home%20Menu.mp3"
+    },
+    {
+      "title": "Theme Shop",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/mpbizdwdue/03.%20Theme%20Shop.mp3"
+    },
+    {
+      "title": "Amiibo Settings - Main Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/kqjbfzyjuw/04.%20Amiibo%20Settings%20-%20Main%20Theme.mp3"
+    },
+    {
+      "title": "Amiibo Settings - Moving Data",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/aegnyreipx/05.%20Amiibo%20Settings%20-%20Moving%20Data.mp3"
+    },
+    {
+      "title": "Game Notes",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/embmdiwqiw/06.%20Game%20Notes.mp3"
+    },
+    {
+      "title": "Friend List",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/ssqcrxueqh/07.%20Friend%20List.mp3"
+    },
+    {
+      "title": "Notifications",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/jpujssfual/08.%20Notifications.mp3"
+    },
+    {
+      "title": "Miiverse - Startup",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/llmrptacct/09.%20Miiverse%20-%20Startup.mp3"
+    },
+    {
+      "title": "Miiverse - Initial Setup",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/znztiihjng/10.%20Miiverse%20-%20Initial%20Setup.mp3"
+    },
+    {
+      "title": "Miiverse - Intro",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/isvnduecdi/11.%20Miiverse%20-%20Intro.mp3"
+    },
+    {
+      "title": "Miiverse - Browse",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/qaghmribrk/12.%20Miiverse%20-%20Browse.mp3"
+    },
+    {
+      "title": "Miiverse - User Settings",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/sehoskocpa/13.%20Miiverse%20-%20User%20Settings.mp3"
+    },
+    {
+      "title": "Health & Safety Information",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/ypwtdiuniw/14.%20Health%20%26%20Safety%20Information.mp3"
+    },
+    {
+      "title": "Nintendo 3DS Camera - Startup",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/dnimzuydea/15.%20Nintendo%203DS%20Camera%20-%20Startup.mp3"
+    },
+    {
+      "title": "Nintendo 3DS Camera - Album",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/oyragwzqrc/16.%20Nintendo%203DS%20Camera%20-%20Album.mp3"
+    },
+    {
+      "title": "Nintendo 3DS Camera - Slideshow (Chilled)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/thnclaodtg/17.%20Nintendo%203DS%20Camera%20-%20Slideshow%20%28Chilled%29.mp3"
+    },
+    {
+      "title": "Nintendo 3DS Camera - Slideshow (Vintage)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/myjsqcfteh/18.%20Nintendo%203DS%20Camera%20-%20Slideshow%20%28Vintage%29.mp3"
+    },
+    {
+      "title": "Nintendo 3DS Camera - Slideshow (Pop)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/gpirprzbpl/19.%20Nintendo%203DS%20Camera%20-%20Slideshow%20%28Pop%29.mp3"
+    },
+    {
+      "title": "Nintendo 3DS Camera - Slideshow (Funk)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/umxqoljipx/20.%20Nintendo%203DS%20Camera%20-%20Slideshow%20%28Funk%29.mp3"
+    },
+    {
+      "title": "Nintendo 3DS Camera - Slideshow (Fantasy)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/lmslnsllfj/21.%20Nintendo%203DS%20Camera%20-%20Slideshow%20%28Fantasy%29.mp3"
+    },
+    {
+      "title": "Nintendo 3DS Camera - Slideshow (Ceremonial)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/pexpwemoon/22.%20Nintendo%203DS%20Camera%20-%20Slideshow%20%28Ceremonial%29.mp3"
+    },
+    {
+      "title": "Nintendo 3DS Camera - Slideshow (Jazz)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/hlzwfydrik/23.%20Nintendo%203DS%20Camera%20-%20Slideshow%20%28Jazz%29.mp3"
+    },
+    {
+      "title": "Nintendo 3DS Camera - Slideshow (Ballad)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/jghydounzk/24.%20Nintendo%203DS%20Camera%20-%20Slideshow%20%28Ballad%29.mp3"
+    },
+    {
+      "title": "Nintendo 3DS Sound",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/dhnqavsuyt/25.%20Nintendo%203DS%20Sound.mp3"
+    },
+    {
+      "title": "Mii Maker - Main Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/stjgccsiyj/26.%20Mii%20Maker%20-%20Main%20Theme.mp3"
+    },
+    {
+      "title": "Mii Maker - Processing Face",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/giaucrxkko/27.%20Mii%20Maker%20-%20Processing%20Face.mp3"
+    },
+    {
+      "title": "Mii Maker - Finalize Face",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/cuwgzhzeha/28.%20Mii%20Maker%20-%20Finalize%20Face.mp3"
+    },
+    {
+      "title": "Nintendo eShop - Loading",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/nqlpuuzypp/29.%20Nintendo%20eShop%20-%20Loading.mp3"
+    },
+    {
+      "title": "Nintendo eShop - Initial Setup",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/zzqsuzlbul/30.%20Nintendo%20eShop%20-%20Initial%20Setup.mp3"
+    },
+    {
+      "title": "Nintendo eShop - Main Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/jriexdjhrf/31.%20Nintendo%20eShop%20-%20Main%20Theme.mp3"
+    },
+    {
+      "title": "Nintendo eShop - Software Download",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/qwolgwupij/32.%20Nintendo%20eShop%20-%20Software%20Download.mp3"
+    },
+    {
+      "title": "Nintendo eShop - Rating",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/akidvdynxm/33.%20Nintendo%20eShop%20-%20Rating.mp3"
+    },
+    {
+      "title": "Nintendo eShop - Wish List",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/hxdtmoxnoe/34.%20Nintendo%20eShop%20-%20Wish%20List.mp3"
+    },
+    {
+      "title": "Nintendo eShop - Settings",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/gstvndxyaz/35.%20Nintendo%20eShop%20-%20Settings.mp3"
+    },
+    {
+      "title": "Activity Log - Main Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/wsffnxsyeq/36.%20Activity%20Log%20-%20Main%20Theme.mp3"
+    },
+    {
+      "title": "Activity Log - Play Time",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/hcvjrkpaak/37.%20Activity%20Log%20-%20Play%20Time.mp3"
+    },
+    {
+      "title": "Activity Log - Step",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/wvmqndmukn/38.%20Activity%20Log%20-%20Step.mp3"
+    },
+    {
+      "title": "Activity Log - Software Library",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/ybrwgpgmui/39.%20Activity%20Log%20-%20Software%20Library.mp3"
+    },
+    {
+      "title": "Download Play",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/sqnsgrdjcr/40.%20Download%20Play.mp3"
+    },
+    {
+      "title": "Nintendo Zone - Startup",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/txrhqcvkpt/41.%20Nintendo%20Zone%20-%20Startup.mp3"
+    },
+    {
+      "title": "Nintendo Zone - Main Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/cjrurvcobi/42.%20Nintendo%20Zone%20-%20Main%20Theme.mp3"
+    },
+    {
+      "title": "System Settings - Main Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/rjgarcykof/43.%20System%20Settings%20-%20Main%20Theme.mp3"
+    },
+    {
+      "title": "System Settings - Internet Settings",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/isnaqwzuyi/44.%20System%20Settings%20-%20Internet%20Settings.mp3"
+    },
+    {
+      "title": "System Settings - Nintendo DS Profile",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/fgxwezepyl/45.%20System%20Settings%20-%20Nintendo%20DS%20Profile.mp3"
+    },
+    {
+      "title": "System Transfer - Receive",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/aixncyaemk/46.%20System%20Transfer%20-%20Receive.mp3"
+    },
+    {
+      "title": "System Transfer - Send",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/wubcifiedw/47.%20System%20Transfer%20-%20Send.mp3"
+    },
+    {
+      "title": "System Transfer - Pikmin Call",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/iznxfbxssk/48.%20System%20Transfer%20-%20Pikmin%20Call.mp3"
+    },
+    {
+      "title": "Nintendo Network ID Settings - Loading",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/duwscndonp/49.%20Nintendo%20Network%20ID%20Settings%20-%20Loading.mp3"
+    },
+    {
+      "title": "Nintendo Network ID Settings - Initial Setup (First Phase)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/grdspvbhwv/50.%20Nintendo%20Network%20ID%20Settings%20-%20Initial%20Setup%20%28First%20Phase%29.mp3"
+    },
+    {
+      "title": "Nintendo Network ID Settings - Initial Setup (Second Phase)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/gvlqsbbcfb/51.%20Nintendo%20Network%20ID%20Settings%20-%20Initial%20Setup%20%28Second%20Phase%29.mp3"
+    },
+    {
+      "title": "Nintendo Network ID Settings - Initial Setup (Third Phase)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/azznikjaow/52.%20Nintendo%20Network%20ID%20Settings%20-%20Initial%20Setup%20%28Third%20Phase%29.mp3"
+    },
+    {
+      "title": "Nintendo Network ID Settings - Account Settings",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/cexeheplqu/53.%20Nintendo%20Network%20ID%20Settings%20-%20Account%20Settings.mp3"
+    },
+    {
+      "title": "(Bonus) Home Menu - No Intro",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/eevcwyvuwi/54.%20%28Bonus%29%20Home%20Menu%20-%20No%20Intro.mp3"
+    },
+    {
+      "title": "(Bonus) Nintendo Zone - Main Theme (Without Ambience)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/vrwkelrgyz/55.%20%28Bonus%29%20Nintendo%20Zone%20-%20Main%20Theme%20%28Without%20Ambience%29.mp3"
+    },
+    {
+      "title": "(Bonus) Nintendo Network ID Settings - Loading (Without Box Sounds)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/vbqkbfuscv/56.%20%28Bonus%29%20Nintendo%20Network%20ID%20Settings%20-%20Loading%20%28Without%20Box%20Sounds%29.mp3"
+    },
+    {
+      "title": "(Bonus) Home Menu (First Revision)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/ectisjcjsy/57.%20%28Bonus%29%20Home%20Menu%20%28First%20Revision%29.mp3"
+    },
+    {
+      "title": "(Bonus) Home Menu - No Intro (First Revision)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/aicgtakmuo/58.%20%28Bonus%29%20Home%20Menu%20-%20No%20Intro%20%28First%20Revision%29.mp3"
+    },
+    {
+      "title": "(Jingle) Home Menu - Miiverse Introduction",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/dbufhwgzcv/59.%20%28Jingle%29%20Home%20Menu%20-%20Miiverse%20Introduction.mp3"
+    },
+    {
+      "title": "(Jingle) Home Menu - New Feature",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/vpsljrwlaj/60.%20%28Jingle%29%20Home%20Menu%20-%20New%20Feature.mp3"
+    },
+    {
+      "title": "(Jingle) Have fun in Miiverse!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/dftvbhejaw/61.%20%28Jingle%29%20Have%20fun%20in%20Miiverse%21.mp3"
+    },
+    {
+      "title": "(Jingle) Nintendo eShop - Ready!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/xwlkznwuqa/62.%20%28Jingle%29%20Nintendo%20eShop%20-%20Ready%21.mp3"
+    },
+    {
+      "title": "(Jingle) Nintendo Zone - Start",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/jveecxhwid/63.%20%28Jingle%29%20Nintendo%20Zone%20-%20Start.mp3"
+    },
+    {
+      "title": "(Jingle) Nintendo Zone - Download Complete",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/yjubjaiiza/64.%20%28Jingle%29%20Nintendo%20Zone%20-%20Download%20Complete.mp3"
+    },
+    {
+      "title": "(Jingle) System Settings - 3D Screen Check",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/luzqjbnatx/65.%20%28Jingle%29%20System%20Settings%20-%203D%20Screen%20Check.mp3"
+    },
+    {
+      "title": "(Jingle) Nintendo Network ID Settings - Link Complete",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/desvtbyxil/66.%20%28Jingle%29%20Nintendo%20Network%20ID%20Settings%20-%20Link%20Complete.mp3"
+    },
+    {
+      "title": "(Jingle) Nintendo Network ID Settings - Warning!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/pqmouxmvbf/67.%20%28Jingle%29%20Nintendo%20Network%20ID%20Settings%20-%20Warning%21.mp3"
+    },
+    {
+      "title": "(Banner) Nintendo DS Cartridge",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/bgfhdtzmed/68.%20%28Banner%29%20Nintendo%20DS%20Cartridge.mp3"
+    },
+    {
+      "title": "(Banner) Nintendo DSiWare Application",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/jsgvktquwm/69.%20%28Banner%29%20Nintendo%20DSiWare%20Application.mp3"
+    },
+    {
+      "title": "(Banner) SpotPass Distribution",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/eqvxjlvtok/70.%20%28Banner%29%20SpotPass%20Distribution.mp3"
+    },
+    {
+      "title": "(Banner) Software Present",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/ndrwmznzkr/71.%20%28Banner%29%20Software%20Present.mp3"
+    },
+    {
+      "title": "(Banner) Locked",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/uoubgemkll/72.%20%28Banner%29%20Locked.mp3"
+    },
+    {
+      "title": "(Banner) Invalid",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/xezjvvisxw/73.%20%28Banner%29%20Invalid.mp3"
+    },
+    {
+      "title": "(Banner) Health & Safety Information",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/iqkbmktapi/74.%20%28Banner%29%20Health%20%26%20Safety%20Information.mp3"
+    },
+    {
+      "title": "(Banner) Nintendo 3DS Camera",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/wugaijcdrb/75.%20%28Banner%29%20Nintendo%203DS%20Camera.mp3"
+    },
+    {
+      "title": "(Banner) Nintendo 3DS Sound",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/thnxjnzolk/76.%20%28Banner%29%20Nintendo%203DS%20Sound.mp3"
+    },
+    {
+      "title": "(Banner) Mii Maker",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/dwjcitqdwu/77.%20%28Banner%29%20Mii%20Maker.mp3"
+    },
+    {
+      "title": "(Banner) Nintendo eShop",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/ykmilfffcv/78.%20%28Banner%29%20Nintendo%20eShop.mp3"
+    },
+    {
+      "title": "(Banner) Activity Log",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/yojswyqubf/79.%20%28Banner%29%20Activity%20Log.mp3"
+    },
+    {
+      "title": "(Banner) Download Play",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/idlcocgstg/80.%20%28Banner%29%20Download%20Play.mp3"
+    },
+    {
+      "title": "(Banner) Nintendo Zone",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/xvkflkajda/81.%20%28Banner%29%20Nintendo%20Zone.mp3"
+    },
+    {
+      "title": "(Banner) System Settings",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/wbkaisjofp/82.%20%28Banner%29%20System%20Settings.mp3"
+    },
+    {
+      "title": "(Banner) Nintendo Network ID Settings",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/gwhvcjnxme/83.%20%28Banner%29%20Nintendo%20Network%20ID%20Settings.mp3"
+    },
+    {
+      "title": "(Banner) Software Present Early Jingle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/nhteubtfkx/84.%20%28Banner%29%20Software%20Present%20Early%20Jingle.mp3"
+    },
+    {
+      "title": "(Unused) Nintendo 3DS Camera - Custom Album Banner",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/oshwbcqqro/85.%20%28Unused%29%20Nintendo%203DS%20Camera%20-%20Custom%20Album%20Banner.mp3"
+    },
+    {
+      "title": "(Unused) Nintendo 3DS Sound - Custom Playlist Banner",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/ygfgfqwqzc/86.%20%28Unused%29%20Nintendo%203DS%20Sound%20-%20Custom%20Playlist%20Banner.mp3"
+    },
+    {
+      "title": "(Prototype) Friend List",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/moqiiucpwa/87.%20%28Prototype%29%20Friend%20List.mp3"
+    },
+    {
+      "title": "(Prototype) Notifications",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/ajqgynbczg/88.%20%28Prototype%29%20Notifications.mp3"
+    },
+    {
+      "title": "(Prototype) Health & Safety Information",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/ptbwvaymjo/89.%20%28Prototype%29%20Health%20%26%20Safety%20Information.mp3"
+    },
+    {
+      "title": "(Prototype) Nintendo 3DS Camera - Album",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/dhpkkxwgjy/90.%20%28Prototype%29%20Nintendo%203DS%20Camera%20-%20Album.mp3"
+    },
+    {
+      "title": "(Prototype) Nintendo 3DS Camera - Slideshow (Chilled)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/sxkxypnmwg/91.%20%28Prototype%29%20Nintendo%203DS%20Camera%20-%20Slideshow%20%28Chilled%29.mp3"
+    },
+    {
+      "title": "(Prototype) Nintendo 3DS Camera - Slideshow (Pop)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/yvgdtrrkyu/92.%20%28Prototype%29%20Nintendo%203DS%20Camera%20-%20Slideshow%20%28Pop%29.mp3"
+    },
+    {
+      "title": "(Prototype) Nintendo 3DS Camera - Slideshow (Funk)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/blntvpiuih/93.%20%28Prototype%29%20Nintendo%203DS%20Camera%20-%20Slideshow%20%28Funk%29.mp3"
+    },
+    {
+      "title": "(Prototype) Nintendo 3DS Camera - Slideshow (Fantasy)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/akonewykkw/94.%20%28Prototype%29%20Nintendo%203DS%20Camera%20-%20Slideshow%20%28Fantasy%29.mp3"
+    },
+    {
+      "title": "(Prototype) Nintendo 3DS Camera - Slideshow (Ceremonial)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/thtrefmkvj/95.%20%28Prototype%29%20Nintendo%203DS%20Camera%20-%20Slideshow%20%28Ceremonial%29.mp3"
+    },
+    {
+      "title": "(Prototype) Nintendo 3DS Camera - Slideshow (Jazz)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/lkmsuekedp/96.%20%28Prototype%29%20Nintendo%203DS%20Camera%20-%20Slideshow%20%28Jazz%29.mp3"
+    },
+    {
+      "title": "(Prototype) Nintendo 3DS Camera - Slideshow (Ballad)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/ltzojpwksr/97.%20%28Prototype%29%20Nintendo%203DS%20Camera%20-%20Slideshow%20%28Ballad%29.mp3"
+    },
+    {
+      "title": "(Prototype) Activity Log - Main Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/vasuqlkcfn/98.%20%28Prototype%29%20Activity%20Log%20-%20Main%20Theme.mp3"
+    },
+    {
+      "title": "(Prototype) Activity Log - Play Time",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/nznckclmum/99.%20%28Prototype%29%20Activity%20Log%20-%20Play%20Time.mp3"
+    },
+    {
+      "title": "(Prototype) Activity Log - Step",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/oykrjrzpjx/100.%20%28Prototype%29%20Activity%20Log%20-%20Step.mp3"
+    },
+    {
+      "title": "(Prototype) Activity Log - Software Library",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/rlgoiqcxpm/101.%20%28Prototype%29%20Activity%20Log%20-%20Software%20Library.mp3"
+    },
+    {
+      "title": "(Prototype) System Settings - Nintendo DS Profile",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/wcjlbanxff/102.%20%28Prototype%29%20System%20Settings%20-%20Nintendo%20DS%20Profile.mp3"
+    },
+    {
+      "title": "(Prototype) Health & Safety Information Banner",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/wmugwnldkq/103.%20%28Prototype%29%20Health%20%26%20Safety%20Information%20Banner.mp3"
+    },
+    {
+      "title": "(Prototype) Download Play Banner",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/pkjoaxnezu/104.%20%28Prototype%29%20Download%20Play%20Banner.mp3"
+    },
+    {
+      "title": "(Prototype) Nintendo DS Cartridge Banner",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/yxyykazoqq/105.%20%28Prototype%29%20Nintendo%20DS%20Cartridge%20Banner.mp3"
+    },
+    {
+      "title": "(Prototype) Placeholder Banner - Tomodachi Collection",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/nintendo-3ds-background-music/lxdpwbxkuf/106.%20%28Prototype%29%20Placeholder%20Banner%20-%20Tomodachi%20Collection.mp3"
+    }
+  ]
+}
