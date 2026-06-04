@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "game_title": "Cooking Mama",
+    "art": "https://upload.wikimedia.org/wikipedia/en/8/87/Cooking_Mama.JPG",
+    "desc": "March 23, 2006"
+  },
+  "songs": [
+    {
+      "title": "Title Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/cooking-mama-untagged-ds-gamerip-2006/bnlpnsppwd/01.%20Title%20Theme.mp3"
+    },
+    {
+      "title": "Main Menu ~ Menu",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/cooking-mama-untagged-ds-gamerip-2006/yzmlzutaax/02.%20Main%20Menu%20~%20Menu.mp3"
+    },
+    {
+      "title": "Let's Cook 1",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/cooking-mama-untagged-ds-gamerip-2006/kvripicsqn/03.%20Let%27s%20Cook%201.mp3"
+    },
+    {
+      "title": "Let's Cook 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/cooking-mama-untagged-ds-gamerip-2006/nvyuijfdir/04.%20Let%27s%20Cook%202.mp3"
+    },
+    {
+      "title": "Let's Cook 3",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/cooking-mama-untagged-ds-gamerip-2006/hlmdkeeggs/05.%20Let%27s%20Cook%203.mp3"
+    },
+    {
+      "title": "Let's Cook 4",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/cooking-mama-untagged-ds-gamerip-2006/ansmjuogea/06.%20Let%27s%20Cook%204.mp3"
+    },
+    {
+      "title": "Let's Cook 5",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/cooking-mama-untagged-ds-gamerip-2006/gocwhiplea/07.%20Let%27s%20Cook%205.mp3"
+    },
+    {
+      "title": "Done",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/cooking-mama-untagged-ds-gamerip-2006/hglnkryxpf/08.%20Done.mp3"
+    },
+    {
+      "title": "Result",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/cooking-mama-untagged-ds-gamerip-2006/htppkndbpb/09.%20Result.mp3"
+    }
+  ]
+}
