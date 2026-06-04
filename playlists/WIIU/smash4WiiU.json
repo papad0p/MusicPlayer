@@ -1,0 +1,297 @@
+{
+  "meta": {
+    "game_title": "Super Smash Bros. for Wii U",
+    "art": "https://ssb.wiki.gallery/images/thumb/6/62/Boxart-wiiu.png/800px-Boxart-wiiu.png",
+    "desc": "November 21, 2014"
+  },
+  "songs": [
+    {
+      "title": "Menu",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/hhpfgpfh/1-01.%20Menu.mp3"
+    },
+    {
+      "title": "How to Play",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/vicmddkp/1-02.%20How%20to%20Play.mp3"
+    },
+    {
+      "title": "Ground Theme - Underground Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/stsimjjv/1-03.%20Ground%20Theme%20-%20Underground%20Theme.mp3"
+    },
+    {
+      "title": "Super Mario 3D Land Theme - Beach Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/bsjuuoln/1-04.%20Super%20Mario%203D%20Land%20Theme%20-%20Beach%20Theme.mp3"
+    },
+    {
+      "title": "Try, Try Again",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/ibjqzcng/1-05.%20Try%2C%20Try%20Again.mp3"
+    },
+    {
+      "title": "Kongo Jungle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/tzsnphst/1-06.%20Kongo%20Jungle.mp3"
+    },
+    {
+      "title": "Stickerbush Symphony",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/nkmdgwoe/1-07.%20Stickerbush%20Symphony.mp3"
+    },
+    {
+      "title": "Gerudo Valley",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/gtxhrnrr/1-08.%20Gerudo%20Valley.mp3"
+    },
+    {
+      "title": "Full Steam Ahead",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/ldjlenaq/1-09.%20Full%20Steam%20Ahead.mp3"
+    },
+    {
+      "title": "Brinstar",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/bimkpswc/1-10.%20Brinstar.mp3"
+    },
+    {
+      "title": "Obstacle Course (Spring - Summer)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/yliirhnt/1-11.%20Obstacle%20Course%20%28Spring%20-%20Summer%29.mp3"
+    },
+    {
+      "title": "Green Greens Ver. 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/cfuhezjv/1-12.%20Green%20Greens%20Ver.%202.mp3"
+    },
+    {
+      "title": "Corneria",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/dcdkqzaa/1-13.%20Corneria.mp3"
+    },
+    {
+      "title": "Star Wolf’s Theme - Sector Z",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/etighstp/1-14.%20Star%20Wolf%E2%80%99s%20Theme%20-%20Sector%20Z.mp3"
+    },
+    {
+      "title": "Battle! (Trainer Battle)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/svzkazwk/1-15.%20Battle%21%20%28Trainer%20Battle%29.mp3"
+    },
+    {
+      "title": "N’s Castle Medley",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/jqdrbgcr/1-16.%20N%E2%80%99s%20Castle%20Medley.mp3"
+    },
+    {
+      "title": "Mute City Ver. 3",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/escktomr/1-17.%20Mute%20City%20Ver.%203.mp3"
+    },
+    {
+      "title": "Id (Purpose)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/zvekldgw/1-18.%20Id%20%28Purpose%29.mp3"
+    },
+    {
+      "title": "Wrath of the Reset Bomb",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/ognulwyd/1-19.%20Wrath%20of%20the%20Reset%20Bomb.mp3"
+    },
+    {
+      "title": "Dark Pit’s Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/vtiisnmw/1-20.%20Dark%20Pit%E2%80%99s%20Theme.mp3"
+    },
+    {
+      "title": "Ashley’s Song (JP)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/vpmrvdfs/1-21.%20Ashley%E2%80%99s%20Song%20%28JP%29.mp3"
+    },
+    {
+      "title": "Tortimer Island Medley",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/wejfyeyh/1-22.%20Tortimer%20Island%20Medley.mp3"
+    },
+    {
+      "title": "Kapp’n’s Song",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/nvpmrxmr/1-23.%20Kapp%E2%80%99n%E2%80%99s%20Song.mp3"
+    },
+    {
+      "title": "Jogging - Countdown",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/wiclzpzf/1-24.%20Jogging%20-%20Countdown.mp3"
+    },
+    {
+      "title": "Gaur Plain",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/aoswdekm/1-25.%20Gaur%20Plain.mp3"
+    },
+    {
+      "title": "You Will Know Our Names",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/dhbmfpht/1-26.%20You%20Will%20Know%20Our%20Names.mp3"
+    },
+    {
+      "title": "Balloon Fight Medley",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/usfzexal/1-27.%20Balloon%20Fight%20Medley.mp3"
+    },
+    {
+      "title": "Bath Time Theme (vocal mix)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/ceojbfxw/1-28.%20Bath%20Time%20Theme%20%28vocal%20mix%29.mp3"
+    },
+    {
+      "title": "Save the World, Heroes!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/qnsaxobq/1-29.%20Save%20the%20World%2C%20Heroes%21.mp3"
+    },
+    {
+      "title": "Tomodachi Life",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/zxsvyeca/1-30.%20Tomodachi%20Life.mp3"
+    },
+    {
+      "title": "PAC-MAN (club mix)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/wdcdltjo/1-31.%20PAC-MAN%20%28club%20mix%29.mp3"
+    },
+    {
+      "title": "Tetris Type A",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/uencwdyl/1-32.%20Tetris%20Type%20A.mp3"
+    },
+    {
+      "title": "Trophy Rush",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/hduqspyw/1-33.%20Trophy%20Rush.mp3"
+    },
+    {
+      "title": "Multi-Man Smash",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/nanohtuu/1-34.%20Multi-Man%20Smash.mp3"
+    },
+    {
+      "title": "Credits",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/prmjkwfl/1-35.%20Credits.mp3"
+    },
+    {
+      "title": "Online Practice Stage",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/olomrzuc/1-36.%20Online%20Practice%20Stage.mp3"
+    },
+    {
+      "title": "Battlefield",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/dhconwws/2-01.%20Battlefield.mp3"
+    },
+    {
+      "title": "Super Mario Bros. Medley",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/aypffnyd/2-02.%20Super%20Mario%20Bros.%20Medley.mp3"
+    },
+    {
+      "title": "Athletic Theme - Ground Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/vukshkaa/2-03.%20Athletic%20Theme%20-%20Ground%20Theme.mp3"
+    },
+    {
+      "title": "Egg Planet",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/zxpeehyv/2-04.%20Egg%20Planet.mp3"
+    },
+    {
+      "title": "Circuit (Mario Kart 7)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/hageejfa/2-05.%20Circuit%20%28Mario%20Kart%207%29.mp3"
+    },
+    {
+      "title": "Gear Getaway",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/lcfsayqi/2-06.%20Gear%20Getaway.mp3"
+    },
+    {
+      "title": "Donkey Kong Country Returns (Vocals)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/uwaoqpaj/2-07.%20Donkey%20Kong%20Country%20Returns%20%28Vocals%29.mp3"
+    },
+    {
+      "title": "Ballad of the Goddess - Girahim’s Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/vxdwxzgi/2-08.%20Ballad%20of%20the%20Goddess%20-%20Girahim%E2%80%99s%20Theme.mp3"
+    },
+    {
+      "title": "Main Theme - Underworld Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/vdgwpkgz/2-09.%20Main%20Theme%20-%20Underworld%20Theme.mp3"
+    },
+    {
+      "title": "Ocarina of Time Medley",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/fdbvyhnv/2-10.%20Ocarina%20of%20Time%20Medley.mp3"
+    },
+    {
+      "title": "Temple Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/ojbhfgod/2-11.%20Temple%20Theme.mp3"
+    },
+    {
+      "title": "Title (Metroid)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/yjyrlftf/2-12.%20Title%20%28Metroid%29.mp3"
+    },
+    {
+      "title": "Ending (Yoshi’s Story)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/rtvtkrdq/2-13.%20Ending%20%28Yoshi%E2%80%99s%20Story%29.mp3"
+    },
+    {
+      "title": "The Great Cave Offensive",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/vhxqkfws/2-14.%20The%20Great%20Cave%20Offensive.mp3"
+    },
+    {
+      "title": "The Legendary Air Ride Machine",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/xllvwwuf/2-15.%20The%20Legendary%20Air%20Ride%20Machine.mp3"
+    },
+    {
+      "title": "Theme from Area 6 - Missile Slipstream",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/uihlkpwm/2-16.%20Theme%20from%20Area%206%20-%20Missile%20Slipstream.mp3"
+    },
+    {
+      "title": "Battle! (Team Flare)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/wwqrlepn/2-17.%20Battle%21%20%28Team%20Flare%29.mp3"
+    },
+    {
+      "title": "Battle! (Champion) - Champion Cynthia",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/syrnogqi/2-18.%20Battle%21%20%28Champion%29%20-%20Champion%20Cynthia.mp3"
+    },
+    {
+      "title": "Route 10",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/vdfpivfm/2-19.%20Route%2010.mp3"
+    },
+    {
+      "title": "Fight 1 (Fire Emblem Gaiden)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/xycooaos/2-20.%20Fight%201%20%28Fire%20Emblem%20Gaiden%29.mp3"
+    },
+    {
+      "title": "Destroyed Skyworld",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/xhsuvsaz/2-21.%20Destroyed%20Skyworld.mp3"
+    },
+    {
+      "title": "Stage Select (Pikmin 2)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/xobrfamh/2-22.%20Stage%20Select%20%28Pikmin%202%29.mp3"
+    },
+    {
+      "title": "Xenoblade Chronicles Medley",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/zcomundc/2-23.%20Xenoblade%20Chronicles%20Medley.mp3"
+    },
+    {
+      "title": "Plaza - Title (Animal Crossing - City Folk)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/baypdyhr/2-24.%20Plaza%20-%20Title%20%28Animal%20Crossing%20-%20City%20Folk%29.mp3"
+    },
+    {
+      "title": "Tour",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/lfruzmnb/2-25.%20Tour.mp3"
+    },
+    {
+      "title": "Duck Hunt Medley",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/usgalbbb/2-26.%20Duck%20Hunt%20Medley.mp3"
+    },
+    {
+      "title": "Light Plane (vocal mix)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/bfxvkqyt/2-27.%20Light%20Plane%20%28vocal%20mix%29.mp3"
+    },
+    {
+      "title": "The Mysterous Murasame Castle Medley",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/asqywknh/2-28.%20The%20Mysterous%20Murasame%20Castle%20Medley.mp3"
+    },
+    {
+      "title": "Mii Plaza",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/yudhcqwj/2-29.%20Mii%20Plaza.mp3"
+    },
+    {
+      "title": "Mario Paint Medley",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/gctmejjs/2-30.%20Mario%20Paint%20Medley.mp3"
+    },
+    {
+      "title": "PAC-MAN’S PARK - BLOCK TOWN",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/katurbdp/2-31.%20PAC-MAN%E2%80%99S%20PARK%20-%20BLOCK%20TOWN.mp3"
+    },
+    {
+      "title": "PAC-MAN",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/pctlyjbg/2-32.%20PAC-MAN.mp3"
+    },
+    {
+      "title": "Master Hand",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/ycpqmkpt/2-33.%20Master%20Hand.mp3"
+    },
+    {
+      "title": "Credits (Smash Bros.) Ver. 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/ylmzovko/2-34.%20Credits%20%28Smash%20Bros.%29%20Ver.%202.mp3"
+    },
+    {
+      "title": "Menu 2 (Melee)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/pgnvpoya/2-35.%20Menu%202%20%28Melee%29.mp3"
+    },
+    {
+      "title": "Results Display Screen",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-for-3ds/hkcikypd/2-36.%20Results%20Display%20Screen.mp3"
+    }
+  ]
+}
