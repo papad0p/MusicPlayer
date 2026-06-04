@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "game_title": "Mario & Luigi: Superstar Saga",
+    "art": "https://mario.wiki.gallery/images/d/de/Mario_%26_Luigi_Superstar_Saga_Box_NA.png",
+    "desc": "November 17, 2003"
+  },
+  "songs": [
+    {
+      "title": "Preparing for the Journey",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/htylhecv/1-01%20Preparing%20for%20the%20Journey.mp3"
+    },
+    {
+      "title": "Journal Log",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/wwtftcfu/1-02%20Journal%20Log.mp3"
+    },
+    {
+      "title": "Mushroom Kingdom Hall",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/gzcpqjax/1-03%20Mushroom%20Kingdom%20Hall.mp3"
+    },
+    {
+      "title": "Alert!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/klwcyjzv/1-04%20Alert%21.mp3"
+    },
+    {
+      "title": "World Map",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/cdjjvzjy/1-05%20World%20Map.mp3"
+    },
+    {
+      "title": "Misfortune",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/rldmygkh/1-06%20Misfortune.mp3"
+    },
+    {
+      "title": "Toad Town Square (Peach's Castle)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/hpzggocr/1-07.%20Toad%20Town%20Square%20%28Peach%27s%20Castle%29.mp3"
+    },
+    {
+      "title": "Suspense",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/dprpzzcn/1-08%20Suspense.mp3"
+    },
+    {
+      "title": "Koopa Tutorial",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/izacmcbx/1-09%20Koopa%20Tutorial.mp3"
+    },
+    {
+      "title": "Come On!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/llxfjeth/1-10%20Come%20On%21.mp3"
+    },
+    {
+      "title": "Bros. Victory",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/ezlgwqpb/1-11%20Bros.%20Victory.mp3"
+    },
+    {
+      "title": "Stardust Fields",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/lbynvndd/1-12%20Stardust%20Fields.mp3"
+    },
+    {
+      "title": "Special Item",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/igfhwklz/1-13%20Special%20Item.mp3"
+    },
+    {
+      "title": "Come On, Again!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/ovmzkbch/1-14%20Come%20On%2C%20Again%21.mp3"
+    },
+    {
+      "title": "Underground Tunnel",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/cqwnalep/1-15%20Underground%20Tunnel.mp3"
+    },
+    {
+      "title": "Hoohoo Village",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/mnddhbmd/1-16%20Hoohoo%20Village.mp3"
+    },
+    {
+      "title": "The Name is Fawful!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/haeumzov/1-17%20The%20Name%20is%20Fawful%21.mp3"
+    },
+    {
+      "title": "Hoohoo Mountain",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/myhqgjbh/1-18%20Hoohoo%20Mountain.mp3"
+    },
+    {
+      "title": "Prince Peasley's Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/eburcjpw/1-19%20Prince%20Peasley%27s%20Theme.mp3"
+    },
+    {
+      "title": "Welcome to the Beanbean Kingdom!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/piubxhuz/1-20%20Welcome%20to%20the%20Beanbean%20Kingdom%21.mp3"
+    },
+    {
+      "title": "Beanbean Castle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/qduqsrew/1-21%20Beanbean%20Castle.mp3"
+    },
+    {
+      "title": "Cackletta's Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/ukpvhafz/1-22%20Cackletta%27s%20Theme.mp3"
+    },
+    {
+      "title": "Château de Chucklehuck",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/juuryqli/1-23%20Ch%C3%A2teau%20de%20Chucklehuck.mp3"
+    },
+    {
+      "title": "Popple the Shadow Thief",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/hljnmxzf/1-24%20Popple%20the%20Shadow%20Thief.mp3"
+    },
+    {
+      "title": "Chucklehuck Woods",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/brhiwjeu/1-25%20Chucklehuck%20Woods.mp3"
+    },
+    {
+      "title": "Woohoo Hooniversity",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/josuxbno/1-26%20Woohoo%20Hooniversity.mp3"
+    },
+    {
+      "title": "Fawful and Cackletta",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/fkkwzjwe/1-27%20Fawful%20and%20Cackletta.mp3"
+    },
+    {
+      "title": "Oho Oasis",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/ibjqcomt/2-01%20Oho%20Oasis.mp3"
+    },
+    {
+      "title": "Seabed",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/ijxkgaky/2-02%20Seabed.mp3"
+    },
+    {
+      "title": "Power Failure",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/ljnofkim/2-03%20Power%20Failure.mp3"
+    },
+    {
+      "title": "Professor E. Gadd",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/igfhxrov/2-04%20Professor%20E.%20Gadd.mp3"
+    },
+    {
+      "title": "Bean Time!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/mygmrxlo/2-05%20Bean%20Time%21.mp3"
+    },
+    {
+      "title": "Teehee Valley",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/klxglnfq/2-06%20Teehee%20Valley.mp3"
+    },
+    {
+      "title": "Little Fungitown",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/kcjlceog/2-07%20Little%20Fungitown.mp3"
+    },
+    {
+      "title": "Super 'Stache Smash",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/pgnterve/2-08%20Super%20%27Stache%20Smash.mp3"
+    },
+    {
+      "title": "Mini-Games",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/kmgrsoqm/2-09%20Mini-Games.mp3"
+    },
+    {
+      "title": "Joke's End",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/okfxvndz/2-10%20Joke%27s%20End.mp3"
+    },
+    {
+      "title": "Bowletta's Castle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/qdwvqtsh/2-11%20Bowletta%27s%20Castle.mp3"
+    },
+    {
+      "title": "Decisive Battle Stage",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/kchfcykf/2-12%20Decisive%20Battle%20Stage.mp3"
+    },
+    {
+      "title": "The Last Cackletta",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/wsypfefo/2-13%20The%20Last%20Cackletta.mp3"
+    },
+    {
+      "title": "Departure",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/edelrcma/2-14%20Departure.mp3"
+    },
+    {
+      "title": "End of the Journey",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/rhlkrcom/2-15%20End%20of%20the%20Journey.mp3"
+    },
+    {
+      "title": "Journal Log (Early Ver.)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/rysutjpw/2-16%20Journal%20Log%20%28Early%20Ver.%29.mp3"
+    },
+    {
+      "title": "Come On! (Early Ver.)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/nygixqkd/2-17%20Come%20On%21%20%28Early%20Ver.%29.mp3"
+    },
+    {
+      "title": "Hoohoo Village (Early Ver.)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/lurbdngr/2-18%20Hoohoo%20Village%20%28Early%20Ver.%29.mp3"
+    },
+    {
+      "title": "Woohoo Hooniversity (Early Ver.)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/owpjzxms/2-19%20Woohoo%20Hooniversity%20%28Early%20Ver.%29.mp3"
+    },
+    {
+      "title": "Teehee Valley (Early Ver.)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/chgixlqv/2-20%20Teehee%20Valley%20%28Early%20Ver.%29.mp3"
+    },
+    {
+      "title": "Koopa Tutorial (Unused Ver.)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/grrjsnkm/2-21%20Koopa%20Tutorial%20%28Unused%20Ver.%29.mp3"
+    },
+    {
+      "title": "Tomato Adventure Title 1 (Unused)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/gtbbaach/2-22%20Tomato%20Adventure%20Title%201%20%28Unused%29.mp3"
+    },
+    {
+      "title": "Tomato Adventure Title 2 (Unused)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-superstar-saga-original-soundtrack/gjbdpnxv/2-23%20Tomato%20Adventure%20Title%202%20%28Unused%29.mp3"
+    }
+  ]
+}
