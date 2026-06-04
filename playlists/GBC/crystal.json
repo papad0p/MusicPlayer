@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "game_title": "Pokémon: Crystal",
+    "art": "https://upload.wikimedia.org/wikipedia/en/8/84/Pok%C3%A9mon_Crystal_box_art.png",
+    "desc": "December 14, 2000"
+  },
+  "songs": [
+    {
+      "title": "Opening Movie (Crystal - Part 1)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/iwjgfeid/04.%20Opening%20Movie%20%28Crystal%20-%20Part%201%29.mp3"
+    },
+    {
+      "title": "Opening Movie (Crystal - Part 2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/ryrovmyh/05.%20Opening%20Movie%20%28Crystal%20-%20Part%202%29.mp3"
+    },
+    {
+      "title": "Title Screen (Crystal)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/qhlkrfzi/06.%20Title%20Screen%20%28Crystal%29.mp3"
+    },
+    {
+      "title": "Pokémon Mobile System GB",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/gyyxqnqr/08.%20Pok%C3%A9mon%20Mobile%20System%20GB.mp3"
+    },
+    {
+      "title": "Mobile Connection",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/jxmokkus/09.%20Mobile%20Connection.mp3"
+    },
+    {
+      "title": "Pokémon Communication Center",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/cikxjclv/59.%20Pok%C3%A9mon%20Communication%20Center.mp3"
+    },
+    {
+      "title": "Pokégear Radio (Buena's Password)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/zovlrdrz/68.%20Pok%C3%A9gear%20Radio%20%28Buena%27s%20Password%29.mp3"
+    },
+    {
+      "title": "Eusine",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/aayrpxud/83.%20Eusine.mp3"
+    },
+    {
+      "title": "Battle! (Legendary Beasts)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/jbfvplkt/85.%20Battle%21%20%28Legendary%20Beasts%29.mp3"
+    },
+    {
+      "title": "Battle Tower (Reception Desk)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/hsrgfiaa/88.%20Battle%20Tower%20%28Reception%20Desk%29.mp3"
+    },
+    {
+      "title": "Battle Tower",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/cmbvapwp/89.%20Battle%20Tower.mp3"
+    }
+  ]
+}

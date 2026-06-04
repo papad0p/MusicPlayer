@@ -1,0 +1,461 @@
+{
+  "meta": {
+    "game_title": "Pokémon: Gold & Silver",
+    "art": "https://upload.wikimedia.org/wikipedia/en/4/4c/Pok%C3%A9mon_box_art_-_Gold_Version.png",
+    "desc": "November 21, 1999"
+  },
+  "songs": [
+    {
+      "title": "Opening Movie (Part 1)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/bzttmeko/01.%20Opening%20Movie%20%28Gold%20%26%20Silver%20-%20Part%201%29.mp3"
+    },
+    {
+      "title": "Opening Movie (Part 2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/pfixqjbc/02.%20Opening%20Movie%20%28Gold%20%26%20Silver%20-%20Part%202%29.mp3"
+    },
+    {
+      "title": "Title Screen",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/ksgedceo/03.%20Title%20Screen%20%28Gold%20%26%20Silver%29.mp3"
+    },
+    {
+      "title": "An Adventure Begins!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/sptawgql/07.%20An%20Adventure%20Begins%21.mp3"
+    },
+    {
+      "title": "New Bark Town",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/esbckqae/10.%20New%20Bark%20Town.mp3"
+    },
+    {
+      "title": "Hurry Along 1",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/kmenbsin/11.%20Hurry%20Along%201.mp3"
+    },
+    {
+      "title": "Obtained an Item!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/vygllwzj/12.%20Obtained%20an%20Item%21.mp3"
+    },
+    {
+      "title": "Pokémon Lab",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/cgyywmxz/13.%20Pok%C3%A9mon%20Lab.mp3"
+    },
+    {
+      "title": "Acquired a Pokémon!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/fbskvyfh/14.%20Acquired%20a%20Pok%C3%A9mon%21.mp3"
+    },
+    {
+      "title": "Registered in the Pokégear!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/sskwfmrx/15.%20Registered%20in%20the%20Pok%C3%A9gear%21.mp3"
+    },
+    {
+      "title": "Route 29",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/qituulwz/16.%20Route%2029.mp3"
+    },
+    {
+      "title": "Battle! (Wild Pokémon - Johto - Day)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/hpcrcjpy/17.%20Battle%21%20%28Wild%20Pok%C3%A9mon%20-%20Johto%20-%20Day%29.mp3"
+    },
+    {
+      "title": "Battle! (Wild Pokémon - Johto - Night)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/xqljldjl/18.%20Battle%21%20%28Wild%20Pok%C3%A9mon%20-%20Johto%20-%20Night%29.mp3"
+    },
+    {
+      "title": "Victory! (Wild Pokémon)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/cemznoei/19.%20Victory%21%20%28Wild%20Pok%C3%A9mon%29.mp3"
+    },
+    {
+      "title": "Level Up!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/afzezitu/20.%20Level%20Up%21.mp3"
+    },
+    {
+      "title": "Cherrygrove City",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/ryrrfcxf/21.%20Cherrygrove%20City.mp3"
+    },
+    {
+      "title": "Hurry Along 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/jfzfefod/22.%20Hurry%20Along%202.mp3"
+    },
+    {
+      "title": "Pokémon Center",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/bwdavzkd/23.%20Pok%C3%A9mon%20Center.mp3"
+    },
+    {
+      "title": "Pokémon Healed",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/jnncuumd/24.%20Pok%C3%A9mon%20Healed.mp3"
+    },
+    {
+      "title": "Route 30",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/frsnmwvo/25.%20Route%2030.mp3"
+    },
+    {
+      "title": "Obtained a Pokémon!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/godyjyrn/26.%20Obtained%20a%20Pok%C3%A9mon%21.mp3"
+    },
+    {
+      "title": "Professor Oak",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/oeekmgud/27.%20Professor%20Oak.mp3"
+    },
+    {
+      "title": "Rival Appears! 1",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/hahiuzpy/28.%20Rival%20Appears%21%201.mp3"
+    },
+    {
+      "title": "Battle! (Rival)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/yyyucdkr/29.%20Battle%21%20%28Rival%29.mp3"
+    },
+    {
+      "title": "Victory! (Trainer Battle)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/dolojhgk/30.%20Victory%21%20%28Trainer%20Battle%29.mp3"
+    },
+    {
+      "title": "Rival Appears! 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/gbmfqpcp/31.%20Rival%20Appears%21%202.mp3"
+    },
+    {
+      "title": "Printer Menu",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/tauwakyp/32.%20Printer%20Menu.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... No Good!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/csfzirip/33.%20Pok%C3%A9dex%20Evaluation...%20No%20Good%21.mp3"
+    },
+    {
+      "title": "A Trainer Appears (Boy 1)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/crclxfjf/34.%20A%20Trainer%20Appears%20%28Boy%201%29.mp3"
+    },
+    {
+      "title": "Battle! (Trainer Battle - Johto)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/xvmyfflo/35.%20Battle%21%20%28Trainer%20Battle%20-%20Johto%29.mp3"
+    },
+    {
+      "title": "Violet City",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/mqwkimjl/36.%20Violet%20City.mp3"
+    },
+    {
+      "title": "Sprout Tower",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/awhvfoda/37.%20Sprout%20Tower.mp3"
+    },
+    {
+      "title": "A Trainer Appears (Sage)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/uvraabfx/38.%20A%20Trainer%20Appears%20%28Sage%29.mp3"
+    },
+    {
+      "title": "Evolution",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/yzcpphqg/39.%20Evolution.mp3"
+    },
+    {
+      "title": "Received an HM!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/iytyjzwl/40.%20Received%20an%20HM%21.mp3"
+    },
+    {
+      "title": "Pokémon Gym",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/mfoeeiew/41.%20Pok%C3%A9mon%20Gym.mp3"
+    },
+    {
+      "title": "Battle! (Gym Leader - Johto)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/uiipajtr/42.%20Battle%21%20%28Gym%20Leader%20-%20Johto%29.mp3"
+    },
+    {
+      "title": "Victory! (Gym Leader)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/ckvwwuhc/43.%20Victory%21%20%28Gym%20Leader%29.mp3"
+    },
+    {
+      "title": "Obtained a Badge!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/prqbmdhz/44.%20Obtained%20a%20Badge%21.mp3"
+    },
+    {
+      "title": "Obtained a Pokémon Egg!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/bhittprn/45.%20Obtained%20a%20Pok%C3%A9mon%20Egg%21.mp3"
+    },
+    {
+      "title": "Route 34",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/ofnvqsqb/46.%20Route%2034.mp3"
+    },
+    {
+      "title": "Ruins of Alph (Grounds)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/jsnicmca/47.%20Ruins%20of%20Alph%20%28Grounds%29.mp3"
+    },
+    {
+      "title": "Ruins of Alph",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/vegudkor/48.%20Ruins%20of%20Alph.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... You're on Your Way!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/pxwmydyj/49.%20Pok%C3%A9dex%20Evaluation...%20You%27re%20on%20Your%20Way%21.mp3"
+    },
+    {
+      "title": "A Trainer Appears (Girl 1)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/whuceoeh/50.%20A%20Trainer%20Appears%20%28Girl%201%29.mp3"
+    },
+    {
+      "title": "A Trainer Appears (Suspicious Figure 1)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/zyvidtjo/51.%20A%20Trainer%20Appears%20%28Suspicious%20Figure%201%29.mp3"
+    },
+    {
+      "title": "A Trainer Appears (Suspicious Figure 2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/sxjeujnl/52.%20A%20Trainer%20Appears%20%28Suspicious%20Figure%202%29.mp3"
+    },
+    {
+      "title": "Azalea Town",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/rzwmuojd/53.%20Azalea%20Town.mp3"
+    },
+    {
+      "title": "Slowpoke Well",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/quzqdwvq/54.%20Slowpoke%20Well.mp3"
+    },
+    {
+      "title": "A Trainer Appears (Team Rocket)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/qghubzrl/55.%20A%20Trainer%20Appears%20%28Team%20Rocket%29.mp3"
+    },
+    {
+      "title": "Battle! (Team Rocket)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/enapvmww/56.%20Battle%21%20%28Team%20Rocket%29.mp3"
+    },
+    {
+      "title": "A Trainer Appears (Boy 2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/vlsevqpb/57.%20A%20Trainer%20Appears%20%28Boy%202%29.mp3"
+    },
+    {
+      "title": "Goldenrod City",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/pudihkft/58.%20Goldenrod%20City.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... Keep at It!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/wthduqrp/60.%20Pok%C3%A9dex%20Evaluation...%20Keep%20at%20It%21.mp3"
+    },
+    {
+      "title": "Goldenrod Game Corner",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/wpkgyagg/61.%20Goldenrod%20Game%20Corner.mp3"
+    },
+    {
+      "title": "Leave Slot Machine",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/lmbwehvi/62.%20Leave%20Slot%20Machine.mp3"
+    },
+    {
+      "title": "Card Flip",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/cpqiwfoc/63.%20Card%20Flip.mp3"
+    },
+    {
+      "title": "Pokégear Radio (Professor Oak's Pokémon Talk)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/usgblenc/64.%20Pok%C3%A9gear%20Radio%20%28Professor%20Oak%27s%20Pok%C3%A9mon%20Talk%29.mp3"
+    },
+    {
+      "title": "Pokégear Radio (Pokémon Channel)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/xgpcvthg/65.%20Pok%C3%A9gear%20Radio%20%28Pok%C3%A9mon%20Channel%29.mp3"
+    },
+    {
+      "title": "Pokégear Radio (Pokémon March)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/htwbrgdz/66.%20Pok%C3%A9gear%20Radio%20%28Pok%C3%A9mon%20March%29.mp3"
+    },
+    {
+      "title": "Pokégear Radio (Pokémon Lullaby)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/lgwsxjcm/67.%20Pok%C3%A9gear%20Radio%20%28Pok%C3%A9mon%20Lullaby%29.mp3"
+    },
+    {
+      "title": "Bicycle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/xnwsbfuk/69.%20Bicycle.mp3"
+    },
+    {
+      "title": "Pokégear Radio (Unown)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/pueoefmv/70.%20Pok%C3%A9gear%20Radio%20%28Unown%29.mp3"
+    },
+    {
+      "title": "A Trainer Appears (Girl 2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/scihouko/71.%20A%20Trainer%20Appears%20%28Girl%202%29.mp3"
+    },
+    {
+      "title": "National Park",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/rslenbtn/72.%20National%20Park.mp3"
+    },
+    {
+      "title": "The Bug-Catching Contest Begins!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/jhkcgbmg/73.%20The%20Bug-Catching%20Contest%20Begins%21.mp3"
+    },
+    {
+      "title": "The Bug-Catching Contest",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/tcdlsinq/74.%20The%20Bug-Catching%20Contest.mp3"
+    },
+    {
+      "title": "Bug-Catching Contest (Third Place)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/nrxllznr/75.%20Bug-Catching%20Contest%20%28Third%20Place%29.mp3"
+    },
+    {
+      "title": "Bug-Catching Contest (Second Place)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/tshhoyag/76.%20Bug-Catching%20Contest%20%28Second%20Place%29.mp3"
+    },
+    {
+      "title": "Bug-Catching Contest (First Place)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/dbvxamgu/77.%20Bug-Catching%20Contest%20%28First%20Place%29.mp3"
+    },
+    {
+      "title": "Ecruteak City",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/eofloozf/78.%20Ecruteak%20City.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... Not Bad!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/fibgamhb/79.%20Pok%C3%A9dex%20Evaluation...%20Not%20Bad%21.mp3"
+    },
+    {
+      "title": "Ecruteak Dance Theatre",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/jtnlppit/80.%20Ecruteak%20Dance%20Theatre.mp3"
+    },
+    {
+      "title": "A Trainer Appears (Kimono Girl)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/tpsvzjyq/81.%20A%20Trainer%20Appears%20%28Kimono%20Girl%29.mp3"
+    },
+    {
+      "title": "Burned Tower",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/jvbuwwsa/82.%20Burned%20Tower.mp3"
+    },
+    {
+      "title": "Route 38",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/kpsvzlih/84.%20Route%2038.mp3"
+    },
+    {
+      "title": "Olivine Lighthouse",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/nkjqahhr/86.%20Olivine%20Lighthouse.mp3"
+    },
+    {
+      "title": "Surf",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/mknlqvfp/87.%20Surf.mp3"
+    },
+    {
+      "title": "Route 42",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/jdlwzirj/90.%20Route%2042.mp3"
+    },
+    {
+      "title": "Radio Transmission",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/uwamknjg/91.%20Radio%20Transmission.mp3"
+    },
+    {
+      "title": "Team Rocket HQ",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/fhubzrmh/92.%20Team%20Rocket%20HQ.mp3"
+    },
+    {
+      "title": "Radio Tower Occupied!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/bjsjtqxq/93.%20Radio%20Tower%20Occupied%21.mp3"
+    },
+    {
+      "title": "Move Deleted",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/nqpctmbw/94.%20Move%20Deleted.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... I'm Impressed!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/casmjjri/95.%20Pok%C3%A9dex%20Evaluation...%20I%27m%20Impressed%21.mp3"
+    },
+    {
+      "title": "Dragon's Den",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/ovndzqex/96.%20Dragon%27s%20Den.mp3"
+    },
+    {
+      "title": "Clair",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/zeaorsnm/97.%20Clair.mp3"
+    },
+    {
+      "title": "Route 26",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/upqhpbnl/98.%20Route%2026.mp3"
+    },
+    {
+      "title": "Victory Road",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/quejinqp/99.%20Victory%20Road.mp3"
+    },
+    {
+      "title": "Pokémon League",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/wuhcpubx/100.%20Pok%C3%A9mon%20League.mp3"
+    },
+    {
+      "title": "Battle! (Champion)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/izysskyl/101.%20Battle%21%20%28Champion%29.mp3"
+    },
+    {
+      "title": "Hall of Fame",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/mznqqhll/102.%20Hall%20of%20Fame.mp3"
+    },
+    {
+      "title": "S.S. Aqua",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/vxybjtoq/103.%20S.S.%20Aqua.mp3"
+    },
+    {
+      "title": "Vermillion City",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/otdkoqov/104.%20Vermillion%20City.mp3"
+    },
+    {
+      "title": "Battle! (Trainer Battle - Kanto)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/mzkcgxxs/105.%20Battle%21%20%28Trainer%20Battle%20-%20Kanto%29.mp3"
+    },
+    {
+      "title": "Battle! (Gym Leader - Kanto)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/uxdygmrx/106.%20Battle%21%20%28Gym%20Leader%20-%20Kanto%29.mp3"
+    },
+    {
+      "title": "Route 6",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/nwvmxbqx/107.%20Route%206.mp3"
+    },
+    {
+      "title": "Battle! (Wild Pokémon - Kanto)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/swcylluo/108.%20Battle%21%20%28Wild%20Pok%C3%A9mon%20-%20Kanto%29.mp3"
+    },
+    {
+      "title": "Saffron City",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/oanltjpv/109.%20Saffron%20City.mp3"
+    },
+    {
+      "title": "Lavender Town",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/plkrdtga/110.%20Lavender%20Town.mp3"
+    },
+    {
+      "title": "Rock Tunnel",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/ioxtdkpt/111.%20Rock%20Tunnel.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... Just a Little More!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/atretjnl/112.%20Pok%C3%A9dex%20Evaluation...%20Just%20a%20Little%20More%21.mp3"
+    },
+    {
+      "title": "Celadon City",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/qwkkwcxg/113.%20Celadon%20City.mp3"
+    },
+    {
+      "title": "Route 15",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/mpqlfvmw/114.%20Route%2015.mp3"
+    },
+    {
+      "title": "Pokégear Radio (Poké Flute)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/wujkymok/115.%20Pok%C3%A9gear%20Radio%20%28Pok%C3%A9%20Flute%29.mp3"
+    },
+    {
+      "title": "Viridian Forest",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/imhdserw/116.%20Viridian%20Forest.mp3"
+    },
+    {
+      "title": "Mt. Moon Square",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/jfycrckr/117.%20Mt.%20Moon%20Square.mp3"
+    },
+    {
+      "title": "Route 1",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/ggmppgll/118.%20Route%201.mp3"
+    },
+    {
+      "title": "Pallet Town",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/vumarirj/119.%20Pallet%20Town.mp3"
+    },
+    {
+      "title": "Magnet Train",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/yobmgtdj/120.%20Magnet%20Train.mp3"
+    },
+    {
+      "title": "Tin Tower",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/kyowqpak/121.%20Tin%20Tower.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... Complete!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/auwyfehv/122.%20Pok%C3%A9dex%20Evaluation...%20Complete%21.mp3"
+    },
+    {
+      "title": "Ending Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/idtiismj/123.%20Ending%20Theme.mp3"
+    },
+    {
+      "title": "THE END",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-gold-silver-crystal/kwcxehuc/124.%20THE%20END.mp3"
+    }
+  ]
+}
