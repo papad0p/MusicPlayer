@@ -70,6 +70,29 @@ li:hover {
 
 }
 
+.leaving-soon {
+    background-color: #00bceb55;
+    border: 1px solid #00bceb;
+    transition: 0s;
+    position: relative;
+
+}
+.leaving-soon:hover {
+ 
+    border: 1px solid #eee;
+}
+.leaving-soon::after {
+  content: "LEAVING SOON";
+  font-family: inter;
+  font-size: 0.75em;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 1%;
+  color: white;
+
+}
+
 
 footer {
     text-align: center;
