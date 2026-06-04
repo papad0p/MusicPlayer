@@ -242,6 +242,12 @@ body {
         --btn-font-size: 1.4em;
     }
 
+    #back-btn {
+    font-size: 1.8em;
+    max-width: 1.6em;
+    height: 1.6em;
+}
+
     #playlist-info {
         margin-bottom: 4em;
         text-align: center;
