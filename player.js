@@ -111,7 +111,7 @@ function toggleLoop() {
     // Set color based on mode
     let bgColor = "";
     if (loopMode === 1) {
-        bgColor = "#4da8da"; // Blue for autoplay next
+        bgColor = "#00bceb"; // Blue for autoplay next
     } else if (loopMode === 2) {
         bgColor = "#af69ee"; // Purple for loop current
     }
