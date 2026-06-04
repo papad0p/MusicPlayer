@@ -253,8 +253,8 @@ body {
         text-align: center;
     }
     #playlist-info img {
-        width: 100%;
-        max-width: 25em;
+        display: grid;
+        max-width: 100%;
     }
     
     .music-controls {
