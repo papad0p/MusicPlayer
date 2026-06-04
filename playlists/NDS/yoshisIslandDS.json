@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "game_title": "Yoshi's Island DS",
+    "art": "https://upload.wikimedia.org/wikipedia/en/2/28/Yoshi%27sIslandDScover.PNG",
+    "desc": "November 13, 2006"
+  },
+  "songs": [
+    {
+      "title": "Prologue",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/exbnlrzv/01.%20Prologue.mp3"
+    },
+    {
+      "title": "Yoshi's Island",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/ibjrhjzw/02.%20Yoshi%27s%20Island.mp3"
+    },
+    {
+      "title": "Opening Part 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/jfalfsva/03.%20Opening%20Part%201.mp3"
+    },
+    {
+      "title": "Opening Part 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/riqfbrdr/04.%20Opening%20Part%202.mp3"
+    },
+    {
+      "title": "Map (Phase 1)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/acjnodas/05.%20Map%20%28Phase%201%29.mp3"
+    },
+    {
+      "title": "Map (Phase 2)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/nnyebtqw/06.%20Map%20%28Phase%202%29.mp3"
+    },
+    {
+      "title": "Map (Phase 3)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/nxakwefq/07.%20Map%20%28Phase%203%29.mp3"
+    },
+    {
+      "title": "Map (Phase 4)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/nrvcauyi/08.%20Map%20%28Phase%204%29.mp3"
+    },
+    {
+      "title": "Map (Phase 5)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/srgdyhqj/09.%20Map%20%28Phase%205%29.mp3"
+    },
+    {
+      "title": "Map (Phase 6)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/wejfybop/10.%20Map%20%28Phase%206%29.mp3"
+    },
+    {
+      "title": "Level Start",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/jzvccers/11.%20Level%20Start.mp3"
+    },
+    {
+      "title": "Training Course",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/nmunhvic/12.%20Training%20Course.mp3"
+    },
+    {
+      "title": "Flower Garden",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/lzqcsgct/13.%20Flower%20Garden.mp3"
+    },
+    {
+      "title": "Flower Field",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/niafzhll/14.%20Flower%20Field.mp3"
+    },
+    {
+      "title": "Underground",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/upsrezjy/15.%20Underground.mp3"
+    },
+    {
+      "title": "Wildlands",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/mqsreyfe/16.%20Wildlands.mp3"
+    },
+    {
+      "title": "Jungle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/ibgctlbv/17.%20Jungle.mp3"
+    },
+    {
+      "title": "In the Clouds",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/bsmhbhjx/18.%20In%20the%20Clouds.mp3"
+    },
+    {
+      "title": "Sea Coast",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/lmdemxbq/19.%20Sea%20Coast.mp3"
+    },
+    {
+      "title": "Goal",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/adsbesab/20.%20Goal.mp3"
+    },
+    {
+      "title": "Goal Roulette",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/ckskwaor/21.%20Goal%20Roulette.mp3"
+    },
+    {
+      "title": "Score",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/smidvpnu/22.%20Score.mp3"
+    },
+    {
+      "title": "Bonus Challenge",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/krckwaou/23.%20Bonus%20Challenge.mp3"
+    },
+    {
+      "title": "Bonus Challenge Victory",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/dkqzysvz/24.%20Bonus%20Challenge%20Victory.mp3"
+    },
+    {
+      "title": "Fortress",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/mlsiliez/25.%20Fortress.mp3"
+    },
+    {
+      "title": "Boss Room",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/iuxcuqtz/26.%20Boss%20Room.mp3"
+    },
+    {
+      "title": "Kamek's Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/ntdjnmxa/27.%20Kamek%27s%20Theme.mp3"
+    },
+    {
+      "title": "Kamek's Magic",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/kzqghuzq/28.%20Kamek%27s%20Magic.mp3"
+    },
+    {
+      "title": "Mini-Boss",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/gjzvelpr/29.%20Mini-Boss.mp3"
+    },
+    {
+      "title": "Big-Boss",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/qdtjoswg/30.%20Big-Boss.mp3"
+    },
+    {
+      "title": "Boss Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/pitslzpb/31.%20Boss%20Clear.mp3"
+    },
+    {
+      "title": "Kamek's Scheme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/lbyntgyz/32.%20Kamek%27s%20Scheme.mp3"
+    },
+    {
+      "title": "Bowser",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/cmelqvfp/33.%20Bowser.mp3"
+    },
+    {
+      "title": "Bowser Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/kdmyjyqj/34.%20Bowser%20Clear.mp3"
+    },
+    {
+      "title": "Luigi is Rescued",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/wfpfgrpy/35.%20Luigi%20is%20Rescued.mp3"
+    },
+    {
+      "title": "Ending",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/afanocyj/36.%20Ending.mp3"
+    },
+    {
+      "title": "Yoshi Morph",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/yrnqoybn/37.%20Yoshi%20Morph.mp3"
+    },
+    {
+      "title": "Powerful Infant",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/hxsxiwln/38.%20Powerful%20Infant.mp3"
+    },
+    {
+      "title": "Player Down",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/gvgufszs/39.%20Player%20Down.mp3"
+    },
+    {
+      "title": "Unused Jingle 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/qclbwczp/40.%20Unused%20Jingle%201.mp3"
+    },
+    {
+      "title": "Unused Jingle 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/ajtrbfyd/41.%20Unused%20Jingle%202.mp3"
+    },
+    {
+      "title": "Unused Jingle 3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/yoshi-s-island-ds/uojdpnwv/42.%20Unused%20Jingle%203.mp3"
+    }
+  ]
+}
