@@ -1,0 +1,317 @@
+{
+  "meta": {
+    "game_title": "Super Mario 64 DS",
+    "art": "https://upload.wikimedia.org/wikipedia/en/1/12/Super_Mario_64_DS_Coverart.png",
+    "desc": "November 21, 2004"
+  },
+  "songs": [
+    {
+      "title": "Title Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/ocvvpnxy/1-01.%20Title%20Theme.mp3"
+    },
+    {
+      "title": "File Select",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/ywlsevpm/1-02.%20File%20Select.mp3"
+    },
+    {
+      "title": "Peach's Message",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/ojfxvnda/1-03.%20Peach%27s%20Message.mp3"
+    },
+    {
+      "title": "Opening",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/rismiexx/1-04.%20Opening.mp3"
+    },
+    {
+      "title": "Waking Up",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/yxrrirhl/1-05.%20Waking%20Up.mp3"
+    },
+    {
+      "title": "Bowser's Message",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/ijxixphq/1-06.%20Bowser%27s%20Message.mp3"
+    },
+    {
+      "title": "Lakitu's Message",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/jxjesaay/1-07.%20Lakitu%27s%20Message.mp3"
+    },
+    {
+      "title": "Rabbit's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/twbutlwa/1-08.%20Rabbit%27s%20Theme.mp3"
+    },
+    {
+      "title": "Key Acquired",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/nmyfgoct/1-09.%20Key%20Acquired.mp3"
+    },
+    {
+      "title": "Saving",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/onzhntci/1-10.%20Saving.mp3"
+    },
+    {
+      "title": "Inside The Castle Walls",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/iqduojgd/1-11.%20Inside%20The%20Castle%20Walls.mp3"
+    },
+    {
+      "title": "Toad's Message",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/xdwbqaeu/1-12.%20Toad%27s%20Message.mp3"
+    },
+    {
+      "title": "Challenge Selection",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/mcxjabet/1-13.%20Challenge%20Selection.mp3"
+    },
+    {
+      "title": "Bob-omb Battlefield (SM64 Main Theme)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/fuhbkwdd/1-14.%20Bob-omb%20Battlefield%20%28SM64%20Main%20Theme%29.mp3"
+    },
+    {
+      "title": "Exit Course",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/hzzackut/1-15.%20Exit%20Course.mp3"
+    },
+    {
+      "title": "Stage Boss",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/lvwujmhz/1-16.%20Stage%20Boss.mp3"
+    },
+    {
+      "title": "Power Star",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/cnhvidsf/1-17.%20Power%20Star.mp3"
+    },
+    {
+      "title": "Course Clear",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/vpnuheam/1-18.%20Course%20Clear.mp3"
+    },
+    {
+      "title": "Star Catch Fanfare",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/ltlzqdwv/1-19.%20Star%20Catch%20Fanfare.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/ncyjcjmj/1-20.%20Game%20Over.mp3"
+    },
+    {
+      "title": "Slider",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/kwflnguc/1-21.%20Slider.mp3"
+    },
+    {
+      "title": "Sunshine Isles",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/cgahjzwg/1-22.%20Sunshine%20Isles.mp3"
+    },
+    {
+      "title": "Silver Star Acquired [First]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/uenbrggm/1-23.%20Silver%20Star%20Acquired%20%5BFirst%5D.mp3"
+    },
+    {
+      "title": "Silver Star Acquired [Second]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/sdojeulv/1-24.%20Silver%20Star%20Acquired%20%5BSecond%5D.mp3"
+    },
+    {
+      "title": "Silver Star Acquired [Third]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/uktolpqj/1-25.%20Silver%20Star%20Acquired%20%5BThird%5D.mp3"
+    },
+    {
+      "title": "Silver Star Acquired [Forth]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/ypdwwvnb/1-26.%20Silver%20Star%20Acquired%20%5BForth%5D.mp3"
+    },
+    {
+      "title": "Silver Star Acquired [Fifth]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/urdniadp/1-27.%20Silver%20Star%20Acquired%20%5BFifth%5D.mp3"
+    },
+    {
+      "title": "Piranha Plant's Lullaby",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/oakbzvbw/1-28.%20Piranha%20Plant%27s%20Lullaby.mp3"
+    },
+    {
+      "title": "Boss Intro",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/fnvokjpx/1-29.%20Boss%20Intro.mp3"
+    },
+    {
+      "title": "Boss Defeated",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/rslenbtn/1-30.%20Boss%20Defeated.mp3"
+    },
+    {
+      "title": "Character Unlocked",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/hzbjqahj/1-31.%20Character%20Unlocked.mp3"
+    },
+    {
+      "title": "It's Mario!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/zvelqwmt/1-32.%20It%27s%20Mario%21.mp3"
+    },
+    {
+      "title": "Race Fanfare",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/jnogmrys/1-33.%20Race%20Fanfare.mp3"
+    },
+    {
+      "title": "Small Secret",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/sldhcqua/1-34.%20Small%20Secret.mp3"
+    },
+    {
+      "title": "Big Mushroom",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/tupqituu/1-35.%20Big%20Mushroom.mp3"
+    },
+    {
+      "title": "Wing Cap",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/lwyebrim/1-36.%20Wing%20Cap.mp3"
+    },
+    {
+      "title": "Correct Solution",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/nefpjzxm/1-37.%20Correct%20Solution.mp3"
+    },
+    {
+      "title": "Balloon Mario",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/ryuauwam/1-38.%20Balloon%20Mario.mp3"
+    },
+    {
+      "title": "Flame Yoshi",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/gxvhaeum/1-39.%20Flame%20Yoshi.mp3"
+    },
+    {
+      "title": "Flying Owl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/czrkymol/1-40.%20Flying%20Owl.mp3"
+    },
+    {
+      "title": "Snow Mountain",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/omtgycnj/1-41.%20Snow%20Mountain.mp3"
+    },
+    {
+      "title": "Dire, Dire Docks",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/imknlpqn/1-42.%20Dire%2C%20Dire%20Docks.mp3"
+    },
+    {
+      "title": "Dire, Dire Docks (Ground)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/ogphqhoz/1-43.%20Dire%2C%20Dire%20Docks%20%28Ground%29.mp3"
+    },
+    {
+      "title": "Dire, Dire Docks (Underwater)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/fcuulvxa/1-44.%20Dire%2C%20Dire%20Docks%20%28Underwater%29.mp3"
+    },
+    {
+      "title": "Dire, Dire Docks (Caves)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/jtrbhisq/1-45.%20Dire%2C%20Dire%20Docks%20%28Caves%29.mp3"
+    },
+    {
+      "title": "Bowser's Road",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/bjpwnzlg/1-46.%20Bowser%27s%20Road.mp3"
+    },
+    {
+      "title": "Bowser's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/wpizvgrs/1-47.%20Bowser%27s%20Theme.mp3"
+    },
+    {
+      "title": "Haunted Mansion",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/oofjetgz/1-48.%20Haunted%20Mansion.mp3"
+    },
+    {
+      "title": "Merry-Go-Round",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/gegrovlr/1-49.%20Merry-Go-Round.mp3"
+    },
+    {
+      "title": "Lethal Lava Land",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/aetgbona/1-50.%20Lethal%20Lava%20Land.mp3"
+    },
+    {
+      "title": "Cave Dungeon",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/nndaqffi/1-51.%20Cave%20Dungeon.mp3"
+    },
+    {
+      "title": "Cave Dungeon (Toxic Maze)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/ckuthhpc/1-52.%20Cave%20Dungeon%20%28Toxic%20Maze%29.mp3"
+    },
+    {
+      "title": "Metal Wario",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/rbikcihk/1-53.%20Metal%20Wario.mp3"
+    },
+    {
+      "title": "Looping Steps",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/gyywnzka/1-54.%20Looping%20Steps.mp3"
+    },
+    {
+      "title": "Ultimate Bowser",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/zssjsnji/1-55.%20Ultimate%20Bowser.mp3"
+    },
+    {
+      "title": "Ultimate Bowser Clear",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/mneiackt/1-56.%20Ultimate%20Bowser%20Clear.mp3"
+    },
+    {
+      "title": "Ending",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/mfrtrdon/1-57.%20Ending.mp3"
+    },
+    {
+      "title": "Staff Roll",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/vplmcbxk/1-58.%20Staff%20Roll.mp3"
+    },
+    {
+      "title": "Multiplayer Waiting Room",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/jmlsgcuo/2-01.%20Multiplayer%20Waiting%20Room.mp3"
+    },
+    {
+      "title": "Multiplayer Star Get",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/mrxpglne/2-02.%20Multiplayer%20Star%20Get.mp3"
+    },
+    {
+      "title": "Multiplayer Star Dropped",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/idquzrhn/2-03.%20Multiplayer%20Star%20Dropped.mp3"
+    },
+    {
+      "title": "Multiplayer Win",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/syozhnrw/2-04.%20Multiplayer%20Win.mp3"
+    },
+    {
+      "title": "Multiplayer Lose",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/hudftbbc/2-05.%20Multiplayer%20Lose.mp3"
+    },
+    {
+      "title": "Rec Room",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/joqpzcps/2-06.%20Rec%20Room.mp3"
+    },
+    {
+      "title": "Wanted!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/uuqsrfbr/2-07.%20Wanted%21.mp3"
+    },
+    {
+      "title": "Loves Me..._",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/fzirkzqg/2-08.%20Loves%20Me..._.mp3"
+    },
+    {
+      "title": "Bounce and Pounce",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/jbfxyxsx/2-09.%20Bounce%20and%20Pounce.mp3"
+    },
+    {
+      "title": "Sort or 'Splode",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/iyrowofl/2-10.%20Sort%20or%20%27Splode.mp3"
+    },
+    {
+      "title": "Trampoline Terror",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/mdfqpajt/2-11.%20Trampoline%20Terror.mp3"
+    },
+    {
+      "title": "Luigi's Casino",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/sgeaqahi/2-12.%20Luigi%27s%20Casino.mp3"
+    },
+    {
+      "title": "Luigi's Casino 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/tutjnmxa/2-13.%20Luigi%27s%20Casino%202.mp3"
+    },
+    {
+      "title": "Coincentration",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/leofidqs/2-14.%20Coincentration.mp3"
+    },
+    {
+      "title": "Slots Shot",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/tnlqtymp/2-15.%20Slots%20Shot.mp3"
+    },
+    {
+      "title": "Psyche Out!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/nulvtjpx/2-16.%20Psyche%20Out%21.mp3"
+    },
+    {
+      "title": "Minigame Clear",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/rqfdbxiz/2-17.%20Minigame%20Clear.mp3"
+    },
+    {
+      "title": "Minigame Lose",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/vgvhyvkm/2-18.%20Minigame%20Lose.mp3"
+    },
+    {
+      "title": "Minigame Lose Alternative",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-mario-64-ds-ds-wii-u-gamerip-2004/emyecwee/2-19.%20Minigame%20Lose%20Alternative.mp3"
+    }
+  ]
+}
