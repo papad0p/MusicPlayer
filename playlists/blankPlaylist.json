@@ -7,11 +7,11 @@
 
   
   "songs": [
-    { "title": "", "src": "" },
-    { "title": "", "src": "" },
-    { "title": "", "src": "" },
-    { "title": "", "src": "" },
-    { "title": "", "src": "" },
-    { "title": "", "src": "" }
+    { "title": "", "src": ""},
+    { "title": "", "src": ""},
+    { "title": "", "src": ""},
+    { "title": "", "src": ""},
+    { "title": "", "src": ""},
+    { "title": "", "src": ""}
   ]
 }
