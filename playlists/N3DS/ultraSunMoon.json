@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "game_title": "Pokémon: Ultra Sun and Pokémon Ultra Moon",
+    "art": "https://upload.wikimedia.org/wikipedia/en/f/f7/Pokemon_Ultra_Sun_and_Ultra_Moon_cover_art.jpg",
+    "desc": "November 17, 2017"
+  },
+  "songs": [
+    {
+      "title": "Banner Intro (Ultra Moon)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/nvngocur/01.%20Banner%20Intro%20%28Ultra%20Moon%29.mp3"
+    },
+    {
+      "title": "Banner Intro (Ultra Sun)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/aaadqrkd/02.%20Banner%20Intro%20%28Ultra%20Sun%29.mp3"
+    },
+    {
+      "title": "Alola Region Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/jlbbcjmg/03.%20Alola%20Region%20Theme.mp3"
+    },
+    {
+      "title": "Escape!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/vkoodasm/04.%20Escape%21.mp3"
+    },
+    {
+      "title": "Battle! (Wild Pokemon)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/idqvejhj/05.%20Battle%21%20%28Wild%20Pokemon%29.mp3"
+    },
+    {
+      "title": "Battle! (Trainer)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/zucztrev/06.%20Battle%21%20%28Trainer%29.mp3"
+    },
+    {
+      "title": "The Festival in Iki Town",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/pntgblzs/07.%20The%20Festival%20in%20Iki%20Town.mp3"
+    },
+    {
+      "title": "Ultra Recon Squad's Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/nnbtopef/08.%20Ultra%20Recon%20Squad%27s%20Theme.mp3"
+    },
+    {
+      "title": "Beach Spot",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/lpstrcmb/09.%20Beach%20Spot.mp3"
+    },
+    {
+      "title": "Mantine Surf (Cutscene)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/wcwaouhz/10.%20Mantine%20Surf%20%28Cutscene%29.mp3"
+    },
+    {
+      "title": "Mantine Surf",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/adprnndc/11.%20Mantine%20Surf.mp3"
+    },
+    {
+      "title": "Alola Photo Club",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/bzvdfqpz/12.%20Alola%20Photo%20Club.mp3"
+    },
+    {
+      "title": "Battle! (Ultra Recon Squad)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/comukuqt/13.%20Battle%21%20%28Ultra%20Recon%20Squad%29.mp3"
+    },
+    {
+      "title": "Battle Agency",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/ykeszuaq/14.%20Battle%20Agency.mp3"
+    },
+    {
+      "title": "Pikachu Valley",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/fbskwcxg/15.%20Pikachu%20Valley.mp3"
+    },
+    {
+      "title": "Lusamine Opens Ultra Wormhole",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/mpqjxnul/16.%20Lusamine%20Opens%20Ultra%20Wormhole.mp3"
+    },
+    {
+      "title": "Necrozma Appears!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/uqtymmxf/17.%20Necrozma%20Appears%21.mp3"
+    },
+    {
+      "title": "Necrozma vs Solgaleo  Lunala",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/jdngtzri/18.%20Necrozma%20vs%20Solgaleo%20%20Lunala.mp3"
+    },
+    {
+      "title": "Battle! (Dusk Mane - Dawn Wings Necrozma)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/spxpgoyc/19.%20Battle%21%20%28Dusk%20Mane%20-%20Dawn%20Wings%20Necrozma%29.mp3"
+    },
+    {
+      "title": "Stakataka Appears!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/rbhfgnxy/20.%20Stakataka%20Appears%21.mp3"
+    },
+    {
+      "title": "Ultra Beasts Appears!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/cpqkdmxd/21.%20Ultra%20Beasts%20Appears%21.mp3"
+    },
+    {
+      "title": "Lunala Cutscene",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/yhqgjesz/22.%20Lunala%20Cutscene.mp3"
+    },
+    {
+      "title": "Solgaleo Cutscene",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/twdbuwws/23.%20Solgaleo%20Cutscene.mp3"
+    },
+    {
+      "title": "Ultra Wormhole",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/axklykcj/24.%20Ultra%20Wormhole.mp3"
+    },
+    {
+      "title": "Unsettling Ambience",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/oqowqowr/25.%20Unsettling%20Ambience.mp3"
+    },
+    {
+      "title": "Ultra Megalopolis",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/vbxgnxws/26.%20Ultra%20Megalopolis.mp3"
+    },
+    {
+      "title": "Ultra Necrozma Appears!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/xjcimhcp/27.%20Ultra%20Necrozma%20Appears%21.mp3"
+    },
+    {
+      "title": "Battle! (Ultra Necrozma)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/tvzlepkh/28.%20Battle%21%20%28Ultra%20Necrozma%29.mp3"
+    },
+    {
+      "title": "Ultra Necrozma Defeated (Ultra Moon)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/hmqpebtp/29.%20Ultra%20Necrozma%20Defeated%20%28Ultra%20Moon%29.mp3"
+    },
+    {
+      "title": "Ultra Necrozma Defeated (Ultra Sun)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/ubzuzovl/30.%20Ultra%20Necrozma%20Defeated%20%28Ultra%20Sun%29.mp3"
+    },
+    {
+      "title": "Ultra Space Wilds",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/sfajttnh/31.%20Ultra%20Space%20Wilds.mp3"
+    },
+    {
+      "title": "Ultra Space Wilds {Reversed}",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/wknlooam/32.%20Ultra%20Space%20Wilds%20%7BReversed%7D.mp3"
+    },
+    {
+      "title": "Ultra Plant Theme (Xurkitree)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/jipxugwn/33.%20Ultra%20Plant%20Theme%20%28Xurkitree%29.mp3"
+    },
+    {
+      "title": "Ultra Crater Theme (Celesteela)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/anmziuzo/34.%20Ultra%20Crater%20Theme%20%28Celesteela%29.mp3"
+    },
+    {
+      "title": "Ultra Desert Theme (Pheromosa)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/vkqzytzo/35.%20Ultra%20Desert%20Theme%20%28Pheromosa%29.mp3"
+    },
+    {
+      "title": "Ultra Forest Theme (Kartana)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/wpnryped/36.%20Ultra%20Forest%20Theme%20%28Kartana%29.mp3"
+    },
+    {
+      "title": "Ultra Jungle Theme (Buzzwole)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/ejhlkopj/37.%20Ultra%20Jungle%20Theme%20%28Buzzwole%29.mp3"
+    },
+    {
+      "title": "Ultra Ruin Theme (Guzzlord)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/yqjyrlem/38.%20Ultra%20Ruin%20Theme%20%28Guzzlord%29.mp3"
+    },
+    {
+      "title": "Ultra Ruin Theme (Guzzlord) {Reversed}",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/arfctprq/39.%20Ultra%20Ruin%20Theme%20%28Guzzlord%29%20%7BReversed%7D.mp3"
+    },
+    {
+      "title": "Battle! (Champion)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/eydwakau/40.%20Battle%21%20%28Champion%29.mp3"
+    },
+    {
+      "title": "Victory! (Champion)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/yjzwjdrw/41.%20Victory%21%20%28Champion%29.mp3"
+    },
+    {
+      "title": "Kantonian Gym",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/kmbzpdup/42.%20Kantonian%20Gym.mp3"
+    },
+    {
+      "title": "Rainbow Rocket Hideout",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/ocurxphq/43.%20Rainbow%20Rocket%20Hideout.mp3"
+    },
+    {
+      "title": "Encounter! (Team Rainbow Rocket)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/itusdoln/44.%20Encounter%21%20%28Team%20Rainbow%20Rocket%29.mp3"
+    },
+    {
+      "title": "Battle! (Team Rainbow Rocket)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/ejggmsci/45.%20Battle%21%20%28Team%20Rainbow%20Rocket%29.mp3"
+    },
+    {
+      "title": "Battle! (Team Magma - Aqua Boss Maxie & Archie)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/kbzvehag/46.%20Battle%21%20%28Team%20Magma%20-%20Aqua%20Boss%20Maxie%20%26%20Archie%29.mp3"
+    },
+    {
+      "title": "Battle! (Team Galactic Boss Cyrus)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/ctnjfboo/47.%20Battle%21%20%28Team%20Galactic%20Boss%20Cyrus%29.mp3"
+    },
+    {
+      "title": "Battle! (Team Plasma Boss Ghetsis)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/fjfybmgv/48.%20Battle%21%20%28Team%20Plasma%20Boss%20Ghetsis%29.mp3"
+    },
+    {
+      "title": "Battle! (Team Flare Boss Lysandre)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/hcmfnzjy/49.%20Battle%21%20%28Team%20Flare%20Boss%20Lysandre%29.mp3"
+    },
+    {
+      "title": "Giovanni's Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/pbqywmul/50.%20Giovanni%27s%20Theme.mp3"
+    },
+    {
+      "title": "Battle! (Team Rocket Boss Giovanni)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/xdarhlig/51.%20Battle%21%20%28Team%20Rocket%20Boss%20Giovanni%29.mp3"
+    },
+    {
+      "title": "Ending",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-exclusive-tracks-selection/hqkdlsjp/52.%20Ending.mp3"
+    }
+  ]
+}
