@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "game_title": "Super Smash Bros.",
+    "art": "https://upload.wikimedia.org/wikipedia/en/4/42/Supersmashbox.jpg",
+    "desc": "January 21, 1999"
+  },
+  "songs": [
+    {
+      "title": "Opening",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/fsyqgkfv/01.%20Opening.mp3"
+    },
+    {
+      "title": "How to Play",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/myfgqkfs/02.%20How%20to%20Play.mp3"
+    },
+    {
+      "title": "Mode Select",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/dogrpyzc/03.%20Mode%20Select.mp3"
+    },
+    {
+      "title": "Character Select",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/njgctlzp/04.%20Character%20Select.mp3"
+    },
+    {
+      "title": "Character Data",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/zstmdjhk/05.%20Character%20Data.mp3"
+    },
+    {
+      "title": "Challenger Appears - 1P Game",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/zcomvqqh/06.%20Challenger%20Appears%20-%201P%20Game.mp3"
+    },
+    {
+      "title": "Peach's Castle [Super Mario Bros.]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/ouiinqrl/07.%20Peach%27s%20Castle%20%5BSuper%20Mario%20Bros.%5D.mp3"
+    },
+    {
+      "title": "Kongo Jungle [Donkey Kong Country]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/ydwumzkc/08.%20Kongo%20Jungle%20%5BDonkey%20Kong%20Country%5D.mp3"
+    },
+    {
+      "title": "Hyrule Castle [The Legend of Zelda]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/ntgzcqud/09.%20Hyrule%20Castle%20%5BThe%20Legend%20of%20Zelda%5D.mp3"
+    },
+    {
+      "title": "Planet Zebes [Metroid]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/cprriovk/10.%20Planet%20Zebes%20%5BMetroid%5D.mp3"
+    },
+    {
+      "title": "Yoshi's Island [Yoshi's Story]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/gwpjytyk/11.%20Yoshi%27s%20Island%20%5BYoshi%27s%20Story%5D.mp3"
+    },
+    {
+      "title": "Dream Land [Kirby Super Star]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/fvmxdzlh/12.%20Dream%20Land%20%5BKirby%20Super%20Star%5D.mp3"
+    },
+    {
+      "title": "Sector Z [Star Fox 64]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/esztwbsi/13.%20Sector%20Z%20%5BStar%20Fox%2064%5D.mp3"
+    },
+    {
+      "title": "Saffron City [Pokémon Red, Green & Blue]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/ftdkopgo/14.%20Saffron%20City%20%5BPok%C3%A9mon%20Red%2C%20Green%20%26%20Blue%5D.mp3"
+    },
+    {
+      "title": "Mushroom Kingdom (30 Seconds Left)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/njkutkur/16.%20Mushroom%20Kingdom%20%2830%20Seconds%20Left%29.mp3"
+    },
+    {
+      "title": "Stage Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/cjmltjpx/17.%20Stage%20Results.mp3"
+    },
+    {
+      "title": "Bonus Stage",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/umczsqyu/18.%20Bonus%20Stage.mp3"
+    },
+    {
+      "title": "Bonus - Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/dgyyvjkv/19.%20Bonus%20-%20Results.mp3"
+    },
+    {
+      "title": "Bonus - Fail",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/yirmighr/20.%20Bonus%20-%20Fail.mp3"
+    },
+    {
+      "title": "Meta Crystal",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/ufsymqtu/21.%20Meta%20Crystal.mp3"
+    },
+    {
+      "title": "Duel Zone",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/nmyfgpef/22.%20Duel%20Zone.mp3"
+    },
+    {
+      "title": "Challenger Appears - Master Hand",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/mrbgbood/23.%20Challenger%20Appears%20-%20Master%20Hand.mp3"
+    },
+    {
+      "title": "Master Hand",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/bxgnxwrv/24.%20Master%20Hand.mp3"
+    },
+    {
+      "title": "Final Destination",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/cbypbnny/25.%20Final%20Destination.mp3"
+    },
+    {
+      "title": "Final Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/fehwlrad/26.%20Final%20Results.mp3"
+    },
+    {
+      "title": "Ending",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/pnulwbqy/27.%20Ending.mp3"
+    },
+    {
+      "title": "Staff Roll",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/wlsgdvvs/28.%20Staff%20Roll.mp3"
+    },
+    {
+      "title": "Challenger Appears",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/ceqpezjy/29.%20Challenger%20Appears.mp3"
+    },
+    {
+      "title": "Unlock",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/yoyexajs/30.%20Unlock.mp3"
+    },
+    {
+      "title": "Training Mode",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/oqnszrot/31.%20Training%20Mode.mp3"
+    },
+    {
+      "title": "P Stage",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/qhmrvdek/32.%20P%20Stage.mp3"
+    },
+    {
+      "title": "Victory! [Super Mario Bros.]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/ptzoxuie/33.%20Victory%21%20%5BSuper%20Mario%20Bros.%5D.mp3"
+    },
+    {
+      "title": "Victory! [DK]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/lxehuena/34.%20Victory%21%20%5BDK%5D.mp3"
+    },
+    {
+      "title": "Victory! [Link]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/mkopjzty/35.%20Victory%21%20%5BLink%5D.mp3"
+    },
+    {
+      "title": "Victory! [Samus]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/jbdmaqbn/36.%20Victory%21%20%5BSamus%5D.mp3"
+    },
+    {
+      "title": "Victory! [Yoshi]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/yedauuok/37.%20Victory%21%20%5BYoshi%5D.mp3"
+    },
+    {
+      "title": "Victory! [Kirby]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/hzbgedcb/38.%20Victory%21%20%5BKirby%5D.mp3"
+    },
+    {
+      "title": "Victory! [Fox]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/awiaevpn/39.%20Victory%21%20%5BFox%5D.mp3"
+    },
+    {
+      "title": "Victory! [Pokémon]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/ulvtjnna/40.%20Victory%21%20%5BPok%C3%A9mon%5D.mp3"
+    },
+    {
+      "title": "Victory! [Ness]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/konyfegt/41.%20Victory%21%20%5BNess%5D.mp3"
+    },
+    {
+      "title": "Victory! [Captain Falcon]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/nndauxan/42.%20Victory%21%20%5BCaptain%20Falcon%5D.mp3"
+    },
+    {
+      "title": "vs. Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/xkfxyxty/43.%20vs.%20Results.mp3"
+    },
+    {
+      "title": "Continue",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/nsysqdtj/44.%20Continue.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/pxqlkpud/45.%20Game%20Over.mp3"
+    },
+    {
+      "title": "Star Power",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/gxtdhcoo/46.%20Star%20Power.mp3"
+    },
+    {
+      "title": "Fanfare (Unused)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-64/dyhqglmz/47.%20Fanfare%20%28Unused%29.mp3"
+    }
+  ]
+}
