@@ -1,0 +1,533 @@
+{
+  "meta": {
+    "game_title": "Super Paper Mario",
+    "art": "https://mario.wiki.gallery/images/thumb/2/2b/SuperPaperMarioBoxart.jpg/1200px-SuperPaperMarioBoxart.jpg",
+    "desc": "April 9, 2007"
+  },
+  "songs": [
+    {
+      "title": "Today's Story",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/yecavapx/01.%20Today%27s%20Story.mp3"
+    },
+    {
+      "title": "The Wedding Begins",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/ufqpbmen/02.%20The%20Wedding%20Begins.mp3"
+    },
+    {
+      "title": "Wedding Waltz",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/bskvaort/03.%20Wedding%20Waltz.mp3"
+    },
+    {
+      "title": "Birth of the Chaos Heart",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/upqiuxda/04.%20Birth%20of%20the%20Chaos%20Heart.mp3"
+    },
+    {
+      "title": "Count Bleck, Champion of Destruction",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/qbmgtcdm/05.%20Count%20Bleck%2C%20Champion%20of%20Destruction.mp3"
+    },
+    {
+      "title": "Super Paper Mario (Title Screen)",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/yhqffjev/06.%20Super%20Paper%20Mario%20%28Title%20Screen%29.mp3"
+    },
+    {
+      "title": "Mario Bros. House",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/ruasmgue/07.%20Mario%20Bros.%20House.mp3"
+    },
+    {
+      "title": "Evil King Bowser Here",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/myitwydv/08.%20Evil%20King%20Bowser%20Here.mp3"
+    },
+    {
+      "title": "The Evil Count Bleck",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/tgajtpvh/09.%20The%20Evil%20Count%20Bleck.mp3"
+    },
+    {
+      "title": "Flipside",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/zacmdgvk/10.%20Flipside.mp3"
+    },
+    {
+      "title": "Got a Pure Heart",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/ptxjclus/11.%20Got%20a%20Pure%20Heart.mp3"
+    },
+    {
+      "title": "Activating the Heart Pillar",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/dmdcepki/12.%20Activating%20the%20Heart%20Pillar.mp3"
+    },
+    {
+      "title": "And Then... And Then",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/iqhnrvfl/13.%20And%20Then...%20And%20Then.mp3"
+    },
+    {
+      "title": "Start of Chapter",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/proufsyn/14.%20Start%20of%20Chapter.mp3"
+    },
+    {
+      "title": "Lineland Introduction",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/wsawjevp/15.%20Lineland%20Introduction.mp3"
+    },
+    {
+      "title": "Lineland Road",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/nsbdlxfj/16.%20Lineland%20Road.mp3"
+    },
+    {
+      "title": "Underground Room",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/eszxnxai/17.%20Underground%20Room.mp3"
+    },
+    {
+      "title": "Got an Item",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/qdtlyive/18.%20Got%20an%20Item.mp3"
+    },
+    {
+      "title": "Got the Flip Ability",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/lrcikbax/19.%20Got%20the%20Flip%20Ability.mp3"
+    },
+    {
+      "title": "Level Up",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/nxxugywp/20.%20Level%20Up.mp3"
+    },
+    {
+      "title": "An Unrivaled Battle (8-Bit Mega Star Power) [\"Super Star\" from Super Mario Bros.]",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/ketdkqxs/21.%20An%20Unrivaled%20Battle%20%288-Bit%20Mega%20Star%20Power%29%20%5B%22Super%20Star%22%20from%20Super%20Mario%20Bros.%5D.mp3"
+    },
+    {
+      "title": "End of Chapter",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/xgoakbbb/22.%20End%20of%20Chapter.mp3"
+    },
+    {
+      "title": "Mount Lineland",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/fwruznsx/23.%20Mount%20Lineland.mp3"
+    },
+    {
+      "title": "Perfect Solution",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/kgamgvig/24.%20Perfect%20Solution.mp3"
+    },
+    {
+      "title": "Strange Company (A Pixl's Theme)",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/gloicksj/25.%20Strange%20Company%20%28A%20Pixl%27s%20Theme%29.mp3"
+    },
+    {
+      "title": "A New Pixl Joins You",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/rinqqghs/26.%20A%20New%20Pixl%20Joins%20You.mp3"
+    },
+    {
+      "title": "O'Chunks, Warrior",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/traetigh/27.%20O%27Chunks%2C%20Warrior.mp3"
+    },
+    {
+      "title": "Ready, Go! (O'Chunks Battle)",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/rpwqmneg/28.%20Ready%2C%20Go%21%20%28O%27Chunks%20Battle%29.mp3"
+    },
+    {
+      "title": "Yold Ruins",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/tccgxvig/29.%20Yold%20Ruins.mp3"
+    },
+    {
+      "title": "Got a Special Item",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/hspywlqv/30.%20Got%20a%20Special%20Item.mp3"
+    },
+    {
+      "title": "Fracktail Appears",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/fncwzkbb/31.%20Fracktail%20Appears.mp3"
+    },
+    {
+      "title": "One Shot",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/dojerxmt/32.%20One%20Shot.mp3"
+    },
+    {
+      "title": "Fracktail Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/fvoiyuzr/33.%20Fracktail%20Battle.mp3"
+    },
+    {
+      "title": "Soft Light",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/jxiwkmde/34.%20Soft%20Light.mp3"
+    },
+    {
+      "title": "Got a Pure Heart (Chapter Complete)",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/mwxxvnzj/35.%20Got%20a%20Pure%20Heart%20%28Chapter%20Complete%29.mp3"
+    },
+    {
+      "title": "Count Bleck's Plan",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/vcatqagb/36.%20Count%20Bleck%27s%20Plan.mp3"
+    },
+    {
+      "title": "In the Darkness",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/qzaclyix/37.%20In%20the%20Darkness.mp3"
+    },
+    {
+      "title": "Memory 1",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/oanknmsc/38.%20Memory%201.mp3"
+    },
+    {
+      "title": "Get Cooking!",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/jnnzisoq/39.%20Get%20Cooking%21.mp3"
+    },
+    {
+      "title": "A New Partner Joins You",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/moixnzgj/40.%20A%20New%20Partner%20Joins%20You.mp3"
+    },
+    {
+      "title": "Gloam Valley Introduction",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/bfyyzadq/41.%20Gloam%20Valley%20Introduction.mp3"
+    },
+    {
+      "title": "Gloam Valley",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/sskxflok/42.%20Gloam%20Valley.mp3"
+    },
+    {
+      "title": "Got a Catch Card",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/jpvkomwu/43.%20Got%20a%20Catch%20Card.mp3"
+    },
+    {
+      "title": "Outside Merlee's Mansion",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/iirhllup/44.%20Outside%20Merlee%27s%20Mansion.mp3"
+    },
+    {
+      "title": "Merlee's Mansion",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/pffnxaju/45.%20Merlee%27s%20Mansion.mp3"
+    },
+    {
+      "title": "Look Out for Me",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/tmbypain/46.%20Look%20Out%20for%20Me.mp3"
+    },
+    {
+      "title": "Mimi the Copycat",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/ruxcwyff/47.%20Mimi%20the%20Copycat.mp3"
+    },
+    {
+      "title": "Fight, Fight!",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/jgcuppda/48.%20Fight%2C%20Fight%21.mp3"
+    },
+    {
+      "title": "That's My Merlee!",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/qeygjaaz/49.%20That%27s%20My%20Merlee%21.mp3"
+    },
+    {
+      "title": "Mimi Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/zwicolps/50.%20Mimi%20Battle.mp3"
+    },
+    {
+      "title": "Unused Happy Flower Theme",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/rgfgstrb/51.%20Unused%20Happy%20Flower%20Theme.mp3"
+    },
+    {
+      "title": "Goodnight!",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/fzfcxeeh/52.%20Goodnight%21.mp3"
+    },
+    {
+      "title": "Bitlands Introduction",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/zbhgiabf/53.%20Bitlands%20Introduction.mp3"
+    },
+    {
+      "title": "The Open Plane (The Bitlands) [\"Ground Theme\" from Super Mario Bros.]",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/ycpsuvth/54.%20The%20Open%20Plane%20%28The%20Bitlands%29%20%5B%22Ground%20Theme%22%20from%20Super%20Mario%20Bros.%5D.mp3"
+    },
+    {
+      "title": "Nostalgic Underground (Bitlands Undergroud) [\"Underground Theme\" from Super Mario Bros.]",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/ghsqbinr/55.%20Nostalgic%20Underground%20%28Bitlands%20Undergroud%29%20%5B%22Underground%20Theme%22%20from%20Super%20Mario%20Bros.%5D.mp3"
+    },
+    {
+      "title": "Bowser Battle [\"Dark Land\" from Super Mario Bros. 3]",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/tsjqexze/56.%20Bowser%20Battle%20%5B%22Dark%20Land%22%20from%20Super%20Mario%20Bros.%203%5D.mp3"
+    },
+    {
+      "title": "The Tile Pool",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/yfgrmmxd/57.%20The%20Tile%20Pool.mp3"
+    },
+    {
+      "title": "Big Blooper Appears [\"Underwater Theme\" from Super Mario Bros. 3]",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/aqbkykes/58.%20Big%20Blooper%20Appears%20%5B%22Underwater%20Theme%22%20from%20Super%20Mario%20Bros.%203%5D.mp3"
+    },
+    {
+      "title": "A Powerful Enemy Emerges (Mini Boss)",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/zuzowsxl/59.%20A%20Powerful%20Enemy%20Emerges%20%28Mini%20Boss%29.mp3"
+    },
+    {
+      "title": "Dimentio, Charming Magician",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/nhwnxzgf/60.%20Dimentio%2C%20Charming%20Magician.mp3"
+    },
+    {
+      "title": "It's Showtime (Dimentio Battle)",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/hvhyvjjt/61.%20It%27s%20Showtime%20%28Dimentio%20Battle%29.mp3"
+    },
+    {
+      "title": "Butterfly Collecting",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/qzabfybn/62.%20Butterfly%20Collecting.mp3"
+    },
+    {
+      "title": "Fort Francis",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/jimjnlrc/63.%20Fort%20Francis.mp3"
+    },
+    {
+      "title": "Swoon.exe",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/jnofjeul/64.%20Swoon.exe.mp3"
+    },
+    {
+      "title": "Francis Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/wyeyhqfg/65.%20Francis%20Battle.mp3"
+    },
+    {
+      "title": "Memory 2",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/nycshhqf/66.%20Memory%202.mp3"
+    },
+    {
+      "title": "Outer Space Introduction",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/ddgufqpc/67.%20Outer%20Space%20Introduction.mp3"
+    },
+    {
+      "title": "Outer Space",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/pswdcatv/68.%20Outer%20Space.mp3"
+    },
+    {
+      "title": "The Whoa Zone",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/vrypgjdm/69.%20The%20Whoa%20Zone.mp3"
+    },
+    {
+      "title": "Mr. L, Green Thunder",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/dcemaouh/70.%20Mr.%20L%2C%20Green%20Thunder.mp3"
+    },
+    {
+      "title": "Brobot Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/aewujleo/71.%20Brobot%20Battle.mp3"
+    },
+    {
+      "title": "Flopside",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/fjgdyisq/72.%20Flopside.mp3"
+    },
+    {
+      "title": "Land of the Cragnons Introduction",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/coobrcom/73.%20Land%20of%20the%20Cragnons%20Introduction.mp3"
+    },
+    {
+      "title": "Gap of Crag",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/umbwehwk/74.%20Gap%20of%20Crag.mp3"
+    },
+    {
+      "title": "Floro Sapien Caverns",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/lbzqgizv/75.%20Floro%20Sapien%20Caverns.mp3"
+    },
+    {
+      "title": "Flint Cragley, Cragtrotter",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/hyvidsfv/76.%20Flint%20Cragley%2C%20Cragtrotter.mp3"
+    },
+    {
+      "title": "Truck GO!",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/pkgzeydy/77.%20Truck%20GO%21.mp3"
+    },
+    {
+      "title": "King Croacus IV Appears",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/iuzmncyk/78.%20King%20Croacus%20IV%20Appears.mp3"
+    },
+    {
+      "title": "King Croacus IV Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/eqsqzclx/79.%20King%20Croacus%20IV%20Battle.mp3"
+    },
+    {
+      "title": "Sammer's Kingdom Introduction",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/fhvjinoi/80.%20Sammer%27s%20Kingdom%20Introduction.mp3"
+    },
+    {
+      "title": "Sammer's Kingdom",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/zxmvpobn/81.%20Sammer%27s%20Kingdom.mp3"
+    },
+    {
+      "title": "Sammer Guys",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/lpqjaabf/82.%20Sammer%20Guys.mp3"
+    },
+    {
+      "title": "I'm Not Nice (Mimi Battle 2)",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/vlvvqpec/83.%20I%27m%20Not%20Nice%20%28Mimi%20Battle%202%29.mp3"
+    },
+    {
+      "title": "The Void Destroys Sammer's Kingdom",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/zpyafcvu/84.%20The%20Void%20Destroys%20Sammer%27s%20Kingdom.mp3"
+    },
+    {
+      "title": "World of Nothing",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/lyiuxfib/85.%20World%20of%20Nothing.mp3"
+    },
+    {
+      "title": "Brobot L-Type Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/faipzfam/86.%20Brobot%20L-Type%20Battle.mp3"
+    },
+    {
+      "title": "Memory 3",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/iggmsayr/87.%20Memory%203.mp3"
+    },
+    {
+      "title": "Flipside Arcade",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/noizwkkw/88.%20Flipside%20Arcade.mp3"
+    },
+    {
+      "title": "Forget Me Not",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/dbymojev/89.%20Forget%20Me%20Not.mp3"
+    },
+    {
+      "title": "Mansion Patrol 1",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/ncwegubz/90.%20Mansion%20Patrol%201.mp3"
+    },
+    {
+      "title": "Mansion Patrol 2",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/ttmgufru/91.%20Mansion%20Patrol%202.mp3"
+    },
+    {
+      "title": "Mansion Patrol 3",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/ygllxdzo/92.%20Mansion%20Patrol%203.mp3"
+    },
+    {
+      "title": "Tilt Island",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/uihmmzmn/93.%20Tilt%20Island.mp3"
+    },
+    {
+      "title": "Hammer Whacker",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/dauuolpp/94.%20Hammer%20Whacker.mp3"
+    },
+    {
+      "title": "Mini-Game Over",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/gjcjpxud/95.%20Mini-Game%20Over.mp3"
+    },
+    {
+      "title": "Mini-Game Results",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/gxufsxkg/96.%20Mini-Game%20Results.mp3"
+    },
+    {
+      "title": "The Underwhere Introduction",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/crdrxpfh/97.%20The%20Underwhere%20Introduction.mp3"
+    },
+    {
+      "title": "The Underwhere",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/susgctkv/98.%20The%20Underwhere.mp3"
+    },
+    {
+      "title": "River Twygz Bed",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/xbqywmwt/99.%20River%20Twygz%20Bed.mp3"
+    },
+    {
+      "title": "The Road for the Lost",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/heyeaosz/100.%20The%20Road%20for%20the%20Lost.mp3"
+    },
+    {
+      "title": "And the Question Is...",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/twzjuzlh/101.%20And%20the%20Question%20Is....mp3"
+    },
+    {
+      "title": "Underchomp Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/dvsberxm/102.%20Underchomp%20Battle.mp3"
+    },
+    {
+      "title": "Underchomp Defeated",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/thghrnrs/103.%20Underchomp%20Defeated.mp3"
+    },
+    {
+      "title": "The Overthere",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/orsnklbx/104.%20The%20Overthere.mp3"
+    },
+    {
+      "title": "Peach Awakens",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/kfyblcdj/105.%20Peach%20Awakens.mp3"
+    },
+    {
+      "title": "Overthere Shrine",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/kauwbreu/106.%20Overthere%20Shrine.mp3"
+    },
+    {
+      "title": "Bonechill Appears",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/kskwbuse/107.%20Bonechill%20Appears.mp3"
+    },
+    {
+      "title": "Bonechill Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/sbeqtslz/108.%20Bonechill%20Battle.mp3"
+    },
+    {
+      "title": "Memory 4",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/pbmemvtg/109.%20Memory%204.mp3"
+    },
+    {
+      "title": "Castle Bleck Introduction",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/zfecauwy/110.%20Castle%20Bleck%20Introduction.mp3"
+    },
+    {
+      "title": "Castle Bleck",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/cqwmtkur/111.%20Castle%20Bleck.mp3"
+    },
+    {
+      "title": "The Evil Count Bleck 2",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/zyuasnkn/112.%20The%20Evil%20Count%20Bleck%202.mp3"
+    },
+    {
+      "title": "Closing Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/hafxzdvs/113.%20Closing%20Battle.mp3"
+    },
+    {
+      "title": "Four Heroes Reunited",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/zwicktnl/114.%20Four%20Heroes%20Reunited.mp3"
+    },
+    {
+      "title": "The Destruction of Worlds",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/prqcnieu/115.%20The%20Destruction%20of%20Worlds.mp3"
+    },
+    {
+      "title": "Promise",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/lwyebslz/116.%20Promise.mp3"
+    },
+    {
+      "title": "The Ultimate Show (Super Dimentio Battle)",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/rkzqiqea/117.%20The%20Ultimate%20Show%20%28Super%20Dimentio%20Battle%29.mp3"
+    },
+    {
+      "title": "End of the World",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/osvbtptx/118.%20End%20of%20the%20World.mp3"
+    },
+    {
+      "title": "Bounding Through Time",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/hrqainne/119.%20Bounding%20Through%20Time.mp3"
+    },
+    {
+      "title": "Proof of Existence",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/hytzsoqm/120.%20Proof%20of%20Existence.mp3"
+    },
+    {
+      "title": "Staff Roll (Credits)",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/okhecykd/121.%20Staff%20Roll%20%28Credits%29.mp3"
+    },
+    {
+      "title": "Lose Life",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/lvulyhpe/122.%20Lose%20Life.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/ddgxrpcp/123.%20Game%20Over.mp3"
+    },
+    {
+      "title": "Pit of 100 Trials",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/uejlbyow/124.%20Pit%20of%20100%20Trials.mp3"
+    },
+    {
+      "title": "Chapter Complete (No Intro)",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/uieyfefq/125.%20Chapter%20Complete%20%28No%20Intro%29.mp3"
+    },
+    {
+      "title": "Perfect Solution (Early)",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/mnfkmejj/126.%20Perfect%20Solution%20%28Early%29.mp3"
+    },
+    {
+      "title": "Mini-Game Over (Prototype)",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/qfaosuyf/127.%20Mini-Game%20Over%20%28Prototype%29.mp3"
+    },
+    {
+      "title": "Mini-Game Over (Early)",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/jbiiuxct/128.%20Mini-Game%20Over%20%28Early%29.mp3"
+    },
+    {
+      "title": "Underchomp Battle (Early)",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/omulutgc/129.%20Underchomp%20Battle%20%28Early%29.mp3"
+    },
+    {
+      "title": "Flopside Arcade (Unused)",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/rcnfnzhq/130.%20Flopside%20Arcade%20%28Unused%29.mp3"
+    },
+    {
+      "title": "Another Unused Theme (Calm)",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-paper-mario/eannbrhk/131.%20Another%20Unused%20Theme%20%28Calm%29.mp3"
+    }
+  ]
+}
