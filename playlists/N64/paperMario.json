@@ -1,0 +1,697 @@
+{
+  "meta": {
+    "game_title": "Paper Mario",
+    "art": "https://mario.wiki.gallery/images/thumb/7/74/Paper_Mario_64_box.png/1600px-Paper_Mario_64_box.png",
+    "desc": "August 11, 2000"
+  },
+  "songs": [
+    {
+      "title": "Story of the Stolen Spirits",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/cvvquyli/01.%20Story%20of%20the%20Stolen%20Spirits.mp3"
+    },
+    {
+      "title": "Main Title",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/ispsxizx/02.%20Main%20Title.mp3"
+    },
+    {
+      "title": "File Select",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/nvrxkjpx/03.%20File%20Select.mp3"
+    },
+    {
+      "title": "Mail Call!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/tzqghsqc/04.%20Mail%20Call%21.mp3"
+    },
+    {
+      "title": "Princess in Distress",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/nhxswdde/05.%20Princess%20in%20Distress.mp3"
+    },
+    {
+      "title": "A Party at Peach's Castle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/mzkcgzbl/06.%20A%20Party%20at%20Peach%27s%20Castle.mp3"
+    },
+    {
+      "title": "Bowser Takes Peach's Castle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/cawiadpp/07.%20Bowser%20Takes%20Peach%27s%20Castle.mp3"
+    },
+    {
+      "title": "Angry Bowser",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/eapwqnui/08.%20Angry%20Bowser.mp3"
+    },
+    {
+      "title": "Prologue",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/hkgyzcon/09.%20Prologue.mp3"
+    },
+    {
+      "title": "Mario's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/zfgozght/10.%20Mario%27s%20Theme.mp3"
+    },
+    {
+      "title": "The Star Spirits' Plea",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/lfqrjwfm/11.%20The%20Star%20Spirits%27%20Plea.mp3"
+    },
+    {
+      "title": "Goomba Village",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/exahmogr/12.%20Goomba%20Village.mp3"
+    },
+    {
+      "title": "Kammy Koopa",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/kkxfjfai/13.%20Kammy%20Koopa.mp3"
+    },
+    {
+      "title": "March Ahead",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/wtfswiab/14.%20March%20Ahead.mp3"
+    },
+    {
+      "title": "New Boots - Hammer Obtained!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/ooedfqpa/15.%20New%20Boots%20-%20Hammer%20Obtained%21.mp3"
+    },
+    {
+      "title": "Jr. Troopa's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/qsrghqis/16.%20Jr.%20Troopa%27s%20Theme.mp3"
+    },
+    {
+      "title": "Jr. Troopa Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/nlrytzrh/17.%20Jr.%20Troopa%20Battle.mp3"
+    },
+    {
+      "title": "Battle Fanfare",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/xteohvfq/18.%20Battle%20Fanfare.mp3"
+    },
+    {
+      "title": "Battle Fanfare (First Strike)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/oxwohqka/19.%20Battle%20Fanfare%20%28First%20Strike%29.mp3"
+    },
+    {
+      "title": "Battle Fanfare (Enemy First Strike)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/zwjetiky/20.%20Battle%20Fanfare%20%28Enemy%20First%20Strike%29.mp3"
+    },
+    {
+      "title": "Battle Victory",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/mqqkzuau/21.%20Battle%20Victory.mp3"
+    },
+    {
+      "title": "Level Up!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/upqkbabd/22.%20Level%20Up%21.mp3"
+    },
+    {
+      "title": "New Party Member",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/ojcjqbku/23.%20New%20Party%20Member.mp3"
+    },
+    {
+      "title": "Good Night...",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/sgakauzm/24.%20Good%20Night....mp3"
+    },
+    {
+      "title": "Enemy Encounter",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/myfhubym/25.%20Enemy%20Encounter.mp3"
+    },
+    {
+      "title": "Hey You!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/olnhwmse/26.%20Hey%20You%21.mp3"
+    },
+    {
+      "title": "The Goomba Bros.",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/uksikcih/27.%20The%20Goomba%20Bros..mp3"
+    },
+    {
+      "title": "Gates of Goomba Castle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/mojcjqad/28.%20Gates%20of%20Goomba%20Castle.mp3"
+    },
+    {
+      "title": "The Goomba King's Decree",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/sclurbdq/29.%20The%20Goomba%20King%27s%20Decree.mp3"
+    },
+    {
+      "title": "Toad Town",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/sreyffjf/30.%20Toad%20Town.mp3"
+    },
+    {
+      "title": "Toad Town - Merlon's Hut",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/bnnbtomr/31.%20Toad%20Town%20-%20Merlon%27s%20Hut.mp3"
+    },
+    {
+      "title": "Merlon's Crystal Ball",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/acktoobo/32.%20Merlon%27s%20Crystal%20Ball.mp3"
+    },
+    {
+      "title": "Toad Town - Minh T.'s Flower Garden",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/suyglnhx/33.%20Toad%20Town%20-%20Minh%20T.%27s%20Flower%20Garden.mp3"
+    },
+    {
+      "title": "Toad Town - Russ T.'s Library",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/qkertvvt/34.%20Toad%20Town%20-%20Russ%20T.%27s%20Library.mp3"
+    },
+    {
+      "title": "Mario Bros.' Home",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/eruyiwiy/35.%20Mario%20Bros.%27%20Home.mp3"
+    },
+    {
+      "title": "Shooting Star Summit",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/vibktpqm/36.%20Shooting%20Star%20Summit.mp3"
+    },
+    {
+      "title": "Merluvlee's Crystal Ball",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/nbvzituq/37.%20Merluvlee%27s%20Crystal%20Ball.mp3"
+    },
+    {
+      "title": "The Star Spirits' Request",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/vejjrgiv/38.%20The%20Star%20Spirits%27%20Request.mp3"
+    },
+    {
+      "title": "Twink's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/fmwujmft/39.%20Twink%27s%20Theme.mp3"
+    },
+    {
+      "title": "Plea of the Princess",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/zuyhqkzu/40.%20Plea%20of%20the%20Princess.mp3"
+    },
+    {
+      "title": "Pleasant Path's Hills",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/xgnwtfte/41.%20Pleasant%20Path%27s%20Hills.mp3"
+    },
+    {
+      "title": "Fuzzys Stole My Shell",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/qoyajqdr/42.%20Fuzzys%20Stole%20My%20Shell.mp3"
+    },
+    {
+      "title": "Fuzzys' Mini-Game",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/clyhrmih/43.%20Fuzzys%27%20Mini-Game.mp3"
+    },
+    {
+      "title": "Koopa Village",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/mluqwlng/44.%20Koopa%20Village.mp3"
+    },
+    {
+      "title": "Beach Tunes",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/svbskxfm/45.%20Beach%20Tunes.mp3"
+    },
+    {
+      "title": "Golden Oldies",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/seterxje/46.%20Golden%20Oldies.mp3"
+    },
+    {
+      "title": "Koopa Bros. Fortress",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/ujnknkmd/47.%20Koopa%20Bros.%20Fortress.mp3"
+    },
+    {
+      "title": "Koopa Bros. Tricks",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/fpmoiaab/48.%20Koopa%20Bros.%20Tricks.mp3"
+    },
+    {
+      "title": "Bill Blaster! Go Faster!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/fxwruzkd/49.%20Bill%20Blaster%21%20Go%20Faster%21.mp3"
+    },
+    {
+      "title": "Koopa Bros. Keep Cool",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/kpvhzaex/50.%20Koopa%20Bros.%20Keep%20Cool.mp3"
+    },
+    {
+      "title": "Trojan Bowser",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/wpmnddft/51.%20Trojan%20Bowser.mp3"
+    },
+    {
+      "title": "Attack of the Koopa Bros",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/baxmtjld/52.%20Attack%20of%20the%20Koopa%20Bros.mp3"
+    },
+    {
+      "title": "A Kingdom in Chaos",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/kpsuvvpo/53.%20A%20Kingdom%20in%20Chaos.mp3"
+    },
+    {
+      "title": "Toad Town - Rowf's Badge Shop",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/ybmfqmpo/54.%20Toad%20Town%20-%20Rowf%27s%20Badge%20Shop.mp3"
+    },
+    {
+      "title": "Toad Town - Tace T.'s Kitchen",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/wtdkrfyc/55.%20Toad%20Town%20-%20Tace%20T.%27s%20Kitchen.mp3"
+    },
+    {
+      "title": "Toad Town - The Dojo",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/qxobsipx/56.%20Toad%20Town%20-%20The%20Dojo.mp3"
+    },
+    {
+      "title": "Battling the Master",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/rttlzpcr/57.%20Battling%20the%20Master.mp3"
+    },
+    {
+      "title": "Toad Town - Sewer Entrance",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/bgezlfsx/58.%20Toad%20Town%20-%20Sewer%20Entrance.mp3"
+    },
+    {
+      "title": "Toad Town Sewers",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/lkvwumxc/59.%20Toad%20Town%20Sewers.mp3"
+    },
+    {
+      "title": "Blooper Appears",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/vtijynsc/60.%20Blooper%20Appears.mp3"
+    },
+    {
+      "title": "K64 Train Ride",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/gbnjipyx/61.%20K64%20Train%20Ride.mp3"
+    },
+    {
+      "title": "Mt. Rugged",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/rqdwxyag/62.%20Mt.%20Rugged.mp3"
+    },
+    {
+      "title": "Dry Dry Desert Trek",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/dxcuqwic/63.%20Dry%20Dry%20Desert%20Trek.mp3"
+    },
+    {
+      "title": "Mysterious Dry Dry Outpost",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/mdguemzm/64.%20Mysterious%20Dry%20Dry%20Outpost.mp3"
+    },
+    {
+      "title": "Moustafa",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/nanohsrg/65.%20Moustafa.mp3"
+    },
+    {
+      "title": "Dry Dry Ruins Revealed",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/hrnmziuy/66.%20Dry%20Dry%20Ruins%20Revealed.mp3"
+    },
+    {
+      "title": "Tutankoopa's Warnings",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/goydumat/67.%20Tutankoopa%27s%20Warnings.mp3"
+    },
+    {
+      "title": "Dry Dry Ruins Quest",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/tjqbjskx/68.%20Dry%20Dry%20Ruins%20Quest.mp3"
+    },
+    {
+      "title": "Tutankoopa's Threats",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/iwkmbxkf/69.%20Tutankoopa%27s%20Threats.mp3"
+    },
+    {
+      "title": "Tutankoopa Appears",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/voiwkmfm/70.%20Tutankoopa%20Appears.mp3"
+    },
+    {
+      "title": "Chomp Attack",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/xaiqghtx/71.%20Chomp%20Attack.mp3"
+    },
+    {
+      "title": "Hang in There, Peach!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/hssiouig/72.%20Hang%20in%20There%2C%20Peach%21.mp3"
+    },
+    {
+      "title": "Stealthy Snoop",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/hqjzsqag/73.%20Stealthy%20Snoop.mp3"
+    },
+    {
+      "title": "Caught!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/fgstrclz/74.%20Caught%21.mp3"
+    },
+    {
+      "title": "Forever Forest",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/mogodxef/75.%20Forever%20Forest.mp3"
+    },
+    {
+      "title": "Approach to the Mansion",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/msgajsnj/76.%20Approach%20to%20the%20Mansion.mp3"
+    },
+    {
+      "title": "Boos' Dance",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/jtopfjgc/77.%20Boos%27%20Dance.mp3"
+    },
+    {
+      "title": "Boo's Record Player",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/simlupqj/78.%20Boo%27s%20Record%20Player.mp3"
+    },
+    {
+      "title": "Boo's Mansion",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/xmteqrle/79.%20Boo%27s%20Mansion.mp3"
+    },
+    {
+      "title": "Gusty Gulch Adventure",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/pmnejiot/80.%20Gusty%20Gulch%20Adventure.mp3"
+    },
+    {
+      "title": "Tubba Blubba's Castle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/encxgpfh/81.%20Tubba%20Blubba%27s%20Castle.mp3"
+    },
+    {
+      "title": "Ghost Gulping",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/tvyhqhow/82.%20Ghost%20Gulping.mp3"
+    },
+    {
+      "title": "The Castle Crumbles",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/tchajuup/83.%20The%20Castle%20Crumbles.mp3"
+    },
+    {
+      "title": "Tubba's Heart",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/pgnsbfxw/84.%20Tubba%27s%20Heart.mp3"
+    },
+    {
+      "title": "Shy Guy Riot",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/rtrdsbfu/85.%20Shy%20Guy%20Riot.mp3"
+    },
+    {
+      "title": "Shy Guy's Toy Box",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/kqxpixlm/86.%20Shy%20Guy%27s%20Toy%20Box.mp3"
+    },
+    {
+      "title": "All Aboard!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/dencykfu/87.%20All%20Aboard%21.mp3"
+    },
+    {
+      "title": "Gourmet Guy's Ecstasy",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/jldjirio/88.%20Gourmet%20Guy%27s%20Ecstasy.mp3"
+    },
+    {
+      "title": "Ghost in the Toy Box",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/vnddeofj/89.%20Ghost%20in%20the%20Toy%20Box.mp3"
+    },
+    {
+      "title": "General Guy's March",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/fyajutjr/90.%20General%20Guy%27s%20March.mp3"
+    },
+    {
+      "title": "Keeping Pace",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/exzexcsh/91.%20Keeping%20Pace.mp3"
+    },
+    {
+      "title": "Making a Cake",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/itvxzdwv/92.%20Making%20a%20Cake.mp3"
+    },
+    {
+      "title": "Toad Town - Shy Guys Toy Box",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/ohtvyfiw/93.%20Toad%20Town%20-%20Shy%20Guys%20Toy%20Box.mp3"
+    },
+    {
+      "title": "Club 64",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/kmbzspvj/94.%20Club%2064.mp3"
+    },
+    {
+      "title": "Club Song",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/ipxugvjl/95.%20Club%20Song.mp3"
+    },
+    {
+      "title": "Pop Diva",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/cemwakxj/96.%20Pop%20Diva.mp3"
+    },
+    {
+      "title": "Whale Encounter",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/dnhxocur/97.%20Whale%20Encounter.mp3"
+    },
+    {
+      "title": "Whale Sailing",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/yrpagfhx/98.%20Whale%20Sailing.mp3"
+    },
+    {
+      "title": "Welcome to Yoshi's Village (Outskirts)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/nzitqaew/99.%20Welcome%20to%20Yoshi%27s%20Village%20%28Outskirts%29.mp3"
+    },
+    {
+      "title": "Welcome to Yoshi's Village",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/xfizabfw/100.%20Welcome%20to%20Yoshi%27s%20Village.mp3"
+    },
+    {
+      "title": "Search for the Fearsome 5",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/ruxecyll/101.%20Search%20for%20the%20Fearsome%205.mp3"
+    },
+    {
+      "title": "Jade Jungle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/yhpdxdzo/102.%20Jade%20Jungle.mp3"
+    },
+    {
+      "title": "You Rescued the Fearsome 5!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/ufugzcmf/103.%20You%20Rescued%20the%20Fearsome%205%21.mp3"
+    },
+    {
+      "title": "Raphael the Raven's Nest",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/phsrfcut/104.%20Raphael%20the%20Raven%27s%20Nest.mp3"
+    },
+    {
+      "title": "Raphael the Raven",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/ilgwrsmi/105.%20Raphael%20the%20Raven.mp3"
+    },
+    {
+      "title": "Hot Times in Mt. Lavalava",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/eyctlzou/106.%20Hot%20Times%20in%20Mt.%20Lavalava.mp3"
+    },
+    {
+      "title": "Lava Piranha Attack",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/jnjiljle/107.%20Lava%20Piranha%20Attack.mp3"
+    },
+    {
+      "title": "Go! Mario! Go!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/lshgmqrm/108.%20Go%21%20Mario%21%20Go%21.mp3"
+    },
+    {
+      "title": "It's Burning! Mario, Get Ready!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/ihlkpwna/109.%20It%27s%20Burning%21%20Mario%2C%20Get%20Ready%21.mp3"
+    },
+    {
+      "title": "Escape from Mt. Lavalava",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/vrubuvul/110.%20Escape%20from%20Mt.%20Lavalava.mp3"
+    },
+    {
+      "title": "Trivia Game Show Opening",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/vuneifzf/111.%20Trivia%20Game%20Show%20Opening.mp3"
+    },
+    {
+      "title": "Trivia Game Show Questions",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/flnhyvif/112.%20Trivia%20Game%20Show%20Questions.mp3"
+    },
+    {
+      "title": "Trivia Game Show Ending",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/zisqxrqf/113.%20Trivia%20Game%20Show%20Ending.mp3"
+    },
+    {
+      "title": "Entrance to Flower Fields",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/dbvyhoxy/114.%20Entrance%20to%20Flower%20Fields.mp3"
+    },
+    {
+      "title": "Clouds Over Flower Fields",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/agdxedel/115.%20Clouds%20Over%20Flower%20Fields.mp3"
+    },
+    {
+      "title": "Petunia Under Attack!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/seujorqg/116.%20Petunia%20Under%20Attack%21.mp3"
+    },
+    {
+      "title": "Grateful Flower Petunia",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/fkijxlly/117.%20Grateful%20Flower%20Petunia.mp3"
+    },
+    {
+      "title": "Grateful Flower Posie",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/kgxxrsos/118.%20Grateful%20Flower%20Posie.mp3"
+    },
+    {
+      "title": "Grateful Flower Lily",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/tsfydwxz/119.%20Grateful%20Flower%20Lily.mp3"
+    },
+    {
+      "title": "Grateful Flower Rosie",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/pyxueluq/120.%20Grateful%20Flower%20Rosie.mp3"
+    },
+    {
+      "title": "Somber Sun",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/txhtvyea/121.%20Somber%20Sun.mp3"
+    },
+    {
+      "title": "Lakilester the Great!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/qcptxiwi/122.%20Lakilester%20the%20Great%21.mp3"
+    },
+    {
+      "title": "Puff Puff Machine",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/drzwjeuk/123.%20Puff%20Puff%20Machine.mp3"
+    },
+    {
+      "title": "The Sun Rises Over Flower Fields",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/rcnibinp/124.%20The%20Sun%20Rises%20Over%20Flower%20Fields.mp3"
+    },
+    {
+      "title": "Flower Fields Rondo",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/mmapyxsu/125.%20Flower%20Fields%20Rondo.mp3"
+    },
+    {
+      "title": "Beaming Sun",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/uppfjbij/126.%20Beaming%20Sun.mp3"
+    },
+    {
+      "title": "Climbing the Beanstalk",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/wefrtsjp/127.%20Climbing%20the%20Beanstalk.mp3"
+    },
+    {
+      "title": "Cloudy Climb",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/zdrxobor/128.%20Cloudy%20Climb.mp3"
+    },
+    {
+      "title": "Huff N. Puff's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/qggnvohw/129.%20Huff%20N.%20Puff%27s%20Theme.mp3"
+    },
+    {
+      "title": "Huffin' and Puffin'",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/rkaxjfze/130.%20Huffin%27%20and%20Puffin%27.mp3"
+    },
+    {
+      "title": "Cold Reception in Shiver City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/xzfbtprp/131.%20Cold%20Reception%20in%20Shiver%20City.mp3"
+    },
+    {
+      "title": "Murder in Shiver City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/zcolngrs/132.%20Murder%20in%20Shiver%20City.mp3"
+    },
+    {
+      "title": "Detective Mario",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/ldhcrzxo/133.%20Detective%20Mario.mp3"
+    },
+    {
+      "title": "A Cold Case",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/cusgzhjb/134.%20A%20Cold%20Case.mp3"
+    },
+    {
+      "title": "Herringway and the Mayor",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/gzexzffh/135.%20Herringway%20and%20the%20Mayor.mp3"
+    },
+    {
+      "title": "Snow Road",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/ytattnkj/136.%20Snow%20Road.mp3"
+    },
+    {
+      "title": "Monstar Blocks the Road",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/rhlgyywm/137.%20Monstar%20Blocks%20the%20Road.mp3"
+    },
+    {
+      "title": "Starborn Valley Trail",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/uojdppcv/138.%20Starborn%20Valley%20Trail.mp3"
+    },
+    {
+      "title": "Over Shiver Mountain",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/tikcfsyn/139.%20Over%20Shiver%20Mountain.mp3"
+    },
+    {
+      "title": "Madam Merlar",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/ijyqhqeb/140.%20Madam%20Merlar.mp3"
+    },
+    {
+      "title": "Crystal Palace Crawl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/urbhfhub/141.%20Crystal%20Palace%20Crawl.mp3"
+    },
+    {
+      "title": "The Crystal King",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/wdbympmp/142.%20The%20Crystal%20King.mp3"
+    },
+    {
+      "title": "Freeze!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/rmigixkl/143.%20Freeze%21.mp3"
+    },
+    {
+      "title": "Star Way Ascent",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/yljmgvkq/144.%20Star%20Way%20Ascent.mp3"
+    },
+    {
+      "title": "Star Way Descent",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/vgsxlkqb/145.%20Star%20Way%20Descent.mp3"
+    },
+    {
+      "title": "Star Way",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/kvvtgyzd/146.%20Star%20Way.mp3"
+    },
+    {
+      "title": "A City in the Stars",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/tgcqabjo/147.%20A%20City%20in%20the%20Stars.mp3"
+    },
+    {
+      "title": "Sanctuary!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/svaotdkq/148.%20Sanctuary%21.mp3"
+    },
+    {
+      "title": "The Shooting Star",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/xphpfhst/149.%20The%20Shooting%20Star.mp3"
+    },
+    {
+      "title": "Siege on Bowser's Castle (Lower Floors)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/jtqytawh/150.%20Siege%20on%20Bowser%27s%20Castle%20%28Lower%20Floors%29.mp3"
+    },
+    {
+      "title": "The Dark Dungeons of Bowser's Castle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/txhtwaml/151.%20The%20Dark%20Dungeons%20of%20Bowser%27s%20Castle.mp3"
+    },
+    {
+      "title": "Siege on Bowser's Castle (Upper Floors)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/tjotbzwg/152.%20Siege%20on%20Bowser%27s%20Castle%20%28Upper%20Floors%29.mp3"
+    },
+    {
+      "title": "Stolen Peach's Castle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/ucbdlvum/153.%20Stolen%20Peach%27s%20Castle.mp3"
+    },
+    {
+      "title": "Bowser's Rage",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/btrclxgn/154.%20Bowser%27s%20Rage.mp3"
+    },
+    {
+      "title": "Wish of the Princess",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/vojdqsqz/155.%20Wish%20of%20the%20Princess.mp3"
+    },
+    {
+      "title": "King of the Koopas",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/coklxgoa/156.%20King%20of%20the%20Koopas.mp3"
+    },
+    {
+      "title": "Seize the Star Rod!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/juxfgpfi/157.%20Seize%20the%20Star%20Rod%21.mp3"
+    },
+    {
+      "title": "Beware! Bowser's Castle!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/yvgsuvse/158.%20Beware%21%20Bowser%27s%20Castle%21.mp3"
+    },
+    {
+      "title": "A Return to Peace",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/uiggnvpm/159.%20A%20Return%20to%20Peace.mp3"
+    },
+    {
+      "title": "Goodbye, Twink!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/qzywnxak/160.%20Goodbye%2C%20Twink%21.mp3"
+    },
+    {
+      "title": "Princess Peach Saved!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/xjesbcik/161.%20Princess%20Peach%20Saved%21.mp3"
+    },
+    {
+      "title": "Victory Parade",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/zuwbsjrf/162.%20Victory%20Parade.mp3"
+    },
+    {
+      "title": "The Celebration Continues",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/bshittmd/163.%20The%20Celebration%20Continues.mp3"
+    },
+    {
+      "title": "Mario and Peach",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/hzclzqey/164.%20Mario%20and%20Peach.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/ebtnlolo/165.%20Game%20Over.mp3"
+    },
+    {
+      "title": "Nice to Meet You (Unused)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/oamihivd/166.%20Nice%20to%20Meet%20You%20%28Unused%29.mp3"
+    },
+    {
+      "title": "Pop Diva (Short Ver.)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/fqnsxnxw/167.%20Pop%20Diva%20%28Short%20Ver.%29.mp3"
+    },
+    {
+      "title": "Story of the Stolen Spirits (Unused Extended Portion)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/ohvelqxp/168.%20Story%20of%20the%20Stolen%20Spirits%20%28Unused%20Extended%20Portion%29.mp3"
+    },
+    {
+      "title": "Toad Town - Unknown",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/fjcmbvbt/169.%20Toad%20Town%20-%20Unknown.mp3"
+    },
+    {
+      "title": "Unknown Song 1",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/nrxkgdzk/170.%20Unknown%20Song%201.mp3"
+    },
+    {
+      "title": "Unknown Song 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/aystptxg/171.%20Unknown%20Song%202.mp3"
+    },
+    {
+      "title": "Unknown Song 3",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-mario-story-2000-nintendo-64/nwvmanqo/172.%20Unknown%20Song%203.mp3"
+    }
+  ]
+}
