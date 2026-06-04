@@ -1,0 +1,445 @@
+{
+  "meta": {
+    "game_title": "Pokémon Ruby & Sapphire Music Super Complete",
+    "art": "https://upload.wikimedia.org/wikipedia/en/b/be/PokemonRubySapphireBox.jpg",
+    "desc": "November 21, 2002"
+  },
+  "songs": [
+    {
+      "title": "Opening Movie - Setting out on a Journey in the Hoenn Region",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/zdrxqkdl/1-01.%20Opening%20Movie%20-%20Setting%20out%20on%20a%20Journey%20in%20the%20Hoenn%20Region.mp3"
+    },
+    {
+      "title": "Opening Movie - Double Battles",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/xbqbikbe/1-02.%20Opening%20Movie%20-%20Double%20Battles.mp3"
+    },
+    {
+      "title": "Title Screen - Main Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/ojdquaut/1-03.%20Title%20Screen%20-%20Main%20Theme.mp3"
+    },
+    {
+      "title": "Introductions",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/mccgvlra/1-04.%20Introductions.mp3"
+    },
+    {
+      "title": "Littleroot Town",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/dqrnohub/1-05.%20Littleroot%20Town.mp3"
+    },
+    {
+      "title": "Birch Pokémon Lab",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/xhtvzitt/1-06.%20Birch%20Pok%C3%A9mon%20Lab.mp3"
+    },
+    {
+      "title": "May",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/pqjzvfpi/1-07.%20May.mp3"
+    },
+    {
+      "title": "H-Help Me!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/whxssnkm/1-08.%20H-Help%20Me%21.mp3"
+    },
+    {
+      "title": "Battle! (Wild Pokémon)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/gviexyag/1-09.%20Battle%21%20%28Wild%20Pok%C3%A9mon%29.mp3"
+    },
+    {
+      "title": "Victory! (Wild Pokémon)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/dyjzwgud/1-10.%20Victory%21%20%28Wild%20Pok%C3%A9mon%29.mp3"
+    },
+    {
+      "title": "Route 101",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/ihlhcrbh/1-11.%20Route%20101.mp3"
+    },
+    {
+      "title": "Oldale Town",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/ebvwwszs/1-12.%20Oldale%20Town.mp3"
+    },
+    {
+      "title": "Pokémon Center",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/pwodcdgw/1-13.%20Pok%C3%A9mon%20Center.mp3"
+    },
+    {
+      "title": "Pokémon Healed",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/ohssjsmi/1-14.%20Pok%C3%A9mon%20Healed.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Youngster)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/fakaxkik/1-15.%20Trainers%27%20Eyes%20Meet%20%28Youngster%29.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Lass)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/chdtkuse/1-16.%20Trainers%27%20Eyes%20Meet%20%28Lass%29.mp3"
+    },
+    {
+      "title": "Battle! (Trainer Battle)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/ryqlfuha/1-17.%20Battle%21%20%28Trainer%20Battle%29.mp3"
+    },
+    {
+      "title": "Victory! (Trainer Battle)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/hhspxtau/1-18.%20Victory%21%20%28Trainer%20Battle%29.mp3"
+    },
+    {
+      "title": "Level Up!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/xdzmlvwu/1-19.%20Level%20Up%21.mp3"
+    },
+    {
+      "title": "Petalburg City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/ihmogpfi/1-20.%20Petalburg%20City.mp3"
+    },
+    {
+      "title": "Hurry Along",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/betgakwc/1-21.%20Hurry%20Along.mp3"
+    },
+    {
+      "title": "Route 104",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/yixnvrxo/1-22.%20Route%20104.mp3"
+    },
+    {
+      "title": "Petalburg Forest",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/yaggoydw/1-23.%20Petalburg%20Forest.mp3"
+    },
+    {
+      "title": "Team Magma Appears!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/wuhewyzd/1-24.%20Team%20Magma%20Appears%21.mp3"
+    },
+    {
+      "title": "Battle! (Team Aqua - Team Magma)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/tilgvlup/1-25.%20Battle%21%20%28Team%20Aqua%20-%20Team%20Magma%29.mp3"
+    },
+    {
+      "title": "Victory! (Team Aqua - Team Magma)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/oborpbni/1-26.%20Victory%21%20%28Team%20Aqua%20-%20Team%20Magma%29.mp3"
+    },
+    {
+      "title": "Rustboro City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/eundbaxn/1-27.%20Rustboro%20City.mp3"
+    },
+    {
+      "title": "Trainers' School",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/ukrethdt/1-28.%20Trainers%27%20School.mp3"
+    },
+    {
+      "title": "Crossing the Sea",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/mbyozfcx/1-29.%20Crossing%20the%20Sea.mp3"
+    },
+    {
+      "title": "Dewford Town",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/glolnhvi/1-30.%20Dewford%20Town.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Tuber♀)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/eulwzjxj/1-31.%20Trainers%27%20Eyes%20Meet%20%28Tuber%E2%99%80%29.mp3"
+    },
+    {
+      "title": "Slateport City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/esdlwxzg/1-32.%20Slateport%20City.mp3"
+    },
+    {
+      "title": "Oceanic Museum",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/ivcbyqho/1-33.%20Oceanic%20Museum.mp3"
+    },
+    {
+      "title": "Route 110",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/yzdsdpmq/1-34.%20Route%20110.mp3"
+    },
+    {
+      "title": "Cycling",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/rmltkusd/1-35.%20Cycling.mp3"
+    },
+    {
+      "title": "Game Corner",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/pnvncawd/1-36.%20Game%20Corner.mp3"
+    },
+    {
+      "title": "Win",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/eltimlse/1-37.%20Win.mp3"
+    },
+    {
+      "title": "Lose",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/vokfyahm/1-38.%20Lose.mp3"
+    },
+    {
+      "title": "Reel Time",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/kpudieww/1-39.%20Reel%20Time.mp3"
+    },
+    {
+      "title": "Jackpot",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/qrldhexz/1-40.%20Jackpot.mp3"
+    },
+    {
+      "title": "Verdanturf Town",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/gixnydxb/1-41.%20Verdanturf%20Town.mp3"
+    },
+    {
+      "title": "Route 113",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/nmtlxegp/1-42.%20Route%20113.mp3"
+    },
+    {
+      "title": "Twins",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/iuzmmygk/1-43.%20Twins.mp3"
+    },
+    {
+      "title": "Fallarbor Town",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/ilfsxjer/1-44.%20Fallarbor%20Town.mp3"
+    },
+    {
+      "title": "Cable Car",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/ypdyfixr/1-45.%20Cable%20Car.mp3"
+    },
+    {
+      "title": "Mt. Chimney",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/pxvighrn/1-46.%20Mt.%20Chimney.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Hiker)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/qovncznq/1-47.%20Trainers%27%20Eyes%20Meet%20%28Hiker%29.mp3"
+    },
+    {
+      "title": "Route 111",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/rmhbmeji/1-48.%20Route%20111.mp3"
+    },
+    {
+      "title": "Pokémon Gym",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/nqrjxjbg/1-49.%20Pok%C3%A9mon%20Gym.mp3"
+    },
+    {
+      "title": "Battle! (Gym Leader)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/cuprnogn/1-50.%20Battle%21%20%28Gym%20Leader%29.mp3"
+    },
+    {
+      "title": "Victory! (Gym Leader)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/xzezhnsb/1-51.%20Victory%21%20%28Gym%20Leader%29.mp3"
+    },
+    {
+      "title": "Obtained a Badge!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/dlwalftc/1-52.%20Obtained%20a%20Badge%21.mp3"
+    },
+    {
+      "title": "Obtained a TM!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/hcqviewu/1-53.%20Obtained%20a%20TM%21.mp3"
+    },
+    {
+      "title": "Surf",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/ihljmhai/1-54.%20Surf.mp3"
+    },
+    {
+      "title": "Route 119",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/lfujkzrk/2-01.%20Route%20119.mp3"
+    },
+    {
+      "title": "Fortree City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/zuxdbtsg/2-02.%20Fortree%20City.mp3"
+    },
+    {
+      "title": "Route 120",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/dvwuihnq/2-03.%20Route%20120.mp3"
+    },
+    {
+      "title": "Interviewers",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/qitsiorv/2-04.%20Interviewers.mp3"
+    },
+    {
+      "title": "Safari Zone",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/bvxbqbge/2-05.%20Safari%20Zone.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Gentleman)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/efrrgjbf/2-06.%20Trainers%27%20Eyes%20Meet%20%28Gentleman%29.mp3"
+    },
+    {
+      "title": "Lilycove City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/voiwlnhx/2-07.%20Lilycove%20City.mp3"
+    },
+    {
+      "title": "Museum",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/piwjfycp/2-08.%20Museum.mp3"
+    },
+    {
+      "title": "Move Deleted",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/ssnmvquz/2-09.%20Move%20Deleted.mp3"
+    },
+    {
+      "title": "Brendan",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/nsawgucc/2-10.%20Brendan.mp3"
+    },
+    {
+      "title": "Battle! (Brendan-May)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/hcrclwbq/2-11.%20Battle%21%20%28Brendan-May%29.mp3"
+    },
+    {
+      "title": "Evolution",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/aconyean/2-12.%20Evolution.mp3"
+    },
+    {
+      "title": "Congratulations! Your Pokémon Evolved!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/naqcpqkc/2-13.%20Congratulations%21%20Your%20Pok%C3%A9mon%20Evolved%21.mp3"
+    },
+    {
+      "title": "Poké Mart",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/hcprqdun/2-14.%20Pok%C3%A9%20Mart.mp3"
+    },
+    {
+      "title": "Mt. Pyre",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/grougyyv/2-15.%20Mt.%20Pyre.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Psychic)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/kkykfvlw/2-16.%20Trainers%27%20Eyes%20Meet%20%28Psychic%29.mp3"
+    },
+    {
+      "title": "Trainers’ Eyes Meet (Hex Maniac)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/wwqqirjv/2-17.%20Trainers%E2%80%99%20Eyes%20Meet%20%28Hex%20Maniac%29.mp3"
+    },
+    {
+      "title": "Mt. Pyre Exterior",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/aqdsfxya/2-18.%20Mt.%20Pyre%20Exterior.mp3"
+    },
+    {
+      "title": "Hideout",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/dtgbnlqw/2-19.%20Hideout.mp3"
+    },
+    {
+      "title": "Obtained an Item!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/muohwjgg/2-20.%20Obtained%20an%20Item%21.mp3"
+    },
+    {
+      "title": "Team Aqua Appears!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/mpnuijxj/2-21.%20Team%20Aqua%20Appears%21.mp3"
+    },
+    {
+      "title": "Battle! (Team Aqua-Team Magma Leaders)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/cjpueofi/2-22.%20Battle%21%20%28Team%20Aqua-Team%20Magma%20Leaders%29.mp3"
+    },
+    {
+      "title": "The Super-Ancient Pokémon Awaken!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/cojfyagh/2-23.%20The%20Super-Ancient%20Pok%C3%A9mon%20Awaken%21.mp3"
+    },
+    {
+      "title": "Drought",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/pfgrpzeu/2-24.%20Drought.mp3"
+    },
+    {
+      "title": "Heavy Rain",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/mapzdumc/2-25.%20Heavy%20Rain.mp3"
+    },
+    {
+      "title": "Dive",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/auvukrgf/2-26.%20Dive.mp3"
+    },
+    {
+      "title": "Sootopolis City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/htasnkoq/2-27.%20Sootopolis%20City.mp3"
+    },
+    {
+      "title": "Cave of Origin",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/kbesyqkc/2-28.%20Cave%20of%20Origin.mp3"
+    },
+    {
+      "title": "Battle! (Super-Ancient Pokémon)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/gzfbrdsb/2-29.%20Battle%21%20%28Super-Ancient%20Pok%C3%A9mon%29.mp3"
+    },
+    {
+      "title": "Trainers’ Eyes Meet (Swimmer♀)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/fyblbwgp/2-30.%20Trainers%E2%80%99%20Eyes%20Meet%20%28Swimmer%E2%99%80%29.mp3"
+    },
+    {
+      "title": "Ever Grande City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/gkgeaoru/2-31.%20Ever%20Grande%20City.mp3"
+    },
+    {
+      "title": "Obtained a Berry!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/zmkorqez/2-32.%20Obtained%20a%20Berry%21.mp3"
+    },
+    {
+      "title": "Contest Lobby",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/kcertvvs/2-33.%20Contest%20Lobby.mp3"
+    },
+    {
+      "title": "Pokémon Contest!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/ciiqhnqq/2-34.%20Pok%C3%A9mon%20Contest%21.mp3"
+    },
+    {
+      "title": "Results Announcement",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/iqfgpede/2-35.%20Results%20Announcement.mp3"
+    },
+    {
+      "title": "Contest Winner",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/jimogodx/2-36.%20Contest%20Winner.mp3"
+    },
+    {
+      "title": "Sealed Chamber",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/dzljnmtk/2-37.%20Sealed%20Chamber.mp3"
+    },
+    {
+      "title": "Battle! (Regirock-Regice-Registeel)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/tptynsyq/2-38.%20Battle%21%20%28Regirock-Regice-Registeel%29.mp3"
+    },
+    {
+      "title": "The Trick House",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/jwfnwvnb/2-39.%20The%20Trick%20House.mp3"
+    },
+    {
+      "title": "Abandoned Ship",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/tqxpglmb/2-40.%20Abandoned%20Ship.mp3"
+    },
+    {
+      "title": "Battle Tower",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/ymngtwcw/2-41.%20Battle%20Tower.mp3"
+    },
+    {
+      "title": "Victory Road",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/aosxjery/2-42.%20Victory%20Road.mp3"
+    },
+    {
+      "title": "Trainers’ Eyes Meet (Cooltrainer)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/qhoyahkb/2-43.%20Trainers%E2%80%99%20Eyes%20Meet%20%28Cooltrainer%29.mp3"
+    },
+    {
+      "title": "The Elite Four Appear!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/dmasnlpr/2-44.%20The%20Elite%20Four%20Appear%21.mp3"
+    },
+    {
+      "title": "Battle! (Elite Four)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/pyzafydt/2-45.%20Battle%21%20%28Elite%20Four%29.mp3"
+    },
+    {
+      "title": "Champion Steven",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/jpywogln/2-46.%20Champion%20Steven.mp3"
+    },
+    {
+      "title": "Battle! (Steven)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/fmwvndbw/2-47.%20Battle%21%20%28Steven%29.mp3"
+    },
+    {
+      "title": "Victory! (Steven)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/hsskylks/2-48.%20Victory%21%20%28Steven%29.mp3"
+    },
+    {
+      "title": "Room of Glory",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/gfflryty/2-49.%20Room%20of%20Glory.mp3"
+    },
+    {
+      "title": "The Hall of Fame",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/kfwqqhmm/2-50.%20The%20Hall%20of%20Fame.mp3"
+    },
+    {
+      "title": "Ending Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/bvwydung/2-51.%20Ending%20Theme.mp3"
+    },
+    {
+      "title": "The End",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/rqdulznp/2-52.%20The%20End.mp3"
+    },
+    {
+      "title": "Trick Master (feat. Karakuri King & Karakuri Chorus)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/kjmlqyta/2-53.%20Trick%20Master%20%28feat.%20Karakuri%20King%20%26%20Karakuri%20Chorus%29.mp3"
+    },
+    {
+      "title": "Slateport City (feat. Hiroko Takano)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/tuooakbz/2-54.%20Slateport%20City%20%28feat.%20Hiroko%20Takano%29.mp3"
+    },
+    {
+      "title": "Steven Stone",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-ruby-sapphire-music-super-complete/vczsoqlk/2-55.%20Steven%20Stone.mp3"
+    }
+  ]
+}

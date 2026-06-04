@@ -241,6 +241,11 @@ body {
         --btn-size: 4em;
         --btn-font-size: 1.4em;
     }
+
+    #playlist-info {
+        margin-bottom: 4em;
+        text-align: center;
+    }
     
     .music-controls {
         gap: 0.5em;
@@ -273,9 +278,9 @@ body {
         padding: 0;
     }
 
-.song-bar {
-    padding: 1.2em 1em;    
-}
+    .song-bar {
+        padding: 1.2em 1em;    
+    }
     #playlist {
         margin-bottom: 22em;
     }
