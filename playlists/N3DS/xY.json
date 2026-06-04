@@ -1,0 +1,857 @@
+{
+  "meta": {
+    "game_title": "Pokémon X & Pokémon Y: Super Music Collection",
+    "art": "https://upload.wikimedia.org/wikipedia/en/d/dc/Pokemon_X_and_Y_box_art.jpg",
+    "desc": "October 12, 2013"
+  },
+  "songs": [
+    {
+      "title": "Title Screen",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/onwsaxob/1-01.%20Title%20Screen.mp3"
+    },
+    {
+      "title": "Opening Movie",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/rdrxnxzc/1-02.%20Opening%20Movie.mp3"
+    },
+    {
+      "title": "Kalos Region Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/rzxoanlt/1-03.%20Kalos%20Region%20Theme.mp3"
+    },
+    {
+      "title": "An Adventure Is Beginning",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/lznrveha/1-04.%20An%20Adventure%20Is%20Beginning.mp3"
+    },
+    {
+      "title": "Vaniville Town",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/cojgcuqu/1-05.%20Vaniville%20Town.mp3"
+    },
+    {
+      "title": "Route 1",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/cbceszsr/1-06.%20Route%201.mp3"
+    },
+    {
+      "title": "Aquacorde Town",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/eyfddgwq/1-07.%20Aquacorde%20Town.mp3"
+    },
+    {
+      "title": "Friends Theme \"A New Meeting\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/mlxebwcw/1-08.%20Friends%20Theme%20%22A%20New%20Meeting%22.mp3"
+    },
+    {
+      "title": "Obtained a Key Item!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/burzwmth/1-09.%20Obtained%20a%20Key%20Item%21.mp3"
+    },
+    {
+      "title": "It's a Pokémon Battle!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/fhrnpljm/1-10.%20It%27s%20a%20Pok%C3%A9mon%20Battle%21.mp3"
+    },
+    {
+      "title": "Battle! (Friend)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/zuykdkrb/1-11.%20Battle%21%20%28Friend%29.mp3"
+    },
+    {
+      "title": "Hurry Along 1",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/pwoflngs/1-12.%20Hurry%20Along%201.mp3"
+    },
+    {
+      "title": "Route 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/dkshkbcj/1-13.%20Route%202.mp3"
+    },
+    {
+      "title": "Santalune Forest",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/lpqhqfdd/1-14.%20Santalune%20Forest.mp3"
+    },
+    {
+      "title": "Obtained an Item!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/kdokilgv/1-15.%20Obtained%20an%20Item%21.mp3"
+    },
+    {
+      "title": "Battle! (Wild Pokémon)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/tuuokinn/1-16.%20Battle%21%20%28Wild%20Pok%C3%A9mon%29.mp3"
+    },
+    {
+      "title": "Victory! (Wild Pokémon)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/hvfrrkyn/1-17.%20Victory%21%20%28Wild%20Pok%C3%A9mon%29.mp3"
+    },
+    {
+      "title": "Level Up!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/uarjtshj/1-18.%20Level%20Up%21.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Youngster)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/vkmfsvbw/1-19.%20Trainers%27%20Eyes%20Meet%20%28Youngster%29.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Lass)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/bimihlhd/1-20.%20Trainers%27%20Eyes%20Meet%20%28Lass%29.mp3"
+    },
+    {
+      "title": "Battle! (Trainer Battle)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/zyudgvjk/1-21.%20Battle%21%20%28Trainer%20Battle%29.mp3"
+    },
+    {
+      "title": "Victory! (Trainer Battle)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/lnhxqljn/1-22.%20Victory%21%20%28Trainer%20Battle%29.mp3"
+    },
+    {
+      "title": "Santalune City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/lprouifa/1-23.%20Santalune%20City.mp3"
+    },
+    {
+      "title": "Pokémon Center",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/npixoanm/1-24.%20Pok%C3%A9mon%20Center.mp3"
+    },
+    {
+      "title": "Pokémon Healed",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/vtfvpjdn/1-25.%20Pok%C3%A9mon%20Healed.mp3"
+    },
+    {
+      "title": "Changed into Basic Clothes (Boy)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/gsvyhozh/1-26.%20Changed%20into%20Basic%20Clothes%20%28Boy%29.mp3"
+    },
+    {
+      "title": "Changed into Basic Clothes (Girl)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/jabclygn/1-27.%20Changed%20into%20Basic%20Clothes%20%28Girl%29.mp3"
+    },
+    {
+      "title": "Pokémon Gym",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/vnfkiosz/1-28.%20Pok%C3%A9mon%20Gym.mp3"
+    },
+    {
+      "title": "Battle! (Gym Leader)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/uasoqmlv/1-29.%20Battle%21%20%28Gym%20Leader%29.mp3"
+    },
+    {
+      "title": "Victory! (Gym Leader)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/vrwgpjys/1-30.%20Victory%21%20%28Gym%20Leader%29.mp3"
+    },
+    {
+      "title": "Obtained a Gym Badge!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/qdundeod/1-31.%20Obtained%20a%20Gym%20Badge%21.mp3"
+    },
+    {
+      "title": "Obtained a TM!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/atqxofhw/1-32.%20Obtained%20a%20TM%21.mp3"
+    },
+    {
+      "title": "Route 4",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/lomrazyv/1-33.%20Route%204.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Poké Fan)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/eknjinqn/1-34.%20Trainers%27%20Eyes%20Meet%20%28Pok%C3%A9%20Fan%29.mp3"
+    },
+    {
+      "title": "Sina and Dexio",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/vmarfbqz/1-35.%20Sina%20and%20Dexio.mp3"
+    },
+    {
+      "title": "Gate",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/zadryrou/1-36.%20Gate.mp3"
+    },
+    {
+      "title": "Lumiose City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/hainoflq/1-37.%20Lumiose%20City.mp3"
+    },
+    {
+      "title": "The Sycamore Pokémon Lab",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/txflomtf/1-38.%20The%20Sycamore%20Pok%C3%A9mon%20Lab.mp3"
+    },
+    {
+      "title": "Professor Sycamore's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/vlvvoizz/1-39.%20Professor%20Sycamore%27s%20Theme.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... You've Just Begun!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/yuavaqey/1-40.%20Pok%C3%A9dex%20Evaluation...%20You%27ve%20Just%20Begun%21.mp3"
+    },
+    {
+      "title": "Dark Skies",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/ebuvsaaa/1-41.%20Dark%20Skies.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Twins)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/chhozewu/1-42.%20Trainers%27%20Eyes%20Meet%20%28Twins%29.mp3"
+    },
+    {
+      "title": "Camphrier Town",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/lwamhbkw/1-43.%20Camphrier%20Town.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Tourist)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/efqkerxm/1-44.%20Trainers%27%20Eyes%20Meet%20%28Tourist%29.mp3"
+    },
+    {
+      "title": "Parfum Palace",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/rwkktoms/1-45.%20Parfum%20Palace.mp3"
+    },
+    {
+      "title": "Together with Shauna",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/fycsdoiz/1-46.%20Together%20with%20Shauna.mp3"
+    },
+    {
+      "title": "Poké Flute",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/acmdencv/1-47.%20Pok%C3%A9%20Flute.mp3"
+    },
+    {
+      "title": "Hurry Along 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/zirjwgpi/1-48.%20Hurry%20Along%202.mp3"
+    },
+    {
+      "title": "Received a Pokémon Egg!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/uatsewuh/1-49.%20Received%20a%20Pok%C3%A9mon%20Egg%21.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... You're on Your Way!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/bmemupoa/1-50.%20Pok%C3%A9dex%20Evaluation...%20You%27re%20on%20Your%20Way%21.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Butler)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/mhbimmxd/1-51.%20Trainers%27%20Eyes%20Meet%20%28Butler%29.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Maid)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/xdwbrcok/1-52.%20Trainers%27%20Eyes%20Meet%20%28Maid%29.mp3"
+    },
+    {
+      "title": "Route 8",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/jotcdndd/1-53.%20Route%208.mp3"
+    },
+    {
+      "title": "Glittering Cave",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/epkihntf/2-01.%20Glittering%20Cave.mp3"
+    },
+    {
+      "title": "Team Flare Appears!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/vnddfqow/2-02.%20Team%20Flare%20Appears%21.mp3"
+    },
+    {
+      "title": "Evolution",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/qpdwyexc/2-03.%20Evolution.mp3"
+    },
+    {
+      "title": "Congratulations! Your Pokémon Evolved!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/rbimihlh/2-04.%20Congratulations%21%20Your%20Pok%C3%A9mon%20Evolved%21.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Swimmer♀)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/cpswczpy/2-05.%20Trainers%27%20Eyes%20Meet%20%28Swimmer%E2%99%80%29.mp3"
+    },
+    {
+      "title": "Cyllage City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/bkwbskxg/2-06.%20Cyllage%20City.mp3"
+    },
+    {
+      "title": "Changed into Colorful Clothes (Boy)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/pfgrpxtz/2-07.%20Changed%20into%20Colorful%20Clothes%20%28Boy%29.mp3"
+    },
+    {
+      "title": "Changed into Sporty Clothes (Girl)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/rnltjqdr/2-08.%20Changed%20into%20Sporty%20Clothes%20%28Girl%29.mp3"
+    },
+    {
+      "title": "Bicycle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/ytwdbxgp/2-09.%20Bicycle.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Hiker)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/glngtzqe/2-10.%20Trainers%27%20Eyes%20Meet%20%28Hiker%29.mp3"
+    },
+    {
+      "title": "Obtained a Berry!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/yhntgxwo/2-11.%20Obtained%20a%20Berry%21.mp3"
+    },
+    {
+      "title": "Geosenge Town",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/fjdquylj/2-12.%20Geosenge%20Town.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... Keep at It!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/lcepjesb/2-13.%20Pok%C3%A9dex%20Evaluation...%20Keep%20at%20It%21.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Honeymooners)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/bfvmzjyo/2-14.%20Trainers%27%20Eyes%20Meet%20%28Honeymooners%29.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Black Belt)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/zfdcauwz/2-15.%20Trainers%27%20Eyes%20Meet%20%28Black%20Belt%29.mp3"
+    },
+    {
+      "title": "Shalour City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/jymsbche/2-16.%20Shalour%20City.mp3"
+    },
+    {
+      "title": "Tower of Mastery",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/aqcmgsxj/2-17.%20Tower%20of%20Mastery.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Roller Skater)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/dojeujoo/2-18.%20Trainers%27%20Eyes%20Meet%20%28Roller%20Skater%29.mp3"
+    },
+    {
+      "title": "Battle! (Successor Korrina)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/fizxpgkk/2-19.%20Battle%21%20%28Successor%20Korrina%29.mp3"
+    },
+    {
+      "title": "Surf",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/skvzisrd/2-20.%20Surf.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Swimmer♂)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/pstnlomu/2-21.%20Trainers%27%20Eyes%20Meet%20%28Swimmer%E2%99%82%29.mp3"
+    },
+    {
+      "title": "Riding Skiddo",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/neicpocv/2-22.%20Riding%20Skiddo.mp3"
+    },
+    {
+      "title": "Coumarine City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/tgbmgxrs/2-23.%20Coumarine%20City.mp3"
+    },
+    {
+      "title": "How About a Song? \"An Unwavering Heart\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/lcftchbn/2-24.%20How%20About%20a%20Song%3F%20%22An%20Unwavering%20Heart%22.mp3"
+    },
+    {
+      "title": "The Kalos Power Plant",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/knidprml/2-25.%20The%20Kalos%20Power%20Plant.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Team Flare)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/rdprnqpd/2-26.%20Trainers%27%20Eyes%20Meet%20%28Team%20Flare%29.mp3"
+    },
+    {
+      "title": "Battle! (Team Flare)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/vsbgakxh/2-27.%20Battle%21%20%28Team%20Flare%29.mp3"
+    },
+    {
+      "title": "A Mysterious Figure",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/sslbyoaj/2-28.%20A%20Mysterious%20Figure.mp3"
+    },
+    {
+      "title": "The Lighting of Prism Tower",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/wcymmapw/2-29.%20The%20Lighting%20of%20Prism%20Tower.mp3"
+    },
+    {
+      "title": "Quiz Time in the Lumiose City Gym!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/rtshiuwa/2-30.%20Quiz%20Time%20in%20the%20Lumiose%20City%20Gym%21.mp3"
+    },
+    {
+      "title": "Friends Theme \"Reunited\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/nmwvqsor/2-31.%20Friends%20Theme%20%22Reunited%22.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... Not Bad!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/qffjgcup/2-32.%20Pok%C3%A9dex%20Evaluation...%20Not%20Bad%21.mp3"
+    },
+    {
+      "title": "Scary House",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/rougvmwy/2-33.%20Scary%20House.mp3"
+    },
+    {
+      "title": "Laverre City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/crdqspyv/2-34.%20Laverre%20City.mp3"
+    },
+    {
+      "title": "Changed into Exotic Clothes (Girl)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/ifbotzrm/2-35.%20Changed%20into%20Exotic%20Clothes%20%28Girl%29.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Furisode Girl)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/hageflnj/2-36.%20Trainers%27%20Eyes%20Meet%20%28Furisode%20Girl%29.mp3"
+    },
+    {
+      "title": "Route 15",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/fzismjhj/2-37.%20Route%2015.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... Looking Good!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/abdnfoec/2-38.%20Pok%C3%A9dex%20Evaluation...%20Looking%20Good%21.mp3"
+    },
+    {
+      "title": "Dendemille Town",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/ynrxmsdn/2-39.%20Dendemille%20Town.mp3"
+    },
+    {
+      "title": "Move Deleted",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/fmtkshkb/2-40.%20Move%20Deleted.mp3"
+    },
+    {
+      "title": "Obtained a Mega Stone!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/epntgxvk/2-41.%20Obtained%20a%20Mega%20Stone%21.mp3"
+    },
+    {
+      "title": "Anistar City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/mfsuwakb/3-01.%20Anistar%20City.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Psychic)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/bbchgkes/3-02.%20Trainers%27%20Eyes%20Meet%20%28Psychic%29.mp3"
+    },
+    {
+      "title": "Changed into Feminine Clothes (Girl)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/cheyfflo/3-03.%20Changed%20into%20Feminine%20Clothes%20%28Girl%29.mp3"
+    },
+    {
+      "title": "Lysandre Labs",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/lnhwkmen/3-04.%20Lysandre%20Labs.mp3"
+    },
+    {
+      "title": "An Eternal Prison",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/yhowswhv/3-05.%20An%20Eternal%20Prison.mp3"
+    },
+    {
+      "title": "The Ultimate Weapon Deployed",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/ievsdktl/3-06.%20The%20Ultimate%20Weapon%20Deployed.mp3"
+    },
+    {
+      "title": "Team Flare Secret HQ",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/ympnumxd/3-07.%20Team%20Flare%20Secret%20HQ.mp3"
+    },
+    {
+      "title": "The Legendary Pokémon Awoken",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/yjxmrxpe/3-08.%20The%20Legendary%20Pok%C3%A9mon%20Awoken.mp3"
+    },
+    {
+      "title": "Battle! (Xerneas - Yveltal - Zygarde)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/czoyyzac/3-09.%20Battle%21%20%28Xerneas%20-%20Yveltal%20-%20Zygarde%29.mp3"
+    },
+    {
+      "title": "Battle! (Lysandre)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/mccfruxe/3-10.%20Battle%21%20%28Lysandre%29.mp3"
+    },
+    {
+      "title": "Victory! (Team Flare)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/caspvknj/3-11.%20Victory%21%20%28Team%20Flare%29.mp3"
+    },
+    {
+      "title": "Firing the Ultimate Weapon (Pokémon X)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/jpywpkgz/3-12.%20Firing%20the%20Ultimate%20Weapon%20%28Pok%C3%A9mon%20X%29.mp3"
+    },
+    {
+      "title": "Firing the Ultimate Weapon (Pokémon Y)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/ewvpkgak/3-13.%20Firing%20the%20Ultimate%20Weapon%20%28Pok%C3%A9mon%20Y%29.mp3"
+    },
+    {
+      "title": "AZ",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/auvxxwqp/3-14.%20AZ.mp3"
+    },
+    {
+      "title": "Route 18",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/bonbpuft/3-15.%20Route%2018.mp3"
+    },
+    {
+      "title": "Friends Theme \"Friends Forever\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/jqdsdqqi/3-16.%20Friends%20Theme%20%22Friends%20Forever%22.mp3"
+    },
+    {
+      "title": "Snowbelle City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/uvxyblcc/3-17.%20Snowbelle%20City.mp3"
+    },
+    {
+      "title": "Changed into Elegant Clothes (Girl)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/ftdkrcly/3-18.%20Changed%20into%20Elegant%20Clothes%20%28Girl%29.mp3"
+    },
+    {
+      "title": "How About a Song? \"Jubilife City\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/ixoyezlf/3-19.%20How%20About%20a%20Song%3F%20%22Jubilife%20City%22.mp3"
+    },
+    {
+      "title": "Pokémon Village",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/ruvxzeye/3-20.%20Pok%C3%A9mon%20Village.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... It's Great!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/cyixobrb/3-21.%20Pok%C3%A9dex%20Evaluation...%20It%27s%20Great%21.mp3"
+    },
+    {
+      "title": "Victory Road",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/ktopfjfy/3-22.%20Victory%20Road.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Ace Trainer)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/zezhnrwj/3-23.%20Trainers%27%20Eyes%20Meet%20%28Ace%20Trainer%29.mp3"
+    },
+    {
+      "title": "The Pokémon League",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/dokkuuoj/3-24.%20The%20Pok%C3%A9mon%20League.mp3"
+    },
+    {
+      "title": "Battle! (Elite Four)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/drxmseqs/3-25.%20Battle%21%20%28Elite%20Four%29.mp3"
+    },
+    {
+      "title": "Battle! (Champion)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/uuojgebu/3-26.%20Battle%21%20%28Champion%29.mp3"
+    },
+    {
+      "title": "Victory! (Champion)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/sevojcjq/3-27.%20Victory%21%20%28Champion%29.mp3"
+    },
+    {
+      "title": "Congratulations on Entering the Hall of Fame!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/bkxeelqv/3-28.%20Congratulations%20on%20Entering%20the%20Hall%20of%20Fame%21.mp3"
+    },
+    {
+      "title": "The Sun Shines Down",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/hzckuthg/3-29.%20The%20Sun%20Shines%20Down.mp3"
+    },
+    {
+      "title": "I'll Go With You",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/jbdppedd/3-30.%20I%27ll%20Go%20With%20You.mp3"
+    },
+    {
+      "title": "KISEKI",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/guhcnjgd/3-31.%20KISEKI.mp3"
+    },
+    {
+      "title": "FIN",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/zkdksjsk/3-32.%20FIN.mp3"
+    },
+    {
+      "title": "The TMV Departs",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/vyhntdmz/4-01.%20The%20TMV%20Departs.mp3"
+    },
+    {
+      "title": "Kiloude City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/mkrcngsw/4-02.%20Kiloude%20City.mp3"
+    },
+    {
+      "title": "Changed into Special Clothes (Boy)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/ehxrqdvs/4-03.%20Changed%20into%20Special%20Clothes%20%28Boy%29.mp3"
+    },
+    {
+      "title": "Changed into Special Clothes (Girl)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/orsnmwwr/4-04.%20Changed%20into%20Special%20Clothes%20%28Girl%29.mp3"
+    },
+    {
+      "title": "Battle Maison",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/tvxyajsk/4-05.%20Battle%20Maison.mp3"
+    },
+    {
+      "title": "Received Battle Points!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/xgodzlfu/4-06.%20Received%20Battle%20Points%21.mp3"
+    },
+    {
+      "title": "Friend Safari",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/knjiowqm/4-07.%20Friend%20Safari.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... It's Amazing!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/pnulwalc/4-08.%20Pok%C3%A9dex%20Evaluation...%20It%27s%20Amazing%21.mp3"
+    },
+    {
+      "title": "Gogoat Shuttle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/fuifbtoo/4-09.%20Gogoat%20Shuttle.mp3"
+    },
+    {
+      "title": "Obtained Wallpapers!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/anmvqtxf/4-10.%20Obtained%20Wallpapers%21.mp3"
+    },
+    {
+      "title": "Shopping",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/ibhhqecx/4-11.%20Shopping.mp3"
+    },
+    {
+      "title": "Sushi High Roller",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/hspxtawe/4-12.%20Sushi%20High%20Roller.mp3"
+    },
+    {
+      "title": "Boutique",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/jhispwog/4-13.%20Boutique.mp3"
+    },
+    {
+      "title": "Changed into Classic Clothes (Boy)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/hbjpxufs/4-14.%20Changed%20into%20Classic%20Clothes%20%28Boy%29.mp3"
+    },
+    {
+      "title": "Changed into Classic Clothes (Girl)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/ynteqpez/4-15.%20Changed%20into%20Classic%20Clothes%20%28Girl%29.mp3"
+    },
+    {
+      "title": "Coiffure Clips",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/lfteqozg/4-16.%20Coiffure%20Clips.mp3"
+    },
+    {
+      "title": "PR Video Studio",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/htwzjxiz/4-17.%20PR%20Video%20Studio.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Cute 1\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/zzwmvsbb/4-18.%20PR%20Video%20BGM%20%22Cute%201%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Cute 2\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/fwrvcykg/4-19.%20PR%20Video%20BGM%20%22Cute%202%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Cute 3\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/crbhhows/4-20.%20PR%20Video%20BGM%20%22Cute%203%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Cute 4\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/xllyixlm/4-21.%20PR%20Video%20BGM%20%22Cute%204%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Elegant 1\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/bwdcawgq/4-22.%20PR%20Video%20BGM%20%22Elegant%201%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Elegant 2\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/kfvnapwp/4-23.%20PR%20Video%20BGM%20%22Elegant%202%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Elegant 3\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/lrabgdyg/4-24.%20PR%20Video%20BGM%20%22Elegant%203%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Elegant 4\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/kilfswek/4-25.%20PR%20Video%20BGM%20%22Elegant%204%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Cool 1\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/kwaoqpct/4-26.%20PR%20Video%20BGM%20%22Cool%201%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Cool 2\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/jqblasmj/4-27.%20PR%20Video%20BGM%20%22Cool%202%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Cool 3\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/kyjdlxdy/4-28.%20PR%20Video%20BGM%20%22Cool%203%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Cool 4\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/kcgzgefm/4-29.%20PR%20Video%20BGM%20%22Cool%204%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Classical 1\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/vqrosynv/4-30.%20PR%20Video%20BGM%20%22Classical%201%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Classical 2\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/pkjmifdb/4-31.%20PR%20Video%20BGM%20%22Classical%202%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Classical 3\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/uvujoswg/4-32.%20PR%20Video%20BGM%20%22Classical%203%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Classical 4\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/rmmzkaay/4-33.%20PR%20Video%20BGM%20%22Classical%204%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Lively 1\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/bsjtptzq/4-34.%20PR%20Video%20BGM%20%22Lively%201%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Lively 2\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/hlkrgcur/4-35.%20PR%20Video%20BGM%20%22Lively%202%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Lively 3\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/bgzggnwt/4-36.%20PR%20Video%20BGM%20%22Lively%203%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Lively 4\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/fvknkomv/4-37.%20PR%20Video%20BGM%20%22Lively%204%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Rhythmical 1\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/okimkopj/4-38.%20PR%20Video%20BGM%20%22Rhythmical%201%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Rhythmical 2\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/zvgtyoyb/4-39.%20PR%20Video%20BGM%20%22Rhythmical%202%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Rhythmical 3\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/jsjvyfiz/4-40.%20PR%20Video%20BGM%20%22Rhythmical%203%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Rhythmical 4\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/xnwwqpcr/4-41.%20PR%20Video%20BGM%20%22Rhythmical%204%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Mature 1\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/dquaspsw/4-42.%20PR%20Video%20BGM%20%22Mature%201%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Mature 2\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/fkmbxjdn/4-43.%20PR%20Video%20BGM%20%22Mature%202%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Mature 3\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/tesynxxw/4-44.%20PR%20Video%20BGM%20%22Mature%203%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Mature 4\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/qowpnrxo/4-45.%20PR%20Video%20BGM%20%22Mature%204%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Thrilling 1\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/ycshiqho/4-46.%20PR%20Video%20BGM%20%22Thrilling%201%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Thrilling 2\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/wqqhnujj/4-47.%20PR%20Video%20BGM%20%22Thrilling%202%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Thrilling 3\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/uuqwiads/4-48.%20PR%20Video%20BGM%20%22Thrilling%203%22.mp3"
+    },
+    {
+      "title": "PR Video BGM \"Thrilling 4\"",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/aaadmasl/4-49.%20PR%20Video%20BGM%20%22Thrilling%204%22.mp3"
+    },
+    {
+      "title": "Another Chapter in Looker's Tale",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/elraetft/4-50.%20Another%20Chapter%20in%20Looker%27s%20Tale.mp3"
+    },
+    {
+      "title": "Looker's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/erwfnxyc/4-51.%20Looker%27s%20Theme.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Punk Guy)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/omtkrdra/4-52.%20Trainers%27%20Eyes%20Meet%20%28Punk%20Guy%29.mp3"
+    },
+    {
+      "title": "Hotel Richissime",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/abgbnmvq/4-53.%20Hotel%20Richissime.mp3"
+    },
+    {
+      "title": "Looker's in Trouble!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/xkimkqyt/4-54.%20Looker%27s%20in%20Trouble%21.mp3"
+    },
+    {
+      "title": "Emma's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/zpboobrc/4-55.%20Emma%27s%20Theme.mp3"
+    },
+    {
+      "title": "Looker's Sorrowful Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/ooalcfui/4-56.%20Looker%27s%20Sorrowful%20Theme.mp3"
+    },
+    {
+      "title": "Berry Picker",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/hmpkfycp/4-57.%20Berry%20Picker.mp3"
+    },
+    {
+      "title": "Head It",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/tweguekp/4-58.%20Head%20It.mp3"
+    },
+    {
+      "title": "Tile Puzzle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/uekqvhxs/4-59.%20Tile%20Puzzle.mp3"
+    },
+    {
+      "title": "Tile Puzzle Complete!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/vcwcyiuz/4-60.%20Tile%20Puzzle%20Complete%21.mp3"
+    },
+    {
+      "title": "Let's Super Train!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/pbkxjcjn/4-61.%20Let%27s%20Super%20Train%21.mp3"
+    },
+    {
+      "title": "Start",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/naqzbjpy/4-62.%20Start.mp3"
+    },
+    {
+      "title": "Super Training!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/vklcbzsp/4-63.%20Super%20Training%21.mp3"
+    },
+    {
+      "title": "Success!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/cxefpfia/4-64.%20Success%21.mp3"
+    },
+    {
+      "title": "Try Again...",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/adqturaa/4-65.%20Try%20Again....mp3"
+    },
+    {
+      "title": "Unlocked a New Super-Training Regimen!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/dpobooed/4-66.%20Unlocked%20a%20New%20Super-Training%20Regimen%21.mp3"
+    },
+    {
+      "title": "Secret Super Training!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/eltinnap/4-67.%20Secret%20Super%20Training%21.mp3"
+    },
+    {
+      "title": "A Poké Radar Hit!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/yxqnsypf/4-68.%20A%20Pok%C3%A9%20Radar%20Hit%21.mp3"
+    },
+    {
+      "title": "Poké Radar Chain!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/htyjdlwa/4-69.%20Pok%C3%A9%20Radar%20Chain%21.mp3"
+    },
+    {
+      "title": "Battle Spot",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/lgvmyhqf/4-70.%20Battle%20Spot.mp3"
+    },
+    {
+      "title": "Wonder Trade",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/fjethcse/4-71.%20Wonder%20Trade.mp3"
+    },
+    {
+      "title": "GTS",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/teszvccf/4-72.%20GTS.mp3"
+    },
+    {
+      "title": "Game Sync",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/tdksfycr/4-73.%20Game%20Sync.mp3"
+    },
+    {
+      "title": "Mystery Gift",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/xairisnk/4-74.%20Mystery%20Gift.mp3"
+    },
+    {
+      "title": "Pokédex Evaluation... It's Complete!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/onamjhli/4-75.%20Pok%C3%A9dex%20Evaluation...%20It%27s%20Complete%21.mp3"
+    },
+    {
+      "title": "Battle! (Mewtwo)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/ffjgbnlr/4-76.%20Battle%21%20%28Mewtwo%29.mp3"
+    },
+    {
+      "title": "Title Screen [Pokémon Red & Pokémon Blue]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/bevoixmu/4-77.%20Title%20Screen%20%5BPok%C3%A9mon%20Red%20%26%20Pok%C3%A9mon%20Blue%5D.mp3"
+    },
+    {
+      "title": "Title Screen [Pokémon Origins]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/neicmfpi/4-78.%20Title%20Screen%20%5BPok%C3%A9mon%20Origins%5D.mp3"
+    },
+    {
+      "title": "Battle! (Wild Pokémon) [Pokémon Red & Pokémon Blue]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/uykfuihn/4-79.%20Battle%21%20%28Wild%20Pok%C3%A9mon%29%20%5BPok%C3%A9mon%20Red%20%26%20Pok%C3%A9mon%20Blue%5D.mp3"
+    },
+    {
+      "title": "Battle! (Wild Pokémon) [Pokémon Origins]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/sxkkslat/4-80.%20Battle%21%20%28Wild%20Pok%C3%A9mon%29%20%5BPok%C3%A9mon%20Origins%5D.mp3"
+    },
+    {
+      "title": "Battle! (Trainer Battle) [Pokémon Red & Pokémon Blue]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/uqwjhgjd/4-81.%20Battle%21%20%28Trainer%20Battle%29%20%5BPok%C3%A9mon%20Red%20%26%20Pok%C3%A9mon%20Blue%5D.mp3"
+    },
+    {
+      "title": "Battle! (Trainer Battle) [Pokémon Origins]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/nhwlonyc/4-82.%20Battle%21%20%28Trainer%20Battle%29%20%5BPok%C3%A9mon%20Origins%5D.mp3"
+    },
+    {
+      "title": "Final Battle! (Rival) [Pokémon Red & Pokémon Blue]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/qzabfycr/4-83.%20Final%20Battle%21%20%28Rival%29%20%5BPok%C3%A9mon%20Red%20%26%20Pok%C3%A9mon%20Blue%5D.mp3"
+    },
+    {
+      "title": "Final Battle! (Rival) [Pokémon Origins]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/vbtquemv/4-84.%20Final%20Battle%21%20%28Rival%29%20%5BPok%C3%A9mon%20Origins%5D.mp3"
+    },
+    {
+      "title": "Cycling [Pokémon Red & Pokémon Blue]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/quasmiev/4-85.%20Cycling%20%5BPok%C3%A9mon%20Red%20%26%20Pok%C3%A9mon%20Blue%5D.mp3"
+    },
+    {
+      "title": "Cycling [Pokémon Origins]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-x-y/pobptymp/4-86.%20Cycling%20%5BPok%C3%A9mon%20Origins%5D.mp3"
+    }
+  ]
+}
