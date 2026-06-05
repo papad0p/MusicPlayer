@@ -1,0 +1,757 @@
+{
+  "meta": {
+    "game_title": "Banjo-Tooie",
+    "art": "https://upload.wikimedia.org/wikipedia/en/4/41/Banjo-Tooie_Coverart.png",
+    "desc": "November 20, 2000"
+  },
+  "songs": [
+    {
+      "title": "Zoom In",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/vmxdzmjm/1-01.%20Zoom%20In.mp3"
+    },
+    {
+      "title": "Banjo-Tooie ~Main Titles~",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/gvlqzwkl/1-02.%20Banjo-Tooie%20~Main%20Titles~.mp3"
+    },
+    {
+      "title": "Game Select",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/avzkfsyq/1-03.%20Game%20Select.mp3"
+    },
+    {
+      "title": "Overture",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/jxmomrwk/1-04.%20Overture.mp3"
+    },
+    {
+      "title": "Banjo's House Blues",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/imjmgufq/1-05.%20Banjo%27s%20House%20Blues.mp3"
+    },
+    {
+      "title": "Spiral Mountain",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/owrwejhj/1-06.%20Spiral%20Mountain.mp3"
+    },
+    {
+      "title": "Collect Blue Eggs",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/aypfizvh/1-07.%20Collect%20Blue%20Eggs.mp3"
+    },
+    {
+      "title": "Equip Blue Eggs",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/yufrsosv/1-08.%20Equip%20Blue%20Eggs.mp3"
+    },
+    {
+      "title": "Spiral Mountain Aquatics",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/apxtcdkq/1-09.%20Spiral%20Mountain%20Aquatics.mp3"
+    },
+    {
+      "title": "Spiral Mountain Caves",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/yxpjxmth/1-10.%20Spiral%20Mountain%20Caves.mp3"
+    },
+    {
+      "title": "Klungo - Minion With A Mission",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/dvuktkxf/1-11.%20Klungo%20-%20Minion%20With%20A%20Mission.mp3"
+    },
+    {
+      "title": "Collect Honeycomb",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/izwnygiw/1-12.%20Collect%20Honeycomb.mp3"
+    },
+    {
+      "title": "Jinjo Village",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ibjqaeuk/1-13.%20Jinjo%20Village.mp3"
+    },
+    {
+      "title": "King Jingaling's Throne Room",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/rdthgkhd/1-14.%20King%20Jingaling%27s%20Throne%20Room.mp3"
+    },
+    {
+      "title": "Jiggy Appear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/vsbfxwrt/1-15.%20Jiggy%20Appear.mp3"
+    },
+    {
+      "title": "Collect Jiggy",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/shglmatq/1-16.%20Collect%20Jiggy.mp3"
+    },
+    {
+      "title": "Meanwhile...",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/zxrqdune/1-17.%20Meanwhile....mp3"
+    },
+    {
+      "title": "An Evil Plan",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ifzismig/1-18.%20An%20Evil%20Plan.mp3"
+    },
+    {
+      "title": "B.O.B. Firing",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/darhkdmz/1-19.%20B.O.B.%20Firing.mp3"
+    },
+    {
+      "title": "B.O.B. Sucking",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/nqrlfqri/1-20.%20B.O.B.%20Sucking.mp3"
+    },
+    {
+      "title": "The Zombie King",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/rismgugx/1-21.%20The%20Zombie%20King.mp3"
+    },
+    {
+      "title": "An Evil Plan Revealed",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/tcfswhvh/1-22.%20An%20Evil%20Plan%20Revealed.mp3"
+    },
+    {
+      "title": "Jinjo Village (Jingaling's Drained Palace Transition)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ywnzhpey/1-23.%20Jinjo%20Village%20%28Jingaling%27s%20Drained%20Palace%20Transition%29.mp3"
+    },
+    {
+      "title": "Jinjo Village (Jingaling's Drained Palace)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/fhwjhhpb/1-24.%20Jinjo%20Village%20%28Jingaling%27s%20Drained%20Palace%29.mp3"
+    },
+    {
+      "title": "In the Hall of the Zombie King",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ptxizytx/1-25.%20In%20the%20Hall%20of%20the%20Zombie%20King.mp3"
+    },
+    {
+      "title": "Jinjo House (Incomplete).",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/iytwdddj/1-26.%20Jinjo%20House%20%28Incomplete%29..mp3"
+    },
+    {
+      "title": "Jinjo Village Caves",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/lcbcfwqr/1-27.%20Jinjo%20Village%20Caves.mp3"
+    },
+    {
+      "title": "Bottles' House",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/kymryrmk/1-28.%20Bottles%27%20House.mp3"
+    },
+    {
+      "title": "Collect Red Feather",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/opixnxwr/1-29.%20Collect%20Red%20Feather.mp3"
+    },
+    {
+      "title": "Collect Gold Feather",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/uznpjerw/1-30.%20Collect%20Gold%20Feather.mp3"
+    },
+    {
+      "title": "Isle O' Hags",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/jgcrclzo/2-01.%20Isle%20O%27%20Hags.mp3"
+    },
+    {
+      "title": "Heggy's Egg Shed",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/vlrclwdz/2-02.%20Heggy%27s%20Egg%20Shed.mp3"
+    },
+    {
+      "title": "Jiggywiggy's Temple",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/nrturado/2-03.%20Jiggywiggy%27s%20Temple.mp3"
+    },
+    {
+      "title": "Jiggywiggy's Challenge (Start)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/jgdvtikb/2-04.%20Jiggywiggy%27s%20Challenge%20%28Start%29.mp3"
+    },
+    {
+      "title": "Jiggywiggy's Challenge (Scatter)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/beruzlij/2-05.%20Jiggywiggy%27s%20Challenge%20%28Scatter%29.mp3"
+    },
+    {
+      "title": "Jiggywiggy's Challenge",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/vargegql/2-06.%20Jiggywiggy%27s%20Challenge.mp3"
+    },
+    {
+      "title": "Jiggywiggy's Challenge (Pick Up Puzzle Piece)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/gxvmwwrv/2-07.%20Jiggywiggy%27s%20Challenge%20%28Pick%20Up%20Puzzle%20Piece%29.mp3"
+    },
+    {
+      "title": "Jiggywiggy's Challenge (Put Down Puzzle Piece)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ehzbjqae/2-08.%20Jiggywiggy%27s%20Challenge%20%28Put%20Down%20Puzzle%20Piece%29.mp3"
+    },
+    {
+      "title": "Failure...",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/vszwiabi/2-09.%20Failure....mp3"
+    },
+    {
+      "title": "Success!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/kazvejhi/2-10.%20Success%21.mp3"
+    },
+    {
+      "title": "Isle O' Hags (Mayahem Temple)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/uxfjfxzc/2-11.%20Isle%20O%27%20Hags%20%28Mayahem%20Temple%29.mp3"
+    },
+    {
+      "title": "Mayahem Temple",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/onxzdtjn/2-12.%20Mayahem%20Temple.mp3"
+    },
+    {
+      "title": "Collect Note",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/nbtnjimk/2-13.%20Collect%20Note.mp3"
+    },
+    {
+      "title": "Collect Treble Clef",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/orpbkwef/2-14.%20Collect%20Treble%20Clef.mp3"
+    },
+    {
+      "title": "Sergeant Jamjar's Lesson",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/nydyivcy/2-15.%20Sergeant%20Jamjar%27s%20Lesson.mp3"
+    },
+    {
+      "title": "Mumbo's Skull",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/khdvtiis/2-16.%20Mumbo%27s%20Skull.mp3"
+    },
+    {
+      "title": "Mumbo's Magic",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/pwkooebx/2-17.%20Mumbo%27s%20Magic.mp3"
+    },
+    {
+      "title": "Magic Jingle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/hubxhvfr/2-18.%20Magic%20Jingle.mp3"
+    },
+    {
+      "title": "Humba Wumba's Wigwam",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/qcsfxzco/2-19.%20Humba%20Wumba%27s%20Wigwam.mp3"
+    },
+    {
+      "title": "Transformation",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/odznsxkg/2-20.%20Transformation.mp3"
+    },
+    {
+      "title": "Outside The Kickball Stadium",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/cqaesdmz/2-21.%20Outside%20The%20Kickball%20Stadium.mp3"
+    },
+    {
+      "title": "Kickball Stadium Lobby",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/nplmaqdt/2-22.%20Kickball%20Stadium%20Lobby.mp3"
+    },
+    {
+      "title": "Mayahem Kickball",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/jnnzkbeo/2-23.%20Mayahem%20Kickball.mp3"
+    },
+    {
+      "title": "Mayahem Temple Aquatics",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/izxnwukr/2-24.%20Mayahem%20Temple%20Aquatics.mp3"
+    },
+    {
+      "title": "Wading Boots",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/fyboqkdo/2-25.%20Wading%20Boots.mp3"
+    },
+    {
+      "title": "Temples of Targitzan",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/gpiubuwz/2-26.%20Temples%20of%20Targitzan.mp3"
+    },
+    {
+      "title": "Targitzan - Despotic Dizzy Totem God",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ebtnicom/2-27.%20Targitzan%20-%20Despotic%20Dizzy%20Totem%20God.mp3"
+    },
+    {
+      "title": "All Jiggies Collected",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/tfwtepnt/2-28.%20All%20Jiggies%20Collected.mp3"
+    },
+    {
+      "title": "Collect Jinjo",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/hbnicolm/2-29.%20Collect%20Jinjo.mp3"
+    },
+    {
+      "title": "All Jinjos Collected",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/dhafxakw/2-30.%20All%20Jinjos%20Collected.mp3"
+    },
+    {
+      "title": "Jinjo House (Completed)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/deklzris/2-31.%20Jinjo%20House%20%28Completed%29.mp3"
+    },
+    {
+      "title": "Cheato Page Appears",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/orsoodar/2-32.%20Cheato%20Page%20Appears.mp3"
+    },
+    {
+      "title": "Collect Cheato Page",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ioxvlqwl/2-33.%20Collect%20Cheato%20Page.mp3"
+    },
+    {
+      "title": "Gruntilda's Lair",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/onwukpsv/2-34.%20Gruntilda%27s%20Lair.mp3"
+    },
+    {
+      "title": "Cheato",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ygkfyage/2-35.%20Cheato.mp3"
+    },
+    {
+      "title": "Activate Cheat",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/flqvgvie/2-36.%20Activate%20Cheat.mp3"
+    },
+    {
+      "title": "Deactivate Cheat",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/xzdvqrlg/2-37.%20Deactivate%20Cheat.mp3"
+    },
+    {
+      "title": "Isle O' Hags (Glitter Gulch Mine)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/yxueluqt/3-01.%20Isle%20O%27%20Hags%20%28Glitter%20Gulch%20Mine%29.mp3"
+    },
+    {
+      "title": "Collect Fire Eggs",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/vxzgiyql/3-02.%20Collect%20Fire%20Eggs.mp3"
+    },
+    {
+      "title": "Equip Fire Eggs",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/gwqntftd/3-03.%20Equip%20Fire%20Eggs.mp3"
+    },
+    {
+      "title": "Glitter Gulch Mine",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/mapzbkto/3-04.%20Glitter%20Gulch%20Mine.mp3"
+    },
+    {
+      "title": "Turbo Trainers",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/pjxmrzuz/3-05.%20Turbo%20Trainers.mp3"
+    },
+    {
+      "title": "Prospector's Hut",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/pbnmthdy/3-06.%20Prospector%27s%20Hut.mp3"
+    },
+    {
+      "title": "Crushing Shed",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/eehzckus/3-07.%20Crushing%20Shed.mp3"
+    },
+    {
+      "title": "Mine Interiors",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/evmzljjv/3-08.%20Mine%20Interiors.mp3"
+    },
+    {
+      "title": "Dark Caverns",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/yfizzyrr/3-09.%20Dark%20Caverns.mp3"
+    },
+    {
+      "title": "Glitter Gulch Mine Aquatics",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/gefnxboq/3-10.%20Glitter%20Gulch%20Mine%20Aquatics.mp3"
+    },
+    {
+      "title": "Racin' With Mary",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/mlvumzov/3-11.%20Racin%27%20With%20Mary.mp3"
+    },
+    {
+      "title": "Glitter Gulch Mine (Near Space Zone)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/mvulvtih/3-12.%20Glitter%20Gulch%20Mine%20%28Near%20Space%20Zone%29.mp3"
+    },
+    {
+      "title": "Pause Screen",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/pbnjjqex/3-13.%20Pause%20Screen.mp3"
+    },
+    {
+      "title": "Ordinance Storage",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/cqabimjm/3-14.%20Ordinance%20Storage.mp3"
+    },
+    {
+      "title": "Old King Coal - Grubby Boiler Monarch",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/frrhnrua/3-15.%20Old%20King%20Coal%20-%20Grubby%20Boiler%20Monarch.mp3"
+    },
+    {
+      "title": "Wonderwing",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/rinsaxmr/3-16.%20Wonderwing.mp3"
+    },
+    {
+      "title": "Collect Empty Honeycomb",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/xnybmibi/3-17.%20Collect%20Empty%20Honeycomb.mp3"
+    },
+    {
+      "title": "Honey B's Hive",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ouiexbmi/3-18.%20Honey%20B%27s%20Hive.mp3"
+    },
+    {
+      "title": "Complete Extra Honeycomb",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/euoiaado/3-19.%20Complete%20Extra%20Honeycomb.mp3"
+    },
+    {
+      "title": "Collect Mystery Honeycomb",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/llzmmyhr/3-20.%20Collect%20Mystery%20Honeycomb.mp3"
+    },
+    {
+      "title": "Collect Skill Honeycomb",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/kaxnumyh/3-21.%20Collect%20Skill%20Honeycomb.mp3"
+    },
+    {
+      "title": "Isle O' Hags (Witchyworld)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/pdyffkly/4-01.%20Isle%20O%27%20Hags%20%28Witchyworld%29.mp3"
+    },
+    {
+      "title": "Collect Grenade Eggs",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/mnfoamha/4-02.%20Collect%20Grenade%20Eggs.mp3"
+    },
+    {
+      "title": "Equip Grenade Eggs",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/gdwbpxqm/4-03.%20Equip%20Grenade%20Eggs.mp3"
+    },
+    {
+      "title": "Witchyworld",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/myivdfrq/4-04.%20Witchyworld.mp3"
+    },
+    {
+      "title": "Wild West Zone",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ggnwujld/4-05.%20Wild%20West%20Zone.mp3"
+    },
+    {
+      "title": "Wild West Zone (Pump Room)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/hbkvyfei/4-06.%20Wild%20West%20Zone%20%28Pump%20Room%29.mp3"
+    },
+    {
+      "title": "Haunted Zone",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/etgzgegr/4-07.%20Haunted%20Zone.mp3"
+    },
+    {
+      "title": "Haunted Zone (Interior)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/qcqxpiwg/4-08.%20Haunted%20Zone%20%28Interior%29.mp3"
+    },
+    {
+      "title": "Madame Grunty",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/qotchfbs/4-09.%20Madame%20Grunty.mp3"
+    },
+    {
+      "title": "Space Zone",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/jskzpdwz/4-10.%20Space%20Zone.mp3"
+    },
+    {
+      "title": "Dodgem Dome",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/fdzpzdse/4-11.%20Dodgem%20Dome.mp3"
+    },
+    {
+      "title": "Fun 'N' Games",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/sbcksino/4-12.%20Fun%20%27N%27%20Games.mp3"
+    },
+    {
+      "title": "Incorrect...",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/gqivekku/4-13.%20Incorrect....mp3"
+    },
+    {
+      "title": "Correct!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/tktomscl/4-14.%20Correct%21.mp3"
+    },
+    {
+      "title": "Success!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ygoakawi/4-15.%20Success%21.mp3"
+    },
+    {
+      "title": "Mini-Game Victory",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/xqmmygmq/4-16.%20Mini-Game%20Victory.mp3"
+    },
+    {
+      "title": "Witchyworld (Conga's Big Top)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/spxrsopj/4-17.%20Witchyworld%20%28Conga%27s%20Big%20Top%29.mp3"
+    },
+    {
+      "title": "Mr. Patch - Strange Wobbly Inflatable Thing",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/cigkgzcq/4-18.%20Mr.%20Patch%20-%20Strange%20Wobbly%20Inflatable%20Thing.mp3"
+    },
+    {
+      "title": "Isle O' Hags Aquatics",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ucenarfb/4-19.%20Isle%20O%27%20Hags%20Aquatics.mp3"
+    },
+    {
+      "title": "Isle O' Hags (Jolly Roger's Lagoon)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/pugugwqn/5-01.%20Isle%20O%27%20Hags%20%28Jolly%20Roger%27s%20Lagoon%29.mp3"
+    },
+    {
+      "title": "Collect Ice Eggs",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/qrmjipzc/5-02.%20Collect%20Ice%20Eggs.mp3"
+    },
+    {
+      "title": "Equip Ice Eggs",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/qvekonal/5-03.%20Equip%20Ice%20Eggs.mp3"
+    },
+    {
+      "title": "Jolly Roger's Lagoon",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/djlemwwr/5-04.%20Jolly%20Roger%27s%20Lagoon.mp3"
+    },
+    {
+      "title": "Jolly's",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/xlollznt/5-05.%20Jolly%27s.mp3"
+    },
+    {
+      "title": "Jolly Roger's Lagoon Aquatics",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/dmaotbbb/5-06.%20Jolly%20Roger%27s%20Lagoon%20Aquatics.mp3"
+    },
+    {
+      "title": "Lose Air",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/cjmifbqz/5-07.%20Lose%20Air.mp3"
+    },
+    {
+      "title": "Atlantis",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/zafydtks/5-08.%20Atlantis.mp3"
+    },
+    {
+      "title": "Inside the Ruins of Atlantis",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/jskwdccg/5-09.%20Inside%20the%20Ruins%20of%20Atlantis.mp3"
+    },
+    {
+      "title": "Shootin' with the Fishes",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/yyxqnqpb/5-10.%20Shootin%27%20with%20the%20Fishes.mp3"
+    },
+    {
+      "title": "Talon Torpedo Time Up",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ptxjabhd/5-11.%20Talon%20Torpedo%20Time%20Up.mp3"
+    },
+    {
+      "title": "Flying Saucer (Sad)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/xanlqyvg/5-12.%20Flying%20Saucer%20%28Sad%29.mp3"
+    },
+    {
+      "title": "Flying Saucer (Happy)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/tzrmifbr/5-13.%20Flying%20Saucer%20%28Happy%29.mp3"
+    },
+    {
+      "title": "Sea Bottom",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/evqqglkr/5-14.%20Sea%20Bottom.mp3"
+    },
+    {
+      "title": "Inside the Big Fish",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/gdxebwdc/5-15.%20Inside%20the%20Big%20Fish.mp3"
+    },
+    {
+      "title": "Inside the Big Fish Aquatics",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/baztwzle/5-16.%20Inside%20the%20Big%20Fish%20Aquatics.mp3"
+    },
+    {
+      "title": "Inside Davy Jones' Locker",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ohtzowta/5-17.%20Inside%20Davy%20Jones%27%20Locker.mp3"
+    },
+    {
+      "title": "Lord Woo Fak Fak - Self-Important Anglerfish",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/xllaqfdy/5-18.%20Lord%20Woo%20Fak%20Fak%20-%20Self-Important%20Anglerfish.mp3"
+    },
+    {
+      "title": "Isle O' Hags (Terrydactyland)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/kdmarfcv/6-01.%20Isle%20O%27%20Hags%20%28Terrydactyland%29.mp3"
+    },
+    {
+      "title": "Collect Clockwork Kazooie Eggs",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/xzhjabfw/6-02.%20Collect%20Clockwork%20Kazooie%20Eggs.mp3"
+    },
+    {
+      "title": "Equip Clockwork Kazooie Eggs",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/sxibgdwz/6-03.%20Equip%20Clockwork%20Kazooie%20Eggs.mp3"
+    },
+    {
+      "title": "Clockwork Kazooie Bomb",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/howruykb/6-04.%20Clockwork%20Kazooie%20Bomb.mp3"
+    },
+    {
+      "title": "Timer Tick Once",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/esyqjxki/6-05.%20Timer%20Tick%20Once.mp3"
+    },
+    {
+      "title": "Timer Ticking",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/leoflqwj/6-06.%20Timer%20Ticking.mp3"
+    },
+    {
+      "title": "Terrydactyland",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/fxybmfqm/6-07.%20Terrydactyland.mp3"
+    },
+    {
+      "title": "Springy-Step Shoes",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ojdppfht/6-08.%20Springy-Step%20Shoes.mp3"
+    },
+    {
+      "title": "Terrydactyland Caves",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/vzlhdvqs/6-09.%20Terrydactyland%20Caves.mp3"
+    },
+    {
+      "title": "Terrydactyland Aquatics",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/skvwzhmp/6-10.%20Terrydactyland%20Aquatics.mp3"
+    },
+    {
+      "title": "Stomping Plains",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/lmdenbtp/6-11.%20Stomping%20Plains.mp3"
+    },
+    {
+      "title": "Terry - Disgruntled Pterodactyl Parent",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/tzriqfda/6-12.%20Terry%20-%20Disgruntled%20Pterodactyl%20Parent.mp3"
+    },
+    {
+      "title": "Isle O' Hags (Grunty Industries)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/utnfqljl/6-13.%20Isle%20O%27%20Hags%20%28Grunty%20Industries%29.mp3"
+    },
+    {
+      "title": "Grunty Industries",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ccigiwjd/6-14.%20Grunty%20Industries.mp3"
+    },
+    {
+      "title": "Inside Grunty Industries",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/qucbazwh/6-15.%20Inside%20Grunty%20Industries.mp3"
+    },
+    {
+      "title": "Claw-Clamber Boots",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/xodznsyn/6-16.%20Claw-Clamber%20Boots.mp3"
+    },
+    {
+      "title": "Clinker's Cavern",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/wsbcikaw/6-17.%20Clinker%27s%20Cavern.mp3"
+    },
+    {
+      "title": "Grunty Industries Aquatics",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/iaacktpr/6-18.%20Grunty%20Industries%20Aquatics.mp3"
+    },
+    {
+      "title": "Basement & Warehouse Interiors",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/nswizxnx/6-19.%20Basement%20%26%20Warehouse%20Interiors.mp3"
+    },
+    {
+      "title": "Weldar - Visually-Impaired Welding Torch",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ajtptymp/6-20.%20Weldar%20-%20Visually-Impaired%20Welding%20Torch.mp3"
+    },
+    {
+      "title": "Isle O' Hags (Hailfire Peaks)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ozexzgfl/7-01.%20Isle%20O%27%20Hags%20%28Hailfire%20Peaks%29.mp3"
+    },
+    {
+      "title": "Hailfire Peaks (Lava Side)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ojevojet/7-02.%20Hailfire%20Peaks%20%28Lava%20Side%29.mp3"
+    },
+    {
+      "title": "Inside the Volcano & Colosseum",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/heamkoqk/7-03.%20Inside%20the%20Volcano%20%26%20Colosseum.mp3"
+    },
+    {
+      "title": "Hailfire Peaks (Ice Side)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ertvxxya/7-04.%20Hailfire%20Peaks%20%28Ice%20Side%29.mp3"
+    },
+    {
+      "title": "Hailfire Peaks Aquatics",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/exzcrytz/7-05.%20Hailfire%20Peaks%20Aquatics.mp3"
+    },
+    {
+      "title": "Boggy's Igloo",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ovndbvaq/7-06.%20Boggy%27s%20Igloo.mp3"
+    },
+    {
+      "title": "Icicle Grotto",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/drbiirjw/7-07.%20Icicle%20Grotto.mp3"
+    },
+    {
+      "title": "Chilli Billi & Chilly Willy - Hot 'n' Spicy & Cold 'n' Icy",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/dcelvsci/7-08.%20Chilli%20Billi%20%26%20Chilly%20Willy%20-%20Hot%20%27n%27%20Spicy%20%26%20Cold%20%27n%27%20Icy.mp3"
+    },
+    {
+      "title": "Isle O' Hags (Cloud Cuckooland)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/lcftepnu/7-09.%20Isle%20O%27%20Hags%20%28Cloud%20Cuckooland%29.mp3"
+    },
+    {
+      "title": "Cloud Cuckooland",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/jmifcupq/7-10.%20Cloud%20Cuckooland.mp3"
+    },
+    {
+      "title": "Central Cavern",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/lhewyzdu/7-11.%20Central%20Cavern.mp3"
+    },
+    {
+      "title": "Cloud Cuckooland Aquatics",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/oiadolme/7-12.%20Cloud%20Cuckooland%20Aquatics.mp3"
+    },
+    {
+      "title": "Inside the Pot O' Gold",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/icomrxnz/7-13.%20Inside%20the%20Pot%20O%27%20Gold.mp3"
+    },
+    {
+      "title": "Inside the Trash Can",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/giwjhhnv/7-14.%20Inside%20the%20Trash%20Can.mp3"
+    },
+    {
+      "title": "Inside the Cheese",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ndbwgobp/7-15.%20Inside%20the%20Cheese.mp3"
+    },
+    {
+      "title": "Cloud Racin' with Mary",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/vifbrfbp/7-16.%20Cloud%20Racin%27%20with%20Mary.mp3"
+    },
+    {
+      "title": "Mingy Jongo - Crafty Shaman Impersonator",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ucfteogq/7-17.%20Mingy%20Jongo%20-%20Crafty%20Shaman%20Impersonator.mp3"
+    },
+    {
+      "title": "Isle O' Hags (Cauldron Keep)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/jxmsacik/8-01.%20Isle%20O%27%20Hags%20%28Cauldron%20Keep%29.mp3"
+    },
+    {
+      "title": "Collect Mine Eggs",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ynvohstq/8-02.%20Collect%20Mine%20Eggs.mp3"
+    },
+    {
+      "title": "Equip Mine Eggs",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/yvfrsmgv/8-03.%20Equip%20Mine%20Eggs.mp3"
+    },
+    {
+      "title": "Cauldron Keep",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/jinswhwl/8-04.%20Cauldron%20Keep.mp3"
+    },
+    {
+      "title": "Tower of Tragedy",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/pqivehxs/8-05.%20Tower%20of%20Tragedy.mp3"
+    },
+    {
+      "title": "Death",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/wdauxdxf/8-06.%20Death.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/hvicpobp/8-07.%20Game%20Over.mp3"
+    },
+    {
+      "title": "Staff Credits",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/vgwqnqqg/8-08.%20Staff%20Credits.mp3"
+    },
+    {
+      "title": "Enter the Heroes",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/lksjqbmd/8-09.%20Enter%20the%20Heroes.mp3"
+    },
+    {
+      "title": "Setting B.O.B. to Blow",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/hcnietjm/8-10.%20Setting%20B.O.B.%20to%20Blow.mp3"
+    },
+    {
+      "title": "Reviving King Jingaling",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ieycshit/8-11.%20Reviving%20King%20Jingaling.mp3"
+    },
+    {
+      "title": "King Jingaling Revived",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/shhozgiu/8-12.%20King%20Jingaling%20Revived.mp3"
+    },
+    {
+      "title": "Now for Bottles...",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/asmfrtup/8-13.%20Now%20for%20Bottles....mp3"
+    },
+    {
+      "title": "Bottles Revived",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/rqbipywn/8-14.%20Bottles%20Revived.mp3"
+    },
+    {
+      "title": "Bottles' Return",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/cvxaldkn/8-15.%20Bottles%27%20Return.mp3"
+    },
+    {
+      "title": "Party at Bottles'",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/jgglnehz/8-16.%20Party%20at%20Bottles%27.mp3"
+    },
+    {
+      "title": "Gun Chamber",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/zytbxjfw/8-17.%20Gun%20Chamber.mp3"
+    },
+    {
+      "title": "Dingpot Recharge",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/tdlvvppc/8-18.%20Dingpot%20Recharge.mp3"
+    },
+    {
+      "title": "Here Comes Trouble...",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/uokinnaq/8-19.%20Here%20Comes%20Trouble....mp3"
+    },
+    {
+      "title": "Hag 1 - Monstrous Mechanical Mud-Muncher",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/cnibinrr/8-20.%20Hag%201%20-%20Monstrous%20Mechanical%20Mud-Muncher.mp3"
+    },
+    {
+      "title": "Hag 1 Hit",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/jvzkbcga/8-21.%20Hag%201%20Hit.mp3"
+    },
+    {
+      "title": "Hag 1 Destroyed",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/kxizxnzg/8-22.%20Hag%201%20Destroyed.mp3"
+    },
+    {
+      "title": "So Much for the Party...",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ivdhcmel/8-23.%20So%20Much%20for%20the%20Party....mp3"
+    },
+    {
+      "title": "The End",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ptxhsqdu/8-24.%20The%20End.mp3"
+    },
+    {
+      "title": "Zoom Out",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-2-banjo-tooie-complete-sound-version/ojcmcatr/8-25.%20Zoom%20Out.mp3"
+    }
+  ]
+}
