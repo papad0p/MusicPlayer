@@ -6,6 +6,10 @@
     --btn-size:3em;
     --btn-font-size:1.5em;
 }
+
+html, body {
+    touch-action: pan-x pan-y;
+}
 body {
     background-color: #222130;
     font-family: inter;

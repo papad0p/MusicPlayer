@@ -1,3 +1,7 @@
+html, body {
+    touch-action: pan-x pan-y;
+}
+
 body {
     background-color: #222130;
     color: #eee;
