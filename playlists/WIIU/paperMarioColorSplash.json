@@ -1,0 +1,953 @@
+{
+  "meta": {
+    "game_title": "Paper Mario: Color Splash",
+    "art": "https://mario.wiki.gallery/images/thumb/c/ce/PMCS_Boxart.png/800px-PMCS_Boxart.png",
+    "desc": "October 7, 2016"
+  },
+  "songs": [
+    {
+      "title": "Wii U Loading",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/wfgyfbutpf/001.%20Wii%20U%20Loading.mp3"
+    },
+    {
+      "title": "Main Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/hvvfjhoakn/002.%20Main%20Theme.mp3"
+    },
+    {
+      "title": "White Letter Opening",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ckhxdaajwg/003.%20White%20Letter%20Opening.mp3"
+    },
+    {
+      "title": "Meet Peach",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/czeenanblp/004.%20Meet%20Peach.mp3"
+    },
+    {
+      "title": "Meet Mario",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/xcdzemqbef/005.%20Meet%20Mario.mp3"
+    },
+    {
+      "title": "Broken Down Town",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/cswxwcbtmm/006.%20Broken%20Down%20Town.mp3"
+    },
+    {
+      "title": "Meet Huey",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/hciyrxiaaz/007.%20Meet%20Huey.mp3"
+    },
+    {
+      "title": "Toad In Trouble!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/yonaoqtxef/008.%20Toad%20In%20Trouble%21.mp3"
+    },
+    {
+      "title": "Straw of Doom",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/mtsucrloiy/009.%20Straw%20of%20Doom.mp3"
+    },
+    {
+      "title": "Surprise Sting 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/klznvfhqwp/010.%20Surprise%20Sting%202.mp3"
+    },
+    {
+      "title": "New Card Get",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/nvbyyahrlv/011.%20New%20Card%20Get.mp3"
+    },
+    {
+      "title": "#1 Thing Squeezer",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/fwcnrdezeo/012.%20%231%20Thing%20Squeezer.mp3"
+    },
+    {
+      "title": "Item Get",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/srsydnxozj/013.%20Item%20Get.mp3"
+    },
+    {
+      "title": "Fight! (Normal Intro)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/pzdozyrrtg/014.%20Fight%21%20%28Normal%20Intro%29.mp3"
+    },
+    {
+      "title": "Fight!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ibcgrutklg/015.%20Fight%21.mp3"
+    },
+    {
+      "title": "Fight! (Enemy Intro)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/srotmqfwaz/016.%20Fight%21%20%28Enemy%20Intro%29.mp3"
+    },
+    {
+      "title": "Fight! (Mario Intro)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/uteptfbdgy/017.%20Fight%21%20%28Mario%20Intro%29.mp3"
+    },
+    {
+      "title": "Fight! (Win)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/zhtctciqbm/018.%20Fight%21%20%28Win%29.mp3"
+    },
+    {
+      "title": "Sketchy Corner",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/pfcabaerir/019.%20Sketchy%20Corner.mp3"
+    },
+    {
+      "title": "Level Up! ~ Skill Learned",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ycgcnryqeh/020.%20Level%20Up%21%20~%20Skill%20Learned.mp3"
+    },
+    {
+      "title": "Rushing Down the Waterway",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/tmuckschpl/021.%20Rushing%20Down%20the%20Waterway.mp3"
+    },
+    {
+      "title": "Port Prisma",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/bddzauzhut/022.%20Port%20Prisma.mp3"
+    },
+    {
+      "title": "Mini Paint Star Get",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/eselmayyer/023.%20Mini%20Paint%20Star%20Get.mp3"
+    },
+    {
+      "title": "Overworld 1",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/cetsqtpaap/024.%20Overworld%201.mp3"
+    },
+    {
+      "title": "Ruddy Road",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/esiujkdzxk/025.%20Ruddy%20Road.mp3"
+    },
+    {
+      "title": "Circle Up, Shy Guys!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/xvlwkgwkhg/026.%20Circle%20Up%2C%20Shy%20Guys%21.mp3"
+    },
+    {
+      "title": "Prisma Café",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/awojqapyyn/027.%20Prisma%20Caf%C3%A9.mp3"
+    },
+    {
+      "title": "Shy Vandals",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/yluejdagbf/028.%20Shy%20Vandals.mp3"
+    },
+    {
+      "title": "Find Rescue Squad Leader",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/jwlvnwcfny/029.%20Find%20Rescue%20Squad%20Leader.mp3"
+    },
+    {
+      "title": "Cut Out the Cutout!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/suzxxruvfk/030.%20Cut%20Out%20the%20Cutout%21.mp3"
+    },
+    {
+      "title": "Cherry Lake",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/scthseaukg/031.%20Cherry%20Lake.mp3"
+    },
+    {
+      "title": "Power of the Chosen",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/yqpukurogm/032.%20Power%20of%20the%20Chosen.mp3"
+    },
+    {
+      "title": "Prisma Cardware",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/szhnihskjt/033.%20Prisma%20Cardware.mp3"
+    },
+    {
+      "title": "Prisma Museum Open",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ihkgtwjdsy/034.%20Prisma%20Museum%20Open.mp3"
+    },
+    {
+      "title": "Prisma Museum",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/eukhjcobkn/035.%20Prisma%20Museum.mp3"
+    },
+    {
+      "title": "Prisma Museum Complete 1",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/fukpotatlo/036.%20Prisma%20Museum%20Complete%201.mp3"
+    },
+    {
+      "title": "Prisma Museum Complete 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/hrerhklnwk/037.%20Prisma%20Museum%20Complete%202.mp3"
+    },
+    {
+      "title": "Prisma Postal Toad",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/pfgiltdszl/038.%20Prisma%20Postal%20Toad.mp3"
+    },
+    {
+      "title": "Rescue Toad Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/cczgadtnbt/039.%20Rescue%20Toad%20Theme.mp3"
+    },
+    {
+      "title": "Roshambo Temple",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/bkqyoxrlio/040.%20Roshambo%20Temple.mp3"
+    },
+    {
+      "title": "Roshambo Start",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ifiwggbenl/041.%20Roshambo%20Start.mp3"
+    },
+    {
+      "title": "Roshambo Game",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/rapndedkin/042.%20Roshambo%20Game.mp3"
+    },
+    {
+      "title": "Roshambo Lose",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/mpipknuofw/043.%20Roshambo%20Lose.mp3"
+    },
+    {
+      "title": "Roshambo Win",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/rvblbsotsh/044.%20Roshambo%20Win.mp3"
+    },
+    {
+      "title": "Roshambo Wizard",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/szebbkhnwp/045.%20Roshambo%20Wizard.mp3"
+    },
+    {
+      "title": "Roshambo Victory",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/nerfbqrdim/046.%20Roshambo%20Victory.mp3"
+    },
+    {
+      "title": "Indigo Underground",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/mhxrmvvvcf/047.%20Indigo%20Underground.mp3"
+    },
+    {
+      "title": "Unsettling Scene",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/atpmehaanf/048.%20Unsettling%20Scene.mp3"
+    },
+    {
+      "title": "Straw of Doom (Reprise) Sting",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/bpzggpylqg/049.%20Straw%20of%20Doom%20%28Reprise%29%20Sting.mp3"
+    },
+    {
+      "title": "Straw of Doom (Reprise)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/qpavorqwzi/050.%20Straw%20of%20Doom%20%28Reprise%29.mp3"
+    },
+    {
+      "title": "Rescue Squad Complete",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/bpbylvomwr/051.%20Rescue%20Squad%20Complete.mp3"
+    },
+    {
+      "title": "Bloo Bay Beach",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/douokjtigj/052.%20Bloo%20Bay%20Beach.mp3"
+    },
+    {
+      "title": "Onstage at Oceanfest",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/pibqxehnkf/053.%20Onstage%20at%20Oceanfest.mp3"
+    },
+    {
+      "title": "Toad Shuffle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/oulholgfpn/054.%20Toad%20Shuffle.mp3"
+    },
+    {
+      "title": "On Blissful Beach",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/abnreapncr/055.%20On%20Blissful%20Beach.mp3"
+    },
+    {
+      "title": "Paper Pipeline",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/wnqlrguopd/056.%20Paper%20Pipeline.mp3"
+    },
+    {
+      "title": "Daffodil Peak",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ozfjsvwyan/057.%20Daffodil%20Peak.mp3"
+    },
+    {
+      "title": "Unfurl Power",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/bbgeevjspj/058.%20Unfurl%20Power.mp3"
+    },
+    {
+      "title": "The Ranger's Cabin",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/xdisblotah/059.%20The%20Ranger%27s%20Cabin.mp3"
+    },
+    {
+      "title": "Surprise Sting 1",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/tokogbepgd/060.%20Surprise%20Sting%201.mp3"
+    },
+    {
+      "title": "Bowser's Airship Aloft",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/wyobndpbej/061.%20Bowser%27s%20Airship%20Aloft.mp3"
+    },
+    {
+      "title": "The Crimson Tower",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/mdkflrmvbn/062.%20The%20Crimson%20Tower.mp3"
+    },
+    {
+      "title": "Meet Koopaling",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/qbbdpczftd/063.%20Meet%20Koopaling.mp3"
+    },
+    {
+      "title": "Boss Incoming!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/fblogcimxn/064.%20Boss%20Incoming%21.mp3"
+    },
+    {
+      "title": "ME WILL ROCK ME",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/isplvbbnfj/065.%20ME%20WILL%20ROCK%20ME.mp3"
+    },
+    {
+      "title": "Thing Fire Extinguisher",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/mupqjqlrjm/066.%20Thing%20Fire%20Extinguisher.mp3"
+    },
+    {
+      "title": "Big Paint Star Get",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ajdrqdgzxn/067.%20Big%20Paint%20Star%20Get.mp3"
+    },
+    {
+      "title": "You Got the Paint Star!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/enleuqxrhe/068.%20You%20Got%20the%20Paint%20Star%21.mp3"
+    },
+    {
+      "title": "Paint Star Memories",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/zcepvetoyx/069.%20Paint%20Star%20Memories.mp3"
+    },
+    {
+      "title": "Bowser Attacks Port Prisma",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ehdwitrqme/070.%20Bowser%20Attacks%20Port%20Prisma.mp3"
+    },
+    {
+      "title": "Prism Samba",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/giwfkeznqz/071.%20Prism%20Samba.mp3"
+    },
+    {
+      "title": "Overworld 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/hxwipiuilh/072.%20Overworld%202.mp3"
+    },
+    {
+      "title": "Sunglow Ridge",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/sperazcfpn/073.%20Sunglow%20Ridge.mp3"
+    },
+    {
+      "title": "Circle Up, Shy Guys! (Sunglow Ridge)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/xrhnuxdlni/074.%20Circle%20Up%2C%20Shy%20Guys%21%20%28Sunglow%20Ridge%29.mp3"
+    },
+    {
+      "title": "Château Chanterelle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/mucfwblfgh/075.%20Ch%C3%A2teau%20Chanterelle.mp3"
+    },
+    {
+      "title": "Unremarkable Forst",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/knjjpmqxpk/076.%20Unremarkable%20Forst.mp3"
+    },
+    {
+      "title": "Mondo Woods",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/owspquyvpi/077.%20Mondo%20Woods.mp3"
+    },
+    {
+      "title": "Kamek's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/iaqcmgxsuy/078.%20Kamek%27s%20Theme.mp3"
+    },
+    {
+      "title": "The Happy Professor",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/auoexqcdog/079.%20The%20Happy%20Professor.mp3"
+    },
+    {
+      "title": "Marmalade Valley",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ojcysrdfut/080.%20Marmalade%20Valley.mp3"
+    },
+    {
+      "title": "Farewell 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/gygbhfksyl/081.%20Farewell%202.mp3"
+    },
+    {
+      "title": "Li'l Princess, Big Bark",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/brzmheayxe/082.%20Li%27l%20Princess%2C%20Big%20Bark.mp3"
+    },
+    {
+      "title": "Kiwano Temple",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/feibspmvww/083.%20Kiwano%20Temple.mp3"
+    },
+    {
+      "title": "Magma Flows, Lava Glows",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/fqowyacphm/084.%20Magma%20Flows%2C%20Lava%20Glows.mp3"
+    },
+    {
+      "title": "A Fearsome Foe",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/jaojvrzvei/085.%20A%20Fearsome%20Foe.mp3"
+    },
+    {
+      "title": "The Golden Coliseum",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/sfzquzfebo/086.%20The%20Golden%20Coliseum.mp3"
+    },
+    {
+      "title": "Super Smashle Royal",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/nlkriybqcj/087.%20Super%20Smashle%20Royal.mp3"
+    },
+    {
+      "title": "Iggy Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/qpmxdvstyw/088.%20Iggy%20Battle.mp3"
+    },
+    {
+      "title": "Prisma Prance Trance",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/uewfqebypm/089.%20Prisma%20Prance%20Trance.mp3"
+    },
+    {
+      "title": "Overworld 3",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/trrlmyojdd/090.%20Overworld%203.mp3"
+    },
+    {
+      "title": "Eerie Hotel",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/burplwgmdl/091.%20Eerie%20Hotel.mp3"
+    },
+    {
+      "title": "Paranormal Accommodations",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ouvwkdlcyg/092.%20Paranormal%20Accommodations.mp3"
+    },
+    {
+      "title": "Poisonous Plum Park",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/sypeujzuzc/093.%20Poisonous%20Plum%20Park.mp3"
+    },
+    {
+      "title": "Careless in Love",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ynlsfjsklr/094.%20Careless%20in%20Love.mp3"
+    },
+    {
+      "title": "Soul Rumblings",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ctojbsxriy/095.%20Soul%20Rumblings.mp3"
+    },
+    {
+      "title": "Plum Park",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/siljcvfcwh/096.%20Plum%20Park.mp3"
+    },
+    {
+      "title": "Thing Teapot",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/owgxmlrejg/097.%20Thing%20Teapot.mp3"
+    },
+    {
+      "title": "Toadally Spooky",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/qxiwpkgivc/098.%20Toadally%20Spooky.mp3"
+    },
+    {
+      "title": "Dark Bloo Inn",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/kgnsiqnpfw/099.%20Dark%20Bloo%20Inn.mp3"
+    },
+    {
+      "title": "A Forest So Sacred",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/lhzwzwwzoj/100.%20A%20Forest%20So%20Sacred.mp3"
+    },
+    {
+      "title": "Goomba 5-Stack Jam",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/akarmaaulp/101.%20Goomba%205-Stack%20Jam.mp3"
+    },
+    {
+      "title": "Kickin' the Invincible",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/bmmcklroew/102.%20Kickin%27%20the%20Invincible.mp3"
+    },
+    {
+      "title": "Snifit or Whiffit Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/xckcirkyhb/103.%20Snifit%20or%20Whiffit%20Theme.mp3"
+    },
+    {
+      "title": "Snifit or Whiffit Question",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/seeaqckozi/104.%20Snifit%20or%20Whiffit%20Question.mp3"
+    },
+    {
+      "title": "Look Sharp!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/jrxoyfnkuu/105.%20Look%20Sharp%21.mp3"
+    },
+    {
+      "title": "Your Answers, Please!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/cmbocyegox/106.%20Your%20Answers%2C%20Please%21.mp3"
+    },
+    {
+      "title": "Snifit or Whiffit Correct",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/tnyqlgvosm/107.%20Snifit%20or%20Whiffit%20Correct.mp3"
+    },
+    {
+      "title": "Fort Cobalt",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/nxbpnnxnhn/108.%20Fort%20Cobalt.mp3"
+    },
+    {
+      "title": "Shy Guy Squads",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/bjsahukxfl/109.%20Shy%20Guy%20Squads.mp3"
+    },
+    {
+      "title": "Super Ludship",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/wqeyxrtzcw/110.%20Super%20Ludship.mp3"
+    },
+    {
+      "title": "Battle with Ludwig",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/wiityeuckt/111.%20Battle%20with%20Ludwig.mp3"
+    },
+    {
+      "title": "Color Waltz",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/hxxbkmpyto/112.%20Color%20Waltz.mp3"
+    },
+    {
+      "title": "Overworld 4",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/wkbdmhjajb/113.%20Overworld%204.mp3"
+    },
+    {
+      "title": "Get the Boat Back",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/twlffirwad/114.%20Get%20the%20Boat%20Back.mp3"
+    },
+    {
+      "title": "Violet Passage",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/lbnonccpip/115.%20Violet%20Passage.mp3"
+    },
+    {
+      "title": "To the Open Sea!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/tylakfuysh/116.%20To%20the%20Open%20Sea%21.mp3"
+    },
+    {
+      "title": "Sailor's Song",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/rzyldvfjac/117.%20Sailor%27s%20Song.mp3"
+    },
+    {
+      "title": "Island in Violet",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/qupdvqacnm/118.%20Island%20in%20Violet.mp3"
+    },
+    {
+      "title": "Island in Violet (Parallel)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/wksnzbdafs/119.%20Island%20in%20Violet%20%28Parallel%29.mp3"
+    },
+    {
+      "title": "Fight! (Normal Intro) (Parallel Mix)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/vyqdiapyrq/120.%20Fight%21%20%28Normal%20Intro%29%20%28Parallel%20Mix%29.mp3"
+    },
+    {
+      "title": "Fight! (Parallel Mix)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/vdrhedsvxi/121.%20Fight%21%20%28Parallel%20Mix%29.mp3"
+    },
+    {
+      "title": "Fight! (Enemy Intro) (Parallel Mix)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ekptqccynd/122.%20Fight%21%20%28Enemy%20Intro%29%20%28Parallel%20Mix%29.mp3"
+    },
+    {
+      "title": "Fight! (Mario Intro) (Parallel Mix)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/klbyqginpp/123.%20Fight%21%20%28Mario%20Intro%29%20%28Parallel%20Mix%29.mp3"
+    },
+    {
+      "title": "Fight! (Win) (Parallel Mix)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/qymxjvgtai/124.%20Fight%21%20%28Win%29%20%28Parallel%20Mix%29.mp3"
+    },
+    {
+      "title": "Lighthouse Disco",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/dbtpbmwkij/125.%20Lighthouse%20Disco.mp3"
+    },
+    {
+      "title": "Fortune Island, Ahoy!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/oxioazetow/126.%20Fortune%20Island%2C%20Ahoy%21.mp3"
+    },
+    {
+      "title": "Fortune Island",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ybhykrfiue/127.%20Fortune%20Island.mp3"
+    },
+    {
+      "title": "Fortune Island (Parallel)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/pfojjbqjkq/128.%20Fortune%20Island%20%28Parallel%29.mp3"
+    },
+    {
+      "title": "Rumble with Wendy",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/afcinhjdsn/129.%20Rumble%20with%20Wendy.mp3"
+    },
+    {
+      "title": "Thing Instant Camera",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/uaugthfhuw/130.%20Thing%20Instant%20Camera.mp3"
+    },
+    {
+      "title": "Prismatic Rhapsody",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/unlddhhutl/131.%20Prismatic%20Rhapsody.mp3"
+    },
+    {
+      "title": "Overworld 5",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/uzupbpccvs/132.%20Overworld%205.mp3"
+    },
+    {
+      "title": "Hole in the Sand",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ssalysfamh/133.%20Hole%20in%20the%20Sand.mp3"
+    },
+    {
+      "title": "Lost",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/zmblxagnxe/134.%20Lost.mp3"
+    },
+    {
+      "title": "Snifit Hideout",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/wfejbnfyvc/135.%20Snifit%20Hideout.mp3"
+    },
+    {
+      "title": "Attack of the Pokeys",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/bbumropvbg/136.%20Attack%20of%20the%20Pokeys.mp3"
+    },
+    {
+      "title": "Train Accident",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/beepbopeei/137.%20Train%20Accident.mp3"
+    },
+    {
+      "title": "Toad Trainworks",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/pladywgxji/138.%20Toad%20Trainworks.mp3"
+    },
+    {
+      "title": "Fanfare of Revival",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/myfyzlpcph/139.%20Fanfare%20of%20Revival.mp3"
+    },
+    {
+      "title": "Crane Game",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/srcixjyypu/140.%20Crane%20Game.mp3"
+    },
+    {
+      "title": "Train Complete",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/pnmqktnstf/141.%20Train%20Complete.mp3"
+    },
+    {
+      "title": "Tangerino Grill",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/rxhasodrax/142.%20Tangerino%20Grill.mp3"
+    },
+    {
+      "title": "Kitchen Stadium",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ftmwxfkqrb/143.%20Kitchen%20Stadium.mp3"
+    },
+    {
+      "title": "Cooking with Mario",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ptqdrcviug/144.%20Cooking%20with%20Mario.mp3"
+    },
+    {
+      "title": "Cooking Done",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/mgfcnufpgr/145.%20Cooking%20Done.mp3"
+    },
+    {
+      "title": "Cooking Judge",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/iqtghzcekk/146.%20Cooking%20Judge.mp3"
+    },
+    {
+      "title": "Thing Salt and Pepper",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/cvfgziziop/147.%20Thing%20Salt%20and%20Pepper.mp3"
+    },
+    {
+      "title": "Thing Charcoal Grill",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/cyzkekpjty/148.%20Thing%20Charcoal%20Grill.mp3"
+    },
+    {
+      "title": "Thing Lemon",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/kwshcsscji/149.%20Thing%20Lemon.mp3"
+    },
+    {
+      "title": "Sunset Express",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/tkryjuvrnv/150.%20Sunset%20Express.mp3"
+    },
+    {
+      "title": "The Wandering Sombrero",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/rdksprjizx/151.%20The%20Wandering%20Sombrero.mp3"
+    },
+    {
+      "title": "Larry's Runaway Train",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/wbyytvjcwe/152.%20Larry%27s%20Runaway%20Train.mp3"
+    },
+    {
+      "title": "This Here's Paint Country!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/gfcflygbun/153.%20This%20Here%27s%20Paint%20Country%21.mp3"
+    },
+    {
+      "title": "Overworld 6",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/prssfxjncf/154.%20Overworld%206.mp3"
+    },
+    {
+      "title": "Redpepper Volcano",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/jhxcleejku/155.%20Redpepper%20Volcano.mp3"
+    },
+    {
+      "title": "Flame On, Draggadon!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/pointlgkam/156.%20Flame%20On%2C%20Draggadon%21.mp3"
+    },
+    {
+      "title": "Redpepper Spa",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/qaqggjtbhx/157.%20Redpepper%20Spa.mp3"
+    },
+    {
+      "title": "Battery A",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/sfjocobgrh/158.%20Battery%20A.mp3"
+    },
+    {
+      "title": "Battery B",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ucnfoczttt/159.%20Battery%20B.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 Ground (Perspective)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/akeqqvznef/160.%20Super%20Mario%20Bros.%203%20Ground%20%28Perspective%29.mp3"
+    },
+    {
+      "title": "Fight! (Normal Intro) (Pixel Mix)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ueyxyjbftw/161.%20Fight%21%20%28Normal%20Intro%29%20%28Pixel%20Mix%29.mp3"
+    },
+    {
+      "title": "Fight! (Pixel Mix)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/mmpmtgstcl/162.%20Fight%21%20%28Pixel%20Mix%29.mp3"
+    },
+    {
+      "title": "Fight! (Enemy Intro) (Pixel Mix)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/mgidehaudx/163.%20Fight%21%20%28Enemy%20Intro%29%20%28Pixel%20Mix%29.mp3"
+    },
+    {
+      "title": "Fight! (Mario Intro) (Pixel Mix)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/tzixlpaeyk/164.%20Fight%21%20%28Mario%20Intro%29%20%28Pixel%20Mix%29.mp3"
+    },
+    {
+      "title": "Fight! (Win) (Pixel Mix)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/gpswxpvnme/165.%20Fight%21%20%28Win%29%20%28Pixel%20Mix%29.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 Undergrround (Perspective)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/iisxkqiort/166.%20Super%20Mario%20Bros.%203%20Undergrround%20%28Perspective%29.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 Athletic (Perspective)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/etppanojie/167.%20Super%20Mario%20Bros.%203%20Athletic%20%28Perspective%29.mp3"
+    },
+    {
+      "title": "Super Mario Bros. 3 Castle (Perspective)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/dnmzdnyrlr/168.%20Super%20Mario%20Bros.%203%20Castle%20%28Perspective%29.mp3"
+    },
+    {
+      "title": "Mossrock Theater",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/hlnxhptvbe/169.%20Mossrock%20Theater.mp3"
+    },
+    {
+      "title": "The Juggler (Piano)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/vzuwqzdknp/170.%20The%20Juggler%20%28Piano%29.mp3"
+    },
+    {
+      "title": "The Juggler",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/efddotieqy/171.%20The%20Juggler.mp3"
+    },
+    {
+      "title": "Emerald Circus Reveal",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/prubvmirbh/172.%20Emerald%20Circus%20Reveal.mp3"
+    },
+    {
+      "title": "Emerald Circus",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ewevxdfsld/173.%20Emerald%20Circus.mp3"
+    },
+    {
+      "title": "Illusion",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/lkuxblztbd/174.%20Illusion.mp3"
+    },
+    {
+      "title": "Lemmy's Grand Finale",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/xduuvxqdfv/175.%20Lemmy%27s%20Grand%20Finale.mp3"
+    },
+    {
+      "title": "Thing Disco Ball",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ysindnattw/176.%20Thing%20Disco%20Ball.mp3"
+    },
+    {
+      "title": "Thing Ice Pick",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/sicfuzuatw/177.%20Thing%20Ice%20Pick.mp3"
+    },
+    {
+      "title": "Paint the Dance Floor",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ceasxvqpfj/178.%20Paint%20the%20Dance%20Floor.mp3"
+    },
+    {
+      "title": "Rainbow Road Appears",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/zpbxkgsbhm/179.%20Rainbow%20Road%20Appears.mp3"
+    },
+    {
+      "title": "Mario Kart 8 Title",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/xdfzpbyumx/180.%20Mario%20Kart%208%20Title.mp3"
+    },
+    {
+      "title": "Rainbow Road",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/woyckjnlbg/181.%20Rainbow%20Road.mp3"
+    },
+    {
+      "title": "Black Bowser's Castle Intro 1",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ruvfpopdlm/182.%20Black%20Bowser%27s%20Castle%20Intro%201.mp3"
+    },
+    {
+      "title": "Black Bowser's Castle Intro 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/mnzgqzfogl/183.%20Black%20Bowser%27s%20Castle%20Intro%202.mp3"
+    },
+    {
+      "title": "Circle Up, Shy Guys! (Black Bowser's Castle) Intro",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/wjkzhglbfw/184.%20Circle%20Up%2C%20Shy%20Guys%21%20%28Black%20Bowser%27s%20Castle%29%20Intro.mp3"
+    },
+    {
+      "title": "Circle Up, Shy Guys! (Black Bowser's Castle)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/hqbbketgzz/185.%20Circle%20Up%2C%20Shy%20Guys%21%20%28Black%20Bowser%27s%20Castle%29.mp3"
+    },
+    {
+      "title": "ROYal Rumble",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/vtihtdpbjs/186.%20ROYal%20Rumble.mp3"
+    },
+    {
+      "title": "ROYal Rumble (Yellow)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/mdxhgcimpg/187.%20ROYal%20Rumble%20%28Yellow%29.mp3"
+    },
+    {
+      "title": "ROYal Rumble (Blue)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/wqfnlxxxkp/188.%20ROYal%20Rumble%20%28Blue%29.mp3"
+    },
+    {
+      "title": "ROYal Rumble (Black)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/clxlqpbowl/189.%20ROYal%20Rumble%20%28Black%29.mp3"
+    },
+    {
+      "title": "Black Bowser's Castle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ewpvluvbkt/190.%20Black%20Bowser%27s%20Castle.mp3"
+    },
+    {
+      "title": "Bowser's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/eegglipwdp/191.%20Bowser%27s%20Theme.mp3"
+    },
+    {
+      "title": "Bowser Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/mpvmmnisis/192.%20Bowser%20Battle.mp3"
+    },
+    {
+      "title": "Blackout",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/cezqtlkunb/193.%20Blackout.mp3"
+    },
+    {
+      "title": "Farewell",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/hhfiiogszn/194.%20Farewell.mp3"
+    },
+    {
+      "title": "Peace Once More",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/jynedrxgxa/195.%20Peace%20Once%20More.mp3"
+    },
+    {
+      "title": "Prisma Splash!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/qesrjfrjfk/196.%20Prisma%20Splash%21.mp3"
+    },
+    {
+      "title": "Fin",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/avuhjcofpg/197.%20Fin.mp3"
+    },
+    {
+      "title": "Overworld 7",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ybxhcuhdph/198.%20Overworld%207.mp3"
+    },
+    {
+      "title": "Spinning-Door Game",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/jzohpmrvmx/199.%20Spinning-Door%20Game.mp3"
+    },
+    {
+      "title": "Catch that Shy Bandit!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/qaizoparhe/200.%20Catch%20that%20Shy%20Bandit%21.mp3"
+    },
+    {
+      "title": "Shy Bandit's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/nvgtgtkhno/201.%20Shy%20Bandit%27s%20Theme.mp3"
+    },
+    {
+      "title": "Shy Bandit Defeated",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/myjtkbtyyp/202.%20Shy%20Bandit%20Defeated.mp3"
+    },
+    {
+      "title": "Thing Fan",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/opcprqzhgg/203.%20Thing%20Fan.mp3"
+    },
+    {
+      "title": "Thing Plunger",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/trodbddqnj/204.%20Thing%20Plunger.mp3"
+    },
+    {
+      "title": "Thing Cat-o-Luck",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/utpquxrkgk/205.%20Thing%20Cat-o-Luck.mp3"
+    },
+    {
+      "title": "Thing Piggy Bank",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/qjucstzspd/206.%20Thing%20Piggy%20Bank.mp3"
+    },
+    {
+      "title": "Thing Bottle Opener",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/raujcvfydc/207.%20Thing%20Bottle%20Opener.mp3"
+    },
+    {
+      "title": "Thing Turnip",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/gzkkeoggwm/208.%20Thing%20Turnip.mp3"
+    },
+    {
+      "title": "Thing Battery",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/dfzrffrysz/209.%20Thing%20Battery.mp3"
+    },
+    {
+      "title": "Thing Compass",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/nrytpevibs/210.%20Thing%20Compass.mp3"
+    },
+    {
+      "title": "Thing Hair Dryer",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/nwxxygapin/211.%20Thing%20Hair%20Dryer.mp3"
+    },
+    {
+      "title": "Thing Magnifying Glass",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/typmoaxsht/212.%20Thing%20Magnifying%20Glass.mp3"
+    },
+    {
+      "title": "Thing Claw Hammer",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/hclgsfxntb/213.%20Thing%20Claw%20Hammer.mp3"
+    },
+    {
+      "title": "Thing Recorder",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/fewpxaccjz/214.%20Thing%20Recorder.mp3"
+    },
+    {
+      "title": "Piper's Story 1",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/jgkxaeqraw/215.%20Piper%27s%20Story%201.mp3"
+    },
+    {
+      "title": "Piper's Story 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/iziaigncki/216.%20Piper%27s%20Story%202.mp3"
+    },
+    {
+      "title": "Piper's Story 3",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/autsdwiwvj/217.%20Piper%27s%20Story%203.mp3"
+    },
+    {
+      "title": "Disappointed",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/fmssusmzqj/218.%20Disappointed.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/oruavhsjug/219.%20Game%20Over.mp3"
+    },
+    {
+      "title": "Main Theme (Ragtime)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/tdgwiwjctl/220.%20Main%20Theme%20%28Ragtime%29.mp3"
+    },
+    {
+      "title": "Cooking Start (Unused)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/nwepifpxql/221.%20Cooking%20Start%20%28Unused%29.mp3"
+    },
+    {
+      "title": "Unfurl Power (No Pitch Change) (Unused)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/sfjogwxtlj/222.%20Unfurl%20Power%20%28No%20Pitch%20Change%29%20%28Unused%29.mp3"
+    },
+    {
+      "title": "Fight! (Low Health)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/doajgaapnm/223.%20Fight%21%20%28Low%20Health%29.mp3"
+    },
+    {
+      "title": "ME WILL ROCK ME (Low Health)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/dxgpapfhwu/224.%20ME%20WILL%20ROCK%20ME%20%28Low%20Health%29.mp3"
+    },
+    {
+      "title": "A Fearsome Foe (Low Health)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ukuyajgqlw/225.%20A%20Fearsome%20Foe%20%28Low%20Health%29.mp3"
+    },
+    {
+      "title": "Iggy Battle (Low Health)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/apiiquprnf/226.%20Iggy%20Battle%20%28Low%20Health%29.mp3"
+    },
+    {
+      "title": "Battle with Ludwig (Low Health)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/nukzduuvgb/227.%20Battle%20with%20Ludwig%20%28Low%20Health%29.mp3"
+    },
+    {
+      "title": "Fight! (Parallel Mix) (Low Health)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/ihpjjrtbam/228.%20Fight%21%20%28Parallel%20Mix%29%20%28Low%20Health%29.mp3"
+    },
+    {
+      "title": "Rumble with Wendy (Low Health)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/lkjpmwytya/229.%20Rumble%20with%20Wendy%20%28Low%20Health%29.mp3"
+    },
+    {
+      "title": "Larry's Runaway Train (Low Health)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/vxevgrshwd/230.%20Larry%27s%20Runaway%20Train%20%28Low%20Health%29.mp3"
+    },
+    {
+      "title": "Fight! (Pixel Mix) (Low Health)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/yzayfkoahw/231.%20Fight%21%20%28Pixel%20Mix%29%20%28Low%20Health%29.mp3"
+    },
+    {
+      "title": "The Juggler (Low Health)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/socgjlruva/232.%20The%20Juggler%20%28Low%20Health%29.mp3"
+    },
+    {
+      "title": "Lemmy's Grand Finale (Low Health)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/rbbyxtwxwa/233.%20Lemmy%27s%20Grand%20Finale%20%28Low%20Health%29.mp3"
+    },
+    {
+      "title": "ROYal Rumble (Low Health)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/inojnkdrkv/234.%20ROYal%20Rumble%20%28Low%20Health%29.mp3"
+    },
+    {
+      "title": "Bowser Battle (Low Health)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/rzoccehnak/235.%20Bowser%20Battle%20%28Low%20Health%29.mp3"
+    },
+    {
+      "title": "Shy Bandit's Theme (Low Health)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/grgnkntubt/236.%20Shy%20Bandit%27s%20Theme%20%28Low%20Health%29.mp3"
+    }
+  ]
+}
