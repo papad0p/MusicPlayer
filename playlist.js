@@ -31,7 +31,9 @@ async function loadLibrary() {
                     a.appendChild(li);
                     ul.appendChild(a);
                 } else {
-                    li.dataset.playlist = game.id;
+                    // Prepend the directory if it exists, otherwise just use the id
+                    const directory = system.dir ? system.dir : ""; 
+                    li.dataset.playlist = directory + game.id;
                     ul.appendChild(li);
                 }
             });
