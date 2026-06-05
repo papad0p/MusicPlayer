@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "game_title": "Super Smash Bros. Ultimate Vol. 05 - Metroid",
+    "art": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/04.%20Samus.png",
+    "desc": "2018"
+  },
+  "songs": [
+    {
+      "title": "Title Theme - Metroid",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/ycracngr/1-01.%20Title%20Theme%20-%20Metroid.mp3"
+    },
+    {
+      "title": "Brinstar (64)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/ovkptaux/1-02.%20Brinstar%20%2864%29.mp3"
+    },
+    {
+      "title": "Brinstar (Melee)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/cwalencz/1-03.%20Brinstar%20%28Melee%29.mp3"
+    },
+    {
+      "title": "Brinstar (Brawl)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/oxtayobo/1-04.%20Brinstar%20%28Brawl%29.mp3"
+    },
+    {
+      "title": "Brinstar Depths",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/rtqyswfi/1-05.%20Brinstar%20Depths.mp3"
+    },
+    {
+      "title": "Brinstar Depths (Melee)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/donvrwjd/1-06.%20Brinstar%20Depths%20%28Melee%29.mp3"
+    },
+    {
+      "title": "Norfair",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/quzowrsq/1-07.%20Norfair.mp3"
+    },
+    {
+      "title": "Escape",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/yvjhivcz/1-08.%20Escape.mp3"
+    },
+    {
+      "title": "Ending - Metroid",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/qhnqsqcl/1-09.%20Ending%20-%20Metroid.mp3"
+    },
+    {
+      "title": "Vs. Ridley",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/bwdcdknl/1-10.%20Vs.%20Ridley.mp3"
+    },
+    {
+      "title": "Vs. Ridley (Brawl)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/qwidpsqe/1-11.%20Vs.%20Ridley%20%28Brawl%29.mp3"
+    },
+    {
+      "title": "Theme of Samus Aran, Space Warrior",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/xzggnvrt/1-12.%20Theme%20of%20Samus%20Aran%2C%20Space%20Warrior.mp3"
+    },
+    {
+      "title": "Sector 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/wziuvwwr/1-13.%20Sector%201.mp3"
+    },
+    {
+      "title": "Opening - Menu - Metroid Prime",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/spwpixlp/1-14.%20Opening%20-%20Menu%20-%20Metroid%20Prime.mp3"
+    },
+    {
+      "title": "Vs. Parasite Queen",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/qjwgqlhc/1-15.%20Vs.%20Parasite%20Queen.mp3"
+    },
+    {
+      "title": "Vs. Meta Ridley",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/qvhyvgwn/1-16.%20Vs.%20Meta%20Ridley.mp3"
+    },
+    {
+      "title": "Multiplayer - Metroid Prime 2 - Echoes",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/aouepjaz/1-17.%20Multiplayer%20-%20Metroid%20Prime%202%20-%20Echoes.mp3"
+    },
+    {
+      "title": "Psycho Bits",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/wjinneek/1-18.%20Psycho%20Bits.mp3"
+    },
+    {
+      "title": "Lockdown Battle Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/kykhgkgb/1-19.%20Lockdown%20Battle%20Theme.mp3"
+    },
+    {
+      "title": "The Burning Lava Fish",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/ldgyvlsd/1-20.%20The%20Burning%20Lava%20Fish.mp3"
+    },
+    {
+      "title": "Nemesis Ridley",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/pnwtftfs/1-21.%20Nemesis%20Ridley.mp3"
+    },
+    {
+      "title": "Main Theme - Metroid Prime - Federation Force",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/yqhpbnmt/1-22.%20Main%20Theme%20-%20Metroid%20Prime%20-%20Federation%20Force.mp3"
+    },
+    {
+      "title": "Magmoor Caverns - Metroid - Samus Returns",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/ilfqqiri/1-23.%20Magmoor%20Caverns%20-%20Metroid%20-%20Samus%20Returns.mp3"
+    },
+    {
+      "title": "Boss Battle 4 - Metroid - Samus Returns",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/snmuolol/1-24.%20Boss%20Battle%204%20-%20Metroid%20-%20Samus%20Returns.mp3"
+    },
+    {
+      "title": "End Results - Metroid - Samus Returns",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/mbvbtony/1-25.%20End%20Results%20-%20Metroid%20-%20Samus%20Returns.mp3"
+    },
+    {
+      "title": "Metroid Victory Theme (64)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/eyirmjlb/2-01.%20Metroid%20Victory%20Theme%20%2864%29.mp3"
+    },
+    {
+      "title": "Metroid Victory Theme (Melee)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/axntijtu/2-02.%20Metroid%20Victory%20Theme%20%28Melee%29.mp3"
+    },
+    {
+      "title": "Metroid Victory Theme (Brawl)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/onzgiucc/2-03.%20Metroid%20Victory%20Theme%20%28Brawl%29.mp3"
+    },
+    {
+      "title": "Metroid Villains Victory Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/gwpjdndd/2-04.%20Metroid%20Villains%20Victory%20Theme.mp3"
+    },
+    {
+      "title": "Title Theme - Metroid [Original]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/gwpivfnz/2-05.%20Title%20Theme%20-%20Metroid%20%5BOriginal%5D.mp3"
+    },
+    {
+      "title": "Brinstar [Original]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/jwekjsjr/2-06.%20Brinstar%20%5BOriginal%5D.mp3"
+    },
+    {
+      "title": "Brinstar Depths [Original]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/ipbmgtyo/2-07.%20Brinstar%20Depths%20%5BOriginal%5D.mp3"
+    },
+    {
+      "title": "Norfair [Original]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/ybnjiosw/2-08.%20Norfair%20%5BOriginal%5D.mp3"
+    },
+    {
+      "title": "Escape [Original]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/grnqoyag/2-09.%20Escape%20%5BOriginal%5D.mp3"
+    },
+    {
+      "title": "Ending - Metroid [Original]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/ebwcyixo/2-10.%20Ending%20-%20Metroid%20%5BOriginal%5D.mp3"
+    },
+    {
+      "title": "Vs. Ridley [Original]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/curbfwrv/2-11.%20Vs.%20Ridley%20%5BOriginal%5D.mp3"
+    },
+    {
+      "title": "Theme of Samus Aran, Space Warrior [Original]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/asonaopl/2-12.%20Theme%20of%20Samus%20Aran%2C%20Space%20Warrior%20%5BOriginal%5D.mp3"
+    },
+    {
+      "title": "Sector 1 [Original]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/kqafamie/2-13.%20Sector%201%20%5BOriginal%5D.mp3"
+    },
+    {
+      "title": "Opening - Menu - Metroid Prime [Original]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/wuifegsv/2-14.%20Opening%20-%20Menu%20-%20Metroid%20Prime%20%5BOriginal%5D.mp3"
+    },
+    {
+      "title": "Vs. Parasite Queen [Original]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-05-metroid-switch-gamerip-2018/zmltjqco/2-15.%20Vs.%20Parasite%20Queen%20%5BOriginal%5D.mp3"
+    }
+  ]
+}
