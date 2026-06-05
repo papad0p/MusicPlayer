@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "game_title": "Pokémon Conquest",
+    "art": "https://upload.wikimedia.org/wikipedia/en/5/56/Pokemon_Nobunaga_Box.png",
+    "desc": "March 17, 2012"
+  },
+  "songs": [
+    {
+      "title": "Main Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/jbgahker/01.%20Main%20Theme.mp3"
+    },
+    {
+      "title": "Episode Opening",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/twamjlba/02.%20Episode%20Opening.mp3"
+    },
+    {
+      "title": "Episode Ending",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/wjcmccep/03.%20Episode%20Ending.mp3"
+    },
+    {
+      "title": "Map Theme 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/jbhghuzr/04.%20Map%20Theme%201.mp3"
+    },
+    {
+      "title": "Map Theme 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/iqhkesax/05.%20Map%20Theme%202.mp3"
+    },
+    {
+      "title": "Dungeon Theme 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/nydwvnfn/06.%20Dungeon%20Theme%201.mp3"
+    },
+    {
+      "title": "Dungeon Theme 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/xyyzcmby/07.%20Dungeon%20Theme%202.mp3"
+    },
+    {
+      "title": "Dungeon Theme 3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/mrvfnzkb/08.%20Dungeon%20Theme%203.mp3"
+    },
+    {
+      "title": "Dungeon Theme 4",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/dmxdaslb/09.%20Dungeon%20Theme%204.mp3"
+    },
+    {
+      "title": "Normal Event",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/ayrouhbl/10.%20Normal%20Event.mp3"
+    },
+    {
+      "title": "Good Event",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/ylkrevqr/11.%20Good%20Event.mp3"
+    },
+    {
+      "title": "Bad Event",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/ldkrdsbd/12.%20Bad%20Event.mp3"
+    },
+    {
+      "title": "Comical Event",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/lxgmppgl/13.%20Comical%20Event.mp3"
+    },
+    {
+      "title": "Nobunaga Event",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/marghsre/14.%20Nobunaga%20Event.mp3"
+    },
+    {
+      "title": "Sad Event",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/yezlhbmg/15.%20Sad%20Event.mp3"
+    },
+    {
+      "title": "Normal Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/svanrtrg/16.%20Normal%20Battle.mp3"
+    },
+    {
+      "title": "Flight Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/dwbqyxss/17.%20Flight%20Battle.mp3"
+    },
+    {
+      "title": "Ghost Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/oqowogqk/18.%20Ghost%20Battle.mp3"
+    },
+    {
+      "title": "Grapple Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/cgbmdjjt/19.%20Grapple%20Battle.mp3"
+    },
+    {
+      "title": "Grass Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/pvhxrsmf/20.%20Grass%20Battle.mp3"
+    },
+    {
+      "title": "Ground Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/ruvuktnj/21.%20Ground%20Battle.mp3"
+    },
+    {
+      "title": "Ice Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/ewvnefph/22.%20Ice%20Battle.mp3"
+    },
+    {
+      "title": "Insect Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/rmlvsesa/23.%20Insect%20Battle.mp3"
+    },
+    {
+      "title": "Poison Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/aaabesbe/24.%20Poison%20Battle.mp3"
+    },
+    {
+      "title": "Rock Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/qtusfwsz/25.%20Rock%20Battle.mp3"
+    },
+    {
+      "title": "Dragon Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/rorsnknh/26.%20Dragon%20Battle.mp3"
+    },
+    {
+      "title": "Electric Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/afzggqhp/27.%20Electric%20Battle.mp3"
+    },
+    {
+      "title": "Esper Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/dxcsgcto/28.%20Esper%20Battle.mp3"
+    },
+    {
+      "title": "Evil Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/lnjfyezl/29.%20Evil%20Battle.mp3"
+    },
+    {
+      "title": "Flame Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/erspwmwx/30.%20Flame%20Battle.mp3"
+    },
+    {
+      "title": "Water Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/yyxsvyiu/31.%20Water%20Battle.mp3"
+    },
+    {
+      "title": "Steel Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/aqcpqkbd/32.%20Steel%20Battle.mp3"
+    },
+    {
+      "title": "Legendary Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/ngrqcrad/33.%20Legendary%20Battle.mp3"
+    },
+    {
+      "title": "Special Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/nekkwbuu/34.%20Special%20Battle.mp3"
+    },
+    {
+      "title": "Battle Lost",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/ojevoiyt/35.%20Battle%20Lost.mp3"
+    },
+    {
+      "title": "Battle Won",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/wehufpjd/36.%20Battle%20Won.mp3"
+    },
+    {
+      "title": "Boss Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/mzmmyfib/37.%20Boss%20Battle.mp3"
+    },
+    {
+      "title": "Pokémon Evolution",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/fvoixqiw/38.%20Pok%C3%A9mon%20Evolution.mp3"
+    },
+    {
+      "title": "Pokemon Evolution 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/gtxizwmr/39.%20Pokemon%20Evolution%202.mp3"
+    },
+    {
+      "title": "Warlord Evolution",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/aclxgmtf/40.%20Warlord%20Evolution.mp3"
+    },
+    {
+      "title": "Staff Roll",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/tgwsxlma/41.%20Staff%20Roll.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-conquest-nintendo-ds/tqxpjaxo/42.%20Game%20Over.mp3"
+    }
+  ]
+}
