@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "game_title": "Kirby: Canvas Curse",
+    "art": "https://upload.wikimedia.org/wikipedia/en/9/9f/Kirby_Canvas_Curse_Game_Cover.jpg",
+    "desc": "March 24, 2005"
+  },
+  "songs": [
+    {
+      "title": "Opening",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/fajsnmvt/01.%20Opening.mp3"
+    },
+    {
+      "title": "Main Menu [\"File Select\" from Kirby 64: The Crystal Shards]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/ftdncwef/02.%20Main%20Menu%20%5B%22File%20Select%22%20from%20Kirby%2064%20-%20The%20Crystal%20Shards%5D.mp3"
+    },
+    {
+      "title": "Training [\"Beginner's Room\" from Kirby Super Star]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/pgnxzbmf/03.%20Training%20%5B%22Beginner%27s%20Room%22%20from%20Kirby%20Super%20Star%5D.mp3"
+    },
+    {
+      "title": "Plant Plain [\"Vegetable Valley\" from Kirby's Adventure]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/pkdnfmvo/04.%20Plant%20Plain%20%5B%22Vegetable%20Valley%22%20from%20Kirby%27s%20Adventure%5D.mp3"
+    },
+    {
+      "title": "Tiny Town [\"Bubbly Clouds\" from Kirby's Dream Land]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/lkvwukqb/05.%20Tiny%20Town%20%5B%22Bubbly%20Clouds%22%20from%20Kirby%27s%20Dream%20Land%5D.mp3"
+    },
+    {
+      "title": "Ravine Road [\"Grass Land\" from Kirby's Dream Land 3]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/gcsgcvwu/06.%20Ravine%20Road%20%5B%22Grass%20Land%22%20from%20Kirby%27s%20Dream%20Land%203%5D.mp3"
+    },
+    {
+      "title": "Ghost Grounds [\"Deep Sea-Volcano Area\" from Kirby's Dream Land 3]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/mzmkqabi/07.%20Ghost%20Grounds%20%5B%22Deep%20Sea-Volcano%20Area%22%20from%20Kirby%27s%20Dream%20Land%203%5D.mp3"
+    },
+    {
+      "title": "Growth Grasses [\"Yogurt Yard\" from Kirby's Adventure]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/jwgrrhjz/08.%20Growth%20Grasses%20%5B%22Yogurt%20Yard%22%20from%20Kirby%27s%20Adventure%5D.mp3"
+    },
+    {
+      "title": "Mag Mount [\"Castle Lololo\" from Kirby's Dream Land]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/uasophtv/09.%20Mag%20Mount%20%5B%22Castle%20Lololo%22%20from%20Kirby%27s%20Dream%20Land%5D.mp3"
+    },
+    {
+      "title": "Rift Ruin [\"Cocoa Cave\" from Kirby Super Star]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/vrzuzowp/10.%20Rift%20Ruin%20%5B%22Cocoa%20Cave%22%20from%20Kirby%20Super%20Star%5D.mp3"
+    },
+    {
+      "title": "Contrast Cave [\"Grape Garden\" from Kirby's Adventure]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/kfwqpcsg/11.%20Contrast%20Cave%20%5B%22Grape%20Garden%22%20from%20Kirby%27s%20Adventure%5D.mp3"
+    },
+    {
+      "title": "Room Guarder [from Kirby 64 - The Crystal Shards]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/dwzismhc/12.%20Room%20Guarder%20%5Bfrom%20Kirby%2064%20-%20The%20Crystal%20Shards%5D.mp3"
+    },
+    {
+      "title": "Silver Submarine [\"Kine's Theme\" from Kirby's Dream Land 2]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/nidsacks/13.%20Silver%20Submarine%20%5B%22Kine%27s%20Theme%22%20from%20Kirby%27s%20Dream%20Land%202%5D.mp3"
+    },
+    {
+      "title": "Machine Mansion [\"Cave Area\" from Kirby's Adventure]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/hkcgzgef/14.%20Machine%20Mansion%20%5B%22Cave%20Area%22%20from%20Kirby%27s%20Adventure%5D.mp3"
+    },
+    {
+      "title": "Dreamy Darkness [\"Inside the Ruins\" from Kirby 64 - The Crystal Shards]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/naldihjb/15.%20Dreamy%20Darkness%20%5B%22Inside%20the%20Ruins%22%20from%20Kirby%2064%20-%20The%20Crystal%20Shards%5D.mp3"
+    },
+    {
+      "title": "Palette Polis [\"Ice Cream Island\" from Kirby's Adventure]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/cktopeca/16.%20Palette%20Polis%20%5B%22Ice%20Cream%20Island%22%20from%20Kirby%27s%20Adventure%5D.mp3"
+    },
+    {
+      "title": "Cold Course [\"Shiver Star\" from Kirby 64 - The Crystal Shards]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/vdbzrlft/17.%20Cold%20Course%20%5B%22Shiver%20Star%22%20from%20Kirby%2064%20-%20The%20Crystal%20Shards%5D.mp3"
+    },
+    {
+      "title": "Dungeon Dome [\"Orange Ocean\" from Kirby's Adventure]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/awjfyblb/18.%20Dungeon%20Dome%20%5B%22Orange%20Ocean%22%20from%20Kirby%27s%20Adventure%5D.mp3"
+    },
+    {
+      "title": "Canvas Canyon [\"Forest Area\" from Kirby's Adventure]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/yqhnscfw/19.%20Canvas%20Canyon%20%5B%22Forest%20Area%22%20from%20Kirby%27s%20Adventure%5D.mp3"
+    },
+    {
+      "title": "Collapse Castle [\"Float Islands\" from Kirby's Dream Land]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/qrlcgxvj/20.%20Collapse%20Castle%20%5B%22Float%20Islands%22%20from%20Kirby%27s%20Dream%20Land%5D.mp3"
+    },
+    {
+      "title": "Volatile Volcano [\"Neo Star\" from Kirby 64 - The Crystal Shards]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/jrjuupoc/21.%20Volatile%20Volcano%20%5B%22Neo%20Star%22%20from%20Kirby%2064%20-%20The%20Crystal%20Shards%5D.mp3"
+    },
+    {
+      "title": "Silent Seabed [\"Butter Building\" from Kirby's Adventure]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/vtjpvhbj/22.%20Silent%20Seabed%20%5B%22Butter%20Building%22%20from%20Kirby%27s%20Adventure%5D.mp3"
+    },
+    {
+      "title": "Frozen Fantasy [\"Rainbow Resort\" from Kirby's Adventure]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/qcrytzrl/23.%20Frozen%20Fantasy%20%5B%22Rainbow%20Resort%22%20from%20Kirby%27s%20Adventure%5D.mp3"
+    },
+    {
+      "title": "Mad Mechanism [\"Factory Inspection\" from Kirby 64 - The Crystal Shards]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/dkptylkt/24.%20Mad%20Mechanism%20%5B%22Factory%20Inspection%22%20from%20Kirby%2064%20-%20The%20Crystal%20Shards%5D.mp3"
+    },
+    {
+      "title": "Spectacle Space [\"Final Boss\" from Kirby's Adventure]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/omthdvuj/25.%20Spectacle%20Space%20%5B%22Final%20Boss%22%20from%20Kirby%27s%20Adventure%5D.mp3"
+    },
+    {
+      "title": "Kirby Dance (Stage Clear)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/gborrjsn/26.%20Kirby%20Dance%20%28Stage%20Clear%29.mp3"
+    },
+    {
+      "title": "Goal Bonus",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/ihkfuhds/27.%20Goal%20Bonus.mp3"
+    },
+    {
+      "title": "Kirby Dance (Bonus Clear)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/mwxvlshj/28.%20Kirby%20Dance%20%28Bonus%20Clear%29.mp3"
+    },
+    {
+      "title": "Drawcia Demo",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/ympoajtr/29.%20Drawcia%20Demo.mp3"
+    },
+    {
+      "title": "Boss Game [\"Boss Room\" from Kirby's Dream Land]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/oswgnyez/30.%20Boss%20Game%20%5B%22Boss%20Room%22%20from%20Kirby%27s%20Dream%20Land%5D.mp3"
+    },
+    {
+      "title": "Block Attack [\"Arena\" from Kirby's Adventure]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/nqqiqfgm/31.%20Block%20Attack%20%5B%22Arena%22%20from%20Kirby%27s%20Adventure%5D.mp3"
+    },
+    {
+      "title": "Block Attack (vs. Kracko) [\"Boss\" from Kirby's Adventure]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/jwizwkjr/32.%20Block%20Attack%20%28vs.%20Kracko%29%20%5B%22Boss%22%20from%20Kirby%27s%20Adventure%5D.mp3"
+    },
+    {
+      "title": "Paint Panic (vs. Paint Roller) [\"Gourmet Race\" from Kirby Super Star]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/hlgyyxta/33.%20Paint%20Panic%20%28vs.%20Paint%20Roller%29%20%5B%22Gourmet%20Race%22%20from%20Kirby%20Super%20Star%5D.mp3"
+    },
+    {
+      "title": "Cart Run (vs. Dedede) [\"King Dedede's Theme\" from Kirby's Dream Land]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/uvxycpqm/34.%20Cart%20Run%20%28vs.%20Dedede%29%20%5B%22King%20Dedede%27s%20Theme%22%20from%20Kirby%27s%20Dream%20Land%5D.mp3"
+    },
+    {
+      "title": "Kirby Dance (Boss Clear)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/wfoecyov/35.%20Kirby%20Dance%20%28Boss%20Clear%29.mp3"
+    },
+    {
+      "title": "Sub-Game Victory",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/clxglkut/36.%20Sub-Game%20Victory.mp3"
+    },
+    {
+      "title": "Sub-Game OK Placement",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/maovjkxj/37.%20Sub-Game%20OK%20Placement.mp3"
+    },
+    {
+      "title": "Sub-Game Lose",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/iisnmvsd/38.%20Sub-Game%20Lose.mp3"
+    },
+    {
+      "title": "The World of Drawcia",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/neibkwdb/39.%20The%20World%20of%20Drawcia.mp3"
+    },
+    {
+      "title": "vs. Drawcia",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/clxgnumy/40.%20vs.%20Drawcia.mp3"
+    },
+    {
+      "title": "vs. Drawcia Soul",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/ivdgwofh/41.%20vs.%20Drawcia%20Soul.mp3"
+    },
+    {
+      "title": "Ending",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/wjjqeycs/42.%20Ending.mp3"
+    },
+    {
+      "title": "Staff Roll",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/ikdlwxws/43.%20Staff%20Roll.mp3"
+    },
+    {
+      "title": "Medal Swap [\"Boss Room\" from Kirby's Dream Land]",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/zrnmwxzf/44.%20Medal%20Swap%20%5B%22Boss%20Room%22%20from%20Kirby%27s%20Dream%20Land%5D.mp3"
+    },
+    {
+      "title": "Lose Life",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/bslylikz/45.%20Lose%20Life.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/qjuxdarh/46.%20Game%20Over.mp3"
+    }
+  ]
+}
