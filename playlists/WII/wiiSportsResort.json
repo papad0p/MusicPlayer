@@ -1,0 +1,861 @@
+{
+  "meta": {
+    "game_title": "Wii Sports Resort",
+    "art": "https://upload.wikimedia.org/wikipedia/en/1/16/Wii_Sports_Resort_boxart.png",
+    "desc": "June 25, 2009"
+  },
+  "songs": [
+    {
+      "title": "Channel Banner",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/auykbdlx/1-01%20Channel%20Banner.mp3"
+    },
+    {
+      "title": "Opening Cutscene",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/fhwjhhqf/1-02%20Opening%20Cutscene.mp3"
+    },
+    {
+      "title": "Title Screen (First Time)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/gnyebusd/1-03%20Title%20Screen%20%28First%20Time%29.mp3"
+    },
+    {
+      "title": "Settings (First Time)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/nhvibjou/1-04%20Settings%20%28First%20Time%29.mp3"
+    },
+    {
+      "title": "Title Screen",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/gvkonzky/1-05%20Title%20Screen.mp3"
+    },
+    {
+      "title": "Title Screen Settings",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/pdxedbxk/1-06%20Title%20Screen%20Settings.mp3"
+    },
+    {
+      "title": "Main Menu",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/fzfbqzcm/1-07%20Main%20Menu.mp3"
+    },
+    {
+      "title": "Main Menu Settings",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/dgtcdkrd/1-08%20Main%20Menu%20Settings.mp3"
+    },
+    {
+      "title": "Pick a Mii!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/qstqywjh/1-09%20Pick%20a%20Mii%21.mp3"
+    },
+    {
+      "title": "Configurate",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/isqagfej/1-10%20Configurate.mp3"
+    },
+    {
+      "title": "Pick a Mii (Melody)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ikbazwhy/1-11%20Pick%20a%20Mii%20%28Melody%29.mp3"
+    },
+    {
+      "title": "Caution",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/cgzdqxpe/1-12%20Caution.mp3"
+    },
+    {
+      "title": "Tutorial",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/lvvsaxoc/1-13%20Tutorial.mp3"
+    },
+    {
+      "title": "Versus",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/dxcwzgkh/1-14%20Versus.mp3"
+    },
+    {
+      "title": "Versus (Champion)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/kdkqacni/1-15%20Versus%20%28Champion%29.mp3"
+    },
+    {
+      "title": "Swordplay - Versus",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/mfnbtolq/1-16%20Swordplay%20-%20Versus.mp3"
+    },
+    {
+      "title": "Swordplay - Versus Champion",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/qlkqacks/1-17%20Swordplay%20-%20Versus%20Champion.mp3"
+    },
+    {
+      "title": "Swordplay - Round Begin",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/lksinoiw/1-18%20Swordplay%20-%20Round%20Begin.mp3"
+    },
+    {
+      "title": "Swordplay - Prepare",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/kmdelrdq/1-19%20Swordplay%20-%20Prepare.mp3"
+    },
+    {
+      "title": "Swordplay - Fighting 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/tyiwhxod/1-20%20Swordplay%20-%20Fighting%201.mp3"
+    },
+    {
+      "title": "Swordplay - Fighting 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/cymojdpq/1-21%20Swordplay%20-%20Fighting%202.mp3"
+    },
+    {
+      "title": "Swordplay - Danger!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/jyobnlps/1-22%20Swordplay%20-%20Danger%21.mp3"
+    },
+    {
+      "title": "Swordplay - Point",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/topjypdz/1-23%20Swordplay%20-%20Point.mp3"
+    },
+    {
+      "title": "Swordplay - Point Chime",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/nogocsjp/1-24%20Swordplay%20-%20Point%20Chime.mp3"
+    },
+    {
+      "title": "Swordplay - Final Stage",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/yyxqnqpc/1-25%20Swordplay%20-%20Final%20Stage.mp3"
+    },
+    {
+      "title": "Swordplay - Winning Replay",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/retihovo/1-26%20Swordplay%20-%20Winning%20Replay.mp3"
+    },
+    {
+      "title": "Swordplay - Losing Replay",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/gnvrvdgt/1-27%20Swordplay%20-%20Losing%20Replay.mp3"
+    },
+    {
+      "title": "Swordplay - Winning Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/auyhpbqa/1-28%20Swordplay%20-%20Winning%20Results.mp3"
+    },
+    {
+      "title": "Swordplay - Draw Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/dqsrhivc/1-29%20Swordplay%20-%20Draw%20Results.mp3"
+    },
+    {
+      "title": "Swordplay - Losing Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/cfruyglo/1-30%20Swordplay%20-%20Losing%20Results.mp3"
+    },
+    {
+      "title": "Swordplay - Showdown - Calm",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ibjnqntd/1-31%20Swordplay%20-%20Showdown%20-%20Calm.mp3"
+    },
+    {
+      "title": "Swordplay - Showdown - Calm (1 Heart)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/mxebwcvy/1-32%20Swordplay%20-%20Showdown%20-%20Calm%20%281%20Heart%29.mp3"
+    },
+    {
+      "title": "Swordplay - Showdown - Calm (2 Hearts)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/gljnnbrh/1-33%20Swordplay%20-%20Showdown%20-%20Calm%20%282%20Hearts%29.mp3"
+    },
+    {
+      "title": "Swordplay - Showdown - Over Halfway",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/jzubyoyb/1-34%20Swordplay%20-%20Showdown%20-%20Over%20Halfway.mp3"
+    },
+    {
+      "title": "Swordplay - Showdown - Over Halfway (1 Hearts)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/kymncatr/1-35%20Swordplay%20-%20Showdown%20-%20Over%20Halfway%20%281%20Hearts%29.mp3"
+    },
+    {
+      "title": "Swordplay - Showdown - Over Halfway (2 Hearts)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/wmraabgd/1-36.%20Swordplay%20-%20Showdown%20-%20Over%20Halfway%20%282%20Hearts%29.mp3"
+    },
+    {
+      "title": "Swordplay - Showdown - Oncoming Horde",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/fzgjbgzf/1-37.%20Swordplay%20-%20Showdown%20-%20Oncoming%20Horde.mp3"
+    },
+    {
+      "title": "Swordplay - Showdown - Oncoming Horde (1 Heart)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/cxfkjnof/1-38.%20Swordplay%20-%20Showdown%20-%20Oncoming%20Horde%20%281%20Heart%29.mp3"
+    },
+    {
+      "title": "Swordplay - Showdown - Oncoming Horde (2 Hearts)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ibfzgjaz/1-39.%20Swordplay%20-%20Showdown%20-%20Oncoming%20Horde%20%282%20Hearts%29.mp3"
+    },
+    {
+      "title": "Swordplay - Showdown - Transition Fanfare",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/wzhllura/1-40%20Swordplay%20-%20Showdown%20-%20Transition%20Fanfare.mp3"
+    },
+    {
+      "title": "Swordplay - Showdown - Melody",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/cjpuhzae/1-41%20Swordplay%20-%20Showdown%20-%20Melody.mp3"
+    },
+    {
+      "title": "Swordplay - Versus Winning Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ukqywknk/1-42%20Swordplay%20-%20Versus%20Winning%20Results.mp3"
+    },
+    {
+      "title": "Wakeboarding - Camera Overview",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/larldgzc/1-43%20Wakeboarding%20-%20Camera%20Overview.mp3"
+    },
+    {
+      "title": "Wakeboarding - Change",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/quzqdvrw/1-44%20Wakeboarding%20-%20Change.mp3"
+    },
+    {
+      "title": "Wakeboarding - Trick",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/hvjjsldi/1-45%20Wakeboarding%20-%20Trick.mp3"
+    },
+    {
+      "title": "Wakeboarding - Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/famiezhp/1-46%20Wakeboarding%20-%20Results.mp3"
+    },
+    {
+      "title": "Frisbee Dog - Camera Overview",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/dxdygjfw/1-47%20Frisbee%20Dog%20-%20Camera%20Overview.mp3"
+    },
+    {
+      "title": "Frisbee Dog - Challenge",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/sxlokkwz/1-48%20Frisbee%20Dog%20-%20Challenge.mp3"
+    },
+    {
+      "title": "Frisbee Dog - Nice Catch!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/hqffibjp/1-49%20Frisbee%20Dog%20-%20Nice%20Catch%21.mp3"
+    },
+    {
+      "title": "Frisbee Dog - Missed it!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/wmyeaosz/1-50%20Frisbee%20Dog%20-%20Missed%20it%21.mp3"
+    },
+    {
+      "title": "Frisbee Dog - Return Jingle 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/twyfefmw/1-51%20Frisbee%20Dog%20-%20Return%20Jingle%201.mp3"
+    },
+    {
+      "title": "Frisbee Dog - Return Jingle 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/wugxvltl/1-52%20Frisbee%20Dog%20-%20Return%20Jingle%202.mp3"
+    },
+    {
+      "title": "Frisbee Dog - Return Jingle 3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/zpahiwia/1-53%20Frisbee%20Dog%20-%20Return%20Jingle%203.mp3"
+    },
+    {
+      "title": "Frisbee Dog - Change",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/cjoudkop/1-54%20Frisbee%20Dog%20-%20Change.mp3"
+    },
+    {
+      "title": "Frisbee Dog - Finished",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/iuyiwjgf/1-55%20Frisbee%20Dog%20-%20Finished.mp3"
+    },
+    {
+      "title": "Frisbee Dog - Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/egvhyvhy/1-56%20Frisbee%20Dog%20-%20Results.mp3"
+    },
+    {
+      "title": "Archery - Camera Overview",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/vjipzcps/1-57%20Archery%20-%20Camera%20Overview.mp3"
+    },
+    {
+      "title": "Archery - Weak Score",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/usijwizx/1-58%20Archery%20-%20Weak%20Score.mp3"
+    },
+    {
+      "title": "Archery - Good Score",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/piuattjq/1-59%20Archery%20-%20Good%20Score.mp3"
+    },
+    {
+      "title": "Archery - Perfect Score",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ahgnuksh/1-60%20Archery%20-%20Perfect%20Score.mp3"
+    },
+    {
+      "title": "Archery - Bullseye Replay",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/gkfxxvjh/1-61%20Archery%20-%20Bullseye%20Replay.mp3"
+    },
+    {
+      "title": "Archery - Change",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/lgblzrld/1-62%20Archery%20-%20Change.mp3"
+    },
+    {
+      "title": "Archery - Round 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/knmvtfwq/1-63%20Archery%20-%20Round%202.mp3"
+    },
+    {
+      "title": "Archery - Round 3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/qfegtxke/1-64%20Archery%20-%20Round%203.mp3"
+    },
+    {
+      "title": "Archery - Round 4",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/schffklx/1-65%20Archery%20-%20Round%204.mp3"
+    },
+    {
+      "title": "Archery - Single Player End",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/htwaoudj/1-66%20Archery%20-%20Single%20Player%20End.mp3"
+    },
+    {
+      "title": "Archery - Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/kxixmscj/1-67%20Archery%20-%20Results.mp3"
+    },
+    {
+      "title": "Basketball - Camera Overview",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/orsmgwmy/1-68%20Basketball%20-%20Camera%20Overview.mp3"
+    },
+    {
+      "title": "Basketball - Got It!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ebtnlood/1-69%20Basketball%20-%20Got%20It%21.mp3"
+    },
+    {
+      "title": "Basketball - Dunkin",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/yjypdwzg/1-70%20Basketball%20-%20Dunkin.mp3"
+    },
+    {
+      "title": "Basketball - Replay",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/iwkjqcqv/1-71%20Basketball%20-%20Replay.mp3"
+    },
+    {
+      "title": "Basketball - Dunk Replay",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/fqlluqwl/1-72%20Basketball%20-%20Dunk%20Replay.mp3"
+    },
+    {
+      "title": "Basketball - Last Point Replay",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/pqkeohss/1-73%20Basketball%20-%20Last%20Point%20Replay.mp3"
+    },
+    {
+      "title": "Basketball - Change Sides",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/mhadquzo/1-74%20Basketball%20-%20Change%20Sides.mp3"
+    },
+    {
+      "title": "Basketball - Winning Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/wrsosuwa/1-75%20Basketball%20-%20Winning%20Results.mp3"
+    },
+    {
+      "title": "Basketball - Draw Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/mknkkxhu/1-76%20Basketball%20-%20Draw%20Results.mp3"
+    },
+    {
+      "title": "Basketball - Losing Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ylhdvsaa/1-77%20Basketball%20-%20Losing%20Results.mp3"
+    },
+    {
+      "title": "Table Tennis - Return Challenge Overview",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/zvfnbtmf/1-78%20Table%20Tennis%20-%20Return%20Challenge%20Overview.mp3"
+    },
+    {
+      "title": "Table Tennis - Match Camera Overview",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/napxqpyz/1-79%20Table%20Tennis%20-%20Match%20Camera%20Overview.mp3"
+    },
+    {
+      "title": "Table Tennis - Change Court",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/bilersqz/1-80%20Table%20Tennis%20-%20Change%20Court.mp3"
+    },
+    {
+      "title": "Table Tennis - Replay",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/yxqkdnde/1-81%20Table%20Tennis%20-%20Replay.mp3"
+    },
+    {
+      "title": "Table Tennis - Replay 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/lqvgvkla/1-82%20Table%20Tennis%20-%20Replay%202.mp3"
+    },
+    {
+      "title": "Table Tennis - Advance Replay",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/uvvolnei/1-83%20Table%20Tennis%20-%20Advance%20Replay.mp3"
+    },
+    {
+      "title": "Table Tennis - Advance Replay 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/dthgiyqm/1-84%20Table%20Tennis%20-%20Advance%20Replay%202.mp3"
+    },
+    {
+      "title": "Table Tennis - Match Point Replay",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/kptzpdwx/1-85%20Table%20Tennis%20-%20Match%20Point%20Replay.mp3"
+    },
+    {
+      "title": "Table Tennis - Match Point Replay 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/zcniafaj/1-86%20Table%20Tennis%20-%20Match%20Point%20Replay%202.mp3"
+    },
+    {
+      "title": "Table Tennis - Deuce Replay",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/trdqvgsv/1-87%20Table%20Tennis%20-%20Deuce%20Replay.mp3"
+    },
+    {
+      "title": "Table Tennis - Deuce Replay 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/buuololm/1-88%20Table%20Tennis%20-%20Deuce%20Replay%202.mp3"
+    },
+    {
+      "title": "Table Tennis - Winning Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/denbskxj/1-89%20Table%20Tennis%20-%20Winning%20Results.mp3"
+    },
+    {
+      "title": "Table Tennis - Losing Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/bgduokkt/1-90%20Table%20Tennis%20-%20Losing%20Results.mp3"
+    },
+    {
+      "title": "Golf - Camera Overview",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ptwddemw/1-91%20Golf%20-%20Camera%20Overview.mp3"
+    },
+    {
+      "title": "Golf - Ready",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/xzeyeaqb/1-92%20Golf%20-%20Ready.mp3"
+    },
+    {
+      "title": "Golf - Ball Position",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/jtomvryq/1-93%20Golf%20-%20Ball%20Position.mp3"
+    },
+    {
+      "title": "Golf - Under",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/jwgqkesz/1-94%20Golf%20-%20Under.mp3"
+    },
+    {
+      "title": "Golf - Bogey",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/sqbjqbjt/1-95%20Golf%20-%20Bogey.mp3"
+    },
+    {
+      "title": "Golf - Par",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/rcjpyxpj/1-96%20Golf%20-%20Par.mp3"
+    },
+    {
+      "title": "Golf - Birdie",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ayqkbcii/1-97%20Golf%20-%20Birdie.mp3"
+    },
+    {
+      "title": "Golf - Eagle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/smgxueoh/1-98%20Golf%20-%20Eagle.mp3"
+    },
+    {
+      "title": "Golf - Albatross",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/qlihlkrd/1-99%20Golf%20-%20Albatross.mp3"
+    },
+    {
+      "title": "Golf - Chip in",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/hhoxxvkm/1-100%20Golf%20-%20Chip%20in.mp3"
+    },
+    {
+      "title": "Golf - Hole in One!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/gugxvhae/1-101%20Golf%20-%20Hole%20in%20One%21.mp3"
+    },
+    {
+      "title": "Golf - Chance!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/vpmqvcaw/1-102%20Golf%20-%20Chance%21.mp3"
+    },
+    {
+      "title": "Golf - Give up",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/huccfufv/1-103%20Golf%20-%20Give%20up.mp3"
+    },
+    {
+      "title": "Golf - Replay",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/lunhwlqw/1-104%20Golf%20-%20Replay.mp3"
+    },
+    {
+      "title": "Golf - Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/loocsjre/1-105%20Golf%20-%20Results.mp3"
+    },
+    {
+      "title": "Bowling - Camera Overview",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/zhovndcb/1-106%20Bowling%20-%20Camera%20Overview.mp3"
+    },
+    {
+      "title": "Bowling - Standard Game",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/bchcrcnf/1-107%20Bowling%20-%20Standard%20Game.mp3"
+    },
+    {
+      "title": "Bowling - 100 Pin Game",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/phssiote/1-108%20Bowling%20-%20100%20Pin%20Game.mp3"
+    },
+    {
+      "title": "Bowling - Spin Control",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ogpgkgcs/1-109%20Bowling%20-%20Spin%20Control.mp3"
+    },
+    {
+      "title": "Bowling - Spare",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ufogmukt/1-110%20Bowling%20-%20Spare.mp3"
+    },
+    {
+      "title": "Bowling - Strike!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/nkjpyzac/1-111%20Bowling%20-%20Strike%21.mp3"
+    },
+    {
+      "title": "Bowling - Replay",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/nfnziqho/1-112%20Bowling%20-%20Replay%20.mp3"
+    },
+    {
+      "title": "Bowling - Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/zcqubxlm/1-113%20Bowling%20-%20Results.mp3"
+    },
+    {
+      "title": "Power Cruising - Camera Overview",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ccbcheyh/1-114%20Power%20Cruising%20-%20Camera%20Overview.mp3"
+    },
+    {
+      "title": "Power Cruising - Change",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/oaipzdqx/1-115%20Power%20Cruising%20-%20Change.mp3"
+    },
+    {
+      "title": "Power Cruising - Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/nwwteohs/1-116%20Power%20Cruising%20-%20Results.mp3"
+    },
+    {
+      "title": "Canoeing - Camera Overview",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/rfdznsxl/1-117%20Canoeing%20-%20Camera%20Overview.mp3"
+    },
+    {
+      "title": "Canoeing - Tagalong Friend!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/lzmmxctn/1-118%20Canoeing%20-%20Tagalong%20Friend%21.mp3"
+    },
+    {
+      "title": "Canoeing - Back to Mama",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/icnicmcc/1-119%20Canoeing%20-%20Back%20to%20Mama.mp3"
+    },
+    {
+      "title": "Canoeing - Happy Ducklings",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ddfuepmp/1-120%20Canoeing%20-%20Happy%20Ducklings.mp3"
+    },
+    {
+      "title": "Canoeing - Family Reunion",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/mpnwvndc/1-121%20Canoeing%20-%20Family%20Reunion.mp3"
+    },
+    {
+      "title": "Canoeing - Halfway Point",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/atvvpped/1-122%20Canoeing%20-%20Halfway%20Point.mp3"
+    },
+    {
+      "title": "Canoeing - Point",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/auusbgak/1-123%20Canoeing%20-%20Point.mp3"
+    },
+    {
+      "title": "Canoeing - Last",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/zrmknify/1-124%20Canoeing%20-%20Last.mp3"
+    },
+    {
+      "title": "Canoeing - Good Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/duqtuuma/1-125%20Canoeing%20-%20Good%20Results.mp3"
+    },
+    {
+      "title": "Canoeing - Bad Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/tqytzsmi/1-126%20Canoeing%20-%20Bad%20Results.mp3"
+    },
+    {
+      "title": "Cycling - Road Race - Camera Overview",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/gglngpjz/1-127%20Cycling%20-%20Road%20Race%20-%20Camera%20Overview.mp3"
+    },
+    {
+      "title": "Cycling - Road Race - Starting Off",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/tvxborsm/1-128%20Cycling%20-%20Road%20Race%20-%20Starting%20Off.mp3"
+    },
+    {
+      "title": "Cycling - Road Race - Starting Off (Recovering)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/icmgsuvu/1-129%20Cycling%20-%20Road%20Race%20-%20Starting%20Off%20%28Recovering%29.mp3"
+    },
+    {
+      "title": "Cycling - Road Race - Doing Good",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/tngtzpdv/1-130%20Cycling%20-%20Road%20Race%20-%20Doing%20Good.mp3"
+    },
+    {
+      "title": "Cycling - Road Race - Doing Good (Recovering)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/sbgzezkb/1-131%20Cycling%20-%20Road%20Race%20-%20Doing%20Good%20%28Recovering%29.mp3"
+    },
+    {
+      "title": "Cycling - Road Race - Almost There!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/axlomtij/1-132%20Cycling%20-%20Road%20Race%20-%20Almost%20There%21.mp3"
+    },
+    {
+      "title": "Cycling - Road Race - Almost There! (Recovering)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/wegvklzp/1-133%20Cycling%20-%20Road%20Race%20-%20Almost%20There%21%20%28Recovering%29.mp3"
+    },
+    {
+      "title": "Cycling - Road Race - Final Stretch",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/aghpebsj/1-134%20Cycling%20-%20Road%20Race%20-%20Final%20Stretch.mp3"
+    },
+    {
+      "title": "Cycling - Road Race - Final Stretch (Recovering)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/uwycrckv/1-135%20Cycling%20-%20Road%20Race%20-%20Final%20Stretch%20%28Recovering%29.mp3"
+    },
+    {
+      "title": "Cycling - Road Race - First Place",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/vthcrcnf/1-136%20Cycling%20-%20Road%20Race%20-%20First%20Place.mp3"
+    },
+    {
+      "title": "Cycling - Road Race - Completely Wiped",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/phpcrdqv/1-137%20Cycling%20-%20Road%20Race%20-%20Completely%20Wiped.mp3"
+    },
+    {
+      "title": "Cycling - Road Race - Melody",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/grsnlsdo/1-138%20Cycling%20-%20Road%20Race%20-%20Melody.mp3"
+    },
+    {
+      "title": "Cycling - Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/kjpvjkvx/1-139%20Cycling%20-%20Results.mp3"
+    },
+    {
+      "title": "Cycling - Versus - Camera Overview",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/fddgvigg/1-140%20Cycling%20-%20Versus%20-%20Camera%20Overview.mp3"
+    },
+    {
+      "title": "Cycling - Versus - Starting Off",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/msaazwjh/1-141%20Cycling%20-%20Versus%20-%20Starting%20Off.mp3"
+    },
+    {
+      "title": "Cycling - Versus - Halfway",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/jxloicjq/1-142%20Cycling%20-%20Versus%20-%20Halfway.mp3"
+    },
+    {
+      "title": "Cycling - Versus - Almost There!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/agdxdzlj/1-143%20Cycling%20-%20Versus%20-%20Almost%20There%21.mp3"
+    },
+    {
+      "title": "Cycling - Versus - Melody",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ldknklcc/1-144%20Cycling%20-%20Versus%20-%20Melody.mp3"
+    },
+    {
+      "title": "Cycling - Winning Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ertsimnb/1-145%20Cycling%20-%20Winning%20Results.mp3"
+    },
+    {
+      "title": "Cycling - Bicycle Bell",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/smfqnrwf/1-146%20Cycling%20-%20Bicycle%20Bell.mp3"
+    },
+    {
+      "title": "Cycling - No Miis Harmed!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/obtlatto/1-147%20Cycling%20-%20No%20Miis%20Harmed%21.mp3"
+    },
+    {
+      "title": "Cycling - Top 5!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/kkwbrhjx/1-148%20Cycling%20-%20Top%205%21.mp3"
+    },
+    {
+      "title": "Cycling - First Place!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ozfcvvqq/1-149%20Cycling%20-%20First%20Place%21.mp3"
+    },
+    {
+      "title": "Skydiving - Plane Radio",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/adpnwuih/1-150%20Skydiving%20-%20Plane%20Radio.mp3"
+    },
+    {
+      "title": "Skydiving - It's Time to Link Up",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ljmidrzx/1-151.%20Skydiving%20-%20It%27s%20Time%20to%20Link%20Up.mp3"
+    },
+    {
+      "title": "Skydiving - Catch",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/phqituqu/1-152%20Skydiving%20-%20Catch.mp3"
+    },
+    {
+      "title": "Skydiving - Double Catch!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/arldkoqm/1-153%20Skydiving%20-%20Double%20Catch%21.mp3"
+    },
+    {
+      "title": "Skydiving - Triple Catch!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ogqjxllw/1-154%20Skydiving%20-%20Triple%20Catch%21.mp3"
+    },
+    {
+      "title": "Skydiving - Perfect Catch!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/dylgahlg/1-155%20Skydiving%20-%20Perfect%20Catch%21.mp3"
+    },
+    {
+      "title": "Skydiving - Circle Up!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/yxtcfrvb/1-156%20Skydiving%20-%20Circle%20Up%21.mp3"
+    },
+    {
+      "title": "Skydiving - Passed Through Ring",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/wbtoqjbc/1-157%20Skydiving%20-%20Passed%20Through%20Ring.mp3"
+    },
+    {
+      "title": "Skydiving - Landing",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/kqbjqafz/1-158%20Skydiving%20-%20Landing.mp3"
+    },
+    {
+      "title": "Skydiving - Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/hoyywnbt/1-159%20Skydiving%20-%20Results.mp3"
+    },
+    {
+      "title": "Island Flyover - Camera Overview",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ucawfnxz/1-160%20Island%20Flyover%20-%20Camera%20Overview.mp3"
+    },
+    {
+      "title": "Air Sports - Lakeside Castle at Day",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/fefmulwy/1-161%20Air%20Sports%20-%20Lakeside%20Castle%20at%20Day.mp3"
+    },
+    {
+      "title": "Air Sports - Lakeside Castle at Night",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/gixpfjbh/1-162%20Air%20Sports%20-%20Lakeside%20Castle%20at%20Night.mp3"
+    },
+    {
+      "title": "Air Sports - The Queen Peach at Day",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/fflmelse/1-163%20Air%20Sports%20-%20The%20Queen%20Peach%20at%20Day.mp3"
+    },
+    {
+      "title": "Air Sports - The Queen Peach at Night",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/tgxxtdhc/1-164%20Air%20Sports%20-%20The%20Queen%20Peach%20at%20Night.mp3"
+    },
+    {
+      "title": "Air Sports - Cabana Lagoon at Day",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/nkmdhzcl/1-165%20Air%20Sports%20-%20Cabana%20Lagoon%20at%20Day.mp3"
+    },
+    {
+      "title": "Air Sports - Cabana Lagoon at Night",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/asophqhp/1-166%20Air%20Sports%20-%20Cabana%20Lagoon%20at%20Night.mp3"
+    },
+    {
+      "title": "Air Sports - Mario House",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ebtqxoef/1-167%20Air%20Sports%20-%20Mario%20House.mp3"
+    },
+    {
+      "title": "Air Sports - Mario House (Poor Guy)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/lomunfmt/1-168%20Air%20Sports%20-%20Mario%20House%20%28Poor%20Guy%29.mp3"
+    },
+    {
+      "title": "Island Flyover - Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/heaotdko/1-169%20Island%20Flyover%20-%20Results.mp3"
+    },
+    {
+      "title": "Dogfight - Supply Recieved!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/kuvrzvdi/1-170%20Dogfight%20-%20Supply%20Recieved%21.mp3"
+    },
+    {
+      "title": "Dogfight - Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ewtgzezg/1-171%20Dogfight%20-%20Results.mp3"
+    },
+    {
+      "title": "Wii Motion Plus Movie",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ppfflnib/2-01%20Wii%20Motion%20Plus%20Movie.mp3"
+    },
+    {
+      "title": "Jingles - Title A",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/gffmumbx/2-02%20Jingles%20-%20Title%20A.mp3"
+    },
+    {
+      "title": "Jingles - Title B",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/hrpywoef/2-03%20Jingles%20-%20Title%20B.mp3"
+    },
+    {
+      "title": "Jingles - Game Begin",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/mungrqex/2-04%20Jingles%20-%20Game%20Begin.mp3"
+    },
+    {
+      "title": "Jingles - Menu In",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/bqyvicmc/2-05%20Jingles%20-%20Menu%20In.mp3"
+    },
+    {
+      "title": "Jingles - Menu Out",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/cepkgaky/2-06%20Jingles%20-%20Menu%20Out.mp3"
+    },
+    {
+      "title": "Jingles - Retry",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/oxvmwxxv/2-07%20Jingles%20-%20Retry.mp3"
+    },
+    {
+      "title": "Jingles - Quit",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/jlcdiiri/2-08%20Jingles%20-%20Quit.mp3"
+    },
+    {
+      "title": "Jingles - Menu Decide",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/pboobpwp/2-09%20Jingles%20-%20Menu%20Decide.mp3"
+    },
+    {
+      "title": "Jingles - Stamp Collected",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/htwamkoo/2-10%20Jingles%20-%20Stamp%20Collected.mp3"
+    },
+    {
+      "title": "Completed Stamps!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/dbykerwg/2-11%20Completed%20Stamps%21.mp3"
+    },
+    {
+      "title": "Jingles - Bronze",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ssmhafbo/2-12%20Jingles%20-%20Bronze.mp3"
+    },
+    {
+      "title": "Jingles - Silver",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/qmoizxpg/2-13%20Jingles%20-%20Silver.mp3"
+    },
+    {
+      "title": "Jingles - Gold",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/llvxcqzx/2-14%20Jingles%20-%20Gold.mp3"
+    },
+    {
+      "title": "Jingles - Platinum",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/rrfeeidp/2-15%20Jingles%20-%20Platinum.mp3"
+    },
+    {
+      "title": "Jingles - New Unlocked",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/susfwrwi/2-16%20Jingles%20-%20New%20Unlocked.mp3"
+    },
+    {
+      "title": "Jingles - Tutorial",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/yvfqmmzn/2-17%20Jingles%20-%20Tutorial.mp3"
+    },
+    {
+      "title": "Jingles - Message",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ohsuupoz/2-18%20Jingles%20-%20Message.mp3"
+    },
+    {
+      "title": "Jingles - All Remotes Callibrated",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/hntgwswf/2-19%20Jingles%20-%20All%20Remotes%20Callibrated.mp3"
+    },
+    {
+      "title": "Jingles - Common Error",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/kmdemwwu/2-20%20Jingles%20-%20Common%20Error.mp3"
+    },
+    {
+      "title": "Jingles - Perfect",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ifcwapvh/2-21%20Jingles%20-%20Perfect.mp3"
+    },
+    {
+      "title": "Jingles - Record!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/colnjgcs/2-22%20Jingles%20-%20Record%21.mp3"
+    },
+    {
+      "title": "Jingles - Remote Callibrated",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/immzjynx/2-23%20Jingles%20-%20Remote%20Callibrated.mp3"
+    },
+    {
+      "title": "Jingles - Ruins Song",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/yyvjimog/2-24%20Jingles%20-%20Ruins%20Song.mp3"
+    },
+    {
+      "title": "Jingles - Unknown",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/rowncwzi/2-25%20Jingles%20-%20Unknown.mp3"
+    },
+    {
+      "title": "(Unused) Archery - Round 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ttnhzywl/3-01%20%28Unused%29%20Archery%20-%20Round%201.mp3"
+    },
+    {
+      "title": "(Unused) Frisbee Dog-Power Cruising - Winning Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/oocuquba/3-02%20%28Unused%29%20Frisbee%20Dog-Power%20Cruising%20-%20Winning%20Results.mp3"
+    },
+    {
+      "title": "(Unused) wisp2 title",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/vbuvsdmy/3-03%20%28Unused%29%20wisp2%20title.mp3"
+    },
+    {
+      "title": "(Unused) wisp2 title ret",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/jazubynu/3-04%20%28Unused%29%20wisp2%20title%20ret.mp3"
+    },
+    {
+      "title": "(Unused) BGM SILENT",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/kopjyqiu/3-05%20%28Unused%29%20BGM%20SILENT.mp3"
+    },
+    {
+      "title": "Showdown - Attacking Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/aqcrckrf/3-06%20Showdown%20-%20Attacking%20Layer.mp3"
+    },
+    {
+      "title": "Showdown - Exposed Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/bsjpzdsd/3-07%20Showdown%20-%20Exposed%20Layer.mp3"
+    },
+    {
+      "title": "Showdown - Horde Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ppdxedce/3-08%20Showdown%20-%20Horde%20Layer.mp3"
+    },
+    {
+      "title": "Showdown - Over Halfway Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/mwzffklx/3-09%20Showdown%20-%20Over%20Halfway%20Layer.mp3"
+    },
+    {
+      "title": "Showdown - 2 Hearts Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/gnxvogob/3-10%20Showdown%20-%202%20Hearts%20Layer.mp3"
+    },
+    {
+      "title": "Showdown - 1 Heart Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/oqovofjh/3-11%20Showdown%20-%201%20Heart%20Layer.mp3"
+    },
+    {
+      "title": "Cycling - Base Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/isrevpmr/3-12%20Cycling%20-%20Base%20Layer.mp3"
+    },
+    {
+      "title": "Cycling - Going Fast Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/wjeukrfy/3-13%20Cycling%20-%20Going%20Fast%20Layer.mp3"
+    },
+    {
+      "title": "Cycling - Doing Good Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/bomwwuft/3-14%20Cycling%20-%20Doing%20Good%20Layer.mp3"
+    },
+    {
+      "title": "Cycling - Almost There Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/eoizvemw/3-15%20Cycling%20-%20Almost%20There%20Layer.mp3"
+    },
+    {
+      "title": "Cycling - First Place Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/wszvfnxz/3-16%20Cycling%20-%20First%20Place%20Layer.mp3"
+    },
+    {
+      "title": "Resort Radio",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/wii-sports-resort-wii/ezkcepnv/4-01%20Resort%20Radio.mp3"
+    }
+  ]
+}
