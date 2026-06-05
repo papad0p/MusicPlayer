@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VGM Player</title>
+    <link rel="stylesheet" href="index.css">
+    <script src="index.js" defer></script>
+    <link rel="shortcut icon" href="logo.PNG" type="image/x-icon">
+    <link rel="apple-touch-icon" href="logo.PNG">
+    <link rel="apple-touch-startup-image" href="logo.PNG">
+
+
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <p id="warning">
+        WARNING: This website is still a work in progress, so don't be alarmed at bad/ugly UI, incorrect infomation, etc. 
+        Some songs or information may be incorrect due to scraping method or human error. If you find anything that seems wrong, please 
+        mention it <a href="contact.html" target="_blank">here</a>. We will try to correct it as soon as possible.
+    </p>
+    <div id="game-playlists">
+        <h2>Nintendo Switch 2</h2>
+        <ul>
+            <li data-playlist="NSW2/marioKartWorld">Mario Kart World</li>
+            <li class="new-playlist" data-playlist="NSW2/donkeyKongBananza">Donkey Kong Bananza</li>
+        </ul>
+    
+        <h2>Nintendo Switch</h2>
+        <ul>
+            <a href="playlists/NSW/smashUltimate/index.html"><li class="new-playlist">Super Smash Bros. Ultimate</li></a>
+            <li class="new-playlist" data-playlist="NSW/pokemonLetsGo">Pokemon: Let's Go, Pikachu! & Let's Go, Eevee!</li>
+            <li class="new-playlist" data-playlist="NSW/pokemonBDSP">Pokemon: Brilliant Diamond & Shining Pearl</li>
+            <li data-playlist="NSW/kirbysReturnToDreamLandDX">Kirby's Return to Dream Land Deluxe</li>
+            <li data-playlist="NSW/kirbyFighters2">Kirby Fighters 2</li>
+        </ul>
+
+        <h2>Wii U</h2>
+        <ul>
+            <li data-playlist="WIIU/wiiuSystemMusic">Wii U System Music</li>
+            <li data-playlist="WIIU/nintendoLand">Nintendo Land</li>
+            <li data-playlist="WIIU/smash4WiiU">Super Smash Bros. for Wii U</li>
+            <li data-playlist="WIIU/superMarioMaker">Super Mario Maker</li>
+            <li data-playlist="WIIU/paperMarioColorSplash">Paper Mario: Color Splash</li>
+            <li class="new-playlist" data-playlist="WIIU/kirbyRainbowCurse">Kirby: Rainbow Curse</li>
+        </ul>
+    
+        <h2>3DS</h2>
+        <ul>
+            <li data-playlist="N3DS/n3dsSystemMusic">3DS System Music</li>
+            <li data-playlist="N3DS/superMario3dLand">Super Mario 3D Land</li>
+            <li data-playlist="N3DS/smash43DS">Super Smash Bros. for 3DS</li>
+            <li data-playlist="N3DS/newSuperMarioBros2">New Super Mario Bros. 2</li>
+            <li data-playlist="N3DS/xY">Pokemon: X & Y</li>
+            <li data-playlist="N3DS/sunMoon">Pokemon: Sun & Moon</li>
+            <li data-playlist="N3DS/ultraSunMoon">Pokemon: Ultra Sun & Ultra Moon</li>
+            <li data-playlist="N3DS/kirbyPlanetRobobot">Kirby Planet Robobot</li>
+            <li data-playlist="N3DS/kirbyTripleDeluxe">Kirby Triple Deluxe</li>
+            <li data-playlist="N3DS/marioLuigiDream">Mario & Luigi: Dream Team</li>
+            <li data-playlist="N3DS/marioLuigiPaper">Mario & Luigi: Paper Jam</li>
+            <li data-playlist="N3DS/paperMarioStickerStar">Paper Mario: Sticker Star</li>
+        </ul>
+    
+        <h2>Wii</h2>
+        <ul>
+            <li data-playlist="WII/wiiSportsResort">Wii Sports Resort</li>
+            <li data-playlist="WII/newSuperMarioBrosWii">New Super Mario Bros. Wii</li>
+            <li data-playlist="WII/marioKartWii">Mario Kart Wii</li>
+            <li data-playlist="WII/superPaperMario">Super Paper Mario</li>
+            <li data-playlist="WII/kirbysEpicYarn">Kirby's Epic Yarn</li>
+            <li data-playlist="WII/animalCrossingCityFolk">Animal Crossing: City Folk</li>
+            <li data-playlist="WII/rhythmHeavenFever">Rhythm Heaven Fever</li>
+        </ul>
+    
+        <h2>DS</h2>
+        <ul>
+            <li data-playlist="NDS/ndsiSystemMusic">DSi System Music</li>
+            <li data-playlist="NDS/superMario64DS">Super Mario 64 DS</li>
+            <li data-playlist="NDS/kirbySuperStarUltra">Kirby Super Star Ultra</li>
+            <li data-playlist="NDS/diamondPearl">Pokemon: Diamond & Pearl</li>
+            <li class="new-playlist" data-playlist="NDS/platinum">Pokemon: Platinum</li>
+            <li data-playlist="NDS/heartGoldSoulSilver">Pokemon: HeartGold and SoulSilver</li>
+            <li data-playlist="NDS/blackWhite">Pokemon: Black & White</li>
+            <li data-playlist="NDS/blackWhite2">Pokemon: Black 2 & White 2</li>
+            <li data-playlist="NDS/marioKartDS">Mario Kart DS</li>
+            <li data-playlist="NDS/marioPartyDS">Mario Party DS</li>
+            <li data-playlist="NDS/animalCrossingWildWorld">Animal Crossing: Wild World</li>
+            <li class="new-playlist" data-playlist="NDS/pokemonConquest">Pokemon Conquest</li>
+            <li data-playlist="NDS/marioLuigiPartners">Mario & Luigi: Partners in Time</li>
+            <li data-playlist="NDS/marioLuigiBowser">Mario & Luigi: Bowser's Inside Story</li>
+            <li class="new-playlist" data-playlist="NDS/zeldaSpiritTracks">The Legend of Zelda: Spirit Tracks</li>
+            <li class="new-playlist" data-playlist="NDS/kirbySqueakSquad">Kirby Squeak Squad</li>
+            <li data-playlist="NDS/kirbyMassAttack">Kirby Mass Attack</li>
+            <li class="new-playlist" data-playlist="NDS/kirbyCanvasCurse">Kirby: Canvas Curse</li>
+            <li data-playlist="NDS/cookingMama">Cooking Mama</li>
+            <li data-playlist="NDS/yoshisIslandDS">Yoshi's Island DS</li>
+        </ul>
+        
+        <h2>Gamecube</h2>
+        <ul>
+            <li data-playlist="GCN/superMarioSunshine">Super Mario Sunshine</li>
+            <li data-playlist="GCN/marioKartDoubleDash">Mario Kart: Double Dash!!</li>
+            <li data-playlist="GCN/smashMelee">Super Smash Bros. Melee</li>
+            <li data-playlist="GCN/twilightPrincess">The Legend of Zelda: Twilight Princess</li>
+        </ul>
+
+        <h2>Gameboy Advance</h2>
+        <ul>
+            <li data-playlist="GBA/superMarioAdvance">Super Mario Advance</li>
+            <li data-playlist="GBA/superMarioAdvance2">Super Mario World: Super Mario Advance 2</li>
+            <li data-playlist="GBA/superMarioAdvance3">Yoshi's Island: Super Mario Advance 3</li>
+            <li data-playlist="GBA/superMarioAdvance4">Super Mario Bros. 3: Super Mario Advance 4</li>
+            <li data-playlist="GBA/marioKartSuperCircuit">Mario Kart: Super Circuit</li>
+            <li data-playlist="GBA/marioLuigiSaga">Mario & Luigi: Superstar Saga</li>
+            <li class="new-playlist" data-playlist="GBA/zeldaMinishCap">The Legend of Zelda: The Minish Cap</li>
+            <li data-playlist="GBA/rubySapphire">Pokemon: Ruby & Sapphire</li>
+            <li class="new-playlist" data-playlist="GBA/emerald">Pokemon: Emerald</li>
+            <li data-playlist="GBA/kirbyNightmareInDreamLand">Kirby: Nightmare in Dream Land</li>
+            <li data-playlist="GBA/kirbyAndTheAmazingMirror">Kirby & The Amazing Mirror</li>
+        </ul>
+    
+        <h2>N64</h2>
+        <ul>
+            <li data-playlist="N64/majorasMask">Majora's Mask</li>
+            <li data-playlist="N64/smash64">Super Smash Bros.</li>
+            <li class="new-playlist" data-playlist="N64/donkeyKong64">Donkey Kong 64</li>
+            <li class="new-playlist" data-playlist="N64/banjoKazooie">Banjo-Kazooie</li>
+            <li class="new-playlist" data-playlist="N64/banjoTooie">Banjo-Tooie</li>
+            <li data-playlist="N64/paperMario">Paper Mario</li>
+        </ul>
+
+        <h2>Gameboy Color</h2>
+        <ul>
+            <li data-playlist="GBC/goldSilver">Pokemon: Gold & Silver</li>
+            <li data-playlist="GBC/crystal">Pokemon: Crystal</li>
+        </ul>
+
+        <h2>Gameboy</h2>
+        <ul>
+            <li data-playlist="GB/redGreenBlueYellow">Pokemon: Red, Green, Blue & Yellow</li>
+            <li data-playlist="GB/linksAwakening">Link's Awakening</li>
+        </ul>
+    </div>
+
+    <footer>
+        <p>Powered by <a href="https://downloads.khinsider.com/" target="_blank">Khinsider</a></p>
+        <p>All music is property of their respective owners.</p>
+    </footer>
+</body>
+</html>

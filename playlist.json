@@ -1,0 +1,134 @@
+[
+    {
+        "platform": "Nintendo Switch 2",
+        "games": [
+            { "title": "Mario Kart World", "id": "NSW2/marioKartWorld" },
+            { "title": "Donkey Kong Bananza", "id": "NSW2/donkeyKongBananza", "status": "new" }
+        ]
+    },
+    {
+        "platform": "Nintendo Switch",
+        "games": [
+            { "title": "Super Smash Bros. Ultimate", "url": "playlists/NSW/smashUltimate/index.html", "status": "new" },
+            { "title": "Pokemon: Let's Go, Pikachu! & Let's Go, Eevee!", "id": "NSW/pokemonLetsGo", "status": "new" },
+            { "title": "Pokemon: Brilliant Diamond & Shining Pearl", "id": "NSW/pokemonBDSP", "status": "new" },
+            { "title": "Kirby's Return to Dream Land Deluxe", "id": "NSW/kirbysReturnToDreamLandDX" },
+            { "title": "Kirby Fighters 2", "id": "NSW/kirbyFighters2" }
+        ]
+    },
+    {
+        "platform": "Wii U",
+        "games": [
+            { "title": "Wii U System Music", "id": "WIIU/wiiuSystemMusic" },
+            { "title": "Nintendo Land", "id": "WIIU/nintendoLand" },
+            { "title": "Super Smash Bros. for Wii U", "id": "WIIU/smash4WiiU" },
+            { "title": "Super Mario Maker", "id": "WIIU/superMarioMaker" },
+            { "title": "Paper Mario: Color Splash", "id": "WIIU/paperMarioColorSplash" },
+            { "title": "Kirby: Rainbow Curse", "id": "WIIU/kirbyRainbowCurse", "status": "new" }
+        ]
+    },
+    {
+        "platform": "3DS",
+        "games": [
+            { "title": "3DS System Music", "id": "N3DS/n3dsSystemMusic" },
+            { "title": "Super Mario 3D Land", "id": "N3DS/superMario3dLand" },
+            { "title": "Super Smash Bros. for 3DS", "id": "N3DS/smash43DS" },
+            { "title": "New Super Mario Bros. 2", "id": "N3DS/newSuperMarioBros2" },
+            { "title": "Pokemon: X & Y", "id": "N3DS/xY" },
+            { "title": "Pokemon: Sun & Moon", "id": "N3DS/sunMoon" },
+            { "title": "Pokemon: Ultra Sun & Ultra Moon", "id": "N3DS/ultraSunMoon" },
+            { "title": "Kirby Planet Robobot", "id": "N3DS/kirbyPlanetRobobot" },
+            { "title": "Kirby Triple Deluxe", "id": "N3DS/kirbyTripleDeluxe" },
+            { "title": "Mario & Luigi: Dream Team", "id": "N3DS/marioLuigiDream" },
+            { "title": "Mario & Luigi: Paper Jam", "id": "N3DS/marioLuigiPaper" },
+            { "title": "Paper Mario: Sticker Star", "id": "N3DS/paperMarioStickerStar" }
+        ]
+    },
+    {
+        "platform": "Wii",
+        "games": [
+            { "title": "Wii Sports Resort", "id": "WII/wiiSportsResort" },
+            { "title": "New Super Mario Bros. Wii", "id": "WII/newSuperMarioBrosWii" },
+            { "title": "Mario Kart Wii", "id": "WII/marioKartWii" },
+            { "title": "Super Paper Mario", "id": "WII/superPaperMario" },
+            { "title": "Kirby's Epic Yarn", "id": "WII/kirbysEpicYarn" },
+            { "title": "Animal Crossing: City Folk", "id": "WII/animalCrossingCityFolk" },
+            { "title": "Rhythm Heaven Fever", "id": "WII/rhythmHeavenFever" }
+        ]
+    },
+    {
+        "platform": "DS",
+        "games": [
+            { "title": "DSi System Music", "id": "NDS/ndsiSystemMusic" },
+            { "title": "Super Mario 64 DS", "id": "NDS/superMario64DS" },
+            { "title": "Kirby Super Star Ultra", "id": "NDS/kirbySuperStarUltra" },
+            { "title": "Pokemon: Diamond & Pearl", "id": "NDS/diamondPearl" },
+            { "title": "Pokemon: Platinum", "id": "NDS/platinum", "status": "new" },
+            { "title": "Pokemon: HeartGold and SoulSilver", "id": "NDS/heartGoldSoulSilver" },
+            { "title": "Pokemon: Black & White", "id": "NDS/blackWhite" },
+            { "title": "Pokemon: Black 2 & White 2", "id": "NDS/blackWhite2" },
+            { "title": "Mario Kart DS", "id": "NDS/marioKartDS" },
+            { "title": "Mario Party DS", "id": "NDS/marioPartyDS" },
+            { "title": "Animal Crossing: Wild World", "id": "NDS/animalCrossingWildWorld" },
+            { "title": "Pokemon Conquest", "id": "NDS/pokemonConquest", "status": "new" },
+            { "title": "Mario & Luigi: Partners in Time", "id": "NDS/marioLuigiPartners" },
+            { "title": "Mario & Luigi: Bowser's Inside Story", "id": "NDS/marioLuigiBowser" },
+            { "title": "The Legend of Zelda: Spirit Tracks", "id": "NDS/zeldaSpiritTracks", "status": "new" },
+            { "title": "Kirby Squeak Squad", "id": "NDS/kirbySqueakSquad", "status": "new" },
+            { "title": "Kirby Mass Attack", "id": "NDS/kirbyMassAttack" },
+            { "title": "Kirby: Canvas Curse", "id": "NDS/kirbyCanvasCurse", "status": "new" },
+            { "title": "Cooking Mama", "id": "NDS/cookingMama" },
+            { "title": "Yoshi's Island DS", "id": "NDS/yoshisIslandDS" }
+        ]
+    },
+    {
+        "platform": "Gamecube",
+        "games": [
+            { "title": "Super Mario Sunshine", "id": "GCN/superMarioSunshine" },
+            { "title": "Mario Kart: Double Dash!!", "id": "GCN/marioKartDoubleDash" },
+            { "title": "Super Smash Bros. Melee", "id": "GCN/smashMelee" },
+            { "title": "The Legend of Zelda: Twilight Princess", "id": "GCN/twilightPrincess" }
+        ]
+    },
+    {
+        "platform": "Gameboy Advance",
+        "games": [
+            { "title": "Super Mario Advance", "id": "GBA/superMarioAdvance" },
+            { "title": "Super Mario World: Super Mario Advance 2", "id": "GBA/superMarioAdvance2" },
+            { "title": "Yoshi's Island: Super Mario Advance 3", "id": "GBA/superMarioAdvance3" },
+            { "title": "Super Mario Bros. 3: Super Mario Advance 4", "id": "GBA/superMarioAdvance4" },
+            { "title": "Mario Kart: Super Circuit", "id": "GBA/marioKartSuperCircuit" },
+            { "title": "Mario & Luigi: Superstar Saga", "id": "GBA/marioLuigiSaga" },
+            { "title": "The Legend of Zelda: The Minish Cap", "id": "GBA/zeldaMinishCap", "status": "new" },
+            { "title": "Pokemon: Ruby & Sapphire", "id": "GBA/rubySapphire" },
+            { "title": "Pokemon: Emerald", "id": "GBA/emerald", "status": "new" },
+            { "title": "Kirby: Nightmare in Dream Land", "id": "GBA/kirbyNightmareInDreamLand" },
+            { "title": "Kirby & The Amazing Mirror", "id": "GBA/kirbyAndTheAmazingMirror" }
+        ]
+    },
+    {
+        "platform": "N64",
+        "games": [
+            { "title": "Majora's Mask", "id": "N64/majorasMask" },
+            { "title": "Super Smash Bros.", "id": "N64/smash64" },
+            { "title": "Donkey Kong 64", "id": "N64/donkeyKong64", "status": "new" },
+            { "title": "Banjo-Kazooie", "id": "N64/banjoKazooie", "status": "new" },
+            { "title": "Banjo-Tooie", "id": "N64/banjoTooie", "status": "new" },
+            { "title": "Paper Mario", "id": "N64/paperMario" }
+        ]
+    },
+    {
+        "platform": "Gameboy Color",
+        "games": [
+            { "title": "Pokemon: Gold & Silver", "id": "GBC/goldSilver" },
+            { "title": "Pokemon: Crystal", "id": "GBC/crystal" }
+        ]
+    },
+    {
+        "platform": "Gameboy",
+        "games": [
+            { "title": "Pokemon: Red, Green, Blue & Yellow", "id": "GB/redGreenBlueYellow" },
+            { "title": "Link's Awakening", "id": "GB/linksAwakening" }
+        ]
+    }
+]
