@@ -1,0 +1,797 @@
+{
+  "meta": {
+    "game_title": "New Super Mario Bros. 2",
+    "art": "https://mario.wiki.gallery/images/5/55/NSMB2_NA_box_cover.png",
+    "desc": "July 28, 2012"
+  },
+  "songs": [
+    {
+      "title": "New Super Mario Bros. 2 (HOME Menu)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/raxlnoongd/1-01.%20New%20Super%20Mario%20Bros.%202%20%28HOME%20Menu%29.mp3"
+    },
+    {
+      "title": "Title",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/vrxleteffd/1-02.%20Title.mp3"
+    },
+    {
+      "title": "Main Menu",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/bsuntzpdwm/1-03.%20Main%20Menu.mp3"
+    },
+    {
+      "title": "Prologue",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/xnrnrajjig/1-04.%20Prologue.mp3"
+    },
+    {
+      "title": "World 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/gpycgnavrw/1-05.%20World%201.mp3"
+    },
+    {
+      "title": "Ground Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/kprqjmndrm/1-06.%20Ground%20Theme.mp3"
+    },
+    {
+      "title": "Hurry Up!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/yqfyhmxgwf/1-07.%20Hurry%20Up%21.mp3"
+    },
+    {
+      "title": "Ground Theme (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/wzekpyqevm/1-08.%20Ground%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Ground Theme (Leaf)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/xfsikkbksf/1-09.%20Ground%20Theme%20%28Leaf%29.mp3"
+    },
+    {
+      "title": "Ground Theme (Hurry Up!) [Leaf]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/lpgokgcmdr/1-10.%20Ground%20Theme%20%28Hurry%20Up%21%29%20%5BLeaf%5D.mp3"
+    },
+    {
+      "title": "Ground Theme (Gold Rush)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/srvvrzofho/1-11.%20Ground%20Theme%20%28Gold%20Rush%29.mp3"
+    },
+    {
+      "title": "Ground Theme (Hurry Up!) [Gold Rush]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/aecbbopqry/1-12.%20Ground%20Theme%20%28Hurry%20Up%21%29%20%5BGold%20Rush%5D.mp3"
+    },
+    {
+      "title": "Course Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/jmikmtywnb/1-13.%20Course%20Clear.mp3"
+    },
+    {
+      "title": "World 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/zfdxfidbph/1-14.%20World%202.mp3"
+    },
+    {
+      "title": "Desert Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/pfjeazphei/1-15.%20Desert%20Theme.mp3"
+    },
+    {
+      "title": "Desert Theme (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/swezfmbzqb/1-16.%20Desert%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Desert Theme (Leaf)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/hhycaheopv/1-17.%20Desert%20Theme%20%28Leaf%29.mp3"
+    },
+    {
+      "title": "Desert Theme (Hurry Up!) [Leaf]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/mnplyvyhie/1-18.%20Desert%20Theme%20%28Hurry%20Up%21%29%20%5BLeaf%5D.mp3"
+    },
+    {
+      "title": "Desert Theme (Gold Rush)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/pdpihihegp/1-19.%20Desert%20Theme%20%28Gold%20Rush%29.mp3"
+    },
+    {
+      "title": "Desert Theme (Hurry Up!) [Gold Rush]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/czkwdyzgtf/1-20.%20Desert%20Theme%20%28Hurry%20Up%21%29%20%5BGold%20Rush%5D.mp3"
+    },
+    {
+      "title": "Underground Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/dsuriaawky/1-21.%20Underground%20Theme.mp3"
+    },
+    {
+      "title": "Underground Theme (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/acikuacprw/1-22.%20Underground%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Underground Theme (Leaf)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/oseahjxwfw/1-23.%20Underground%20Theme%20%28Leaf%29.mp3"
+    },
+    {
+      "title": "Underground Theme (Hurry Up!) [Leaf]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/qzikisftva/1-24.%20Underground%20Theme%20%28Hurry%20Up%21%29%20%5BLeaf%5D.mp3"
+    },
+    {
+      "title": "Underground Theme (Gold Rush)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/oqnqyybumn/1-25.%20Underground%20Theme%20%28Gold%20Rush%29.mp3"
+    },
+    {
+      "title": "Underground Theme (Hurry Up!) [Gold Rush]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/jkiixywqag/1-26.%20Underground%20Theme%20%28Hurry%20Up%21%29%20%5BGold%20Rush%5D.mp3"
+    },
+    {
+      "title": "Super Star",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/jzbsbmabca/1-27.%20Super%20Star.mp3"
+    },
+    {
+      "title": "Super Star (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/rbyeimypej/1-28.%20Super%20Star%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Switch On!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/eoppjtvacc/1-29.%20Switch%20On%21.mp3"
+    },
+    {
+      "title": "Warp",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/smtpxqhmst/1-30.%20Warp.mp3"
+    },
+    {
+      "title": "Warp (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/wdjrqdodqp/1-31.%20Warp%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "World 3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/yfpnlaprtp/2-01.%20World%203.mp3"
+    },
+    {
+      "title": "Beach Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/ukufyrtnug/2-02.%20Beach%20Theme.mp3"
+    },
+    {
+      "title": "Beach Theme (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/toklnglgxq/2-03.%20Beach%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Beach Theme (Leaf)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/hgpgddmcow/2-04.%20Beach%20Theme%20%28Leaf%29.mp3"
+    },
+    {
+      "title": "Beach Theme (Hurry Up!) [Leaf]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/ctdprrjrqy/2-05.%20Beach%20Theme%20%28Hurry%20Up%21%29%20%5BLeaf%5D.mp3"
+    },
+    {
+      "title": "Beach Theme (Gold Rush)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/rqznqnkqhe/2-06.%20Beach%20Theme%20%28Gold%20Rush%29.mp3"
+    },
+    {
+      "title": "Beach Theme (Hurry Up!) [Gold Rush]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/qnpwelqvbr/2-07.%20Beach%20Theme%20%28Hurry%20Up%21%29%20%5BGold%20Rush%5D.mp3"
+    },
+    {
+      "title": "Underwater Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/mfiautaghx/2-08.%20Underwater%20Theme.mp3"
+    },
+    {
+      "title": "Underwater Theme (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/xitekazaon/2-09.%20Underwater%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Underwater Theme (Leaf)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/kznjwsvdyj/2-10.%20Underwater%20Theme%20%28Leaf%29.mp3"
+    },
+    {
+      "title": "Underwater Theme (Hurry Up!) [Leaf]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/beznypfnsz/2-11.%20Underwater%20Theme%20%28Hurry%20Up%21%29%20%5BLeaf%5D.mp3"
+    },
+    {
+      "title": "Underwater Theme (Gold Rush)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/nfowfmbcoj/2-12.%20Underwater%20Theme%20%28Gold%20Rush%29.mp3"
+    },
+    {
+      "title": "Underwater Theme (Hurry Up!) [Gold Rush]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/xdgsxsohrz/2-13.%20Underwater%20Theme%20%28Hurry%20Up%21%29%20%5BGold%20Rush%5D.mp3"
+    },
+    {
+      "title": "Forest Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/qrdhahrbhh/2-14.%20Forest%20Theme.mp3"
+    },
+    {
+      "title": "Forest Theme (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/dpksadfreu/2-15.%20Forest%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Forest Theme (Leaf)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/fpcnyepkpc/2-16.%20Forest%20Theme%20%28Leaf%29.mp3"
+    },
+    {
+      "title": "Forest Theme (Hurry Up!) [Leaf]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/hrmwayaher/2-17.%20Forest%20Theme%20%28Hurry%20Up%21%29%20%5BLeaf%5D.mp3"
+    },
+    {
+      "title": "Forest Theme (Gold Rush)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/ofvogpuxce/2-18.%20Forest%20Theme%20%28Gold%20Rush%29.mp3"
+    },
+    {
+      "title": "Forest Theme (Hurry Up!) [Gold Rush]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/cljhlviqus/2-19.%20Forest%20Theme%20%28Hurry%20Up%21%29%20%5BGold%20Rush%5D.mp3"
+    },
+    {
+      "title": "World 4",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/yiaesbwskz/2-20.%20World%204.mp3"
+    },
+    {
+      "title": "Snowfield Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/zwjhmvxnbf/2-21.%20Snowfield%20Theme.mp3"
+    },
+    {
+      "title": "Snowfield Theme (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/eezrvtxyjg/2-22.%20Snowfield%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Snowfield Theme (Leaf)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/kamgzazqwh/2-23.%20Snowfield%20Theme%20%28Leaf%29.mp3"
+    },
+    {
+      "title": "Snowfield Theme (Hurry Up!) [Leaf]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/cnfochbydb/2-24.%20Snowfield%20Theme%20%28Hurry%20Up%21%29%20%5BLeaf%5D.mp3"
+    },
+    {
+      "title": "Snowfield Theme (Gold Rush)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/goxutezzvd/2-25.%20Snowfield%20Theme%20%28Gold%20Rush%29.mp3"
+    },
+    {
+      "title": "Snowfield Theme (Hurry Up!) [Gold Rush]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/wrqhbyjrqg/2-26.%20Snowfield%20Theme%20%28Hurry%20Up%21%29%20%5BGold%20Rush%5D.mp3"
+    },
+    {
+      "title": "Toad House Minigame (Red)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/ybxdsqwhvs/2-27.%20Toad%20House%20Minigame%20%28Red%29.mp3"
+    },
+    {
+      "title": "Toad House Minigame (Green)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/jwgdjwvzxt/2-28.%20Toad%20House%20Minigame%20%28Green%29.mp3"
+    },
+    {
+      "title": "Coin Rush - Win",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/gxiuhviweo/2-29.%20Coin%20Rush%20-%20Win.mp3"
+    },
+    {
+      "title": "Coin Rush - Lose",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/qibdueniue/2-30.%20Coin%20Rush%20-%20Lose.mp3"
+    },
+    {
+      "title": "Coin Rush - Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/tzgqpnhdwl/2-31.%20Coin%20Rush%20-%20Results.mp3"
+    },
+    {
+      "title": "StreetPass",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/frcjbziwhy/3-01.%20StreetPass.mp3"
+    },
+    {
+      "title": "All Bubbled Up...",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/docavpaooj/3-02.%20All%20Bubbled%20Up....mp3"
+    },
+    {
+      "title": "StreetPass - Fail",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/etzwaiixyv/3-03.%20StreetPass%20-%20Fail.mp3"
+    },
+    {
+      "title": "Fortress Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/cgfcufayiw/3-04.%20Fortress%20Theme.mp3"
+    },
+    {
+      "title": "Fortress Theme (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/mmpogvztlu/3-05.%20Fortress%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Fortress Theme (Leaf)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/xqyuwxqnrl/3-06.%20Fortress%20Theme%20%28Leaf%29.mp3"
+    },
+    {
+      "title": "Fortress Theme (Hurry Up!) [Leaf]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/fknjmsnrzo/3-07.%20Fortress%20Theme%20%28Hurry%20Up%21%29%20%5BLeaf%5D.mp3"
+    },
+    {
+      "title": "Fortress Theme (Gold Rush)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/mjjfvyocsa/3-08.%20Fortress%20Theme%20%28Gold%20Rush%29.mp3"
+    },
+    {
+      "title": "Fortress Theme (Hurry Up!) [Gold Rush]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/xapjvjkycu/3-09.%20Fortress%20Theme%20%28Hurry%20Up%21%29%20%5BGold%20Rush%5D.mp3"
+    },
+    {
+      "title": "Fortress Boss Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/ksesbriamu/3-10.%20Fortress%20Boss%20Battle.mp3"
+    },
+    {
+      "title": "Fortress Boss Battle (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/fpqkpicveo/3-11.%20Fortress%20Boss%20Battle%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Fortress Boss Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/thpkdtykpz/3-12.%20Fortress%20Boss%20Clear.mp3"
+    },
+    {
+      "title": "World 5",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/nirofrcnjj/3-13.%20World%205.mp3"
+    },
+    {
+      "title": "Athletic Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/zbbxithktt/3-14.%20Athletic%20Theme.mp3"
+    },
+    {
+      "title": "Athletic Theme (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/bvktoqtcoy/3-15.%20Athletic%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Athletic Theme (Leaf)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/qnjtfhuwtk/3-16.%20Athletic%20Theme%20%28Leaf%29.mp3"
+    },
+    {
+      "title": "Athletic Theme (Hurry Up!) [Leaf]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/nobgyqrdbx/3-17.%20Athletic%20Theme%20%28Hurry%20Up%21%29%20%5BLeaf%5D.mp3"
+    },
+    {
+      "title": "Athletic Theme (Gold Rush)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/jzwbggaloc/3-18.%20Athletic%20Theme%20%28Gold%20Rush%29.mp3"
+    },
+    {
+      "title": "Athletic Theme (Hurry Up!) [Gold Rush]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/mfifgbjrie/3-19.%20Athletic%20Theme%20%28Hurry%20Up%21%29%20%5BGold%20Rush%5D.mp3"
+    },
+    {
+      "title": "Course Clear (Special)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/mzjknrdigb/3-20.%20Course%20Clear%20%28Special%29.mp3"
+    },
+    {
+      "title": "Bonus Area",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/xqabueoocr/3-21.%20Bonus%20Area.mp3"
+    },
+    {
+      "title": "Bonus Area (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/vyxrtraxpx/3-22.%20Bonus%20Area%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Mega Mario",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/mzxjxeihuf/3-23.%20Mega%20Mario.mp3"
+    },
+    {
+      "title": "Mega Mario (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/mvbtgzsolc/3-24.%20Mega%20Mario%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Ghost House Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/vffforbwoj/3-25.%20Ghost%20House%20Theme.mp3"
+    },
+    {
+      "title": "Ghost House Theme (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/zbmarnrqbb/3-26.%20Ghost%20House%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Ghost House Theme (Leaf)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/ifiwggbenl/3-27.%20Ghost%20House%20Theme%20%28Leaf%29.mp3"
+    },
+    {
+      "title": "Ghost House Theme (Hurry Up!) [Leaf]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/icmdtobmom/3-28.%20Ghost%20House%20Theme%20%28Hurry%20Up%21%29%20%5BLeaf%5D.mp3"
+    },
+    {
+      "title": "Ghost House Theme (Gold Rush)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/yrkvxrxlyz/3-29.%20Ghost%20House%20Theme%20%28Gold%20Rush%29.mp3"
+    },
+    {
+      "title": "Ghost House Theme (Hurry Up!) [Gold Rush]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/uvvimzrvrd/3-30.%20Ghost%20House%20Theme%20%28Hurry%20Up%21%29%20%5BGold%20Rush%5D.mp3"
+    },
+    {
+      "title": "Too Bad!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/onqbxyopgi/3-31.%20Too%20Bad%21.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/mqtcppevpf/3-32.%20Game%20Over.mp3"
+    },
+    {
+      "title": "World 6",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/iyhxhshqcp/3-33.%20World%206.mp3"
+    },
+    {
+      "title": "Lava Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/ttdvgjaotf/3-34.%20Lava%20Theme.mp3"
+    },
+    {
+      "title": "Lava Theme (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/qbuvpflgow/3-35.%20Lava%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Lava Theme (Leaf)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/pbigyhtjvc/3-36.%20Lava%20Theme%20%28Leaf%29.mp3"
+    },
+    {
+      "title": "Lava Theme (Hurry Up!) [Leaf]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/pvvkbaejqf/3-37.%20Lava%20Theme%20%28Hurry%20Up%21%29%20%5BLeaf%5D.mp3"
+    },
+    {
+      "title": "Lava Theme (Gold Rush)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/dccjyqcjov/3-38.%20Lava%20Theme%20%28Gold%20Rush%29.mp3"
+    },
+    {
+      "title": "Lava Theme (Hurry Up!) [Gold Rush]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/qtxkvftlay/3-39.%20Lava%20Theme%20%28Hurry%20Up%21%29%20%5BGold%20Rush%5D.mp3"
+    },
+    {
+      "title": "Lava Cave  -  Underground Ruins Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/rainipdhim/4-01.%20Lava%20Cave%20%20-%20%20Underground%20Ruins%20Theme.mp3"
+    },
+    {
+      "title": "Lava Cave  -  Underground Ruins Theme (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/qlxtlelqce/4-02.%20Lava%20Cave%20%20-%20%20Underground%20Ruins%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Lava Cave  -  Underground Ruins Theme (Leaf)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/kczusoosov/4-03.%20Lava%20Cave%20%20-%20%20Underground%20Ruins%20Theme%20%28Leaf%29.mp3"
+    },
+    {
+      "title": "Lava Cave  -  Underground Ruins Theme (Hurry Up!) [Leaf]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/msxuyplqbo/4-04.%20Lava%20Cave%20%20-%20%20Underground%20Ruins%20Theme%20%28Hurry%20Up%21%29%20%5BLeaf%5D.mp3"
+    },
+    {
+      "title": "Lava Cave  -  Underground Ruins Theme (Gold Rush)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/onpyfhmghe/4-05.%20Lava%20Cave%20%20-%20%20Underground%20Ruins%20Theme%20%28Gold%20Rush%29.mp3"
+    },
+    {
+      "title": "Lava Cave  -  Underground Ruins Theme (Hurry Up!) [Gold Rush]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/sovkqcyvnc/4-06.%20Lava%20Cave%20%20-%20%20Underground%20Ruins%20Theme%20%28Hurry%20Up%21%29%20%5BGold%20Rush%5D.mp3"
+    },
+    {
+      "title": "Castle Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/uhrylxsmri/4-07.%20Castle%20Theme.mp3"
+    },
+    {
+      "title": "Castle Theme (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/buqldnpmvi/4-08.%20Castle%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Castle Theme (Leaf)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/qyolgkvbop/4-09.%20Castle%20Theme%20%28Leaf%29.mp3"
+    },
+    {
+      "title": "Castle Theme (Hurry Up!) [Leaf]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/amftnqqxvv/4-10.%20Castle%20Theme%20%28Hurry%20Up%21%29%20%5BLeaf%5D.mp3"
+    },
+    {
+      "title": "Castle Theme (Gold Rush)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/imxyzxmfyt/4-11.%20Castle%20Theme%20%28Gold%20Rush%29.mp3"
+    },
+    {
+      "title": "Castle Theme (Hurry Up!) [Gold Rush]",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/athucntzna/4-12.%20Castle%20Theme%20%28Hurry%20Up%21%29%20%5BGold%20Rush%5D.mp3"
+    },
+    {
+      "title": "Castle Passage",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/lnnvohxnno/4-13.%20Castle%20Passage.mp3"
+    },
+    {
+      "title": "Castle Passage (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/fwpokvvngr/4-14.%20Castle%20Passage%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Koopaling Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/mwwtjllybf/4-15.%20Koopaling%20Battle.mp3"
+    },
+    {
+      "title": "Koopaling Battle (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/dlvzwtwzho/4-16.%20Koopaling%20Battle%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Castle Boss Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/xlwprlimuf/4-17.%20Castle%20Boss%20Clear.mp3"
+    },
+    {
+      "title": "The Princess...",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/wcmroyzbrp/4-18.%20The%20Princess....mp3"
+    },
+    {
+      "title": "Bowser Battle 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/gzmkpdqdiz/4-19.%20Bowser%20Battle%201.mp3"
+    },
+    {
+      "title": "Bowser Battle 1 (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/rykuoiirbk/4-20.%20Bowser%20Battle%201%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Bowser Battle 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/dlbshnjuse/4-21.%20Bowser%20Battle%202.mp3"
+    },
+    {
+      "title": "Bowser Battle 2 (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/osejqweudd/4-22.%20Bowser%20Battle%202%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Bowser Defeated",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/ncusaylpzc/4-23.%20Bowser%20Defeated.mp3"
+    },
+    {
+      "title": "Course Clear (Bowser's Castle)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/mzhaozrwxj/4-24.%20Course%20Clear%20%28Bowser%27s%20Castle%29.mp3"
+    },
+    {
+      "title": "Epilogue",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/bgjfgcjhxa/4-25.%20Epilogue.mp3"
+    },
+    {
+      "title": "New Super Mario Bros. 2 Staff Credits",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/rnowiruftz/4-26.%20New%20Super%20Mario%20Bros.%202%20Staff%20Credits.mp3"
+    },
+    {
+      "title": "World Mushroom",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/tibhkblooc/4-27.%20World%20Mushroom.mp3"
+    },
+    {
+      "title": "World Flower",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/fidvtzjpfa/4-28.%20World%20Flower.mp3"
+    },
+    {
+      "title": "World Star",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/jmkobzszky/4-29.%20World%20Star.mp3"
+    },
+    {
+      "title": "Rainbow Ground Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/demltqsnfs/4-30.%20Rainbow%20Ground%20Theme.mp3"
+    },
+    {
+      "title": "Rainbow Ground Theme (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/blhctuekcx/4-31.%20Rainbow%20Ground%20Theme%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "Rainbow Bonus Area",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/eqkurmpxdh/4-32.%20Rainbow%20Bonus%20Area.mp3"
+    },
+    {
+      "title": "Rainbow Bonus Area (Hurry Up!)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/wijqxrisfj/4-33.%20Rainbow%20Bonus%20Area%20%28Hurry%20Up%21%29.mp3"
+    },
+    {
+      "title": "eShop Menu",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/kecnrasrsq/4-34.%20eShop%20Menu.mp3"
+    },
+    {
+      "title": "Celebration Message",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/oggmwmncxq/4-35.%20Celebration%20Message.mp3"
+    },
+    {
+      "title": "Star Coin Collected",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/pxbrhdmsaq/4-36.%20Star%20Coin%20Collected.mp3"
+    },
+    {
+      "title": "All Star Coins Collected",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/gpnyydqolv/4-37.%20All%20Star%20Coins%20Collected.mp3"
+    },
+    {
+      "title": "All Moon Coins Collected",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/vaitxhklou/4-38.%20All%20Moon%20Coins%20Collected.mp3"
+    },
+    {
+      "title": "One Million Coins!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/cgprcxumpg/4-39.%20One%20Million%20Coins%21.mp3"
+    },
+    {
+      "title": "A Prelude to Battle (Koopaling Castle Ambience)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/jykivluzpq/5-01.%20A%20Prelude%20to%20Battle%20%28Koopaling%20Castle%20Ambience%29.mp3"
+    },
+    {
+      "title": "Athletic Theme Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/pkqivuccxp/5-02.%20Athletic%20Theme%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Athletic Theme Hurry Up Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/nzkbajnget/5-03.%20Athletic%20Theme%20Hurry%20Up%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Athletic Theme Hurry Up Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/etbzwfgtze/5-04.%20Athletic%20Theme%20Hurry%20Up%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Athletic Theme Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/fateiyngda/5-05.%20Athletic%20Theme%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Beach Theme Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/vurlflsjtj/5-06.%20Beach%20Theme%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Beach Theme Hurry Up Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/pzzrmcjxxk/5-07.%20Beach%20Theme%20Hurry%20Up%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Beach Theme Hurry Up Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/rpdpmzzpin/5-08.%20Beach%20Theme%20Hurry%20Up%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Beach Theme Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/admxpvjljf/5-09.%20Beach%20Theme%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Castle Theme Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/oqheczqcpj/5-10.%20Castle%20Theme%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Castle Theme Hurry Up Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/klsvsehwvy/5-11.%20Castle%20Theme%20Hurry%20Up%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Castle Theme Hurry Up Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/vjxjhmevbn/5-12.%20Castle%20Theme%20Hurry%20Up%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Castle Theme Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/sinnsovsci/5-13.%20Castle%20Theme%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Desert Theme Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/hbpeqtlmjn/5-14.%20Desert%20Theme%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Desert Theme Hurry Up Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/jubssgdtux/5-15.%20Desert%20Theme%20Hurry%20Up%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Desert Theme Hurry Up Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/mxnjromovn/5-16.%20Desert%20Theme%20Hurry%20Up%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Desert Theme Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/irnycohacy/5-17.%20Desert%20Theme%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Ghost House Theme Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/uorhhtqacl/5-18.%20Ghost%20House%20Theme%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Ghost House Theme Hurry Up Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/damvacwryv/5-19.%20Ghost%20House%20Theme%20Hurry%20Up%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Ghost House Theme Hurry Up Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/bzlqditgom/5-20.%20Ghost%20House%20Theme%20Hurry%20Up%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Ghost House Theme Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/uekhcesivd/5-21.%20Ghost%20House%20Theme%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Ground Theme Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/aeaqtinjzd/5-22.%20Ground%20Theme%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Ground Theme Hurry Up Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/bcrmlexzsg/5-23.%20Ground%20Theme%20Hurry%20Up%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Ground Theme Hurry Up Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/lckazvuara/5-24.%20Ground%20Theme%20Hurry%20Up%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Ground Theme Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/jaxeeghzav/5-25.%20Ground%20Theme%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Jungle Theme Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/lwnaruqcae/5-26.%20Jungle%20Theme%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Jungle Theme Hurry Up Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/wpotetueav/5-27.%20Jungle%20Theme%20Hurry%20Up%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Jungle Theme Hurry Up Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/ahxdumekii/5-28.%20Jungle%20Theme%20Hurry%20Up%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Jungle Theme Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/lqbaegoqib/5-29.%20Jungle%20Theme%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Lava Cave Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/eifckbbini/5-30.%20Lava%20Cave%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Lava Cave Hurry Up Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/ruuvjowrhe/5-31.%20Lava%20Cave%20Hurry%20Up%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Lava Cave Hurry Up Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/scszzkmbeo/5-32.%20Lava%20Cave%20Hurry%20Up%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Lava Cave Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/tdsvnasyfr/5-33.%20Lava%20Cave%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Lava Theme Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/mpxfozbqaq/5-34.%20Lava%20Theme%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Lava Theme Hurry Up Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/zcnqmjubza/5-35.%20Lava%20Theme%20Hurry%20Up%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Lava Theme Hurry Up Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/ptvhrywntr/5-36.%20Lava%20Theme%20Hurry%20Up%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Lava Theme Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/hpesnfnwdw/5-37.%20Lava%20Theme%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Menu 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/ltxdgzqadh/5-38.%20Menu%201.mp3"
+    },
+    {
+      "title": "Menu 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/gmxcwywzma/5-39.%20Menu%202.mp3"
+    },
+    {
+      "title": "Menu 3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/ozdbkgogyg/5-40.%20Menu%203.mp3"
+    },
+    {
+      "title": "Menu 4",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/nsqykzgujc/5-41.%20Menu%204.mp3"
+    },
+    {
+      "title": "Snow Theme Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/jtrmgqkvlw/5-42.%20Snow%20Theme%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Snow Theme Hurry Up Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/zaxzbgwgfk/5-43.%20Snow%20Theme%20Hurry%20Up%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Snow Theme Hurry Up Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/uqqouzlgnq/5-44.%20Snow%20Theme%20Hurry%20Up%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Snow Theme Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/mllpwzhgmm/5-45.%20Snow%20Theme%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Tower Theme Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/oxhfzuipoi/5-46.%20Tower%20Theme%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Tower Theme Hurry Up Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/zwaeoewkyd/5-47.%20Tower%20Theme%20Hurry%20Up%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Tower Theme Hurry Up Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/duojdmetnd/5-48.%20Tower%20Theme%20Hurry%20Up%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Tower Theme Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/dgzyoofaxo/5-49.%20Tower%20Theme%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Underground Theme Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/jtluqwdfsh/5-50.%20Underground%20Theme%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Underground Theme Hurry Up Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/xvxrwwqbdx/5-51.%20Underground%20Theme%20Hurry%20Up%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Underground Theme Hurry Up Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/whocuvjqfe/5-52.%20Underground%20Theme%20Hurry%20Up%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Underground Theme Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/zgqsssaelo/5-53.%20Underground%20Theme%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Underwater Theme Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/labuxpyxoq/5-54.%20Underwater%20Theme%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Underwater Theme Hurry Up Gold Rush Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/hespjetiqy/5-55.%20Underwater%20Theme%20Hurry%20Up%20Gold%20Rush%20Layer.mp3"
+    },
+    {
+      "title": "Underwater Theme Hurry Up Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/vzmxipskss/5-56.%20Underwater%20Theme%20Hurry%20Up%20Leaf%20Layer.mp3"
+    },
+    {
+      "title": "Underwater Theme Leaf Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/new-super-mario-bros.-2/rzjqbkjiie/5-57.%20Underwater%20Theme%20Leaf%20Layer.mp3"
+    }
+  ]
+}
