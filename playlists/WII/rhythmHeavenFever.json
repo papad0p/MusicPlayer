@@ -1,0 +1,717 @@
+{
+  "meta": {
+    "game_title": "Rhythm Heaven Fever Complete Music Collection",
+    "art": "https://mario.wiki.gallery/images/9/96/RHF_US_Boxart.jpg",
+    "desc": "July 21, 2011"
+  },
+  "songs": [
+    {
+      "title": "Rhythm Heaven Fever (Channel Banner)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/octlbwca/1-01%20-%20Rhythm%20Heaven%20Fever%20%28Channel%20Banner%29.mp3"
+    },
+    {
+      "title": "Rhythm Heaven Fever",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/uygjfvpk/1-02%20-%20Rhythm%20Heaven%20Fever.mp3"
+    },
+    {
+      "title": "Greetings!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/hhntepmp/1-03%20-%20Greetings%21.mp3"
+    },
+    {
+      "title": "Game Select",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/pcuracku/1-04%20-%20Game%20Select.mp3"
+    },
+    {
+      "title": "Hole in One",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/qvgrtrdp/1-05%20-%20Hole%20in%20One.mp3"
+    },
+    {
+      "title": "Screwbot Factory",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/rotdifcu/1-06%20-%20Screwbot%20Factory.mp3"
+    },
+    {
+      "title": "See-Saw",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/tkshjzwj/1-07%20-%20See-Saw.mp3"
+    },
+    {
+      "title": "Double Date",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/drxnwuga/1-08%20-%20Double%20Date.mp3"
+    },
+    {
+      "title": "Remix 1",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/hivdfswg/1-09%20-%20Remix%201.mp3"
+    },
+    {
+      "title": "Fork Lifter",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/rnqpbony/1-10%20-%20Fork%20Lifter.mp3"
+    },
+    {
+      "title": "Tambourine",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/eanqnrvf/1-11%20-%20Tambourine.mp3"
+    },
+    {
+      "title": "Board Meeting",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/nydurzua/1-12%20-%20Board%20Meeting.mp3"
+    },
+    {
+      "title": "Monkey Watch",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/trfydvse/1-13%20-%20Monkey%20Watch.mp3"
+    },
+    {
+      "title": "Remix 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/qqgivhwo/1-14%20-%20Remix%202.mp3"
+    },
+    {
+      "title": "Working Dough",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/dyjyrnna/1-15%20-%20Working%20Dough.mp3"
+    },
+    {
+      "title": "Built to Scale",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/qdumdccg/1-16%20-%20Built%20to%20Scale.mp3"
+    },
+    {
+      "title": "Air Rally",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/yyvjiouh/1-17%20-%20Air%20Rally.mp3"
+    },
+    {
+      "title": "Figure Fighter",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/blbztvuk/1-18%20-%20Figure%20Fighter.mp3"
+    },
+    {
+      "title": "Remix 3 (I Feel Fine!!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/usfzfbtp/1-19%20-%20Remix%203%20%28I%20Feel%20Fine%21%21%29.mp3"
+    },
+    {
+      "title": "Ringside",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/stpueknj/1-20%20-%20Ringside.mp3"
+    },
+    {
+      "title": "Packing Pests",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/gfizwjhj/1-21%20-%20Packing%20Pests.mp3"
+    },
+    {
+      "title": "Micro-Row",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/xmpoaldj/1-22%20-%20Micro-Row.mp3"
+    },
+    {
+      "title": "Samurai Slice",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/mfpkesab/1-23%20-%20Samurai%20Slice.mp3"
+    },
+    {
+      "title": "Remix 4",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/ciirkawf/1-24%20-%20Remix%204.mp3"
+    },
+    {
+      "title": "Catch of the Day",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/ocvxbpsv/1-25%20-%20Catch%20of%20the%20Day.mp3"
+    },
+    {
+      "title": "Flipper Flop",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/yhnvmygk/1-26%20-%20Flipper%20Flop.mp3"
+    },
+    {
+      "title": "Exhibition Match",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/gajvbriq/1-27%20-%20Exhibition%20Match.mp3"
+    },
+    {
+      "title": "Flock Step",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/ezkbdjor/1-28%20-%20Flock%20Step.mp3"
+    },
+    {
+      "title": "Remix 5",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/qgiubvbs/1-29%20-%20Remix%205.mp3"
+    },
+    {
+      "title": "Launch Party",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/lavcxhuc/1-30%20-%20Launch%20Party.mp3"
+    },
+    {
+      "title": "Donk-Donk",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/bbaxnumb/1-31%20-%20Donk-Donk.mp3"
+    },
+    {
+      "title": "Bossa Nova",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/xgnxyblc/1-32%20-%20Bossa%20Nova.mp3"
+    },
+    {
+      "title": "Love Rap",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/byrlenei/1-33%20-%20Love%20Rap.mp3"
+    },
+    {
+      "title": "Remix 6",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/bktnkjto/1-34%20-%20Remix%206.mp3"
+    },
+    {
+      "title": "Tap Troupe",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/nydyffkk/1-35%20-%20Tap%20Troupe.mp3"
+    },
+    {
+      "title": "Shrimp Shuffle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/wcwcutil/1-36%20-%20Shrimp%20Shuffle.mp3"
+    },
+    {
+      "title": "Cheer Readers",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/eofjeukt/1-37%20-%20Cheer%20Readers.mp3"
+    },
+    {
+      "title": "Karate Man (Kanashimi no Squall)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/mdhcnico/1-38%20-%20Karate%20Man%20%28Kanashimi%20no%20Squall%29.mp3"
+    },
+    {
+      "title": "Remix 7",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/mscjmkoo/1-39%20-%20Remix%207.mp3"
+    },
+    {
+      "title": "Congratulations!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/cwakbchc/2-01%20-%20Congratulations%21.mp3"
+    },
+    {
+      "title": "Night Walk (Bokura no Sedai!)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/qwjhhpcr/2-02%20-%20Night%20Walk%20%28Bokura%20no%20Sedai%21%29.mp3"
+    },
+    {
+      "title": "Character Cast",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/drwidoln/2-03%20-%20Character%20Cast.mp3"
+    },
+    {
+      "title": "Game Select (Bokura no Sedai!  Instrumental)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/idonvpoa/2-04%20-%20Game%20Select%20%28Bokura%20no%20Sedai%21%20%20Instrumental%29.mp3"
+    },
+    {
+      "title": "Samurai Slice 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/kxhsuupp/2-05%20-%20Samurai%20Slice%202.mp3"
+    },
+    {
+      "title": "Working Dough 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/gjbhiqea/2-06%20-%20Working%20Dough%202.mp3"
+    },
+    {
+      "title": "Built to Scale 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/qbjrjrhl/2-07%20-%20Built%20to%20Scale%202.mp3"
+    },
+    {
+      "title": "Double Date 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/ihmoiyro/2-08%20-%20Double%20Date%202.mp3"
+    },
+    {
+      "title": "Remix 8 (I love you Watashi no Kimi)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/vkopivcy/2-09%20-%20Remix%208%20%28I%20love%20you%20Watashi%20no%20Kimi%29.mp3"
+    },
+    {
+      "title": "Love Rap 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/oxwruwxx/2-10%20-%20Love%20Rap%202.mp3"
+    },
+    {
+      "title": "Cheer Readers 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/wqmnfobr/2-11%20-%20Cheer%20Readers%202.mp3"
+    },
+    {
+      "title": "Hole in One 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/coklylii/2-12%20-%20Hole%20in%20One%202.mp3"
+    },
+    {
+      "title": "Screwbot Factory 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/pahligiu/2-13%20-%20Screwbot%20Factory%202.mp3"
+    },
+    {
+      "title": "Remix 9 (Yagate Onna wa Kirei ni Naru Darou)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/cbbbckqy/2-14%20-%20Remix%209%20%28Yagate%20Onna%20wa%20Kirei%20ni%20Naru%20Darou%29.mp3"
+    },
+    {
+      "title": "Figure Fighter 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/wknkngsu/2-15%20-%20Figure%20Fighter%202.mp3"
+    },
+    {
+      "title": "Micro-Row 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/uqstnkjt/2-16%20-%20Micro-Row%202.mp3"
+    },
+    {
+      "title": "Packing Pests 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/opgllyiv/2-17%20-%20Packing%20Pests%202.mp3"
+    },
+    {
+      "title": "Karate Man 2 (Kanashimi no Squall)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/denzlgzb/2-18%20-%20Karate%20Man%202%20%28Kanashimi%20no%20Squall%29.mp3"
+    },
+    {
+      "title": "Remix 10",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/kxflonvq/2-19%20-%20Remix%2010.mp3"
+    },
+    {
+      "title": "Endless Games",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/sqagcvtg/2-20%20-%20Endless%20Games.mp3"
+    },
+    {
+      "title": "Wake-Up Caller",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/zdsdpqhq/2-21%20-%20Wake-Up%20Caller.mp3"
+    },
+    {
+      "title": "Wake Up! (Wake-Up Caller)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/fczoxwof/2-22%20-%20Wake%20Up%21%20%28Wake-Up%20Caller%29.mp3"
+    },
+    {
+      "title": "Next Night (Wake-Up Caller)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/lonvpmry/2-23%20-%20Next%20Night%20%28Wake-Up%20Caller%29.mp3"
+    },
+    {
+      "title": "Munchy Monk",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/qiuzljnn/2-24%20-%20Munchy%20Monk.mp3"
+    },
+    {
+      "title": "Lady Cupid",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/bqdqvhvj/2-25%20-%20Lady%20Cupid.mp3"
+    },
+    {
+      "title": "Stage Clear (Lady Cupid)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/jskzpzgg/2-26%20-%20Stage%20Clear%20%28Lady%20Cupid%29.mp3"
+    },
+    {
+      "title": "Manzai Birds",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/obqxsvbs/2-27%20-%20Manzai%20Birds.mp3"
+    },
+    {
+      "title": "Endless Remix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/mhxsvyit/2-28%20-%20Endless%20Remix.mp3"
+    },
+    {
+      "title": "Endless Games ~ For Two",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/tmfpjysu/2-29%20-%20Endless%20Games%20~%20For%20Two.mp3"
+    },
+    {
+      "title": "Kung Fu Ball",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/rcmbxhrp/2-30%20-%20Kung%20Fu%20Ball.mp3"
+    },
+    {
+      "title": "Mystery (Kung Fu Ball)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/xsvapyza/2-31%20-%20Mystery%20%28Kung%20Fu%20Ball%29.mp3"
+    },
+    {
+      "title": "Pirate Crew",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/domscktl/2-32%20-%20Pirate%20Crew.mp3"
+    },
+    {
+      "title": "Boat Arrival (Pirate Crew)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/ykgbmhyx/2-33%20-%20Boat%20Arrival%20%28Pirate%20Crew%29.mp3"
+    },
+    {
+      "title": "Prologue (Mochi Pounding)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/rsnnzjwe/2-34%20-%20Prologue%20%28Mochi%20Pounding%29.mp3"
+    },
+    {
+      "title": "Mochi Pounding",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/jilgagfg/2-35%20-%20Mochi%20Pounding.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/pgkhgllx/2-36%20-%20Game%20Over.mp3"
+    },
+    {
+      "title": "Toy Menu",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/dbwbsmgu/2-37%20-%20Toy%20Menu.mp3"
+    },
+    {
+      "title": "Drive, Toy Car!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/gwoflngr/2-38%20-%20Drive%2C%20Toy%20Car%21.mp3"
+    },
+    {
+      "title": "Police Call (Investigation)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/sldgxuha/2-39%20-%20Police%20Call%20%28Investigation%29.mp3"
+    },
+    {
+      "title": "Police Call (Revelation)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/ilgxtdjk/2-40%20-%20Police%20Call%20%28Revelation%29.mp3"
+    },
+    {
+      "title": "Police Call (Staff)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/zrmjlasq/2-41%20-%20Police%20Call%20%28Staff%29.mp3"
+    },
+    {
+      "title": "Hi-Hat (Blue Birds)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/yviexxxw/2-42%20-%20Hi-Hat%20%28Blue%20Birds%29.mp3"
+    },
+    {
+      "title": "Hi-Hat (Rhythm Tweezers)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/mwxwrsqx/2-43%20-%20Hi-Hat%20%28Rhythm%20Tweezers%29.mp3"
+    },
+    {
+      "title": "Hi-Hat (Title)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/swdcaxje/2-44%20-%20Hi-Hat%20%28Title%29.mp3"
+    },
+    {
+      "title": "Rhythm Fighter",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/vmaqdtjq/2-45%20-%20Rhythm%20Fighter.mp3"
+    },
+    {
+      "title": "Extra Games",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/yxpiuzmo/3-01%20-%20Extra%20Games.mp3"
+    },
+    {
+      "title": "The Clappy Trio",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/jesbfxwn/3-02%20-%20The%20Clappy%20Trio.mp3"
+    },
+    {
+      "title": "Sneaky Spirits",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/btqwnwxu/3-03%20-%20Sneaky%20Spirits.mp3"
+    },
+    {
+      "title": "Power Calligraphy",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/gxvlqvfp/3-04%20-%20Power%20Calligraphy.mp3"
+    },
+    {
+      "title": "Tap Trial",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/kdpllwbq/3-05%20-%20Tap%20Trial.mp3"
+    },
+    {
+      "title": "Café",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/zzyxocwb/3-06%20-%20Caf%C3%A9.mp3"
+    },
+    {
+      "title": "Read Something",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/skuuomtg/3-07%20-%20Read%20Something.mp3"
+    },
+    {
+      "title": "Prologue ~ Hole in One",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/ahlgajuw/3-08%20-%20Prologue%20~%20Hole%20in%20One.mp3"
+    },
+    {
+      "title": "Prologue ~ See-Saw",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/ybmemwwt/3-09%20-%20Prologue%20~%20See-Saw.mp3"
+    },
+    {
+      "title": "Prologue ~ Double Date",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/eneidprl/3-10%20-%20Prologue%20~%20Double%20Date.mp3"
+    },
+    {
+      "title": "Prologue ~ Exhibition Match",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/ihmlxcur/3-11%20-%20Prologue%20~%20Exhibition%20Match.mp3"
+    },
+    {
+      "title": "Prologue ~ Board Meeting",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/zwjewuhe/3-12%20-%20Prologue%20~%20Board%20Meeting.mp3"
+    },
+    {
+      "title": "Prologue ~ Samurai Slice",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/xzebqdqv/3-13%20-%20Prologue%20~%20Samurai%20Slice.mp3"
+    },
+    {
+      "title": "Prologue ~ Fork Lifter",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/hwmvthcp/3-14%20-%20Prologue%20~%20Fork%20Lifter.mp3"
+    },
+    {
+      "title": "Prologue ~ Ringside",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/ubztwamj/3-15%20-%20Prologue%20~%20Ringside.mp3"
+    },
+    {
+      "title": "Prologue ~ Tambourine",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/kzoxxvkn/3-16%20-%20Prologue%20~%20Tambourine.mp3"
+    },
+    {
+      "title": "Prologue ~ Micro-Row",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/jgeeievo/3-17%20-%20Prologue%20~%20Micro-Row.mp3"
+    },
+    {
+      "title": "Prologue ~ Built to Scale",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/jdneklaw/3-18%20-%20Prologue%20~%20Built%20to%20Scale.mp3"
+    },
+    {
+      "title": "Prologue ~ Love Rap",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/dbyntfvl/3-19%20-%20Prologue%20~%20Love%20Rap.mp3"
+    },
+    {
+      "title": "Prologue ~ Karate Man",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/sfycptym/3-20%20-%20Prologue%20~%20Karate%20Man.mp3"
+    },
+    {
+      "title": "Prologue ~ Money Watch",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/plngpjzt/3-21%20-%20Prologue%20~%20Money%20Watch.mp3"
+    },
+    {
+      "title": "Prologue ~ Shrimp Shuffle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/xhqjxkhh/3-22%20-%20Prologue%20~%20Shrimp%20Shuffle.mp3"
+    },
+    {
+      "title": "Prologue ~ Cheer Readers",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/paiowrrl/3-23%20-%20Prologue%20~%20Cheer%20Readers.mp3"
+    },
+    {
+      "title": "Prologue ~ Bossa Nova",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/epjazven/3-24%20-%20Prologue%20~%20Bossa%20Nova.mp3"
+    },
+    {
+      "title": "Prologue ~ Remix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/ygizysvw/3-25%20-%20Prologue%20~%20Remix.mp3"
+    },
+    {
+      "title": "Prologue ~ The Clappy Trio",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/xyahjzvf/3-26%20-%20Prologue%20~%20The%20Clappy%20Trio.mp3"
+    },
+    {
+      "title": "Prologue ~ Sneaky Spirits",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/mupnxxvm/3-27%20-%20Prologue%20~%20Sneaky%20Spirits.mp3"
+    },
+    {
+      "title": "Prologue ~ Tap Trial",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/wwszuyjb/3-28%20-%20Prologue%20~%20Tap%20Trial.mp3"
+    },
+    {
+      "title": "Prologue ~ Power Calligraphy",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/fxwrtuom/3-29%20-%20Prologue%20~%20Power%20Calligraphy.mp3"
+    },
+    {
+      "title": "Let's Practice!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/rxphpcre/3-30%20-%20Let%27s%20Practice%21.mp3"
+    },
+    {
+      "title": "I Feel OK",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/tihowqpa/3-31%20-%20I%20Feel%20OK.mp3"
+    },
+    {
+      "title": "I Feel Superb!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/kxgqjyro/3-32%20-%20I%20Feel%20Superb%21.mp3"
+    },
+    {
+      "title": "I Should Try Again",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/tbzturcj/3-33%20-%20I%20Should%20Try%20Again.mp3"
+    },
+    {
+      "title": "OK",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/otdieano/3-34%20-%20OK.mp3"
+    },
+    {
+      "title": "Superb!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/dbyoxwrs/3-35%20-%20Superb%21.mp3"
+    },
+    {
+      "title": "Try Again",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/pugtdjjs/3-36%20-%20Try%20Again.mp3"
+    },
+    {
+      "title": "Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/nnydyitv/3-37%20-%20Perfect.mp3"
+    },
+    {
+      "title": "Hole in One ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/xbmftzso/3-38%20-%20Hole%20in%20One%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Screwbot Factory ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/sxizxocu/3-39%20-%20Screwbot%20Factory%20~%20Perfect.mp3"
+    },
+    {
+      "title": "See-Saw ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/pqljlbyo/3-40%20-%20See-Saw%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Double Date ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/boodzmog/3-41%20-%20Double%20Date%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Remix 1 ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/qljkatur/3-42%20-%20Remix%201%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Fork Lifter ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/zxqkdjnm/3-43%20-%20Fork%20Lifter%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Tambourine ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/uprlfvkn/3-44%20-%20Tambourine%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Board Meeting ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/kkxfkkvy/3-45%20-%20Board%20Meeting%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Monkey Watch ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/glkqbhhp/3-46%20-%20Monkey%20Watch%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Remix 2 ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/bpueoehx/3-47%20-%20Remix%202%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Working Dough ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/ocwaleoh/3-48%20-%20Working%20Dough%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Built to Scale ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/rovmwwuh/3-49%20-%20Built%20to%20Scale%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Air Rally ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/crbhgljq/3-50%20-%20Air%20Rally%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Figure Fighter ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/yvjgeegt/3-51%20-%20Figure%20Fighter%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Remix 3 (I Feel Fine!!) ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/bbeohudi/3-52%20-%20Remix%203%20%28I%20Feel%20Fine%21%21%29%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Ringside ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/fbrfydwx/3-53%20-%20Ringside%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Packing Pests ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/wqpduquz/3-54%20-%20Packing%20Pests%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Micro-Row ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/nrvekmfp/3-55%20-%20Micro-Row%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Samurai Slice ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/jytuuomq/3-56%20-%20Samurai%20Slice%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Remix 4 ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/ubxhubxi/3-57%20-%20Remix%204%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Catch of the Day ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/azyvfphr/3-58%20-%20Catch%20of%20the%20Day%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Flipper Flop ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/nndcbxms/3-59%20-%20Flipper%20Flop%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Exhibition Match ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/dksjrggn/3-60%20-%20Exhibition%20Match%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Flock Step ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/voiabfxy/3-61%20-%20Flock%20Step%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Remix 5 ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/zzaewsxm/3-62%20-%20Remix%205%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Launch Party ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/sbdndejk/4-01%20-%20Launch%20Party%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Donk-Donk ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/xhubxhvh/4-02%20-%20Donk-Donk%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Bossa Nova ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/yucchdwv/4-03%20-%20Bossa%20Nova%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Love Rap ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/ogqjawjh/4-04%20-%20Love%20Rap%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Remix 6 ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/fgoamigd/4-05%20-%20Remix%206%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Tap Troupe ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/bvbskymm/4-06%20-%20Tap%20Troupe%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Shrimp Shuffle ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/cyliipdv/4-07%20-%20Shrimp%20Shuffle%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Cheer Readers ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/rwhytxjc/4-08%20-%20Cheer%20Readers%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Karate Man (Kanashimi no Squall) ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/jnoeeicp/4-09%20-%20Karate%20Man%20%28Kanashimi%20no%20Squall%29%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Remix 7 ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/rqcnhzza/4-10%20-%20Remix%207%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Samurai Slice 2 ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/dpozffiz/4-11%20-%20Samurai%20Slice%202%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Working Dough 2 ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/ytxjbfyb/4-12%20-%20Working%20Dough%202%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Built to Scale 2 ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/kwedhafy/4-13%20-%20Built%20to%20Scale%202%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Double Date 2 ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/dvtfxtdk/4-14%20-%20Double%20Date%202%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Remix 8 (I love you Watashi no Kimi) ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/qywmwujo/4-15%20-%20Remix%208%20%28I%20love%20you%20Watashi%20no%20Kimi%29%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Love Rap 2 ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/phqhnsay/4-16%20-%20Love%20Rap%202%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Cheer Readers 2 ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/tuuokjrh/4-17%20-%20Cheer%20Readers%202%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Hole in One 2 ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/hrmjipbn/4-18%20-%20Hole%20in%20One%202%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Screwbot Factory 2 ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/ibkvvujm/4-19%20-%20Screwbot%20Factory%202%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Remix 9 (Yagate Onna wa Kirei ni Naru Darou) ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/jjrhkckr/4-20%20-%20Remix%209%20%28Yagate%20Onna%20wa%20Kirei%20ni%20Naru%20Darou%29%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Figure Fighter 2 ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/eunfnycr/4-21%20-%20Figure%20Fighter%202%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Micro-Row 2 ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/eteszwhw/4-22%20-%20Micro-Row%202%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Packing Pests 2 ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/nyezlgaf/4-23%20-%20Packing%20Pests%202%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Karate Man 2 (Kanashimi no Squall) ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/cwbrcoms/4-24%20-%20Karate%20Man%202%20%28Kanashimi%20no%20Squall%29%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Remix 10 ~ Perfect",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/beqspvmu/4-25%20-%20Remix%2010%20~%20Perfect.mp3"
+    },
+    {
+      "title": "Manzai Birds",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/qsqcnidr/4-26%20-%20Manzai%20Birds.mp3"
+    },
+    {
+      "title": "I Feel Fine!! ~ Full Version",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/aabfvpmo/4-27%20-%20I%20Feel%20Fine%21%21%20~%20Full%20Version.mp3"
+    },
+    {
+      "title": "Kanashimi no Squall ~ Full Version",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/jcmbxhsr/4-28%20-%20Kanashimi%20no%20Squall%20~%20Full%20Version.mp3"
+    },
+    {
+      "title": "Bokura no Sedai! ~ Full Version",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/gfiabevp/4-29%20-%20Bokura%20no%20Sedai%21%20~%20Full%20Version.mp3"
+    },
+    {
+      "title": "I love you Watashi no Kimi ~ Full Version",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/mojfycpq/4-30%20-%20I%20love%20you%20Watashi%20no%20Kimi%20~%20Full%20Version.mp3"
+    },
+    {
+      "title": "Yagate Onna wa Kirei ni Naru Darou ~ Full Version",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/rhythm-heaven-fever-complete-music-collection/nqsnnbsl/4-31%20-%20Yagate%20Onna%20wa%20Kirei%20ni%20Naru%20Darou%20~%20Full%20Version.mp3"
+    }
+  ]
+}
