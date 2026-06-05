@@ -1,0 +1,713 @@
+{
+  "meta": {
+    "game_title": "Paper Mario: Sticker Star",
+    "art": "https://mario.wiki.gallery/images/a/a6/Paper_mario_sticker_star_box-art.png",
+    "desc": "November 11, 2012"
+  },
+  "songs": [
+    {
+      "title": "Channel Menu",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/zaevokhg/1-01%20Channel%20Menu.mp3"
+    },
+    {
+      "title": "Paper Mario Sticker Star",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/ljpvjghr/1-02%20Paper%20Mario%20Sticker%20Star.mp3"
+    },
+    {
+      "title": "The Sticker Fest",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/mkqyuemv/1-03%20The%20Sticker%20Fest.mp3"
+    },
+    {
+      "title": "Our Hero, Mario!",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/rzwjgcto/1-04%20Our%20Hero%2C%20Mario%21.mp3"
+    },
+    {
+      "title": "The Sticker Fest, a Mess",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/lnibjnqm/1-05%20The%20Sticker%20Fest%2C%20a%20Mess.mp3"
+    },
+    {
+      "title": "Detective Mario",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/qsqcmcba/1-06%20Detective%20Mario.mp3"
+    },
+    {
+      "title": "The Rampaging Din",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/zwhxrpaj/1-07%20The%20Rampaging%20Din.mp3"
+    },
+    {
+      "title": "Kersti the Sticker",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/slaxizzz/1-08%20Kersti%20the%20Sticker.mp3"
+    },
+    {
+      "title": "Toads Released from the Photo Frames",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/xpiuzmof/1-09%20Toads%20Released%20from%20the%20Photo%20Frames.mp3"
+    },
+    {
+      "title": "Toad Rescued",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/nxblbayp/1-10%20Toad%20Rescued.mp3"
+    },
+    {
+      "title": "Got a Special Item",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/eznqntfv/1-11%20Got%20a%20Special%20Item.mp3"
+    },
+    {
+      "title": "All Rolled Up!",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/lsevqpdv/1-12%20All%20Rolled%20Up%21.mp3"
+    },
+    {
+      "title": "Un-Burrito the Town Plaza",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/sdnddhdr/1-13%20Un-Burrito%20the%20Town%20Plaza.mp3"
+    },
+    {
+      "title": "Town of Toads and Stickers, Decalberg",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/azzvhaes/1-14%20Town%20of%20Toads%20and%20Stickers%2C%20Decalberg.mp3"
+    },
+    {
+      "title": "Welcome to the Sticker Shop",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/esaxlokk/1-15%20Welcome%20to%20the%20Sticker%20Shop.mp3"
+    },
+    {
+      "title": "Don't Call Me Flunky!",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/tpqkepki/1-16%20Don%27t%20Call%20Me%20Flunky%21.mp3"
+    },
+    {
+      "title": "Sticker Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/kcgyaexa/1-17%20Sticker%20Battle.mp3"
+    },
+    {
+      "title": "Sticker Battle (Attacked First Intro)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/juvulxef/1-18%20Sticker%20Battle%20%28Attacked%20First%20Intro%29.mp3"
+    },
+    {
+      "title": "Sticker Battle (Got Attacked Intro)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/kmdendbz/1-19%20Sticker%20Battle%20%28Got%20Attacked%20Intro%29.mp3"
+    },
+    {
+      "title": "Victory!",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/qirkawib/1-20%20Victory%21.mp3"
+    },
+    {
+      "title": "Perfect Victory!",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/fycqvgug/1-21%20Perfect%20Victory%21.mp3"
+    },
+    {
+      "title": "World Map [Grass World]",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/xsvzkchf/1-22%20World%20Map%20%5BGrass%20World%5D.mp3"
+    },
+    {
+      "title": "Blue Skies, White Clouds",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/edfsvbtn/1-23%20Blue%20Skies%2C%20White%20Clouds.mp3"
+    },
+    {
+      "title": "Perfect Solution",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/lryrqdsf/1-24%20Perfect%20Solution.mp3"
+    },
+    {
+      "title": "My Things!",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/wruapafc/1-25%20My%20Things%21.mp3"
+    },
+    {
+      "title": "Bowser Jr. Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/uprnofkj/1-26%20Bowser%20Jr.%20Battle.mp3"
+    },
+    {
+      "title": "Bowser Jr. Paperizes",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/qewtfvkr/1-27%20Bowser%20Jr.%20Paperizes.mp3"
+    },
+    {
+      "title": "Toads' Paper Stairway",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/bhisrdtj/1-28%20Toads%27%20Paper%20Stairway.mp3"
+    },
+    {
+      "title": "Got an Item",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/mifdarjs/1-29%20Got%20an%20Item.mp3"
+    },
+    {
+      "title": "Paperize",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/lbaypdxe/1-30%20Paperize.mp3"
+    },
+    {
+      "title": "Stage Clear",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/bwbtqwjh/1-31%20Stage%20Clear.mp3"
+    },
+    {
+      "title": "Pay or Fray",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/itsiovjk/1-32%20Pay%20or%20Fray.mp3"
+    },
+    {
+      "title": "Unstoppable Fury",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/xjcijxkh/1-33%20Unstoppable%20Fury.mp3"
+    },
+    {
+      "title": "Underground Cave Connection",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/giwjfbop/1-34%20Underground%20Cave%20Connection.mp3"
+    },
+    {
+      "title": "Super Star Power!",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/jcheaqds/1-35%20Super%20Star%20Power%21.mp3"
+    },
+    {
+      "title": "Storming the Goomba Fortress",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/gairhjch/1-36%20Storming%20the%20Goomba%20Fortress.mp3"
+    },
+    {
+      "title": "The Tension",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/fdcbztvw/1-37%20The%20Tension.mp3"
+    },
+    {
+      "title": "Megasparkle Goomba's Brilliant Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/xvkqzyuc/1-38%20Megasparkle%20Goomba%27s%20Brilliant%20Battle.mp3"
+    },
+    {
+      "title": "Got a Royal Sticker",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/endccdlu/1-39%20Got%20a%20Royal%20Sticker.mp3"
+    },
+    {
+      "title": "Royal Sticker Story",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/qvdgwpkg/1-40%20Royal%20Sticker%20Story.mp3"
+    },
+    {
+      "title": "Sling-a-Thing",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/zcraabev/1-41%20Sling-a-Thing.mp3"
+    },
+    {
+      "title": "World Map [Desert World]",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/ndfocyjb/2-01%20World%20Map%20%5BDesert%20World%5D.mp3"
+    },
+    {
+      "title": "A Thousand Miles Away",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/chdxbpwl/2-02%20A%20Thousand%20Miles%20Away.mp3"
+    },
+    {
+      "title": "Scarlet Wings",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/prpwrsmj/2-03%20Scarlet%20Wings.mp3"
+    },
+    {
+      "title": "The Blue Wizard",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/insxloki/2-04%20The%20Blue%20Wizard.mp3"
+    },
+    {
+      "title": "Malevolent Magikoopa, Kamek Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/mkpucema/2-05%20Malevolent%20Magikoopa%2C%20Kamek%20Battle.mp3"
+    },
+    {
+      "title": "Dry Dry Oasis",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/ougyyyue/2-06%20Dry%20Dry%20Oasis.mp3"
+    },
+    {
+      "title": "Peaceful Little Desert Resort, Damp Oasis",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/naqafamk/2-07%20Peaceful%20Little%20Desert%20Resort%2C%20Damp%20Oasis.mp3"
+    },
+    {
+      "title": "Drybake Stadium Unfolds",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/mekptzqh/2-08%20Drybake%20Stadium%20Unfolds.mp3"
+    },
+    {
+      "title": "Tower of Murals, Drybake Stadium",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/mpntgahk/2-09%20Tower%20of%20Murals%2C%20Drybake%20Stadium.mp3"
+    },
+    {
+      "title": "Ruin Solution",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/dluquavz/2-10%20Ruin%20Solution.mp3"
+    },
+    {
+      "title": "Tower Power Pokey Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/jaxnvruy/2-11%20Tower%20Power%20Pokey%20Battle.mp3"
+    },
+    {
+      "title": "World Map [Forest World]",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/kfujlemz/2-12%20World%20Map%20%5BForest%20World%5D.mp3"
+    },
+    {
+      "title": "Wiggler's Sleepy Time",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/jyoaismi/2-13%20Wiggler%27s%20Sleepy%20Time.mp3"
+    },
+    {
+      "title": "Here Wiggler Is",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/cprnqqfc/2-14%20Here%20Wiggler%20Is.mp3"
+    },
+    {
+      "title": "Wiggler, Snatched Away",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/zoujjuvs/2-15%20Wiggler%2C%20Snatched%20Away.mp3"
+    },
+    {
+      "title": "Woods of Poison",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/bfukptau/2-16%20Woods%20of%20Poison.mp3"
+    },
+    {
+      "title": "That Guy Who Got Baffled in the Bafflewoods",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/yittoodz/2-17%20That%20Guy%20Who%20Got%20Baffled%20in%20the%20Bafflewoods.mp3"
+    },
+    {
+      "title": "Because I'm Angry!",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/lijuvtjl/2-18%20Because%20I%27m%20Angry%21.mp3"
+    },
+    {
+      "title": "Can't Catch Me",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/frsqxtxi/2-19%20Can%27t%20Catch%20Me.mp3"
+    },
+    {
+      "title": "Rowdy, Wiggler Segment Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/ystopgoy/2-20%20Rowdy%2C%20Wiggler%20Segment%20Battle.mp3"
+    },
+    {
+      "title": "Snifit or Whiffit!",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/duolomrw/2-21%20Snifit%20or%20Whiffit%21.mp3"
+    },
+    {
+      "title": "Let the Challenge Begin!",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/lmdhzzzy/2-22%20Let%20the%20Challenge%20Begin%21.mp3"
+    },
+    {
+      "title": "Next Question",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/txjbescg/2-23%20Next%20Question.mp3"
+    },
+    {
+      "title": "Question Challenge",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/blbawgpi/2-24%20Question%20Challenge.mp3"
+    },
+    {
+      "title": "Wrong!",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/xmqvgucd/2-25%20Wrong%21.mp3"
+    },
+    {
+      "title": "Mini-Game Challenge",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/mwyboqml/2-26%20Mini-Game%20Challenge.mp3"
+    },
+    {
+      "title": "Challenge Clear",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/tkwbtnid/2-27%20Challenge%20Clear.mp3"
+    },
+    {
+      "title": "A Wiggler Segment Joins You!",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/sdlyivfm/2-28%20A%20Wiggler%20Segment%20Joins%20You%21.mp3"
+    },
+    {
+      "title": "Sorrow on the Waves",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/wuihoukn/2-29%20Sorrow%20on%20the%20Waves.mp3"
+    },
+    {
+      "title": "Gooper Blooper Appears",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/mwthfdby/2-30%20Gooper%20Blooper%20Appears.mp3"
+    },
+    {
+      "title": "Gooper Blooper Battle Boogie",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/owsxkiiu/2-31%20Gooper%20Blooper%20Battle%20Boogie.mp3"
+    },
+    {
+      "title": "Super Mario's Blooper Bash!",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/xcvvszwi/2-32%20Super%20Mario%27s%20Blooper%20Bash%21.mp3"
+    },
+    {
+      "title": "The Lush Forest",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/cnhvifan/2-33%20The%20Lush%20Forest.mp3"
+    },
+    {
+      "title": "Seaside Settlement, Surfshine Harbor",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/napyytba/2-34%20Seaside%20Settlement%2C%20Surfshine%20Harbor.mp3"
+    },
+    {
+      "title": "Big Cheep Cheep Appears",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/vcbaztvy/2-35%20Big%20Cheep%20Cheep%20Appears.mp3"
+    },
+    {
+      "title": "Danger at Surfshine Harbor",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/dvraciit/2-36%20Danger%20at%20Surfshine%20Harbor.mp3"
+    },
+    {
+      "title": "Event Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/tmemulyl/2-37%20Event%20Battle.mp3"
+    },
+    {
+      "title": "Sticker Museum",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/hbonzgkg/2-38%20Sticker%20Museum.mp3"
+    },
+    {
+      "title": "Sticker Museum Exhibits Unlocked",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/ajvarezj/2-39%20Sticker%20Museum%20Exhibits%20Unlocked.mp3"
+    },
+    {
+      "title": "World Map [Snow World]",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/uyjyrota/3-01%20World%20Map%20%5BSnow%20World%5D.mp3"
+    },
+    {
+      "title": "Snow Rise",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/wgtykhct/3-02%20Snow%20Rise.mp3"
+    },
+    {
+      "title": "Swinging Swing",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/larirhmm/3-03%20Swinging%20Swing.mp3"
+    },
+    {
+      "title": "Ice Flow",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/arghsskw/3-04%20Ice%20Flow.mp3"
+    },
+    {
+      "title": "Outside the Haunted Enigmansion",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/ehxrowsv/3-05%20Outside%20the%20Haunted%20Enigmansion.mp3"
+    },
+    {
+      "title": "Got the Book of Sealing",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/butmasop/3-06%20Got%20the%20Book%20of%20Sealing.mp3"
+    },
+    {
+      "title": "The Enigmansion",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/gmtfwrve/3-07%20The%20Enigmansion.mp3"
+    },
+    {
+      "title": "Boo Night Fever",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/gsylmczq/3-08%20Boo%20Night%20Fever.mp3"
+    },
+    {
+      "title": "Frightened Boo!",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/eaqbiosz/3-09%20Frightened%20Boo%21.mp3"
+    },
+    {
+      "title": "Big Boo Waltz",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/srgfibev/3-10%20Big%20Boo%20Waltz.mp3"
+    },
+    {
+      "title": "The Toad's Mansion",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/maotceqp/3-11%20The%20Toad%27s%20Mansion.mp3"
+    },
+    {
+      "title": "Give Me a Lift",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/ecymohvf/3-12%20Give%20Me%20a%20Lift.mp3"
+    },
+    {
+      "title": "Go Go Trolley!",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/nbrhitus/3-13%20Go%20Go%20Trolley%21.mp3"
+    },
+    {
+      "title": "Mizzter Blizzard's Snow Bowser Statue Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/gcsimmvu/3-14%20Mizzter%20Blizzard%27s%20Snow%20Bowser%20Statue%20Battle.mp3"
+    },
+    {
+      "title": "World Map [Jungle World]",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/masmievq/3-15%20World%20Map%20%5BJungle%20World%5D.mp3"
+    },
+    {
+      "title": "Jungly Jungle",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/sqbkxegt/3-16%20Jungly%20Jungle.mp3"
+    },
+    {
+      "title": "Approach of the Giant Fish",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/xgnycpuc/3-17%20Approach%20of%20the%20Giant%20Fish.mp3"
+    },
+    {
+      "title": "Ruins Explorer",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/chcrclzo/3-18%20Ruins%20Explorer.mp3"
+    },
+    {
+      "title": "Wild Chomp on the Loose",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/xszsrfam/3-19%20Wild%20Chomp%20on%20the%20Loose.mp3"
+    },
+    {
+      "title": "It's Hot, So Hot",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/hcmgsxgr/3-20%20It%27s%20Hot%2C%20So%20Hot.mp3"
+    },
+    {
+      "title": "Endlessly Hungry, Petey Piranha Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/owofizyv/3-21%20Endlessly%20Hungry%2C%20Petey%20Piranha%20Battle.mp3"
+    },
+    {
+      "title": "Bowser's Castle Revealed!",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/frtsjqdr/3-22%20Bowser%27s%20Castle%20Revealed%21.mp3"
+    },
+    {
+      "title": "Flopping Wings Ascend",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/bfxvncvz/3-23%20Flopping%20Wings%20Ascend.mp3"
+    },
+    {
+      "title": "World Map [Bowser's World]",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/jzrlfsyn/3-24%20World%20Map%20%5BBowser%27s%20World%5D.mp3"
+    },
+    {
+      "title": "Battleship",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/umxfhtwd/3-25%20Battleship.mp3"
+    },
+    {
+      "title": "The Giant Arises",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/argjytxf/3-26%20The%20Giant%20Arises.mp3"
+    },
+    {
+      "title": "Sparkling King, Bowser & Co. Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/iabgbqyv/3-27%20Sparkling%20King%2C%20Bowser%20%26%20Co.%20Battle.mp3"
+    },
+    {
+      "title": "Power of the Royal Sticker",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/jgeeidsc/3-28%20Power%20of%20the%20Royal%20Sticker.mp3"
+    },
+    {
+      "title": "Supreme Sparkling King, Bowser Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/ktmgtbay/3-29%20Supreme%20Sparkling%20King%2C%20Bowser%20Battle.mp3"
+    },
+    {
+      "title": "Battle Spinner Perfect",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/qiuykesy/3-30%20Battle%20Spinner%20Perfect.mp3"
+    },
+    {
+      "title": "Spectacular Finale",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/pcretiir/3-31%20Spectacular%20Finale.mp3"
+    },
+    {
+      "title": "Wishes Come True",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/ldlsgcsj/3-32%20Wishes%20Come%20True.mp3"
+    },
+    {
+      "title": "Staff Roll",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/pxtauznq/3-33%20Staff%20Roll.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/rmiezgkg/3-34%20Game%20Over.mp3"
+    },
+    {
+      "title": "Got a New Skill (Unused)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/bnlprpwr/3-35%20Got%20a%20New%20Skill%20%28Unused%29.mp3"
+    },
+    {
+      "title": "Shocker (Unused)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/tqzzytzp/3-36%20Shocker%20%28Unused%29.mp3"
+    },
+    {
+      "title": "Sticker Battle (Low HP)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/dvuksgdz/4-01%20Sticker%20Battle%20%28Low%20HP%29.mp3"
+    },
+    {
+      "title": "Sticker Battle (Attacked First Intro - Low HP)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/kdmyhoah/4-02%20Sticker%20Battle%20%28Attacked%20First%20Intro%20-%20Low%20HP%29.mp3"
+    },
+    {
+      "title": "Sticker Battle (Got Attacked Intro - Low HP)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/nsxmqtuu/4-03%20Sticker%20Battle%20%28Got%20Attacked%20Intro%20-%20Low%20HP%29.mp3"
+    },
+    {
+      "title": "Bowser Jr. Battle (Low HP)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/pmtgbkzs/4-04%20Bowser%20Jr.%20Battle%20%28Low%20HP%29.mp3"
+    },
+    {
+      "title": "Megasparkle Goomba's Brilliant Battle (Low HP)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/puelunfq/4-05%20Megasparkle%20Goomba%27s%20Brilliant%20Battle%20%28Low%20HP%29.mp3"
+    },
+    {
+      "title": "Malevolent Magikoopa, Kamek Battle (Low HP)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/kdmbuvth/4-06%20Malevolent%20Magikoopa%2C%20Kamek%20Battle%20%28Low%20HP%29.mp3"
+    },
+    {
+      "title": "Tower Power Pokey Battle (Low HP)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/ezliezju/4-07%20Tower%20Power%20Pokey%20Battle%20%28Low%20HP%29.mp3"
+    },
+    {
+      "title": "Rowdy, Wiggler Segment Battle (Low HP)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/yitvxcrb/4-08%20Rowdy%2C%20Wiggler%20Segment%20Battle%20%28Low%20HP%29.mp3"
+    },
+    {
+      "title": "Event Battle (Low HP)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/jorsmiev/4-09%20Event%20Battle%20%28Low%20HP%29.mp3"
+    },
+    {
+      "title": "Mizzter Blizzard's Snow Bowser Statue Battle (Low HP)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/pqgllwzk/4-10%20Mizzter%20Blizzard%27s%20Snow%20Bowser%20Statue%20Battle%20%28Low%20HP%29.mp3"
+    },
+    {
+      "title": "Endlessly Hungry, Petey Piranha Battle (Low HP)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/yqhoyzcn/4-11%20Endlessly%20Hungry%2C%20Petey%20Piranha%20Battle%20%28Low%20HP%29.mp3"
+    },
+    {
+      "title": "Sparkling King Bowser & Co. Battle (Low HP)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/jgcvvpoa/4-12%20Sparkling%20King%20Bowser%20%26%20Co.%20Battle%20%28Low%20HP%29.mp3"
+    },
+    {
+      "title": "Supreme Sparkling King Bowser Battle (Low HP)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/ldhcooao/4-13%20Supreme%20Sparkling%20King%20Bowser%20Battle%20%28Low%20HP%29.mp3"
+    },
+    {
+      "title": "Thing Sticker - Sewing Scissors",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/qpzfcxec/4-14%20Thing%20Sticker%20-%20Sewing%20Scissors.mp3"
+    },
+    {
+      "title": "Thing Sticker - Hair Shears",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/avasmfqm/4-15%20Thing%20Sticker%20-%20Hair%20Shears.mp3"
+    },
+    {
+      "title": "Thing Sticker - Scissors",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/poxvmvvn/4-16%20Thing%20Sticker%20-%20Scissors.mp3"
+    },
+    {
+      "title": "Thing Sticker - Tailor Shears",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/gpfhwkmf/4-17%20Thing%20Sticker%20-%20Tailor%20Shears.mp3"
+    },
+    {
+      "title": "Thing Sticker - Bellows",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/odcauvuo/4-18%20Thing%20Sticker%20-%20Bellows.mp3"
+    },
+    {
+      "title": "Thing Sticker - Fan",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/hwjfctlb/4-19%20Thing%20Sticker%20-%20Fan.mp3"
+    },
+    {
+      "title": "Thing Sticker - Mini Vacuum",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/xhvfnzjx/4-20%20Thing%20Sticker%20-%20Mini%20Vacuum.mp3"
+    },
+    {
+      "title": "Thing Sticker - Upright Vacuum",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/kgdxdxed/4-21%20Thing%20Sticker%20-%20Upright%20Vacuum.mp3"
+    },
+    {
+      "title": "Thing Sticker - Vacuum",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/foedfrrk/4-22%20Thing%20Sticker%20-%20Vacuum.mp3"
+    },
+    {
+      "title": "Thing Sticker - Trumpet",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/zqitsgff/4-23%20Thing%20Sticker%20-%20Trumpet.mp3"
+    },
+    {
+      "title": "Thing Sticker - Violin",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/nybonbqc/4-24%20Thing%20Sticker%20-%20Violin.mp3"
+    },
+    {
+      "title": "Thing Sticker - Guitar",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/nhywlprp/4-25%20Thing%20Sticker%20-%20Guitar.mp3"
+    },
+    {
+      "title": "Thing Sticker - Newspaper, Bat, & Toy Bat",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/zdsbhffj/4-26%20Thing%20Sticker%20-%20Newspaper%2C%20Bat%2C%20%26%20Toy%20Bat.mp3"
+    },
+    {
+      "title": "Thing Sticker - Watch Battery",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/etgcqyue/4-27%20Thing%20Sticker%20-%20Watch%20Battery.mp3"
+    },
+    {
+      "title": "Thing Sticker - D-Cell Battery",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/kopjztwa/4-28%20Thing%20Sticker%20-%20D-Cell%20Battery.mp3"
+    },
+    {
+      "title": "Thing Sticker - Car Battery",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/nofklasp/4-29%20Thing%20Sticker%20-%20Car%20Battery.mp3"
+    },
+    {
+      "title": "Thing Sticker - Billard Ball, Curling Stone, & Bowling Ball",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/tykhfdei/4-30%20Thing%20Sticker%20-%20Billard%20Ball%2C%20Curling%20Stone%2C%20%26%20Bowling%20Ball.mp3"
+    },
+    {
+      "title": "Thing Sticker - Jackhammer",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/cqtyjcjo/4-31%20Thing%20Sticker%20-%20Jackhammer.mp3"
+    },
+    {
+      "title": "Thing Sticker - Trophy",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/rtretgbn/4-32%20Thing%20Sticker%20-%20Trophy.mp3"
+    },
+    {
+      "title": "Thing Sticker - Cell Phone",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/jhhpdxcv/4-33%20Thing%20Sticker%20-%20Cell%20Phone.mp3"
+    },
+    {
+      "title": "Thing Sticker - Radiator",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/sfwsxjci/4-34%20Thing%20Sticker%20-%20Radiator.mp3"
+    },
+    {
+      "title": "Thing Sticker - Oven",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/mkoodxgk/4-35%20Thing%20Sticker%20-%20Oven.mp3"
+    },
+    {
+      "title": "Thing Sticker - Matches",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/josxiaac/4-36%20Thing%20Sticker%20-%20Matches.mp3"
+    },
+    {
+      "title": "Thing Sticker - Lighter",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/lwbqzbgd/4-37%20Thing%20Sticker%20-%20Lighter.mp3"
+    },
+    {
+      "title": "Thing Sticker - Shaved Ice",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/yjwibijv/4-38%20Thing%20Sticker%20-%20Shaved%20Ice.mp3"
+    },
+    {
+      "title": "Thing Sticker - Air Conditioner",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/egtymrxo/4-39%20Thing%20Sticker%20-%20Air%20Conditioner.mp3"
+    },
+    {
+      "title": "Thing Sticker - Refrigerator",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/zfcwbsil/4-40%20Thing%20Sticker%20-%20Refrigerator.mp3"
+    },
+    {
+      "title": "Thing Sticker - Soda",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/ifdariox/4-41%20Thing%20Sticker%20-%20Soda.mp3"
+    },
+    {
+      "title": "Thing Sticker - Squirt Gun",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/wpiytvzk/4-42%20Thing%20Sticker%20-%20Squirt%20Gun.mp3"
+    },
+    {
+      "title": "Thing Sticker - Rubber Duck",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/bbeszuzp/4-43%20Thing%20Sticker%20-%20Rubber%20Duck.mp3"
+    },
+    {
+      "title": "Thing Sticker - Pillow",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/yzbimmyg/4-44%20Thing%20Sticker%20-%20Pillow.mp3"
+    },
+    {
+      "title": "Thing Sticker - Bed",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/kjotzqis/4-45%20Thing%20Sticker%20-%20Bed.mp3"
+    },
+    {
+      "title": "Thing Sticker - Luxurious Bed",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/nmuppdzk/4-46%20Thing%20Sticker%20-%20Luxurious%20Bed.mp3"
+    },
+    {
+      "title": "Thing Sticker - Fish Hook",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/bbdpnukq/4-47%20Thing%20Sticker%20-%20Fish%20Hook.mp3"
+    },
+    {
+      "title": "Thing Sticker - Balloon",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/zacktnlp/4-48%20Thing%20Sticker%20-%20Balloon.mp3"
+    },
+    {
+      "title": "Thing Sticker - Cat-O-Luck",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/pgntgxxt/4-49%20Thing%20Sticker%20-%20Cat-O-Luck.mp3"
+    },
+    {
+      "title": "Thing Sticker - High Heels",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/bchdunek/4-50%20Thing%20Sticker%20-%20High%20Heels.mp3"
+    },
+    {
+      "title": "Thing Sticker - Goat",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/lccgwplj/4-51%20Thing%20Sticker%20-%20Goat.mp3"
+    },
+    {
+      "title": "Thing Sticker - Goat (Remix)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/mhyzadqv/4-52%20Thing%20Sticker%20-%20Goat%20%28Remix%29.mp3"
+    },
+    {
+      "title": "Thing Sticker - Turkey",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/grqggmsd/4-53%20Thing%20Sticker%20-%20Turkey.mp3"
+    },
+    {
+      "title": "Thing Sticker - Cake",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/myjxnxya/4-54%20Thing%20Sticker%20-%20Cake.mp3"
+    },
+    {
+      "title": "Thing Sticker - Boombox",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/hivfmtjm/4-55%20Thing%20Sticker%20-%20Boombox.mp3"
+    },
+    {
+      "title": "A Thousand Miles Away [Desert]",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/jipaggnt/4-56%20A%20Thousand%20Miles%20Away%20%5BDesert%5D.mp3"
+    },
+    {
+      "title": "A Thousand Miles Away [Mariachi Guy]",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/gbmeoedf/4-57%20A%20Thousand%20Miles%20Away%20%5BMariachi%20Guy%5D.mp3"
+    },
+    {
+      "title": "Snow Rise ~ Ice Flow (Mix)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/sxizzxoa/4-58%20Snow%20Rise%20~%20Ice%20Flow%20%28Mix%29.mp3"
+    },
+    {
+      "title": "Wishes Come True (Ending 1)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/oqmmbvxd/4-59%20Wishes%20Come%20True%20%28Ending%201%29.mp3"
+    },
+    {
+      "title": "Wishes Come True (Ending 2)",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-sticker-star/wzgjdmyj/4-60%20Wishes%20Come%20True%20%28Ending%202%29.mp3"
+    }
+  ]
+}
