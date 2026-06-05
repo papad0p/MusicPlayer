@@ -1,0 +1,373 @@
+{
+  "meta": {
+    "game_title": "Pokémon Mystery Dungeon: Blue Rescue Team",
+    "art": "https://archives.bulbagarden.net/media/upload/thumb/8/8f/MD_Blue_EN_boxart.jpg/375px-MD_Blue_EN_boxart.jpg",
+    "desc": "November 17, 2005"
+  },
+  "songs": [
+    {
+      "title": "Opening",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/lxhtvwvo/01.%20Opening.mp3"
+    },
+    {
+      "title": "Pokemon Rescue Team Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/jevmzkdn/02.%20Pokemon%20Rescue%20Team%20Theme.mp3"
+    },
+    {
+      "title": "Top Menu",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/eibgebsn/03.%20Top%20Menu.mp3"
+    },
+    {
+      "title": "Welcome! To the World of Pokemon!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/jipyyvkn/04.%20Welcome%21%20To%20the%20World%20of%20Pokemon%21.mp3"
+    },
+    {
+      "title": "Meeting with a Partner",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/jgcvvrvf/05.%20Meeting%20with%20a%20Partner.mp3"
+    },
+    {
+      "title": "There's Trouble!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/oefoeeha/06.%20There%27s%20Trouble%21.mp3"
+    },
+    {
+      "title": "Tiny Woods",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/dppdxecb/07.%20Tiny%20Woods.mp3"
+    },
+    {
+      "title": "In the Depths of the Pit",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/zqirlceo/08.%20In%20the%20Depths%20of%20the%20Pit.mp3"
+    },
+    {
+      "title": "Job Clear!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/gobpvkme/09.%20Job%20Clear%21.mp3"
+    },
+    {
+      "title": "Rescue Base",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/mvschfeh/10.%20Rescue%20Base.mp3"
+    },
+    {
+      "title": "Title Catch",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/wlqxoctl/11.%20Title%20Catch.mp3"
+    },
+    {
+      "title": "Thunderwave Cave",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/arlbbcjl/12.%20Thunderwave%20Cave.mp3"
+    },
+    {
+      "title": "Pokemon Square",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/elvsciiq/13.%20Pokemon%20Square.mp3"
+    },
+    {
+      "title": "Voice in the Midst of a Dream",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/ffklzoxt/14.%20Voice%20in%20the%20Midst%20of%20a%20Dream.mp3"
+    },
+    {
+      "title": "Mt. Steel",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/axllykfv/15.%20Mt.%20Steel.mp3"
+    },
+    {
+      "title": "Boss Battle!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/nbtrzzyr/16.%20Boss%20Battle%21.mp3"
+    },
+    {
+      "title": "Makuhita Dojo",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/qewujnmv/17.%20Makuhita%20Dojo.mp3"
+    },
+    {
+      "title": "Sinister Woods",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/tesbcjmi/18.%20Sinister%20Woods.mp3"
+    },
+    {
+      "title": "Silent Chasm",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/dunfnxze/19.%20Silent%20Chasm.mp3"
+    },
+    {
+      "title": "Rising Fear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/wxvnapwp/20.%20Rising%20Fear.mp3"
+    },
+    {
+      "title": "Mt. Thunder",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/jcksiotd/21.%20Mt.%20Thunder.mp3"
+    },
+    {
+      "title": "Mt. Thunder Peak",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/iiqduojc/22.%20Mt.%20Thunder%20Peak.mp3"
+    },
+    {
+      "title": "Great Canyon",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/nfpjztwc/23.%20Great%20Canyon.mp3"
+    },
+    {
+      "title": "The Legend of Ninetales",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/vxbmhbjp/24.%20The%20Legend%20of%20Ninetales.mp3"
+    },
+    {
+      "title": "Journey of Fugitives",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/wqpcprqe/25.%20Journey%20of%20Fugitives.mp3"
+    },
+    {
+      "title": "Lapis Cave",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/wxxvmvuj/26.%20Lapis%20Cave.mp3"
+    },
+    {
+      "title": "Mt. Blaze",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/lbcigjcj/27.%20Mt.%20Blaze.mp3"
+    },
+    {
+      "title": "Mt. Blaze Peak",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/oqpblavb/28.%20Mt.%20Blaze%20Peak.mp3"
+    },
+    {
+      "title": "Kecleon Shop",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/vxcsiota/29.%20Kecleon%20Shop.mp3"
+    },
+    {
+      "title": "Thief!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/xmrwickw/30.%20Thief%21.mp3"
+    },
+    {
+      "title": "At the Snowy Mountain",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/amidvqrk/31.%20At%20the%20Snowy%20Mountain.mp3"
+    },
+    {
+      "title": "Frosty Forest",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/dluquaux/32.%20Frosty%20Forest.mp3"
+    },
+    {
+      "title": "Frosty Grotto",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/dyhrmlup/33.%20Frosty%20Grotto.mp3"
+    },
+    {
+      "title": "Gardevoir Inside of a Dream",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/peasjtsh/34.%20Gardevoir%20Inside%20of%20a%20Dream.mp3"
+    },
+    {
+      "title": "Mt. Freeze",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/hqjuwzgk/35.%20Mt.%20Freeze.mp3"
+    },
+    {
+      "title": "Mt. Freeze Peak",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/eqsrevqs/36.%20Mt.%20Freeze%20Peak.mp3"
+    },
+    {
+      "title": "It's a Monster House!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/pvknlraz/37.%20It%27s%20a%20Monster%20House%21.mp3"
+    },
+    {
+      "title": "Magma Cavern",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/yrqdupnw/38.%20Magma%20Cavern.mp3"
+    },
+    {
+      "title": "Magma Cavern Pit",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/tcgxvihl/39.%20Magma%20Cavern%20Pit.mp3"
+    },
+    {
+      "title": "World Calamity",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/gagfgsvz/40.%20World%20Calamity.mp3"
+    },
+    {
+      "title": "Sky Tower",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/jwjcjqaf/41.%20Sky%20Tower.mp3"
+    },
+    {
+      "title": "Sky Tower Summit",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/alfrrlgv/42.%20Sky%20Tower%20Summit.mp3"
+    },
+    {
+      "title": "Battle with Rayquaza",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/kmgtbbdm/43.%20Battle%20with%20Rayquaza.mp3"
+    },
+    {
+      "title": "Protected World Peace",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/arirhlhd/44.%20Protected%20World%20Peace.mp3"
+    },
+    {
+      "title": "Time for Farewell...",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/uolngtxh/45.%20Time%20for%20Farewell....mp3"
+    },
+    {
+      "title": "Ending",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/vejimnbv/46.%20Ending.mp3"
+    },
+    {
+      "title": "Epilogue",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/amigixnw/47.%20Epilogue.mp3"
+    },
+    {
+      "title": "Stormy Sea",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/tciiqght/48.%20Stormy%20Sea.mp3"
+    },
+    {
+      "title": "A New Adventure",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/vxakavbu/49.%20A%20New%20Adventure.mp3"
+    },
+    {
+      "title": "Friend Area - Grasslands",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/uomtjldj/50.%20Friend%20Area%20-%20Grasslands.mp3"
+    },
+    {
+      "title": "Friend Area - Steppe",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/jwcymneg/51.%20Friend%20Area%20-%20Steppe.mp3"
+    },
+    {
+      "title": "Friend Area - Forest",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/ufqoxxsv/52.%20Friend%20Area%20-%20Forest.mp3"
+    },
+    {
+      "title": "Friend Area - Wilds",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/argfgsuv/53.%20Friend%20Area%20-%20Wilds.mp3"
+    },
+    {
+      "title": "Friend Area - Swamp",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/seszvgqm/54.%20Friend%20Area%20-%20Swamp.mp3"
+    },
+    {
+      "title": "Friend Area - Pond",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/nflprovm/55.%20Friend%20Area%20-%20Pond.mp3"
+    },
+    {
+      "title": "Friend Area - Lab",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/yfhsrhlj/56.%20Friend%20Area%20-%20Lab.mp3"
+    },
+    {
+      "title": "Friend Area - Ocean",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/mgvlrzyt/57.%20Friend%20Area%20-%20Ocean.mp3"
+    },
+    {
+      "title": "Friend Area - Cave",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/ykeszvfn/58.%20Friend%20Area%20-%20Cave.mp3"
+    },
+    {
+      "title": "Goofy (Unused)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/xbmfsynt/59.%20Goofy%20%28Unused%29.mp3"
+    },
+    {
+      "title": "Training (Unused)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/doiytvzm/60.%20Training%20%28Unused%29.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/kqzxpjxm/61.%20Game%20Over.mp3"
+    },
+    {
+      "title": "Dungeon Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/tiiqezjz/62.%20Dungeon%20Clear.mp3"
+    },
+    {
+      "title": "Level Up",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/sskykfvm/63.%20Level%20Up.mp3"
+    },
+    {
+      "title": "Rank Up",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/xeejgcur/64.%20Rank%20Up.mp3"
+    },
+    {
+      "title": "Bye-Bye",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/zxmtijvd/65.%20Bye-Bye.mp3"
+    },
+    {
+      "title": "Reward",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/dhzcmdgu/66.%20Reward.mp3"
+    },
+    {
+      "title": "New Recruit",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/emygjfvp/67.%20New%20Recruit.mp3"
+    },
+    {
+      "title": "New Dungeon",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/kgdwyblb/68.%20New%20Dungeon.mp3"
+    },
+    {
+      "title": "New Friend Area",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/baysqafz/69.%20New%20Friend%20Area.mp3"
+    },
+    {
+      "title": "Information",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/iriqghty/70.%20Information.mp3"
+    },
+    {
+      "title": "Evolution",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/jbcikcer/71.%20Evolution.mp3"
+    },
+    {
+      "title": "Special Item Get",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/vcatrdpq/72.%20Special%20Item%20Get.mp3"
+    },
+    {
+      "title": "Unused Jingle (Evolution 2)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/ivbutjpw/73.%20Unused%20Jingle%20%28Evolution%202%29.mp3"
+    },
+    {
+      "title": "Unused Jingle (Music Box)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/pkdmzkeq/74.%20Unused%20Jingle%20%28Music%20Box%29.mp3"
+    },
+    {
+      "title": "Unknown Jingle 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/sqcnizac/75.%20Unknown%20Jingle%201.mp3"
+    },
+    {
+      "title": "Unknown Jingle 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/ngssnkmf/76.%20Unknown%20Jingle%202.mp3"
+    },
+    {
+      "title": "Ambient #01 Dungeon Eventfloor 02",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/qmmaoufs/77%20Ambient%20%2301%20Dungeon%20Eventfloor%2002.mp3"
+    },
+    {
+      "title": "Ambient #02 Habitat Itadaki 01",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/xkkrfzhm/78%20Ambient%20%2302%20Habitat%20Itadaki%2001.mp3"
+    },
+    {
+      "title": "Ambient #03 Habitat Niji 01",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/pobnjkwb/79%20Ambient%20%2303%20Habitat%20Niji%2001.mp3"
+    },
+    {
+      "title": "Ambient #04 Event Env Mystic",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/usesazwi/80%20Ambient%20%2304%20Event%20Env%20Mystic.mp3"
+    },
+    {
+      "title": "Ambient #05 Habitat Kairyu 01",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/dqstqvhy/81%20Ambient%20%2305%20Habitat%20Kairyu%2001.mp3"
+    },
+    {
+      "title": "Ambient #06 Habitat Kaitei 01",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/vjjslbaz/82%20Ambient%20%2306%20Habitat%20Kaitei%2001.mp3"
+    },
+    {
+      "title": "Ambient #07 Habitat Daichi 01",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/srhhsrhi/83%20Ambient%20%2307%20Habitat%20Daichi%2001.mp3"
+    },
+    {
+      "title": "Ambient #08 Habitat Nazo 01",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/wgtyllur/84%20Ambient%20%2308%20Habitat%20Nazo%2001.mp3"
+    },
+    {
+      "title": "Ambient #09 Event Env Soul",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/yrqdthhp/85%20Ambient%20%2309%20Event%20Env%20Soul.mp3"
+    },
+    {
+      "title": "Ambient #10 Event Env Honou",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/bprrghtw/86%20Ambient%20%2310%20Event%20Env%20Honou.mp3"
+    },
+    {
+      "title": "Ambient #11 Habitat Densetsu 01",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/apvhcmgt/87%20Ambient%20%2311%20Habitat%20Densetsu%2001.mp3"
+    },
+    {
+      "title": "Ambient #12 Habitat Minami 01",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/ztshkcfu/88%20Ambient%20%2312%20Habitat%20Minami%2001.mp3"
+    },
+    {
+      "title": "Ambient #13 Habitat Tozasareta 01",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/jlbzsoud/89%20Ambient%20%2313%20Habitat%20Tozasareta%2001.mp3"
+    },
+    {
+      "title": "Ambient #14 Habitat Saigo 01",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/jjvxebuw/90%20Ambient%20%2314%20Habitat%20Saigo%2001.mp3"
+    },
+    {
+      "title": "Ambient #15 Habitat Iyashi 01",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-mystery-dungeon-blue-rescue-team/voizwieu/91%20Ambient%20%2315%20Habitat%20Iyashi%2001.mp3"
+    }
+  ]
+}

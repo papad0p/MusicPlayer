@@ -81,6 +81,7 @@
             { "title": "Mario Kart DS", "id": "marioKartDS" },
             { "title": "Mario Party DS", "id": "marioPartyDS" },
             { "title": "Animal Crossing: Wild World", "id": "animalCrossingWildWorld" },
+            { "title": "Pokemon: Mystery Dungeon (Blue Rescue Team)", "id": "mysteryDungeonBlue", "status": "new" },
             { "title": "Pokemon Conquest", "id": "pokemonConquest", "status": "new" },
             { "title": "Mario & Luigi: Partners in Time", "id": "marioLuigiPartners" },
             { "title": "Mario & Luigi: Bowser's Inside Story", "id": "marioLuigiBowser" },
@@ -117,6 +118,7 @@
             { "title": "The Legend of Zelda: The Minish Cap", "id": "zeldaMinishCap", "status": "new" },
             { "title": "Pokemon: Ruby & Sapphire", "id": "rubySapphire" },
             { "title": "Pokemon: Emerald", "id": "emerald", "status": "new" },
+            { "title": "Pokemon: Mystery Dungeon (Red Rescue Team)", "id": "mysteryDungeonRed", "status": "new" },
             { "title": "Kirby: Nightmare in Dream Land", "id": "kirbyNightmareInDreamLand" },
             { "title": "Kirby & The Amazing Mirror", "id": "kirbyAndTheAmazingMirror" }
         ]
