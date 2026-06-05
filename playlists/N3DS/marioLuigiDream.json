@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "game_title": "Mario & Luigi: Dream Team",
+    "art": "https://mario.wiki.gallery/images/thumb/a/a3/Box_NA_-_Mario_%26_Luigi_Dream_Team.png/1600px-Box_NA_-_Mario_%26_Luigi_Dream_Team.png",
+    "desc": "July 12, 2013"
+  },
+  "songs": [
+    {
+      "title": "Your Dream Adventure!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/hdwwrwgs/01%20Your%20Dream%20Adventure%21.mp3"
+    },
+    {
+      "title": "Travel Journal",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/vxamjkxi/02%20Travel%20Journal.mp3"
+    },
+    {
+      "title": "Enjoy the Joy!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/wjgeehzb/03%20Enjoy%20the%20Joy%21.mp3"
+    },
+    {
+      "title": "Panic Pit",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/joqqebtm/04%20Panic%20Pit.mp3"
+    },
+    {
+      "title": "Comedic Curtains",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/hwncuryu/05%20Comedic%20Curtains.mp3"
+    },
+    {
+      "title": "Shocking!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/bauzpxvk/06%20Shocking%21.mp3"
+    },
+    {
+      "title": "Nightmare Lullaby",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/mgwnzjzr/07%20Nightmare%20Lullaby.mp3"
+    },
+    {
+      "title": "Ancient Pi'illo Kingdom",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/kcfvltlx/08%20Ancient%20Pi%27illo%20Kingdom.mp3"
+    },
+    {
+      "title": "Bowser's Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/eejhlfwp/09%20Bowser%27s%20Theme.mp3"
+    },
+    {
+      "title": "Antasma's Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/liisnncu/10%20Antasma%27s%20Theme.mp3"
+    },
+    {
+      "title": "Stand and Fight, Luigi",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/sdqrnnan/11%20Stand%20and%20Fight%2C%20Luigi.mp3"
+    },
+    {
+      "title": "Dreambeats",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/ogozhowp/12%20Dreambeats.mp3"
+    },
+    {
+      "title": "Go with the Bros.",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/mqsotdii/13%20Go%20with%20the%20Bros..mp3"
+    },
+    {
+      "title": "Challenging Actions!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/ovlvsdng/14%20Challenging%20Actions%21.mp3"
+    },
+    {
+      "title": "The Nightmare Road",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/twcxhtut/15%20The%20Nightmare%20Road.mp3"
+    },
+    {
+      "title": "Peach's Castle Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/lwbpxsxi/16%20Peach%27s%20Castle%20Theme.mp3"
+    },
+    {
+      "title": "Zeeppelin Sightseeing Tour",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/ysripbni/17%20Zeeppelin%20Sightseeing%20Tour.mp3"
+    },
+    {
+      "title": "Welcome to Pi'illo Blimport",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/cmfphspw/18%20Welcome%20to%20Pi%27illo%20Blimport.mp3"
+    },
+    {
+      "title": "Break at Pi'illo Castle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/piucauwb/19%20Break%20at%20Pi%27illo%20Castle.mp3"
+    },
+    {
+      "title": "Beneath Pi'illo Castle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/skuuomtg/20%20Beneath%20Pi%27illo%20Castle.mp3"
+    },
+    {
+      "title": "Breezy Mushrise Park",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/yzbkvzkb/21%20Breezy%20Mushrise%20Park.mp3"
+    },
+    {
+      "title": "Dozing Sands Secret",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/bdohvibi/22%20Dozing%20Sands%20Secret.mp3"
+    },
+    {
+      "title": "Shopping in Wakeport",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/mjmgtayo/23%20Shopping%20in%20Wakeport.mp3"
+    },
+    {
+      "title": "The Law of Pajamaja",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/zhkesbcj/24%20The%20Law%20of%20Pajamaja.mp3"
+    },
+    {
+      "title": "Lofty Mount Pajamaja",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/osvbvwxw/25%20Lofty%20Mount%20Pajamaja.mp3"
+    },
+    {
+      "title": "Sunny Driftwood Shore",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/sxiaerwh/26%20Sunny%20Driftwood%20Shore.mp3"
+    },
+    {
+      "title": "Mysteries of the Cave",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/xqkcikzt/27%20Mysteries%20of%20the%20Cave.mp3"
+    },
+    {
+      "title": "Sacred Somnom Woods",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/uqwlquzo/28%20Sacred%20Somnom%20Woods.mp3"
+    },
+    {
+      "title": "Neo Bowser Castle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/yahhrkax/29%20Neo%20Bowser%20Castle.mp3"
+    },
+    {
+      "title": "Neo Bowser Castle's Illusion",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/kinofkim/30%20Neo%20Bowser%20Castle%27s%20Illusion.mp3"
+    },
+    {
+      "title": "Rose Broquet",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/lrdqsqbj/31%20Rose%20Broquet.mp3"
+    },
+    {
+      "title": "Dreamy Castle Rendezvous",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/sldigfhu/32%20Dreamy%20Castle%20Rendezvous.mp3"
+    },
+    {
+      "title": "Dreamy Mushrise Winds",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/bztvwuhf/33%20Dreamy%20Mushrise%20Winds.mp3"
+    },
+    {
+      "title": "Dream's Forbidden Depths",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/dbvbusga/34%20Dream%27s%20Forbidden%20Depths.mp3"
+    },
+    {
+      "title": "Dreamy Sandstorm",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/leohtuup/35%20Dreamy%20Sandstorm.mp3"
+    },
+    {
+      "title": "Dreamy Wakeport Repose",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/pfhvgrts/36%20Dreamy%20Wakeport%20Repose.mp3"
+    },
+    {
+      "title": "Rules on Dreamy Mountain",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/hisnoefp/37%20Rules%20on%20Dreamy%20Mountain.mp3"
+    },
+    {
+      "title": "Glorious Pajamaja Dreams",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/jypglksj/38%20Glorious%20Pajamaja%20Dreams.mp3"
+    },
+    {
+      "title": "Dreamy Driftwood Meeting",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/rggmpqlf/39%20Dreamy%20Driftwood%20Meeting.mp3"
+    },
+    {
+      "title": "Dreamy Somnom Labyrinth",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/tbaabfvo/40%20Dreamy%20Somnom%20Labyrinth.mp3"
+    },
+    {
+      "title": "Neo Bowser Sunrise",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/jdmcaweg/41%20Neo%20Bowser%20Sunrise.mp3"
+    },
+    {
+      "title": "Bowser's Dream",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/vgxrqeyh/42%20Bowser%27s%20Dream.mp3"
+    },
+    {
+      "title": "Try, Try Again",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/oxvmxdzn/43%20Try%2C%20Try%20Again.mp3"
+    },
+    {
+      "title": "Victory in the Dream World",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/ofjfzgjd/44%20Victory%20in%20the%20Dream%20World.mp3"
+    },
+    {
+      "title": "Never Let Up!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/lwyduqsq/45%20Never%20Let%20Up%21.mp3"
+    },
+    {
+      "title": "Size Up Your Enemy",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/ewvmxdxb/46%20Size%20Up%20Your%20Enemy.mp3"
+    },
+    {
+      "title": "The Final Antasma Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/shkcgzcp/47%20The%20Final%20Antasma%20Battle.mp3"
+    },
+    {
+      "title": "Adventure's End",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/tykeqspw/48%20Adventure%27s%20End.mp3"
+    },
+    {
+      "title": "Joyous Occasion",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/oficnfob/49%20Joyous%20Occasion.mp3"
+    },
+    {
+      "title": "Pi'illo Vacation!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/rgecxivf/50%20Pi%27illo%20Vacation%21.mp3"
+    },
+    {
+      "title": "Memories of Pi'illo Island",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-and-luigi-dream-team/nbqbhkba/51%20Memories%20of%20Pi%27illo%20Island.mp3"
+    }
+  ]
+}
