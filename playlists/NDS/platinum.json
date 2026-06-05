@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "game_title": "Pokémon: Platinum",
+    "art": "https://upload.wikimedia.org/wikipedia/en/c/ca/Pokemon_Platinum.png",
+    "desc": "September 13, 2008"
+  },
+  "songs": [
+    {
+      "title": "Opening Movie (Pokémon Platinum)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/pydfojkwxq/03.%20Opening%20Movie%20%28Pok%C3%A9mon%20Platinum%29.mp3"
+    },
+    {
+      "title": "Press Start (Pokémon Platinum)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/qlpffitswu/04.%20Press%20Start%20%28Pok%C3%A9mon%20Platinum%29.mp3"
+    },
+    {
+      "title": "Looker's Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/dshlztcdwd/29.%20Looker%27s%20Theme.mp3"
+    },
+    {
+      "title": "Global Terminal",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/qpnsxtxnfi/32.%20Global%20Terminal.mp3"
+    },
+    {
+      "title": "Wi-Fi Plaza",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/hvjolytwjl/33.%20Wi-Fi%20Plaza.mp3"
+    },
+    {
+      "title": "Wi-Fi Plaza - Mini-Games",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/uingwwydte/34.%20Wi-Fi%20Plaza%20-%20Mini-Games.mp3"
+    },
+    {
+      "title": "Cleared Wobbuffet Pop!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/nxrgczuxqd/35.%20Cleared%20Wobbuffet%20Pop%21.mp3"
+    },
+    {
+      "title": "Wi-Fi Plaza - Parade",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/hrigefoyyg/36.%20Wi-Fi%20Plaza%20-%20Parade.mp3"
+    },
+    {
+      "title": "Spin Trade",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/vfuzsgyech/37.%20Spin%20Trade.mp3"
+    },
+    {
+      "title": "Giratina Appears! (Part 1)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/zmeppztatw/86.%20Giratina%20Appears%21%20%28Part%201%29.mp3"
+    },
+    {
+      "title": "Giratina Appears! (Part 2)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/eewdoqnevr/87.%20Giratina%20Appears%21%20%28Part%202%29.mp3"
+    },
+    {
+      "title": "Distortion World",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/ttyyfqmigg/88.%20Distortion%20World.mp3"
+    },
+    {
+      "title": "Battle! (Giratina)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/pikgzvjewx/89.%20Battle%21%20%28Giratina%29.mp3"
+    },
+    {
+      "title": "Villa Music Box - Twinleaf Tune",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/sumqmlcnvq/173.%20Villa%20Music%20Box%20-%20Twinleaf%20Tune.mp3"
+    },
+    {
+      "title": "Villa Audio System - Bossa Nova Lilycove",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/gehrojesnk/174.%20Villa%20Audio%20System%20-%20Bossa%20Nova%20Lilycove.mp3"
+    },
+    {
+      "title": "Fight Area (Battle Frontier)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/qrwdrbfxmb/175.%20Fight%20Area%20%28Battle%20Frontier%29.mp3"
+    },
+    {
+      "title": "Battle Arcade",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/eckrizznfo/176.%20Battle%20Arcade.mp3"
+    },
+    {
+      "title": "Received BP in the Battle Arcade!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/ymgumsexla/177.%20Received%20BP%20in%20the%20Battle%20Arcade%21.mp3"
+    },
+    {
+      "title": "Battle Hall",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/qrxnisznti/178.%20Battle%20Hall.mp3"
+    },
+    {
+      "title": "Battle Factory",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/wfanraasge/179.%20Battle%20Factory.mp3"
+    },
+    {
+      "title": "Battle Castle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/vhjolzkhmy/180.%20Battle%20Castle.mp3"
+    },
+    {
+      "title": "Received Castle Points!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/ekjtbdarhq/181.%20Received%20Castle%20Points%21.mp3"
+    },
+    {
+      "title": "Received Battle Points!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/wongsmwcxv/182.%20Received%20Battle%20Points%21.mp3"
+    },
+    {
+      "title": "Battle! (Frontier Brain)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/nnzskgjnci/183.%20Battle%21%20%28Frontier%20Brain%29.mp3"
+    },
+    {
+      "title": "Victory! (Frontier Brain)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pok-mon-diamond-pok-mon-pearl-super-music-collection-2006/nlgfwobmdm/184.%20Victory%21%20%28Frontier%20Brain%29.mp3"
+    }
+  ]
+}
