@@ -1,0 +1,797 @@
+{
+  "meta": {
+    "game_title": "Banjo-Kazooie",
+    "art": "https://upload.wikimedia.org/wikipedia/en/1/12/Banjo_Kazooie_Cover.png",
+    "desc": "29 June 1998"
+  },
+  "songs": [
+    {
+      "title": "Zoom In",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/puguepmq/1-01.%20Zoom%20In.mp3"
+    },
+    {
+      "title": "Intro",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/rkbcgyae/1-02.%20Intro.mp3"
+    },
+    {
+      "title": "Banjo-Kazooie ~Main Titles~",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/wuhexajt/1-03.%20Banjo-Kazooie%20~Main%20Titles~.mp3"
+    },
+    {
+      "title": "Game Select 1 (Sleeping Banjo)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/tmelshed/1-04.%20Game%20Select%201%20%28Sleeping%20Banjo%29.mp3"
+    },
+    {
+      "title": "Game Select 2 (Cooking Banjo)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/bxkfwtce/1-05.%20Game%20Select%202%20%28Cooking%20Banjo%29.mp3"
+    },
+    {
+      "title": "Game Select 3 (Gameboy Banjo)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/sxnulxcu/1-06.%20Game%20Select%203%20%28Gameboy%20Banjo%29.mp3"
+    },
+    {
+      "title": "Select",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/sfwuhbnh/1-07.%20Select.mp3"
+    },
+    {
+      "title": "Overture",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/zywlqvgs/1-08.%20Overture.mp3"
+    },
+    {
+      "title": "Spiral Mountain",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/wfmsdnhu/1-09.%20Spiral%20Mountain.mp3"
+    },
+    {
+      "title": "Spiral Mountain Aquatics",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/bzsrcprm/1-10.%20Spiral%20Mountain%20Aquatics.mp3"
+    },
+    {
+      "title": "Bridge to Gruntilda's Lair",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/mzmkopja/1-11.%20Bridge%20to%20Gruntilda%27s%20Lair.mp3"
+    },
+    {
+      "title": "Gruntilda's Plan",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/xnxxvjkx/1-12.%20Gruntilda%27s%20Plan.mp3"
+    },
+    {
+      "title": "Gruntilda's Lair",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/jbhdxcvv/1-13.%20Gruntilda%27s%20Lair.mp3"
+    },
+    {
+      "title": "Jiggy Appears",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/sabcjmif/1-14.%20Jiggy%20Appears.mp3"
+    },
+    {
+      "title": "Collect Jiggy",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/cvumdeko/1-15.%20Collect%20Jiggy.mp3"
+    },
+    {
+      "title": "World Puzzle Completed",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/nzisnlsh/1-16.%20World%20Puzzle%20Completed.mp3"
+    },
+    {
+      "title": "World Door Unlocked",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/ebuuomth/1-17.%20World%20Door%20Unlocked.mp3"
+    },
+    {
+      "title": "Gruntilda's Lair (Mumbo's Mountain)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/ggpfgqli/1-18.%20Gruntilda%27s%20Lair%20%28Mumbo%27s%20Mountain%29.mp3"
+    },
+    {
+      "title": "Mumbo's Mountain",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/ghtuumas/1-19.%20Mumbo%27s%20Mountain.mp3"
+    },
+    {
+      "title": "Conga's Patch",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/opjyssmg/1-20.%20Conga%27s%20Patch.mp3"
+    },
+    {
+      "title": "Collect Blue Egg",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/tztrgfia/1-21.%20Collect%20Blue%20Egg.mp3"
+    },
+    {
+      "title": "Blue Egg Max",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/bfxwqqgi/1-22.%20Blue%20Egg%20Max.mp3"
+    },
+    {
+      "title": "Mumbo's Mountain Aquatics",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/yssiqfdc/1-23.%20Mumbo%27s%20Mountain%20Aquatics.mp3"
+    },
+    {
+      "title": "Outside Ticker's Tower",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/bxkimiea/1-24.%20Outside%20Ticker%27s%20Tower.mp3"
+    },
+    {
+      "title": "Inside Ticker's Tower",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/lencxhqj/1-25.%20Inside%20Ticker%27s%20Tower.mp3"
+    },
+    {
+      "title": "Outside Mumbo's Hut",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/wgqlgahl/1-26.%20Outside%20Mumbo%27s%20Hut.mp3"
+    },
+    {
+      "title": "Mumbo's Hut",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/gzdryvek/1-27.%20Mumbo%27s%20Hut.mp3"
+    },
+    {
+      "title": "Mumbo's Magic",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/mfrrisor/1-28.%20Mumbo%27s%20Magic.mp3"
+    },
+    {
+      "title": "Mumbo's Raindance (Unused)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/qexziovo/1-29.%20Mumbo%27s%20Raindance%20%28Unused%29.mp3"
+    },
+    {
+      "title": "Collect Note",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/fkinohro/1-30.%20Collect%20Note.mp3"
+    },
+    {
+      "title": "All Notes Collected",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/uepkheap/1-31.%20All%20Notes%20Collected.mp3"
+    },
+    {
+      "title": "Collect Jinjo",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/yvlpsvap/1-32.%20Collect%20Jinjo.mp3"
+    },
+    {
+      "title": "All Jinjos Collected",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/wqpzdrbf/1-33.%20All%20Jinjos%20Collected.mp3"
+    },
+    {
+      "title": "Pause Screen",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/zfapywof/1-34.%20Pause%20Screen.mp3"
+    },
+    {
+      "title": "Note Door Unlocked",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/jesepmsb/1-35.%20Note%20Door%20Unlocked.mp3"
+    },
+    {
+      "title": "Gruntilda's Lair (Treasure Trove Cove)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/cikauarj/2-01.%20Gruntilda%27s%20Lair%20%28Treasure%20Trove%20Cove%29.mp3"
+    },
+    {
+      "title": "Treasure Trove Cove",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/tqzytzsm/2-02.%20Treasure%20Trove%20Cove.mp3"
+    },
+    {
+      "title": "Captain Blubber",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/jiqexycp/2-03.%20Captain%20Blubber.mp3"
+    },
+    {
+      "title": "Collect Red Feather",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/txhubwef/2-04.%20Collect%20Red%20Feather.mp3"
+    },
+    {
+      "title": "Red Feather Max",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/nzjxjcmd/2-05.%20Red%20Feather%20Max.mp3"
+    },
+    {
+      "title": "Lighthouse",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/dhcquaux/2-06.%20Lighthouse.mp3"
+    },
+    {
+      "title": "Treasure Trove Cove Aquatics",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/dxfhxocx/2-07.%20Treasure%20Trove%20Cove%20Aquatics.mp3"
+    },
+    {
+      "title": "Lose Oxygen",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/dxglnfnz/2-08.%20Lose%20Oxygen.mp3"
+    },
+    {
+      "title": "Inside The Sandcastle",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/jwgoedcc/2-09.%20Inside%20The%20Sandcastle.mp3"
+    },
+    {
+      "title": "Inside The Sandcastle Aquatics",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/dmapxsuy/2-10.%20Inside%20The%20Sandcastle%20Aquatics.mp3"
+    },
+    {
+      "title": "Snipper Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/isshkbdn/2-11.%20Snipper%20Battle.mp3"
+    },
+    {
+      "title": "Inside Snipper's Shell",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/grotayqh/2-12.%20Inside%20Snipper%27s%20Shell.mp3"
+    },
+    {
+      "title": "Snacker Attack",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/pdyfgocv/2-13.%20Snacker%20Attack.mp3"
+    },
+    {
+      "title": "Secret Fanfare 1 (Treasure Trove Cove & Rusty Bucket Bay)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/wujkxjac/2-14.%20Secret%20Fanfare%201%20%28Treasure%20Trove%20Cove%20%26%20Rusty%20Bucket%20Bay%29.mp3"
+    },
+    {
+      "title": "Gruntilda's Lair Aquatics",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/lvxajtrc/2-15.%20Gruntilda%27s%20Lair%20Aquatics.mp3"
+    },
+    {
+      "title": "Dingpot Warp",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/olnfpixl/2-16.%20Dingpot%20Warp.mp3"
+    },
+    {
+      "title": "Gruntilda's Lair (Clanker's Cavern)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/latptbax/2-17.%20Gruntilda%27s%20Lair%20%28Clanker%27s%20Cavern%29.mp3"
+    },
+    {
+      "title": "Clanker's Cavern",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/mseppdvu/2-18.%20Clanker%27s%20Cavern.mp3"
+    },
+    {
+      "title": "Clanker's Cavern Aquatics",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/mzmnfjex/2-19.%20Clanker%27s%20Cavern%20Aquatics.mp3"
+    },
+    {
+      "title": "Clanker's Cavern Deep Aquatics",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/wqrldkqz/2-20.%20Clanker%27s%20Cavern%20Deep%20Aquatics.mp3"
+    },
+    {
+      "title": "Mutie-Snippets",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/zwlrbfxy/2-21.%20Mutie-Snippets.mp3"
+    },
+    {
+      "title": "Collect Gold Feather",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/ahisqagd/2-22.%20Collect%20Gold%20Feather.mp3"
+    },
+    {
+      "title": "Gold Feather Max",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/yjzsrggn/2-23.%20Gold%20Feather%20Max.mp3"
+    },
+    {
+      "title": "Wonderwing",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/wsbbdnde/2-24.%20Wonderwing.mp3"
+    },
+    {
+      "title": "Inside Clanker",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/jkxhrovk/2-25.%20Inside%20Clanker.mp3"
+    },
+    {
+      "title": "Inside Clanker Aquatics",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/mhzacngt/2-26.%20Inside%20Clanker%20Aquatics.mp3"
+    },
+    {
+      "title": "Brentilda Appears",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/byoxxugu/2-27.%20Brentilda%20Appears.mp3"
+    },
+    {
+      "title": "Brentilda's Theme",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/hcnhywnz/2-28.%20Brentilda%27s%20Theme.mp3"
+    },
+    {
+      "title": "Brentilda Dissappears",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/kzttmels/2-29.%20Brentilda%20Dissappears.mp3"
+    },
+    {
+      "title": "Cheato's Theme",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/hffjeuly/2-30.%20Cheato%27s%20Theme.mp3"
+    },
+    {
+      "title": "Lose Life",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/gmsaaacj/2-31.%20Lose%20Life.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/pufqovne/2-32.%20Game%20Over.mp3"
+    },
+    {
+      "title": "Gruntilda's Lair (Bubblegloop Swamp)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/hzxrrjuv/3-01.%20Gruntilda%27s%20Lair%20%28Bubblegloop%20Swamp%29.mp3"
+    },
+    {
+      "title": "Bubblegloop Swamp",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/sbgycquc/3-02.%20Bubblegloop%20Swamp.mp3"
+    },
+    {
+      "title": "Wading Boots",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/dhcrcmdg/3-03.%20Wading%20Boots.mp3"
+    },
+    {
+      "title": "Bubblegloop Swamp Interiors",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/tzqgkgaj/3-04.%20Bubblegloop%20Swamp%20Interiors.mp3"
+    },
+    {
+      "title": "Mr. Vile's Game",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/smhyxsva/3-05.%20Mr.%20Vile%27s%20Game.mp3"
+    },
+    {
+      "title": "Flippits Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/qdsdpqhp/3-06.%20Flippits%20Battle.mp3"
+    },
+    {
+      "title": "Gruntilda's Lair (Freezeezy Peak)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/dxalbbdn/3-07.%20Gruntilda%27s%20Lair%20%28Freezeezy%20Peak%29.mp3"
+    },
+    {
+      "title": "Freezeezy Peak",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/casnknkl/3-08.%20Freezeezy%20Peak.mp3"
+    },
+    {
+      "title": "Freezeezy Peak - Christmas Bells",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/zrismgvj/3-09.%20Freezeezy%20Peak%20-%20Christmas%20Bells.mp3"
+    },
+    {
+      "title": "Freezeezy Peak Aquatics",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/kvzkcigh/3-10.%20Freezeezy%20Peak%20Aquatics.mp3"
+    },
+    {
+      "title": "Twinklies' Journey",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/twdatrdq/3-11.%20Twinklies%27%20Journey.mp3"
+    },
+    {
+      "title": "Christmas Lights On",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/velshecw/3-12.%20Christmas%20Lights%20On.mp3"
+    },
+    {
+      "title": "Inside the Christmas Tree",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/cyivfpiu/3-13.%20Inside%20the%20Christmas%20Tree.mp3"
+    },
+    {
+      "title": "Boggy's Igloo (Sad)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/yjzwjetf/3-14.%20Boggy%27s%20Igloo%20%28Sad%29.mp3"
+    },
+    {
+      "title": "Boggy's Igloo (Happy)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/vogpeczp/3-15.%20Boggy%27s%20Igloo%20%28Happy%29.mp3"
+    },
+    {
+      "title": "Wozza's Cave",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/dumcbazt/3-16.%20Wozza%27s%20Cave.mp3"
+    },
+    {
+      "title": "Wozza's Cave Aquatics",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/tpsuvrzv/3-17.%20Wozza%27s%20Cave%20Aquatics.mp3"
+    },
+    {
+      "title": "Boggy's Race",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/hwlqwkku/3-18.%20Boggy%27s%20Race.mp3"
+    },
+    {
+      "title": "Race Failure...",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/sesaazwl/3-19.%20Race%20Failure....mp3"
+    },
+    {
+      "title": "Race Victory!",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/prnofkjq/3-20.%20Race%20Victory%21.mp3"
+    },
+    {
+      "title": "Secret Fanfare 2 (Freezeezy Peak)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/ailgwqow/3-21.%20Secret%20Fanfare%202%20%28Freezeezy%20Peak%29.mp3"
+    },
+    {
+      "title": "Gruntilda's Lair (Gobi's Valley)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/qowrtsio/3-22.%20Gruntilda%27s%20Lair%20%28Gobi%27s%20Valley%29.mp3"
+    },
+    {
+      "title": "Gobi's Valley",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/taxkhiuz/3-23.%20Gobi%27s%20Valley.mp3"
+    },
+    {
+      "title": "Pyramid Jingle",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/lgzevrxn/3-24.%20Pyramid%20Jingle.mp3"
+    },
+    {
+      "title": "Turbo Trainers",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/yakxjzyt/3-25.%20Turbo%20Trainers.mp3"
+    },
+    {
+      "title": "Gobi's Valley Aquatics",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/vydyjynx/3-26.%20Gobi%27s%20Valley%20Aquatics.mp3"
+    },
+    {
+      "title": "Gobi's Valley (Jinxy's Area)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/zdumaqco/3-27.%20Gobi%27s%20Valley%20%28Jinxy%27s%20Area%29.mp3"
+    },
+    {
+      "title": "Magic Carpet Rises",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/mserxmrz/3-28.%20Magic%20Carpet%20Rises.mp3"
+    },
+    {
+      "title": "Magic Carpet Drops",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/yqkdjnnz/3-29.%20Magic%20Carpet%20Drops.mp3"
+    },
+    {
+      "title": "Inside the Pyramid",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/jvcxjbdp/3-30.%20Inside%20the%20Pyramid.mp3"
+    },
+    {
+      "title": "Hissup",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/ntfvlvun/3-31.%20Hissup.mp3"
+    },
+    {
+      "title": "King Sandybutt's Maze",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/ddifcxdb/3-32.%20King%20Sandybutt%27s%20Maze.mp3"
+    },
+    {
+      "title": "Time Up!",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/uwwtepnu/3-33.%20Time%20Up%21.mp3"
+    },
+    {
+      "title": "Secret Fanfare 3 (Gobi's Valley)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/jlcftdih/3-34.%20Secret%20Fanfare%203%20%28Gobi%27s%20Valley%29.mp3"
+    },
+    {
+      "title": "Gruntilda's Lair (Mad Monster Mansion)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/mngodykc/4-01.%20Gruntilda%27s%20Lair%20%28Mad%20Monster%20Mansion%29.mp3"
+    },
+    {
+      "title": "Mad Monster Mansion",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/gbmelshi/4-02.%20Mad%20Monster%20Mansion.mp3"
+    },
+    {
+      "title": "Cemetery",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/sqagbqza/4-03.%20Cemetery.mp3"
+    },
+    {
+      "title": "Outside the Church",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/dpqleqpd/4-04.%20Outside%20the%20Church.mp3"
+    },
+    {
+      "title": "Church Door Unlocked",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/yffmrzwl/4-05.%20Church%20Door%20Unlocked.mp3"
+    },
+    {
+      "title": "Inside the Church",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/njevrwhv/4-06.%20Inside%20the%20Church.mp3"
+    },
+    {
+      "title": "Mozand's Song",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/hywoeddj/4-07.%20Mozand%27s%20Song.mp3"
+    },
+    {
+      "title": "Mad Monster Mansion Aquatics",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/lbzuaqdu/4-08.%20Mad%20Monster%20Mansion%20Aquatics.mp3"
+    },
+    {
+      "title": "Inside the Mansion",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/mdemxdyf/4-09.%20Inside%20the%20Mansion.mp3"
+    },
+    {
+      "title": "Inside the Toilet",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/gstqyuel/4-10.%20Inside%20the%20Toilet.mp3"
+    },
+    {
+      "title": "Tubular's Oujia",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/qyuaweie/4-11.%20Tubular%27s%20Oujia.mp3"
+    },
+    {
+      "title": "Secret Fanfare 4 (Mad Monster Mansion)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/unehyuen/4-12.%20Secret%20Fanfare%204%20%28Mad%20Monster%20Mansion%29.mp3"
+    },
+    {
+      "title": "Gruntilda's Lair (Rusty Bucket Bay)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/zkawgsuw/4-13.%20Gruntilda%27s%20Lair%20%28Rusty%20Bucket%20Bay%29.mp3"
+    },
+    {
+      "title": "Rusty Bucket Bay",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/yduqstnl/4-14.%20Rusty%20Bucket%20Bay.mp3"
+    },
+    {
+      "title": "Rusty Bucket Bay Aquatics",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/rbgbmhae/4-15.%20Rusty%20Bucket%20Bay%20Aquatics.mp3"
+    },
+    {
+      "title": "Rusty Bucket Bay (Whistle Puzzle)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/xyyyxqow/4-16.%20Rusty%20Bucket%20Bay%20%28Whistle%20Puzzle%29.mp3"
+    },
+    {
+      "title": "Inside the Warehouse",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/rvznrtvu/4-17.%20Inside%20the%20Warehouse.mp3"
+    },
+    {
+      "title": "Inside the Warehouse Aquatics",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/nekmgrrk/4-18.%20Inside%20the%20Warehouse%20Aquatics.mp3"
+    },
+    {
+      "title": "Inside Crew Quarters",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/awhtxjbe/4-19.%20Inside%20Crew%20Quarters.mp3"
+    },
+    {
+      "title": "Inside the Machine Room",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/sazucdhc/4-20.%20Inside%20the%20Machine%20Room.mp3"
+    },
+    {
+      "title": "Inside the Machine Room Aquatics",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/njiownzk/4-21.%20Inside%20the%20Machine%20Room%20Aquatics.mp3"
+    },
+    {
+      "title": "Boss Boom Box",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/cgzdrbii/4-22.%20Boss%20Boom%20Box.mp3"
+    },
+    {
+      "title": "Collect Honeycomb",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/rjvdbymp/4-23.%20Collect%20Honeycomb.mp3"
+    },
+    {
+      "title": "Collect Extra Honeycomb Piece",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/msbcikbz/4-24.%20Collect%20Extra%20Honeycomb%20Piece.mp3"
+    },
+    {
+      "title": "Extra Honeycomb Added",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/uxhsrgda/4-25.%20Extra%20Honeycomb%20Added.mp3"
+    },
+    {
+      "title": "Collect Extra Life",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/rggoydww/4-26.%20Collect%20Extra%20Life.mp3"
+    },
+    {
+      "title": "Gruntilda's Lair (Click Clock Wood)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/tfteqqit/5-01.%20Gruntilda%27s%20Lair%20%28Click%20Clock%20Wood%29.mp3"
+    },
+    {
+      "title": "Click Clock Wood Lobby",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/qbimlres/5-02.%20Click%20Clock%20Wood%20Lobby.mp3"
+    },
+    {
+      "title": "Click Clock Wood Lobby (Spring)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/cilcfuig/5-03.%20Click%20Clock%20Wood%20Lobby%20%28Spring%29.mp3"
+    },
+    {
+      "title": "Click Clock Wood (Spring)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/ixobqxqm/5-04.%20Click%20Clock%20Wood%20%28Spring%29.mp3"
+    },
+    {
+      "title": "Click Clock Wood Aquatics (Spring)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/ojdpntih/5-05.%20Click%20Clock%20Wood%20Aquatics%20%28Spring%29.mp3"
+    },
+    {
+      "title": "Inside the Treetops (Spring)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/lltolpoc/5-06.%20Inside%20the%20Treetops%20%28Spring%29.mp3"
+    },
+    {
+      "title": "Nabnut's House (Spring)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/vvrxnwsa/5-07.%20Nabnut%27s%20House%20%28Spring%29.mp3"
+    },
+    {
+      "title": "Click Clock Wood Lobby (Summer)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/wkikdmyf/5-08.%20Click%20Clock%20Wood%20Lobby%20%28Summer%29.mp3"
+    },
+    {
+      "title": "Click Clock Wood (Summer)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/htwcvyfg/5-09.%20Click%20Clock%20Wood%20%28Summer%29.mp3"
+    },
+    {
+      "title": "Inside the Treetops (Summer)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/ozjwdelt/5-10.%20Inside%20the%20Treetops%20%28Summer%29.mp3"
+    },
+    {
+      "title": "Nabnut's House (Summer)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/imihkche/5-11.%20Nabnut%27s%20House%20%28Summer%29.mp3"
+    },
+    {
+      "title": "Zubba's Nest",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/aqdqxmul/5-12.%20Zubba%27s%20Nest.mp3"
+    },
+    {
+      "title": "Zubba Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/wydwzhkg/5-13.%20Zubba%20Battle.mp3"
+    },
+    {
+      "title": "Click Clock Wood Lobby (Autumn)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/zcpstprp/5-14.%20Click%20Clock%20Wood%20Lobby%20%28Autumn%29.mp3"
+    },
+    {
+      "title": "Click Clock Wood (Autumn)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/aggmrvfo/5-15.%20Click%20Clock%20Wood%20%28Autumn%29.mp3"
+    },
+    {
+      "title": "Click Clock Wood Aquatics (Autumn)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/cwalguif/5-16.%20Click%20Clock%20Wood%20Aquatics%20%28Autumn%29.mp3"
+    },
+    {
+      "title": "Inside the Treetops (Autumn)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/bsipyxrr/5-17.%20Inside%20the%20Treetops%20%28Autumn%29.mp3"
+    },
+    {
+      "title": "Nabnut's House (Autumn)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/isnlraci/5-18.%20Nabnut%27s%20House%20%28Autumn%29.mp3"
+    },
+    {
+      "title": "Nabnut's House Aquatics",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/lhbjsmem/5-19.%20Nabnut%27s%20House%20Aquatics.mp3"
+    },
+    {
+      "title": "Nabnut's Storage Room",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/wwsypebt/5-20.%20Nabnut%27s%20Storage%20Room.mp3"
+    },
+    {
+      "title": "Gnawty's House",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/qzwlpsus/5-21.%20Gnawty%27s%20House.mp3"
+    },
+    {
+      "title": "Click Clock Wood Lobby (Winter)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/gearggkj/5-22.%20Click%20Clock%20Wood%20Lobby%20%28Winter%29.mp3"
+    },
+    {
+      "title": "Click Clock Wood (Winter)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/qagebtqy/5-23.%20Click%20Clock%20Wood%20%28Winter%29.mp3"
+    },
+    {
+      "title": "Inside the Treetops (Winter)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/udguhcnk/5-24.%20Inside%20the%20Treetops%20%28Winter%29.mp3"
+    },
+    {
+      "title": "Nabnut's House (Winter)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/mfncurzx/5-25.%20Nabnut%27s%20House%20%28Winter%29.mp3"
+    },
+    {
+      "title": "Secret Fanfare 5 (Click Clock Wood)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/qjzuarju/5-26.%20Secret%20Fanfare%205%20%28Click%20Clock%20Wood%29.mp3"
+    },
+    {
+      "title": "Bottles' Puzzle Challenge (Start)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/xdwakbzv/6-01.%20Bottles%27%20Puzzle%20Challenge%20%28Start%29.mp3"
+    },
+    {
+      "title": "Bottles' Puzzle Challenge",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/dencvyec/6-02.%20Bottles%27%20Puzzle%20Challenge.mp3"
+    },
+    {
+      "title": "Bottles' Puzzle Challenge (Pick Up)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/ykhcrbim/6-03.%20Bottles%27%20Puzzle%20Challenge%20%28Pick%20Up%29.mp3"
+    },
+    {
+      "title": "Bottles' Puzzle Challenge (Put Back)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/mvujnoef/6-04.%20Bottles%27%20Puzzle%20Challenge%20%28Put%20Back%29.mp3"
+    },
+    {
+      "title": "Gruntilda's Lair (Grunty's Furnace Fun)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/msgbnlrb/6-05.%20Gruntilda%27s%20Lair%20%28Grunty%27s%20Furnace%20Fun%29.mp3"
+    },
+    {
+      "title": "Grunty's Furnace Fun",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/eukpvjju/6-06.%20Grunty%27s%20Furnace%20Fun.mp3"
+    },
+    {
+      "title": "Grunty's Furnace Fun (Note Question)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/tilgzcpp/6-07.%20Grunty%27s%20Furnace%20Fun%20%28Note%20Question%29.mp3"
+    },
+    {
+      "title": "Grunty's Furnace Fun (Banjo-Kazooie Question)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/eddgxrsp/6-08.%20Grunty%27s%20Furnace%20Fun%20%28Banjo-Kazooie%20Question%29.mp3"
+    },
+    {
+      "title": "Grunty's Furnace Fun (Gruntilda Question)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/swflqvfq/6-09.%20Grunty%27s%20Furnace%20Fun%20%28Gruntilda%20Question%29.mp3"
+    },
+    {
+      "title": "Grunty's Furnace Fun (Joker)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/ntcihker/6-10.%20Grunty%27s%20Furnace%20Fun%20%28Joker%29.mp3"
+    },
+    {
+      "title": "Grunty's Furnace Fun (Death Skull Question)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/uapblcdk/6-11.%20Grunty%27s%20Furnace%20Fun%20%28Death%20Skull%20Question%29.mp3"
+    },
+    {
+      "title": "Wrong!",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/nmuomqub/6-12.%20Wrong%21.mp3"
+    },
+    {
+      "title": "Correct!",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/wdemtkvw/6-13.%20Correct%21.mp3"
+    },
+    {
+      "title": "Grunty's Furnace Fun Completed!",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/uigjzvel/6-14.%20Grunty%27s%20Furnace%20Fun%20Completed%21.mp3"
+    },
+    {
+      "title": "Grunty's Defeat",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/rzxodzns/6-15.%20Grunty%27s%20Defeat.mp3"
+    },
+    {
+      "title": "Tooty's Theme",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/ypdxboph/6-16.%20Tooty%27s%20Theme.mp3"
+    },
+    {
+      "title": "Staff Credits",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/srhkdkqa/6-17.%20Staff%20Credits.mp3"
+    },
+    {
+      "title": "Mumbo's Barbeque",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/gcsjrhli/6-18.%20Mumbo%27s%20Barbeque.mp3"
+    },
+    {
+      "title": "Shocked!",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/iqfcyivc/6-19.%20Shocked%21.mp3"
+    },
+    {
+      "title": "Gruntilda's Lair (Tower)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/dgyzzacn/6-20.%20Gruntilda%27s%20Lair%20%28Tower%29.mp3"
+    },
+    {
+      "title": "Final Door Unlocked",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/hvjimmxd/6-21.%20Final%20Door%20Unlocked.mp3"
+    },
+    {
+      "title": "Final Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/apywqljm/6-22.%20Final%20Battle.mp3"
+    },
+    {
+      "title": "Jinjonator Appears",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/jiqdsdmd/6-23.%20Jinjonator%20Appears.mp3"
+    },
+    {
+      "title": "Jinjonator Maximum",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/gwlsfybn/6-24.%20Jinjonator%20Maximum.mp3"
+    },
+    {
+      "title": "Jinjonator Activates",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/ibhgjcku/6-25.%20Jinjonator%20Activates.mp3"
+    },
+    {
+      "title": "Jinjonator Charges",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/scmarint/6-26.%20Jinjonator%20Charges.mp3"
+    },
+    {
+      "title": "Grunty Hit",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/bertvwuj/6-27.%20Grunty%20Hit.mp3"
+    },
+    {
+      "title": "Grunty Falls",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/mgwofkjp/6-28.%20Grunty%20Falls.mp3"
+    },
+    {
+      "title": "Buried Under a Rock",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/vlumbwfl/6-29.%20Buried%20Under%20a%20Rock.mp3"
+    },
+    {
+      "title": "On Vacation",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/omujoqpb/6-30.%20On%20Vacation.mp3"
+    },
+    {
+      "title": "The End",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/kyljoqlk/6-31.%20The%20End.mp3"
+    },
+    {
+      "title": "Advent (Unused Beta Song)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/sjqbmelr/6-32.%20Advent%20%28Unused%20Beta%20Song%29.mp3"
+    },
+    {
+      "title": "Click Clock Wood (Unused Beta Version 1)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/adquxhsq/6-33.%20Click%20Clock%20Wood%20%28Unused%20Beta%20Version%201%29.mp3"
+    },
+    {
+      "title": "Click Clock Wood (Unused Beta Version 2)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/blatqxsu/6-34.%20Click%20Clock%20Wood%20%28Unused%20Beta%20Version%202%29.mp3"
+    },
+    {
+      "title": "Nabnut's House",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/xbretgbn/6-35.%20Nabnut%27s%20House.mp3"
+    },
+    {
+      "title": "Secret Item Collected",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/jgebxgpf/6-36.%20Secret%20Item%20Collected.mp3"
+    },
+    {
+      "title": "Transformation",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/ixnxzexz/6-37.%20Transformation.mp3"
+    },
+    {
+      "title": "Warp",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/fbsinoix/6-38.%20Warp.mp3"
+    },
+    {
+      "title": "Patch",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/nycrdojf/6-39.%20Patch.mp3"
+    },
+    {
+      "title": "Patch Remove",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/xwqrjxkf/6-40.%20Patch%20Remove.mp3"
+    },
+    {
+      "title": "Jingle 1 (Unused)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/xzbjqdsc/6-41.%20Jingle%201%20%28Unused%29.mp3"
+    },
+    {
+      "title": "Jingle 2 (Unused)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/maskauvx/6-42.%20Jingle%202%20%28Unused%29.mp3"
+    },
+    {
+      "title": "Game Over (Unused)",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/yaiougxu/6-43.%20Game%20Over%20%28Unused%29.mp3"
+    },
+    {
+      "title": "Zoom Out",
+      "src": "https://vgmtreasurechest.com/soundtracks/banjo-kazooie-s-great-adventure-complete-sound-version/fsxlkrev/6-44.%20Zoom%20Out.mp3"
+    }
+  ]
+}
