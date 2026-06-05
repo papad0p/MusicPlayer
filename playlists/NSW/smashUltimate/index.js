@@ -3,7 +3,7 @@ document.querySelectorAll('ul li[data-playlist]').forEach((li) => {
     const key = li.dataset.playlist;
     if (key !== 'NSW/smashUltimate') {
       // For regular playlists, navigate to player.html with the playlist query parameter 
-      window.location.href = `player.html?playlist=${encodeURIComponent(key)}`;
+      window.location.href = `../../../player.html?playlist=${encodeURIComponent(key)}`;
     }
   });
 });

@@ -1,6 +1,9 @@
 document.querySelectorAll('ul li[data-playlist]').forEach((li) => {
   li.addEventListener('click', () => {
     const key = li.dataset.playlist;
-    window.location.href = `player.html?playlist=${encodeURIComponent(key)}`;
+    if (key !== 'NSW/smashUltimate') {
+      // For regular playlists, navigate to player.html with the playlist query parameter 
+      window.location.href = `player.html?playlist=${encodeURIComponent(key)}`;
+    }
   });
 });

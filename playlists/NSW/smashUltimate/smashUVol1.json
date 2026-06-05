@@ -1,0 +1,785 @@
+{
+  "meta": {
+    "game_title": "Super Smash Bros. Ultimate Vol. 01",
+    "art": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/00.%203DS.png",
+    "desc": ""
+  },
+  "songs": [
+    {
+      "title": "Lifelight (JP)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/wbrgfgrr/1-01.%20Lifelight%20%28JP%29.mp3"
+    },
+    {
+      "title": "Lifelight",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/hmoiwlok/1-02.%20Lifelight.mp3"
+    },
+    {
+      "title": "Menu",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/lxgpcups/1-03.%20Menu.mp3"
+    },
+    {
+      "title": "Battlefield",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/rgfjesbd/1-04.%20Battlefield.mp3"
+    },
+    {
+      "title": "Final Destination",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/neibhivb/1-05.%20Final%20Destination.mp3"
+    },
+    {
+      "title": "Mob Smash",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/xivfnzhn/1-06.%20Mob%20Smash.mp3"
+    },
+    {
+      "title": "Classic Mode - Mural",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/uhdtkslz/1-07.%20Classic%20Mode%20-%20Mural.mp3"
+    },
+    {
+      "title": "Classic Mode - Defeat",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/rhnugzdr/1-08.%20Classic%20Mode%20-%20Defeat.mp3"
+    },
+    {
+      "title": "Classic Mode - Final Results",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/adokhfgo/1-09.%20Classic%20Mode%20-%20Final%20Results.mp3"
+    },
+    {
+      "title": "Classic Mode - Bonus Stage",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/dzkdkpud/1-10.%20Classic%20Mode%20-%20Bonus%20Stage.mp3"
+    },
+    {
+      "title": "Master Hand",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/ttmdicqw/1-11.%20Master%20Hand.mp3"
+    },
+    {
+      "title": "Crazy Hand",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/wddgvmvr/1-12.%20Crazy%20Hand.mp3"
+    },
+    {
+      "title": "Master Hand  -  Crazy Hand",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/ysslcemz/1-13.%20Master%20Hand%20%20-%20%20Crazy%20Hand.mp3"
+    },
+    {
+      "title": "The Light Realm - Prologue",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/jawizzxp/1-14.%20The%20Light%20Realm%20-%20Prologue.mp3"
+    },
+    {
+      "title": "The Light Realm - March",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/hqhpahnq/1-15.%20The%20Light%20Realm%20-%20March.mp3"
+    },
+    {
+      "title": "The Light Realm - Base",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/rlgvltil/1-16.%20The%20Light%20Realm%20-%20Base.mp3"
+    },
+    {
+      "title": "The Dark Realm",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/eofmsfwq/1-17.%20The%20Dark%20Realm.mp3"
+    },
+    {
+      "title": "The Dark Realm - The Mysterious Space",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/oxvlsilh/1-18.%20The%20Dark%20Realm%20-%20The%20Mysterious%20Space.mp3"
+    },
+    {
+      "title": "The Final Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/bkvziuyh/1-19.%20The%20Final%20Battle.mp3"
+    },
+    {
+      "title": "The Final Battle - After the Transformation",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/rlgxsxix/1-20.%20The%20Final%20Battle%20-%20After%20the%20Transformation.mp3"
+    },
+    {
+      "title": "Galeem",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/odxfhvjf/1-21.%20Galeem.mp3"
+    },
+    {
+      "title": "Dharkon",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/ycrdsayr/1-22.%20Dharkon.mp3"
+    },
+    {
+      "title": "Galeem  -  Dharkon",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/pxvjipaf/1-23.%20Galeem%20%20-%20%20Dharkon.mp3"
+    },
+    {
+      "title": "Main Theme Piano Solo",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/aldkqywk/1-24.%20Main%20Theme%20Piano%20Solo.mp3"
+    },
+    {
+      "title": "Free the Spirit!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/lbwflrxo/1-25.%20Free%20the%20Spirit%21.mp3"
+    },
+    {
+      "title": "Spirits - Collection",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/bpxrrgiu/1-26.%20Spirits%20-%20Collection.mp3"
+    },
+    {
+      "title": "Spirits - Inventory - Items",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/ariowplj/1-27.%20Spirits%20-%20Inventory%20-%20Items.mp3"
+    },
+    {
+      "title": "Tourney - Battle List",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/nlsgdxeb/1-28.%20Tourney%20-%20Battle%20List.mp3"
+    },
+    {
+      "title": "Tourney - Winner Announcement",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/xfjgfehy/1-29.%20Tourney%20-%20Winner%20Announcement.mp3"
+    },
+    {
+      "title": "Training",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/wnxaldig/1-30.%20Training.mp3"
+    },
+    {
+      "title": "Vault",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/fhvfrrip/1-31.%20Vault.mp3"
+    },
+    {
+      "title": "Shop",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/agfkhglm/1-32.%20Shop.mp3"
+    },
+    {
+      "title": "Practice Fights",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/zmmyhpez/1-33.%20Practice%20Fights.mp3"
+    },
+    {
+      "title": "Spectate",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/mjjuvukq/1-34.%20Spectate.mp3"
+    },
+    {
+      "title": "Opening - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/afakyoaj/1-35.%20Opening%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "Opening - Super Smash Bros. Melee (Brawl)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/uvsethbm/1-36.%20Opening%20-%20Super%20Smash%20Bros.%20Melee%20%28Brawl%29.mp3"
+    },
+    {
+      "title": "Main Theme - Super Smash Bros. Brawl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/fqnsbbfv/1-37.%20Main%20Theme%20-%20Super%20Smash%20Bros.%20Brawl.mp3"
+    },
+    {
+      "title": "How to Play - Super Smash Bros.",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/nbrinszs/1-38.%20How%20to%20Play%20-%20Super%20Smash%20Bros..mp3"
+    },
+    {
+      "title": "How to Play - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/rfbotavd/1-39.%20How%20to%20Play%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "How to Play - Super Smash Bros. Melee [Original]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/eltjqzcn/1-40.%20How%20to%20Play%20-%20Super%20Smash%20Bros.%20Melee%20%5BOriginal%5D.mp3"
+    },
+    {
+      "title": "Menu - Super Smash Bros.",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/hvgwognw/1-41.%20Menu%20-%20Super%20Smash%20Bros..mp3"
+    },
+    {
+      "title": "Menu - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/vltlzpya/1-42.%20Menu%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "Menu - Super Smash Bros. Melee (Brawl)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/hhpbqxsu/1-43.%20Menu%20-%20Super%20Smash%20Bros.%20Melee%20%28Brawl%29.mp3"
+    },
+    {
+      "title": "Menu 2 - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/xbnoeddg/1-44.%20Menu%202%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "Boss Battle - Super Smash Bros. Brawl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/xtcfteoh/1-45.%20Boss%20Battle%20-%20Super%20Smash%20Bros.%20Brawl.mp3"
+    },
+    {
+      "title": "Menu - Super Smash Bros. Brawl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/twdccfvj/1-46.%20Menu%20-%20Super%20Smash%20Bros.%20Brawl.mp3"
+    },
+    {
+      "title": "Menu - Super Smash Bros. for Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/jtptzqfd/1-47.%20Menu%20-%20Super%20Smash%20Bros.%20for%20Wii%20U.mp3"
+    },
+    {
+      "title": "Fighter Selection - Super Smash Bros.",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/auvvoiyr/1-48.%20Fighter%20Selection%20-%20Super%20Smash%20Bros..mp3"
+    },
+    {
+      "title": "Results Screen - Super Smash Bros. for 3DS  -  Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/qfanpllx/1-49.%20Results%20Screen%20-%20Super%20Smash%20Bros.%20for%203DS%20%20-%20%20Wii%20U.mp3"
+    },
+    {
+      "title": "Battlefield - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/fibhebvx/1-50.%20Battlefield%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "Battlefield - Super Smash Bros. Melee (for 3DS  -  Wii U)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/dwydvvne/1-51.%20Battlefield%20-%20Super%20Smash%20Bros.%20Melee%20%28for%203DS%20%20-%20%20Wii%20U%29.mp3"
+    },
+    {
+      "title": "Battlefield - Super Smash Bros. Brawl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/jfydtmbx/1-52.%20Battlefield%20-%20Super%20Smash%20Bros.%20Brawl.mp3"
+    },
+    {
+      "title": "Battlefield Ver. 2 - Super Smash Bros. Brawl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/jeqrnmxc/1-53.%20Battlefield%20Ver.%202%20-%20Super%20Smash%20Bros.%20Brawl.mp3"
+    },
+    {
+      "title": "Battlefield - Super Smash Bros. for 3DS  -  Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/sjpzadqv/1-54.%20Battlefield%20-%20Super%20Smash%20Bros.%20for%203DS%20%20-%20%20Wii%20U.mp3"
+    },
+    {
+      "title": "Final Destination - Super Smash Bros.",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/ejkweeie/1-55.%20Final%20Destination%20-%20Super%20Smash%20Bros..mp3"
+    },
+    {
+      "title": "Final Destination - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/unhuceog/1-56.%20Final%20Destination%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "Giga Bowser",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/nyakzqea/1-57.%20Giga%20Bowser.mp3"
+    },
+    {
+      "title": "Final Destination - Super Smash Bros. Brawl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/qcpqjzuy/1-58.%20Final%20Destination%20-%20Super%20Smash%20Bros.%20Brawl.mp3"
+    },
+    {
+      "title": "Final Destination - Super Smash Bros. for 3DS  -  Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/lkqxqmne/1-59.%20Final%20Destination%20-%20Super%20Smash%20Bros.%20for%203DS%20%20-%20%20Wii%20U.mp3"
+    },
+    {
+      "title": "Final Destination Ver. 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/ibjpwmxz/1-60.%20Final%20Destination%20Ver.%202.mp3"
+    },
+    {
+      "title": "Multi-Man Smash",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/fdyljkby/1-61.%20Multi-Man%20Smash.mp3"
+    },
+    {
+      "title": "Multi-Man Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/rlemanrs/1-62.%20Multi-Man%20Melee.mp3"
+    },
+    {
+      "title": "Multi-Man Melee 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/oqowrspw/1-63.%20Multi-Man%20Melee%202.mp3"
+    },
+    {
+      "title": "Cruel Smash",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/mtjoqnsb/1-64.%20Cruel%20Smash.mp3"
+    },
+    {
+      "title": "Credits - Super Smash Bros.",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/bdmznpmq/1-65.%20Credits%20-%20Super%20Smash%20Bros..mp3"
+    },
+    {
+      "title": "Credits - Super Smash Bros. (Brawl)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/rmmvsdpl/1-66.%20Credits%20-%20Super%20Smash%20Bros.%20%28Brawl%29.mp3"
+    },
+    {
+      "title": "Credits - Super Smash Bros. (for 3DS  -  Wii U)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/lylgzeyg/1-67.%20Credits%20-%20Super%20Smash%20Bros.%20%28for%203DS%20%20-%20%20Wii%20U%29.mp3"
+    },
+    {
+      "title": "Credits - Super Smash Bros. Brawl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/iyrownap/1-68.%20Credits%20-%20Super%20Smash%20Bros.%20Brawl.mp3"
+    },
+    {
+      "title": "Credits - Super Smash Bros. for 3DS  -  Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/vkldgwnc/1-69.%20Credits%20-%20Super%20Smash%20Bros.%20for%203DS%20%20-%20%20Wii%20U.mp3"
+    },
+    {
+      "title": "Bonus Game - Super Smash Bros.",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/ykcjnnzj/1-70.%20Bonus%20Game%20-%20Super%20Smash%20Bros..mp3"
+    },
+    {
+      "title": "Meta Crystal",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/wgqnpntf/1-71.%20Meta%20Crystal.mp3"
+    },
+    {
+      "title": "Duel Zone",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/wplkqzaf/1-72.%20Duel%20Zone.mp3"
+    },
+    {
+      "title": "Training Mode",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/zhlltnjg/1-73.%20Training%20Mode.mp3"
+    },
+    {
+      "title": "Targets!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/ctkvvult/1-74.%20Targets%21.mp3"
+    },
+    {
+      "title": "Metal Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/oklzowpk/1-75.%20Metal%20Battle.mp3"
+    },
+    {
+      "title": "Trophies",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/esyrouha/1-76.%20Trophies.mp3"
+    },
+    {
+      "title": "Tournament",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/ewwswiyt/1-77.%20Tournament.mp3"
+    },
+    {
+      "title": "Tournament 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/zpzdtjnm/1-78.%20Tournament%202.mp3"
+    },
+    {
+      "title": "All-Star Intro",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/vuktmcav/1-79.%20All-Star%20Intro.mp3"
+    },
+    {
+      "title": "Target Smash!!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/arghroug/1-80.%20Target%20Smash%21%21.mp3"
+    },
+    {
+      "title": "Adventure Map",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/wncvxzez/1-81.%20Adventure%20Map.mp3"
+    },
+    {
+      "title": "Step - The Plain",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/hpbmfqqd/1-82.%20Step%20-%20The%20Plain.mp3"
+    },
+    {
+      "title": "Step - Subspace",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/xzioxwog/1-83.%20Step%20-%20Subspace.mp3"
+    },
+    {
+      "title": "Step - Subspace Ver. 3",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/oalcgzah/1-84.%20Step%20-%20Subspace%20Ver.%203.mp3"
+    },
+    {
+      "title": "Boss Battle Song 1",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/hrkbcgxv/1-85.%20Boss%20Battle%20Song%201.mp3"
+    },
+    {
+      "title": "Boss Battle Song 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/knlpqjwi/1-86.%20Boss%20Battle%20Song%202.mp3"
+    },
+    {
+      "title": "Home-Run Contest",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/cjpxuels/1-87.%20Home-Run%20Contest.mp3"
+    },
+    {
+      "title": "Trophy Gallery",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/gbqzbhfg/1-88.%20Trophy%20Gallery.mp3"
+    },
+    {
+      "title": "Sticker Album  -  Album  -  Chronicle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/qjawjdqu/1-89.%20Sticker%20Album%20%20-%20%20Album%20%20-%20%20Chronicle.mp3"
+    },
+    {
+      "title": "Coin Launcher",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/zouiiqgi/1-90.%20Coin%20Launcher.mp3"
+    },
+    {
+      "title": "Stage Builder",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/vcdgyxtb/1-91.%20Stage%20Builder.mp3"
+    },
+    {
+      "title": "Tournament Registration",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/baaazxpg/1-92.%20Tournament%20Registration.mp3"
+    },
+    {
+      "title": "Tournament Grid",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/ntgahjay/1-93.%20Tournament%20Grid.mp3"
+    },
+    {
+      "title": "Tournament Match End",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/ssjsmhag/1-94.%20Tournament%20Match%20End.mp3"
+    },
+    {
+      "title": "All-Star Rest Area - Super Smash Bros. Brawl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/edemumde/1-95.%20All-Star%20Rest%20Area%20-%20Super%20Smash%20Bros.%20Brawl.mp3"
+    },
+    {
+      "title": "Online Practice Stage - Super Smash Bros. Brawl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/knkkxgoz/1-96.%20Online%20Practice%20Stage%20-%20Super%20Smash%20Bros.%20Brawl.mp3"
+    },
+    {
+      "title": "Classic - Results Screen",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/fflpnydu/1-97.%20Classic%20-%20Results%20Screen.mp3"
+    },
+    {
+      "title": "Classic - Final Results",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/prnpjcik/1-98.%20Classic%20-%20Final%20Results.mp3"
+    },
+    {
+      "title": "Classic - Fail",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/zspwoehv/1-99.%20Classic%20-%20Fail.mp3"
+    },
+    {
+      "title": "Master Hand - Super Smash Bros. for 3DS  -  Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/jiqfbqcm/1-100.%20Master%20Hand%20-%20Super%20Smash%20Bros.%20for%203DS%20%20-%20%20Wii%20U.mp3"
+    },
+    {
+      "title": "Master Core",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/fmxakxhv/1-101.%20Master%20Core.mp3"
+    },
+    {
+      "title": "Master Fortress - First Wave",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/fnbrdrac/1-102.%20Master%20Fortress%20-%20First%20Wave.mp3"
+    },
+    {
+      "title": "Master Fortress - Second Wave",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/lykgxuid/1-103.%20Master%20Fortress%20-%20Second%20Wave.mp3"
+    },
+    {
+      "title": "Master Orders - Ticket Selection",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/ungqnplm/1-104.%20Master%20Orders%20-%20Ticket%20Selection.mp3"
+    },
+    {
+      "title": "Trophy Rush",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/bxizwjev/1-105.%20Trophy%20Rush.mp3"
+    },
+    {
+      "title": "Trophy Shop",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/nfnzhoyy/1-106.%20Trophy%20Shop.mp3"
+    },
+    {
+      "title": "Gallery - Hoard",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/yvknieul/1-107.%20Gallery%20-%20Hoard.mp3"
+    },
+    {
+      "title": "Replay - Album - Records",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/xdyiuxhq/1-108.%20Replay%20-%20Album%20-%20Records.mp3"
+    },
+    {
+      "title": "All-Star Rest Area - Super Smash Bros. for 3DS  -  Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/kbazuznr/1-109.%20All-Star%20Rest%20Area%20-%20Super%20Smash%20Bros.%20for%203DS%20%20-%20%20Wii%20U.mp3"
+    },
+    {
+      "title": "Online Practice Stage - Super Smash Bros. for 3DS  -  Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/jhgmojfz/1-110.%20Online%20Practice%20Stage%20-%20Super%20Smash%20Bros.%20for%203DS%20%20-%20%20Wii%20U.mp3"
+    },
+    {
+      "title": "StreetSmash",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/eamifbre/1-111.%20StreetSmash.mp3"
+    },
+    {
+      "title": "Events",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/wtgyxrtt/1-112.%20Events.mp3"
+    },
+    {
+      "title": "Smash Tour - Map",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/kwbrfbos/1-113.%20Smash%20Tour%20-%20Map.mp3"
+    },
+    {
+      "title": "Classic Mode - Win",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/gsxhvfqp/2-01.%20Classic%20Mode%20-%20Win.mp3"
+    },
+    {
+      "title": "Classic Mode - Chronicle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/zbmenydy/2-02.%20Classic%20Mode%20-%20Chronicle.mp3"
+    },
+    {
+      "title": "Amiibo Fighter",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/isqzclyi/2-03.%20Amiibo%20Fighter.mp3"
+    },
+    {
+      "title": "Spirit Enhanced!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/ypecauxc/2-04.%20Spirit%20Enhanced%21.mp3"
+    },
+    {
+      "title": "Mii Fighters Victory Theme (3DS - Wii U)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/wzghtwam/2-05.%20Mii%20Fighters%20Victory%20Theme%20%283DS%20-%20Wii%20U%29.mp3"
+    },
+    {
+      "title": "Mii Fighters Victory Theme (Ultimate)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/mwwtfufv/2-06.%20Mii%20Fighters%20Victory%20Theme%20%28Ultimate%29.mp3"
+    },
+    {
+      "title": "Opening - Super Smash Bros.",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/luniywlp/2-07.%20Opening%20-%20Super%20Smash%20Bros..mp3"
+    },
+    {
+      "title": "Character Introduction Screen",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/rpyzcmfn/2-08.%20Character%20Introduction%20Screen.mp3"
+    },
+    {
+      "title": "Final Destination - Super Smash Bros. (No Intro)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/bqcmejkv/2-09.%20Final%20Destination%20-%20Super%20Smash%20Bros.%20%28No%20Intro%29.mp3"
+    },
+    {
+      "title": "Challenger Appears - Super Smash Bros.",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/xbpudigf/2-10.%20Challenger%20Appears%20-%20Super%20Smash%20Bros..mp3"
+    },
+    {
+      "title": "Reward",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/gtzrldlt/2-11.%20Reward.mp3"
+    },
+    {
+      "title": "Bonus Game - Clear",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/kutlxdzn/2-12.%20Bonus%20Game%20-%20Clear.mp3"
+    },
+    {
+      "title": "Bonus Game - Failure",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/qoxxvkon/2-13.%20Bonus%20Game%20-%20Failure.mp3"
+    },
+    {
+      "title": "Continue - Super Smash Bros.",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/amjkxjac/2-14.%20Continue%20-%20Super%20Smash%20Bros..mp3"
+    },
+    {
+      "title": "Game Over - Super Smash Bros.",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/krggkgdv/2-15.%20Game%20Over%20-%20Super%20Smash%20Bros..mp3"
+    },
+    {
+      "title": "Master Hand Intro 1 - Super Smash Bros.",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/vrwibgea/2-16.%20Master%20Hand%20Intro%201%20-%20Super%20Smash%20Bros..mp3"
+    },
+    {
+      "title": "Master Hand Intro 2 - Super Smash Bros.",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/qewvpllw/2-17.%20Master%20Hand%20Intro%202%20-%20Super%20Smash%20Bros..mp3"
+    },
+    {
+      "title": "Stage Clear - Super Smash Bros.",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/anpjcijv/2-18.%20Stage%20Clear%20-%20Super%20Smash%20Bros..mp3"
+    },
+    {
+      "title": "All Clear - Super Smash Bros.",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/znpjeqsq/2-19.%20All%20Clear%20-%20Super%20Smash%20Bros..mp3"
+    },
+    {
+      "title": "Ending - Super Smash Bros.",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/zconycrb/2-20.%20Ending%20-%20Super%20Smash%20Bros..mp3"
+    },
+    {
+      "title": "How to Play - Super Smash Bros. [CLUB MIX ]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/hhpdxdwb/2-21.%20How%20to%20Play%20-%20Super%20Smash%20Bros.%20%5BCLUB%20MIX%20%5D.mp3"
+    },
+    {
+      "title": "Bonus Game - Super Smash Bros. [CLUB MIX]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/otypcrcn/2-22.%20Bonus%20Game%20-%20Super%20Smash%20Bros.%20%5BCLUB%20MIX%5D.mp3"
+    },
+    {
+      "title": "Training Mode - Super Smash Bros. [CLUB MIX]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/fnbpwnyf/2-23.%20Training%20Mode%20-%20Super%20Smash%20Bros.%20%5BCLUB%20MIX%5D.mp3"
+    },
+    {
+      "title": "Adventure Intro - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/dejinqnv/2-24.%20Adventure%20Intro%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "Classic Intro - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/pkilemwz/2-25.%20Classic%20Intro%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "Stage Clear 1 - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/howqrlce/2-26.%20Stage%20Clear%201%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "Stage Clear 2 - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/qpeyitto/2-27.%20Stage%20Clear%202%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "Bad Fanfare - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/munddgvj/2-28.%20Bad%20Fanfare%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "Good Fanfare - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/jripbmdh/2-29.%20Good%20Fanfare%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "Challenger Appears - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/cryrpzeu/2-30.%20Challenger%20Appears%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "Continue - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/maqcraci/2-31.%20Continue%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "Game Over - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/mjlccfui/2-32.%20Game%20Over%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "Warning Siren - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/hkdmznpn/2-33.%20Warning%20Siren%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "Step 1 - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/tdnefpjc/2-34.%20Step%201%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "Step 2 - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/gbnknkjs/2-35.%20Step%202%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "Step 3 - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/kyljnmye/2-36.%20Step%203%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "New Feature 1 - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/bwaouhzc/2-37.%20New%20Feature%201%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "New Feature 2 - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/omscksim/2-38.%20New%20Feature%202%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "New Feature 3 - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/nbvydxee/2-39.%20New%20Feature%203%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "New Trophy - Super Smash Bros. Melee",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/idthezjy/2-40.%20New%20Trophy%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "Rare Trophy - Super Smash Bros. Melee",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/oydsgdwy/2-41.%20Rare%20Trophy%20-%20Super%20Smash%20Bros.%20Melee.mp3"
+    },
+    {
+      "title": "Super Smash Bros. Brawl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/exdzkbes/2-42.%20Super%20Smash%20Bros.%20Brawl.mp3"
+    },
+    {
+      "title": "Main Theme - Super Smash Bros. Brawl (No Intro)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/azvdhbil/2-43.%20Main%20Theme%20-%20Super%20Smash%20Bros.%20Brawl%20%28No%20Intro%29.mp3"
+    },
+    {
+      "title": "Results Display Screen - Super Smash Bros. Brawl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/gxtcfrwg/2-44.%20Results%20Display%20Screen%20-%20Super%20Smash%20Bros.%20Brawl.mp3"
+    },
+    {
+      "title": "Classic - Results Screen - Super Smash Bros. Brawl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/pjxmqtwb/2-45.%20Classic%20-%20Results%20Screen%20-%20Super%20Smash%20Bros.%20Brawl.mp3"
+    },
+    {
+      "title": "Step - The Cave",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/topefkla/2-46.%20Step%20-%20The%20Cave.mp3"
+    },
+    {
+      "title": "Step - Subspace Ver. 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/uvvqrlgv/2-47.%20Step%20-%20Subspace%20Ver.%202.mp3"
+    },
+    {
+      "title": "Save Point",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/kpuemxaj/2-48.%20Save%20Point.mp3"
+    },
+    {
+      "title": "Subspace Emissary - Results Screen",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/wegtzrmj/2-49.%20Subspace%20Emissary%20-%20Results%20Screen.mp3"
+    },
+    {
+      "title": "Continue - Super Smash Bros. Brawl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/jtpvjhke/2-50.%20Continue%20-%20Super%20Smash%20Bros.%20Brawl.mp3"
+    },
+    {
+      "title": "Game Over - Super Smash Bros. Brawl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/ruyhspwq/2-51.%20Game%20Over%20-%20Super%20Smash%20Bros.%20Brawl.mp3"
+    },
+    {
+      "title": "Trophy Obtained! - Super Smash Bros. Brawl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/mndemvui/2-52.%20Trophy%20Obtained%21%20-%20Super%20Smash%20Bros.%20Brawl.mp3"
+    },
+    {
+      "title": "New Playable Character! - Super Smash Bros. Brawl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/jvcxjzub/2-53.%20New%20Playable%20Character%21%20-%20Super%20Smash%20Bros.%20Brawl.mp3"
+    },
+    {
+      "title": "Coins Obtained - Super Smash Bros. Brawl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/wdcaxmte/2-54.%20Coins%20Obtained%20-%20Super%20Smash%20Bros.%20Brawl.mp3"
+    },
+    {
+      "title": "Special Message - Super Smash Bros. Brawl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/tdmyjyro/2-55.%20Special%20Message%20-%20Super%20Smash%20Bros.%20Brawl.mp3"
+    },
+    {
+      "title": "New Feature - Super Smash Bros. Brawl",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/ruyhqgjd/2-56.%20New%20Feature%20-%20Super%20Smash%20Bros.%20Brawl.mp3"
+    },
+    {
+      "title": "Channel Intro - Super Smash Bros. for 3DS",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/ngphqhqg/2-57.%20Channel%20Intro%20-%20Super%20Smash%20Bros.%20for%203DS.mp3"
+    },
+    {
+      "title": "Menu - Super Smash Bros. for 3DS",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/jdohwkmf/2-58.%20Menu%20-%20Super%20Smash%20Bros.%20for%203DS.mp3"
+    },
+    {
+      "title": "Classic - Map - Super Smash Bros. for Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/qpyyvkon/2-59.%20Classic%20-%20Map%20-%20Super%20Smash%20Bros.%20for%20Wii%20U.mp3"
+    },
+    {
+      "title": "Classic - Map - Super Smash Bros. for 3DS",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/yffidonw/2-60.%20Classic%20-%20Map%20-%20Super%20Smash%20Bros.%20for%203DS.mp3"
+    },
+    {
+      "title": "Classic - V.S. - Super Smash Bros. for 3DS - Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/wpmojevo/2-61.%20Classic%20-%20V.S.%20-%20Super%20Smash%20Bros.%20for%203DS%20-%20Wii%20U.mp3"
+    },
+    {
+      "title": "Classic - Mode Clear - Super Smash Bros. for 3DS - Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/gpisrdse/2-62.%20Classic%20-%20Mode%20Clear%20-%20Super%20Smash%20Bros.%20for%203DS%20-%20Wii%20U.mp3"
+    },
+    {
+      "title": "Master Orders - Reward - Super Smash Bros. for 3DS - Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/rxoydwwt/2-63.%20Master%20Orders%20-%20Reward%20-%20Super%20Smash%20Bros.%20for%203DS%20-%20Wii%20U.mp3"
+    },
+    {
+      "title": "Master Orders - Defeat - Super Smash Bros. for 3DS - Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/chdupnvo/2-64.%20Master%20Orders%20-%20Defeat%20-%20Super%20Smash%20Bros.%20for%203DS%20-%20Wii%20U.mp3"
+    },
+    {
+      "title": "Crazy Orders - Ticket Selection",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/grqeygkf/2-65.%20Crazy%20Orders%20-%20Ticket%20Selection.mp3"
+    },
+    {
+      "title": "Crazy Orders - Final Battle Victory",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/wtbcihmo/2-66.%20Crazy%20Orders%20-%20Final%20Battle%20Victory.mp3"
+    },
+    {
+      "title": "Crazy Orders - Final Battle Defeat",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/iadnhxql/2-67.%20Crazy%20Orders%20-%20Final%20Battle%20Defeat.mp3"
+    },
+    {
+      "title": "Smash Tour - Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/jmievscg/2-68.%20Smash%20Tour%20-%20Battle.mp3"
+    },
+    {
+      "title": "Smash Tour - Map (5 Turns Left)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/boqnpmqt/2-69.%20Smash%20Tour%20-%20Map%20%285%20Turns%20Left%29.mp3"
+    },
+    {
+      "title": "Target Blast - Super Smash Bros. for 3DS - Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/vxzfbsjr/2-70.%20Target%20Blast%20-%20Super%20Smash%20Bros.%20for%203DS%20-%20Wii%20U.mp3"
+    },
+    {
+      "title": "Target Blast Results - Super Smash Bros. for 3DS - Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/hkesayqj/2-71.%20Target%20Blast%20Results%20-%20Super%20Smash%20Bros.%20for%203DS%20-%20Wii%20U.mp3"
+    },
+    {
+      "title": "Tournament - Registration - Super Smash Bros. for 3DS - Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/xlmbvapy/2-72.%20Tournament%20-%20Registration%20-%20Super%20Smash%20Bros.%20for%203DS%20-%20Wii%20U.mp3"
+    },
+    {
+      "title": "Tournament - Final Results - Super Smash Bros. for 3DS - Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/zbhglneh/2-73.%20Tournament%20-%20Final%20Results%20-%20Super%20Smash%20Bros.%20for%203DS%20-%20Wii%20U.mp3"
+    },
+    {
+      "title": "Tournament - Spectating - Super Smash Bros. for 3DS - Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/zafzeanq/2-74.%20Tournament%20-%20Spectating%20-%20Super%20Smash%20Bros.%20for%203DS%20-%20Wii%20U.mp3"
+    },
+    {
+      "title": "Continue - Super Smash Bros. for 3DS - Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/mojerxoa/2-75.%20Continue%20-%20Super%20Smash%20Bros.%20for%203DS%20-%20Wii%20U.mp3"
+    },
+    {
+      "title": "Game Over - Super Smash Bros. for 3DS - Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/nlracmeh/2-76.%20Game%20Over%20-%20Super%20Smash%20Bros.%20for%203DS%20-%20Wii%20U.mp3"
+    },
+    {
+      "title": "New Trophy - Super Smash Bros. for 3DS - Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/ywmthiri/2-77.%20New%20Trophy%20-%20Super%20Smash%20Bros.%20for%203DS%20-%20Wii%20U.mp3"
+    },
+    {
+      "title": "Rare Throphy - Super Smash Bros. for 3DS - Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/rlcgzdrb/2-78.%20Rare%20Throphy%20-%20Super%20Smash%20Bros.%20for%203DS%20-%20Wii%20U.mp3"
+    },
+    {
+      "title": "New Feature 1 - Super Smash Bros. for 3DS - Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/dpoamiev/2-79.%20New%20Feature%201%20-%20Super%20Smash%20Bros.%20for%203DS%20-%20Wii%20U.mp3"
+    },
+    {
+      "title": "New Feature 2 - Super Smash Bros. for 3DS - Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/qspwpjzv/2-80.%20New%20Feature%202%20-%20Super%20Smash%20Bros.%20for%203DS%20-%20Wii%20U.mp3"
+    },
+    {
+      "title": "Ending Movie - Super Smash Bros. for 3DS - Wii U",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-ultimate-expanded-vol.-01-super-smash-bros.-switch-gamerip-2018/fnygljno/2-81.%20Ending%20Movie%20-%20Super%20Smash%20Bros.%20for%203DS%20-%20Wii%20U.mp3"
+    }
+  ]
+}
