@@ -1,0 +1,497 @@
+{
+  "meta": {
+    "game_title": "Pokémon: Let's Go, Pikachu! & Let's Go, Eevee!",
+    "art": "https://upload.wikimedia.org/wikipedia/en/4/47/Pok%C3%A9mon_Let%27s_Go%2C_Pikachu%21_and_Let%27s_Go%2C_Eevee%21.jpg",
+    "desc": "November 16, 2018"
+  },
+  "songs": [
+    {
+      "title": "Into the Game Let's Go!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/gwruxfgp/1-01.%20Into%20the%20Game%20Let%27s%20Go%21.mp3"
+    },
+    {
+      "title": "Choose Your Language",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/fjevmari/1-02.%20Choose%20Your%20Language.mp3"
+    },
+    {
+      "title": "Title Screen",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/pbkynrvc/1-03.%20Title%20Screen.mp3"
+    },
+    {
+      "title": "Pallet Town Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/zqeburbh/1-04.%20Pallet%20Town%20Theme.mp3"
+    },
+    {
+      "title": "Professor Oak",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/fgoamjin/1-05.%20Professor%20Oak.mp3"
+    },
+    {
+      "title": "Guide",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/sxkikbzw/1-06.%20Guide.mp3"
+    },
+    {
+      "title": "Professor Oak's Laboratory",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/jgdwybop/1-07.%20Professor%20Oak%27s%20Laboratory.mp3"
+    },
+    {
+      "title": "Caught a Pokemon!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/gllxdbuw/1-08.%20Caught%20a%20Pokemon%21.mp3"
+    },
+    {
+      "title": "Road to Viridian City - From Pallet Town",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/xzgeehyw/1-09.%20Road%20to%20Viridian%20City%20-%20From%20Pallet%20Town.mp3"
+    },
+    {
+      "title": "Picked up an Item!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/namjjuuo/1-10.%20Picked%20up%20an%20Item%21.mp3"
+    },
+    {
+      "title": "Pokemon Center",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/jgdyitsj/1-11.%20Pokemon%20Center.mp3"
+    },
+    {
+      "title": "Pokemon Healed",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/tpucceoj/1-12.%20Pokemon%20Healed.mp3"
+    },
+    {
+      "title": "A Trainer Appears (Boy's Version)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/adojdqty/1-13.%20A%20Trainer%20Appears%20%28Boy%27s%20Version%29.mp3"
+    },
+    {
+      "title": "Battle! (Trainer Battle)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/ivgrslba/1-14.%20Battle%21%20%28Trainer%20Battle%29.mp3"
+    },
+    {
+      "title": "Victory! (Trainer Battle)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/xkjotdii/1-15.%20Victory%21%20%28Trainer%20Battle%29.mp3"
+    },
+    {
+      "title": "Pokedex Evaluation - You're on Your Way!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/rhmnfnye/1-16.%20Pokedex%20Evaluation%20-%20You%27re%20on%20Your%20Way%21.mp3"
+    },
+    {
+      "title": "Viridian Forest",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/aouhzeun/1-17.%20Viridian%20Forest.mp3"
+    },
+    {
+      "title": "Catch! (Wild Pokemon)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/fkmgtztt/1-18.%20Catch%21%20%28Wild%20Pokemon%29.mp3"
+    },
+    {
+      "title": "Successful Catch! (Wild Pokemon)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/mccdjnls/1-19.%20Successful%20Catch%21%20%28Wild%20Pokemon%29.mp3"
+    },
+    {
+      "title": "Level Up!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/hfdccfuh/1-20.%20Level%20Up%21.mp3"
+    },
+    {
+      "title": "A Trainer Appears! (Girl's Version)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/dvrwhvib/1-21.%20A%20Trainer%20Appears%21%20%28Girl%27s%20Version%29.mp3"
+    },
+    {
+      "title": "Pewter City Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/jtnicppf/1-22.%20Pewter%20City%20Theme.mp3"
+    },
+    {
+      "title": "Pokemon Gym",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/izzviaev/1-23.%20Pokemon%20Gym.mp3"
+    },
+    {
+      "title": "Battle! (Gym Leader)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/okgduray/1-24.%20Battle%21%20%28Gym%20Leader%29.mp3"
+    },
+    {
+      "title": "Victory! (Gym Leader)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/tvzitsil/1-25.%20Victory%21%20%28Gym%20Leader%29.mp3"
+    },
+    {
+      "title": "Obtained a Gym Badge!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/ihnsbbdn/1-26.%20Obtained%20a%20Gym%20Badge%21.mp3"
+    },
+    {
+      "title": "Blue's Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/ddhbktrd/1-27.%20Blue%27s%20Theme.mp3"
+    },
+    {
+      "title": "Road to Cerulean City - From Mt. Moon",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/niabgdvw/1-28.%20Road%20to%20Cerulean%20City%20-%20From%20Mt.%20Moon.mp3"
+    },
+    {
+      "title": "Jigglypuff's Song",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/tcjmgxtb/1-29.%20Jigglypuff%27s%20Song.mp3"
+    },
+    {
+      "title": "Caves of Mt. Moon",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/axozipzd/1-30.%20Caves%20of%20Mt.%20Moon.mp3"
+    },
+    {
+      "title": "A Trainer Appears! (Bad Guys)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/sdqtwami/1-31.%20A%20Trainer%20Appears%21%20%28Bad%20Guys%29.mp3"
+    },
+    {
+      "title": "Theme of Jessie and James",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/fcutilgy/1-32.%20Theme%20of%20Jessie%20and%20James.mp3"
+    },
+    {
+      "title": "Evolution",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/xrpbmhag/1-33.%20Evolution.mp3"
+    },
+    {
+      "title": "Congratulations! Your Pokemon Evolved!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/ecatsjsk/1-34.%20Congratulations%21%20Your%20Pokemon%20Evolved%21.mp3"
+    },
+    {
+      "title": "Cerulean City Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/xixpecaw/1-35.%20Cerulean%20City%20Theme.mp3"
+    },
+    {
+      "title": "To Bill's - From Cerulean City",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/dekldgyz/1-36.%20To%20Bill%27s%20-%20From%20Cerulean%20City.mp3"
+    },
+    {
+      "title": "Vermillion City Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/zbhisnpi/1-37.%20Vermillion%20City%20Theme.mp3"
+    },
+    {
+      "title": "The S.S. Anne",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/ysrgfjfy/1-38.%20The%20S.S.%20Anne.mp3"
+    },
+    {
+      "title": "Road to Lavender Town - From Vermillion City",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/blcbcgze/1-39.%20Road%20to%20Lavender%20Town%20-%20From%20Vermillion%20City.mp3"
+    },
+    {
+      "title": "Lavender Town Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/zhpcptxh/2-01.%20Lavender%20Town%20Theme.mp3"
+    },
+    {
+      "title": "Pokemon Tower",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/ubzsotby/2-02.%20Pokemon%20Tower.mp3"
+    },
+    {
+      "title": "Celadon City Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/qhnultjs/2-03.%20Celadon%20City%20Theme.mp3"
+    },
+    {
+      "title": "Game Corner",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/jsmicpqj/2-04.%20Game%20Corner.mp3"
+    },
+    {
+      "title": "Team Rocket Hideout",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/axkktomt/2-05.%20Team%20Rocket%20Hideout.mp3"
+    },
+    {
+      "title": "Obtained a Key Item!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/hhllxdbt/2-06.%20Obtained%20a%20Key%20Item%21.mp3"
+    },
+    {
+      "title": "Cubone's Mother",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/qyuemxdw/2-07.%20Cubone%27s%20Mother.mp3"
+    },
+    {
+      "title": "The Poke Flute",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/yeapyvjk/2-08.%20The%20Poke%20Flute.mp3"
+    },
+    {
+      "title": "Battle! (Wild Pokemon)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/wcxegqlk/2-09.%20Battle%21%20%28Wild%20Pokemon%29.mp3"
+    },
+    {
+      "title": "Caught a Pokemon! (Short Version)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/qyudjjuv/2-10.%20Caught%20a%20Pokemon%21%20%28Short%20Version%29.mp3"
+    },
+    {
+      "title": "Pokemon Road",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/sdmbwbsm/2-11.%20Pokemon%20Road.mp3"
+    },
+    {
+      "title": "GO Park",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/fohqlftb/2-12.%20GO%20Park.mp3"
+    },
+    {
+      "title": "Catch! (GO Park)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/bdmarhke/2-13.%20Catch%21%20%28GO%20Park%29.mp3"
+    },
+    {
+      "title": "Caught a Pokemon! (GO Park)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/saaaystr/2-14.%20Caught%20a%20Pokemon%21%20%28GO%20Park%29.mp3"
+    },
+    {
+      "title": "Silph Co.",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/adprlgxs/2-15.%20Silph%20Co..mp3"
+    },
+    {
+      "title": "The Sea",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/xjevmzkb/2-16.%20The%20Sea.mp3"
+    },
+    {
+      "title": "Cinnabar Island Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/ftdlvtjo/2-17.%20Cinnabar%20Island%20Theme.mp3"
+    },
+    {
+      "title": "Pokemon Mansion",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/pjbgbooe/2-18.%20Pokemon%20Mansion.mp3"
+    },
+    {
+      "title": "The Final Road",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/flrcijxj/2-19.%20The%20Final%20Road.mp3"
+    },
+    {
+      "title": "Final Battle! (Rival)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/bhfddguf/2-20.%20Final%20Battle%21%20%28Rival%29.mp3"
+    },
+    {
+      "title": "Hall of Fame",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/svczqean/2-21.%20Hall%20of%20Fame.mp3"
+    },
+    {
+      "title": "Congratulations!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/napyvkop/2-22.%20Congratulations%21.mp3"
+    },
+    {
+      "title": "Ending Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/eflryuby/2-23.%20Ending%20Theme.mp3"
+    },
+    {
+      "title": "We're Back",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/pdvvqpdy/2-24.%20We%27re%20Back.mp3"
+    },
+    {
+      "title": "Connection",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/ivdgsymq/2-25.%20Connection.mp3"
+    },
+    {
+      "title": "Mystery Gift",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/rmjjsmha/2-26.%20Mystery%20Gift.mp3"
+    },
+    {
+      "title": "Battle! (Master Trainer Battle)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/famiggmq/2-27.%20Battle%21%20%28Master%20Trainer%20Battle%29.mp3"
+    },
+    {
+      "title": "Opening Movie",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/ubylktnk/3-01.%20Opening%20Movie.mp3"
+    },
+    {
+      "title": "Title Screen (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/lzntdncx/3-02.%20Title%20Screen%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Pallet Town Theme (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/gphnwqpe/3-03.%20Pallet%20Town%20Theme%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Professor Oak (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/btptzriq/3-04.%20Professor%20Oak%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Professor Oak's Laboratory (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/ggobopjc/3-05.%20Professor%20Oak%27s%20Laboratory%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "A Rival Appears",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/hfgnvngr/3-06.%20A%20Rival%20Appears.mp3"
+    },
+    {
+      "title": "Road to Viridian City - From Pallet Town (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/qcomulvv/3-07.%20Road%20to%20Viridian%20City%20-%20From%20Pallet%20Town%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Picked up an Item! (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/scgyywog/3-08.%20Picked%20up%20an%20Item%21%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Battle! (Wild Pokemon) (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/pearipzc/3-09.%20Battle%21%20%28Wild%20Pokemon%29%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Victory! (Wild Pokemon) (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/ololnjgc/3-10.%20Victory%21%20%28Wild%20Pokemon%29%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Obtained a Pokemon!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/usckuprp/3-11.%20Obtained%20a%20Pokemon%21.mp3"
+    },
+    {
+      "title": "Pokemon Center (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/yxtyoxxv/3-12.%20Pokemon%20Center%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Pokemon Healed (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/knjhittn/3-13.%20Pokemon%20Healed%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Pokedex Evaluation - You're On Your Way! (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/klauxbsh/3-14.%20Pokedex%20Evaluation%20-%20You%27re%20On%20Your%20Way%21%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Viridian Forest (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/iturzxpe/3-15.%20Viridian%20Forest%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Pewter City Theme (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/flpqlgai/3-16.%20Pewter%20City%20Theme%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Guide (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/mmaotbzv/3-17.%20Guide%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "A Trainer Appears (Girl Version) (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/elsescgz/3-18.%20A%20Trainer%20Appears%20%28Girl%20Version%29%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Battle! (Trainer Battle) (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/fdbxhsur/3-19.%20Battle%21%20%28Trainer%20Battle%29%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Victory! (Trainer Battle) (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/cksjsnlo/3-20.%20Victory%21%20%28Trainer%20Battle%29%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Level Up! (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/nzhmmarj/3-21.%20Level%20Up%21%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Caves of Mt. Moon (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/uvvqtusg/3-22.%20Caves%20of%20Mt.%20Moon%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Theme of Jessie and James (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/crbijxnt/3-23.%20Theme%20of%20Jessie%20and%20James%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Road to Cerulean City - From Mt. Moon (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/erwiytyl/3-24.%20Road%20to%20Cerulean%20City%20-%20From%20Mt.%20Moon%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Cerulean City Theme (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/ijxixqli/3-25.%20Cerulean%20City%20Theme%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Pokemon Gym (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/fegrrhmn/3-26.%20Pokemon%20Gym%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Battle! (Gym Leader) (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/fmtgzeyg/3-27.%20Battle%21%20%28Gym%20Leader%29%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Victory! (Gym Leader) (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/iyrqahjy/3-28.%20Victory%21%20%28Gym%20Leader%29%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "To Bill's - From Cerulean City (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/qkdkpswc/3-29.%20To%20Bill%27s%20-%20From%20Cerulean%20City%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Jigglypuff's Song (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/znteohvf/3-30.%20Jigglypuff%27s%20Song%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Vermillion City Theme (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/rpbnieuo/3-31.%20Vermillion%20City%20Theme%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "The S.S. Anne (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/ixqjypgl/3-32.%20The%20S.S.%20Anne%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Road to Lavender Town - From Vermillion City (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/mzowpkfv/3-33.%20Road%20to%20Lavender%20Town%20-%20From%20Vermillion%20City%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "A Trainer Appears (Boy Version) (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/pkhgjbfy/3-34.%20A%20Trainer%20Appears%20%28Boy%20Version%29%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Cycling (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/cpsvzlhc/3-35.%20Cycling%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Lavender Town Theme (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/rbgbmjgf/3-36.%20Lavender%20Town%20Theme%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Pokemon Tower (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/kgalbbdl/3-37.%20Pokemon%20Tower%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Celadon City Theme (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/xcuprosy/3-38.%20Celadon%20City%20Theme%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Game Corner (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/peczoxue/3-39.%20Game%20Corner%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "A Trainer Appears! (Bad Guy) (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/oiysriqf/3-40.%20A%20Trainer%20Appears%21%20%28Bad%20Guy%29%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Team Rocket Hideout! (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/bskykesb/3-41.%20Team%20Rocket%20Hideout%21%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Obtained a Key Item (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/fvlurzvh/3-42.%20Obtained%20a%20Key%20Item%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "The Poke Flute (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/wofkjqag/3-43.%20The%20Poke%20Flute%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Silph Co. (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/darfbtmg/3-44.%20Silph%20Co.%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "The Sea (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/ufrsopiw/3-45.%20The%20Sea%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Pikachu's Beach (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/klatrdpo/3-46.%20Pikachu%27s%20Beach%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Pikachu's Beach (Results) (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/cusdojcj/3-47.%20Pikachu%27s%20Beach%20%28Results%29%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Connection (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/pxtauxcw/3-48.%20Connection%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Cinnabar Island Theme (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/ctomthey/3-49.%20Cinnabar%20Island%20Theme%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Pokemon Mansion (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/gmrwibhi/3-50.%20Pokemon%20Mansion%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Evolution (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/uykdncas/3-51.%20Evolution%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Congratulations! Your Pokemon Evolved! (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/pvhywogl/3-52.%20Congratulations%21%20Your%20Pokemon%20Evolved%21%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "The Final Road (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/pnwvoizu/3-53.%20The%20Final%20Road%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Final Battle! (Rival) (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/cdkorovj/3-54.%20Final%20Battle%21%20%28Rival%29%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Hall of Fame (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/mhzbilha/3-55.%20Hall%20of%20Fame%20%28Pokemon%20Yellow%29.mp3"
+    },
+    {
+      "title": "Ending Theme (Pokemon Yellow)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/pokemon-let-s-go-pikachu-and-let-s-go-eevee/jrfecccf/3-56.%20Ending%20Theme%20%28Pokemon%20Yellow%29.mp3"
+    }
+  ]
+}
