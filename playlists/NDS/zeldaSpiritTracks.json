@@ -1,0 +1,857 @@
+{
+  "meta": {
+    "game_title": "The Legend of Zelda: Spirit Tracks",
+    "art": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f2/Spirit_Tracks_Cover.jpg/",
+    "desc": "December 7, 2009"
+  },
+  "songs": [
+    {
+      "title": "Opening ~ Title Screen",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/htasoqpy/001.%20Opening%20~%20Title%20Screen.mp3"
+    },
+    {
+      "title": "File Select",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/aeunddid/002.%20File%20Select.mp3"
+    },
+    {
+      "title": "Prologue",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/sdokimkp/003.%20Prologue.mp3"
+    },
+    {
+      "title": "After the Prologue",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/tympnvnc/004.%20After%20the%20Prologue.mp3"
+    },
+    {
+      "title": "Aboda Village",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/aspsxhub/005.%20Aboda%20Village.mp3"
+    },
+    {
+      "title": "Final Exam",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/xllwaorq/006.%20Final%20Exam.mp3"
+    },
+    {
+      "title": "Castle Town",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/ezitvwvo/007.%20Castle%20Town.mp3"
+    },
+    {
+      "title": "Got an Item!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/gnzgkesz/008.%20Got%20an%20Item%21.mp3"
+    },
+    {
+      "title": "Got a Small Item!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/uzovlvul/009.%20Got%20a%20Small%20Item%21.mp3"
+    },
+    {
+      "title": "Hyrule Castle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/vumdcfqq/010.%20Hyrule%20Castle.mp3"
+    },
+    {
+      "title": "The Ceremony Begins",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/hovmygll/011.%20The%20Ceremony%20Begins.mp3"
+    },
+    {
+      "title": "Zelda Appears",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/vwwrtury/012.%20Zelda%20Appears.mp3"
+    },
+    {
+      "title": "Zelda's Lullaby",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/vemxctng/013.%20Zelda%27s%20Lullaby.mp3"
+    },
+    {
+      "title": "Chancellor Cole's Smirk",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/rskawgqm/014.%20Chancellor%20Cole%27s%20Smirk.mp3"
+    },
+    {
+      "title": "Dumbfounded Link",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/maqbjqco/015.%20Dumbfounded%20Link.mp3"
+    },
+    {
+      "title": "Zelda and the Spirit Flute",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/odzlhfdz/016.%20Zelda%20and%20the%20Spirit%20Flute.mp3"
+    },
+    {
+      "title": "Got the Recruit Uniform!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/mndekmhy/017.%20Got%20the%20Recruit%20Uniform%21.mp3"
+    },
+    {
+      "title": "Sneaking out of the Castle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/wnyffkin/018.%20Sneaking%20out%20of%20the%20Castle.mp3"
+    },
+    {
+      "title": "Spirit Tracks Disappearing",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/ndbxkful/019.%20Spirit%20Tracks%20Disappearing.mp3"
+    },
+    {
+      "title": "Tower of Spirits Destroyed",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/uppebwdd/020.%20Tower%20of%20Spirits%20Destroyed.mp3"
+    },
+    {
+      "title": "The Demon Train",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/emxcshka/021.%20The%20Demon%20Train.mp3"
+    },
+    {
+      "title": "Chancellor Cole",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/yphntfuj/022.%20Chancellor%20Cole.mp3"
+    },
+    {
+      "title": "Cole Shock Chord A (Your)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/njhitwbs/023.%20Cole%20Shock%20Chord%20A%20%28Your%29.mp3"
+    },
+    {
+      "title": "Cole Shock Chord B (High)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/jqdsgdur/024.%20Cole%20Shock%20Chord%20B%20%28High%29.mp3"
+    },
+    {
+      "title": "Cole Shock Chord C (ness!)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/yqiuaqfd/025.%20Cole%20Shock%20Chord%20C%20%28ness%21%29.mp3"
+    },
+    {
+      "title": "Battle Preparations",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/arhnqpcu/026.%20Battle%20Preparations.mp3"
+    },
+    {
+      "title": "Alfonzo vs. Byrne",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/onvqqitr/027.%20Alfonzo%20vs.%20Byrne.mp3"
+    },
+    {
+      "title": "Zelda's Body Stolen!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/exxvlrza/028.%20Zelda%27s%20Body%20Stolen%21.mp3"
+    },
+    {
+      "title": "Zelda Taken Away",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/dojgcury/029.%20Zelda%20Taken%20Away.mp3"
+    },
+    {
+      "title": "Ownerless Hyrule Castle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/tzoyxtcd/030.%20Ownerless%20Hyrule%20Castle.mp3"
+    },
+    {
+      "title": "Zelda's Spirit",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/lwyecvxz/031.%20Zelda%27s%20Spirit.mp3"
+    },
+    {
+      "title": "The Spirit Flute",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/hmmyhoai/032.%20The%20Spirit%20Flute.mp3"
+    },
+    {
+      "title": "Let's Go, Link!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/qdupqken/033.%20Let%27s%20Go%2C%20Link%21.mp3"
+    },
+    {
+      "title": "Sword Lesson 1",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/cweehaeu/034.%20Sword%20Lesson%201.mp3"
+    },
+    {
+      "title": "Sword Training A",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/nfmrbfws/035.%20Sword%20Training%20A.mp3"
+    },
+    {
+      "title": "Sword Lesson 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/xjesazxm/036.%20Sword%20Lesson%202.mp3"
+    },
+    {
+      "title": "Sword Training B",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/sfwsxkge/037.%20Sword%20Training%20B.mp3"
+    },
+    {
+      "title": "Sword Lesson 3",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/zlgagdaq/038.%20Sword%20Lesson%203.mp3"
+    },
+    {
+      "title": "Sword Training C",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/cqvibhgk/039.%20Sword%20Training%20C.mp3"
+    },
+    {
+      "title": "In the Fields",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/jnpiubxk/040.%20In%20the%20Fields.mp3"
+    },
+    {
+      "title": "Cave",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/heaoruvt/041.%20Cave.mp3"
+    },
+    {
+      "title": "Rats!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/jpuguids/042.%20Rats%21.mp3"
+    },
+    {
+      "title": "The Ominous Broken Tower",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/clwzjuwz/043.%20The%20Ominous%20Broken%20Tower.mp3"
+    },
+    {
+      "title": "Meeting Anjean",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/jvapywnz/044.%20Meeting%20Anjean.mp3"
+    },
+    {
+      "title": "Zelda Loses It",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/jyqhoxxu/045.%20Zelda%20Loses%20It.mp3"
+    },
+    {
+      "title": "Hysterical Zelda",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/gvjkwdat/046.%20Hysterical%20Zelda.mp3"
+    },
+    {
+      "title": "Tower of Spirits",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/pwmvsbet/047.%20Tower%20of%20Spirits.mp3"
+    },
+    {
+      "title": "Tower of Spirits -Dungeon-",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/fugxufuf/048.%20Tower%20of%20Spirits%20-Dungeon-.mp3"
+    },
+    {
+      "title": "A Phantom Appears",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/rtrevpnu/049.%20A%20Phantom%20Appears.mp3"
+    },
+    {
+      "title": "Spotted! (Phantoms)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/jlcgzbjr/050.%20Spotted%21%20%28Phantoms%29.mp3"
+    },
+    {
+      "title": "A Fatal Mistake",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/fecattme/051.%20A%20Fatal%20Mistake.mp3"
+    },
+    {
+      "title": "Watch Out, Link!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/jjutjrfa/052.%20Watch%20Out%2C%20Link%21.mp3"
+    },
+    {
+      "title": "Zelda Possesses a Phantom",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/kbztutjp/053.%20Zelda%20Possesses%20a%20Phantom.mp3"
+    },
+    {
+      "title": "Zelda Ready to Fight!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/wmunfnal/054.%20Zelda%20Ready%20to%20Fight%21.mp3"
+    },
+    {
+      "title": "Got the Rail Map!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/dlwwsbeq/055.%20Got%20the%20Rail%20Map%21.mp3"
+    },
+    {
+      "title": "The Spirit Tracks Reappear",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/spyvjjus/056.%20The%20Spirit%20Tracks%20Reappear.mp3"
+    },
+    {
+      "title": "Select Rail Route",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/ijxlmbyk/057.%20Select%20Rail%20Route.mp3"
+    },
+    {
+      "title": "Overworld Adventure",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/gzggnvqp/058.%20Overworld%20Adventure.mp3"
+    },
+    {
+      "title": "Battle on the Tracks!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/bqxqljmj/059.%20Battle%20on%20the%20Tracks%21.mp3"
+    },
+    {
+      "title": "Whittleton",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/iowplkqy/060.%20Whittleton.mp3"
+    },
+    {
+      "title": "The Lost Woods",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/wlpstrcl/061.%20The%20Lost%20Woods.mp3"
+    },
+    {
+      "title": "Discovery",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/xgocrdsc/062.%20Discovery.mp3"
+    },
+    {
+      "title": "Sound Stone of Awakening",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/ildjnklb/063.%20Sound%20Stone%20of%20Awakening.mp3"
+    },
+    {
+      "title": "Spirit Flute Practice - Awakening",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/ynwrvcxj/064.%20Spirit%20Flute%20Practice%20-%20Awakening.mp3"
+    },
+    {
+      "title": "Song of Awakening",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/azwjilgy/065.%20Song%20of%20Awakening.mp3"
+    },
+    {
+      "title": "Song of Awakening (Short)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/ahgnvmzn/066.%20Song%20of%20Awakening%20%28Short%29.mp3"
+    },
+    {
+      "title": "Learned Music",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/nddfpljp/067.%20Learned%20Music.mp3"
+    },
+    {
+      "title": "Sanctuary",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/vhagecat/068.%20Sanctuary.mp3"
+    },
+    {
+      "title": "Lokomo Song Practice - Gage",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/qzaethct/069.%20Lokomo%20Song%20Practice%20-%20Gage.mp3"
+    },
+    {
+      "title": "Gage Duet",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/imluokly/070.%20Gage%20Duet.mp3"
+    },
+    {
+      "title": "Sound Stone of Healing",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/iwkjrfal/071.%20Sound%20Stone%20of%20Healing.mp3"
+    },
+    {
+      "title": "Spirit Flute Practice - Healing",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/fqoycpro/072.%20Spirit%20Flute%20Practice%20-%20Healing.mp3"
+    },
+    {
+      "title": "Song of Healing",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/wqmpllzn/073.%20Song%20of%20Healing.mp3"
+    },
+    {
+      "title": "Song of Healing (Short)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/sxmsbdpo/074.%20Song%20of%20Healing%20%28Short%29.mp3"
+    },
+    {
+      "title": "Forest, Snow and Ocean Temple",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/ydvtfxvl/075.%20Forest%2C%20Snow%20and%20Ocean%20Temple.mp3"
+    },
+    {
+      "title": "Dungeon Gauntlet",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/sfwvmwxx/076.%20Dungeon%20Gauntlet.mp3"
+    },
+    {
+      "title": "Mini-Boss",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/vmuqubyl/077.%20Mini-Boss.mp3"
+    },
+    {
+      "title": "Got a Treasure!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/mznqpeyh/078.%20Got%20a%20Treasure%21.mp3"
+    },
+    {
+      "title": "Spotted! (Key Master)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/ozdwvmzm/079.%20Spotted%21%20%28Key%20Master%29.mp3"
+    },
+    {
+      "title": "Stagnox, Armored Colossus",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/myfgqjay/080.%20Stagnox%2C%20Armored%20Colossus.mp3"
+    },
+    {
+      "title": "Boss Defeated",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/qjypeddf/081.%20Boss%20Defeated.mp3"
+    },
+    {
+      "title": "The Force Gem Awakens",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/pliiqdwx/082.%20The%20Force%20Gem%20Awakens.mp3"
+    },
+    {
+      "title": "Power Across the Spirit Tracks",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/wplmzouf/083.%20Power%20Across%20the%20Spirit%20Tracks.mp3"
+    },
+    {
+      "title": "Restoring the Tower of Spirits (Partial)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/vknjhivd/084.%20Restoring%20the%20Tower%20of%20Spirits%20%28Partial%29.mp3"
+    },
+    {
+      "title": "Got a Heart Container!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/fpketdnf/085.%20Got%20a%20Heart%20Container%21.mp3"
+    },
+    {
+      "title": "Dark Trains Approaching",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/nwwqowtb/086.%20Dark%20Trains%20Approaching.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/betchfeh/087.%20Game%20Over.mp3"
+    },
+    {
+      "title": "Got a Spirit Train Car!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/wnamiduo/088.%20Got%20a%20Spirit%20Train%20Car%21.mp3"
+    },
+    {
+      "title": "Catching a Rabbit",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/kijvczrl/089.%20Catching%20a%20Rabbit.mp3"
+    },
+    {
+      "title": "Miss!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/cgwsvznq/090.%20Miss%21.mp3"
+    },
+    {
+      "title": "Cursed Overworld",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/oxxtbyrm/091.%20Cursed%20Overworld.mp3"
+    },
+    {
+      "title": "Anouki Village in the Dark",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/jmguenda/092.%20Anouki%20Village%20in%20the%20Dark.mp3"
+    },
+    {
+      "title": "Sound Stone of Discovery",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/vyiuxdbv/093.%20Sound%20Stone%20of%20Discovery.mp3"
+    },
+    {
+      "title": "Spirit Flute Practice",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/bsmgtzts/094.%20Spirit%20Flute%20Practice.mp3"
+    },
+    {
+      "title": "Song of Discovery",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/ktraaeuk/095.%20Song%20of%20Discovery.mp3"
+    },
+    {
+      "title": "Song of Discovery (Short)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/sfbqzzxq/096.%20Song%20of%20Discovery%20%28Short%29.mp3"
+    },
+    {
+      "title": "The Great Eye in the Dark",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/kfvnaqaf/097.%20The%20Great%20Eye%20in%20the%20Dark.mp3"
+    },
+    {
+      "title": "Rocktite Closing",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/bqbgedde/098.%20Rocktite%20Closing.mp3"
+    },
+    {
+      "title": "Lokomo Song Practice - Steem",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/oiwjfzff/099.%20Lokomo%20Song%20Practice%20-%20Steem.mp3"
+    },
+    {
+      "title": "Steem Duet",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/ickurado/100.%20Steem%20Duet.mp3"
+    },
+    {
+      "title": "The Blizzard",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/kilgyafy/101.%20The%20Blizzard.mp3"
+    },
+    {
+      "title": "Fraaz, Master of Icy Fire",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/cqwmsdpp/102.%20Fraaz%2C%20Master%20of%20Icy%20Fire.mp3"
+    },
+    {
+      "title": "Anouki Village",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/fflonvrv/103.%20Anouki%20Village.mp3"
+    },
+    {
+      "title": "Beedle's Air Shop",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/ccdkpvfs/104.%20Beedle%27s%20Air%20Shop.mp3"
+    },
+    {
+      "title": "Sword Training D",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/ynvpmqtt/105.%20Sword%20Training%20D.mp3"
+    },
+    {
+      "title": "Linebeck III Enters",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/opfgoeei/106.%20Linebeck%20III%20Enters.mp3"
+    },
+    {
+      "title": "Linebeck III",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/cmeieydu/107.%20Linebeck%20III.mp3"
+    },
+    {
+      "title": "Sound Stone of Light",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/rwlmdhbh/108.%20Sound%20Stone%20of%20Light.mp3"
+    },
+    {
+      "title": "Spirit Flute Practice - Light",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/kbbdollw/109.%20Spirit%20Flute%20Practice%20-%20Light.mp3"
+    },
+    {
+      "title": "Song of Light",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/annaoudk/110.%20Song%20of%20Light.mp3"
+    },
+    {
+      "title": "Song of Light (Short)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/rcmeiclb/111.%20Song%20of%20Light%20%28Short%29.mp3"
+    },
+    {
+      "title": "Papuchia Village",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/yntftepl/112.%20Papuchia%20Village.mp3"
+    },
+    {
+      "title": "The Wise One",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/lvunejhk/113.%20The%20Wise%20One.mp3"
+    },
+    {
+      "title": "The Future Revealed",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/chffibhh/114.%20The%20Future%20Revealed.mp3"
+    },
+    {
+      "title": "Sound Stone of Birds",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/oybkxgpf/115.%20Sound%20Stone%20of%20Birds.mp3"
+    },
+    {
+      "title": "Spirit Flute Practice - Birds",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/godapaio/116.%20Spirit%20Flute%20Practice%20-%20Birds.mp3"
+    },
+    {
+      "title": "Song of Birds",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/vmyhoajt/117.%20Song%20of%20Birds.mp3"
+    },
+    {
+      "title": "Song of Birds (Short)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/qxsvygmq/118.%20Song%20of%20Birds%20%28Short%29.mp3"
+    },
+    {
+      "title": "Pirate Attack!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/twzirmie/119.%20Pirate%20Attack%21.mp3"
+    },
+    {
+      "title": "Got a Force Gem!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/zhpahker/120.%20Got%20a%20Force%20Gem%21.mp3"
+    },
+    {
+      "title": "Lokomo Song Practice - Carben",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/uylhdxzf/121.%20Lokomo%20Song%20Practice%20-%20Carben.mp3"
+    },
+    {
+      "title": "Carben Duet",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/dcawgphr/122.%20Carben%20Duet.mp3"
+    },
+    {
+      "title": "Underwater",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/nognvrxn/123.%20Underwater.mp3"
+    },
+    {
+      "title": "Phytops, Barbed Menace",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/wtfsaype/124.%20Phytops%2C%20Barbed%20Menace.mp3"
+    },
+    {
+      "title": "Tank and Bomb Ship Attack",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/cxgqhqfd/125.%20Tank%20and%20Bomb%20Ship%20Attack.mp3"
+    },
+    {
+      "title": "Whip Race",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/cdjkxhvd/126.%20Whip%20Race.mp3"
+    },
+    {
+      "title": "Byrne",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/iexzdvui/127.%20Byrne.mp3"
+    },
+    {
+      "title": "Anjean's Decision",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/hnruzpaf/128.%20Anjean%27s%20Decision.mp3"
+    },
+    {
+      "title": "Goron Village in Lava Spouts",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/aleofjgc/129.%20Goron%20Village%20in%20Lava%20Spouts.mp3"
+    },
+    {
+      "title": "Out of Cargo",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/vwvlupoc/130.%20Out%20of%20Cargo.mp3"
+    },
+    {
+      "title": "Lokomo Song Practice - Embrose",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/usdmbwbv/131.%20Lokomo%20Song%20Practice%20-%20Embrose.mp3"
+    },
+    {
+      "title": "Embrose Duet",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/wyagdbva/132.%20Embrose%20Duet.mp3"
+    },
+    {
+      "title": "Snuglars",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/qadtjmjl/133.%20Snuglars.mp3"
+    },
+    {
+      "title": "Fire and Sand Temple",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/ccfufvkq/134.%20Fire%20and%20Sand%20Temple.mp3"
+    },
+    {
+      "title": "Cragma, Lava Lord",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/xoeekmdi/135.%20Cragma%2C%20Lava%20Lord.mp3"
+    },
+    {
+      "title": "Restoring the Tower of Spirits (Complete)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/cppittoo/136.%20Restoring%20the%20Tower%20of%20Spirits%20%28Complete%29.mp3"
+    },
+    {
+      "title": "Goron Village",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/alfqrirl/137.%20Goron%20Village.mp3"
+    },
+    {
+      "title": "Goron Target Range - Blue Target",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/ftcfuhbm/138.%20Goron%20Target%20Range%20-%20Blue%20Target.mp3"
+    },
+    {
+      "title": "Goron Target Range - Red Target (One)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/emwvncxf/139.%20Goron%20Target%20Range%20-%20Red%20Target%20%28One%29.mp3"
+    },
+    {
+      "title": "Goron Target Range - Red Target (Two)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/klxhtwcy/140.%20Goron%20Target%20Range%20-%20Red%20Target%20%28Two%29.mp3"
+    },
+    {
+      "title": "Goron Target Range - Red Target (Three)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/iuatpufs/141.%20Goron%20Target%20Range%20-%20Red%20Target%20%28Three%29.mp3"
+    },
+    {
+      "title": "Goron Target Range - Goron Target",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/vcyliiso/142.%20Goron%20Target%20Range%20-%20Goron%20Target.mp3"
+    },
+    {
+      "title": "Tower of Spirits (Staircase) [Variation A]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/pgpfflqt/143.%20Tower%20of%20Spirits%20%28Staircase%29%20%5BVariation%20A%5D.mp3"
+    },
+    {
+      "title": "Tower of Spirits (Staircase) [Variation B]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/xfklwdaq/144.%20Tower%20of%20Spirits%20%28Staircase%29%20%5BVariation%20B%5D.mp3"
+    },
+    {
+      "title": "Tower of Spirits (Staircase) [Variation C]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/cophrlhb/145.%20Tower%20of%20Spirits%20%28Staircase%29%20%5BVariation%20C%5D.mp3"
+    },
+    {
+      "title": "Tower of Spirits (Staircase) [Variation D]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/kxiwjgeb/146.%20Tower%20of%20Spirits%20%28Staircase%29%20%5BVariation%20D%5D.mp3"
+    },
+    {
+      "title": "Tower of Spirits Staircase (Full Version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/slcdifeg/147.%20Tower%20of%20Spirits%20Staircase%20%28Full%20Version%29.mp3"
+    },
+    {
+      "title": "Fight Against Byrne",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/tatsjrfa/148.%20Fight%20Against%20Byrne.mp3"
+    },
+    {
+      "title": "Link and Zelda's Friendship",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/kcfvjmie/149.%20Link%20and%20Zelda%27s%20Friendship.mp3"
+    },
+    {
+      "title": "Resurrection of the Demon King",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/xaipajrj/150.%20Resurrection%20of%20the%20Demon%20King.mp3"
+    },
+    {
+      "title": "Fleeing by Demon Train",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/vbrhlgzc/151.%20Fleeing%20by%20Demon%20Train.mp3"
+    },
+    {
+      "title": "Anjean Devises a Plan",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/nkkwbtom/152.%20Anjean%20Devises%20a%20Plan.mp3"
+    },
+    {
+      "title": "Lokomo Song Practice - Rael",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/tgaintbc/153.%20Lokomo%20Song%20Practice%20-%20Rael.mp3"
+    },
+    {
+      "title": "Rael Duet",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/jmknhads/154.%20Rael%20Duet.mp3"
+    },
+    {
+      "title": "Skeldritch, Ancient Demon",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/cikcepll/155.%20Skeldritch%2C%20Ancient%20Demon.mp3"
+    },
+    {
+      "title": "Zelda’s Dashed Hopes",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/ykepmqrl/156.%20Zelda%E2%80%99s%20Dashed%20Hopes.mp3"
+    },
+    {
+      "title": "Byrne Awakes",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/frtsimjm/157.%20Byrne%20Awakes.mp3"
+    },
+    {
+      "title": "Got the Lokomo Sword!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/fqpagive/158.%20Got%20the%20Lokomo%20Sword%21.mp3"
+    },
+    {
+      "title": "Lost at Sea Station",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/haeukqae/159.%20Lost%20at%20Sea%20Station.mp3"
+    },
+    {
+      "title": "Dark Link",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/vrtwyffm/160.%20Dark%20Link.mp3"
+    },
+    {
+      "title": "The Dark Realm",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/raaabgct/161.%20The%20Dark%20Realm.mp3"
+    },
+    {
+      "title": "Tears of Light in the Dark Realm",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/mcbceplm/162.%20Tears%20of%20Light%20in%20the%20Dark%20Realm.mp3"
+    },
+    {
+      "title": "Facing the Demon Train",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/zowrrlen/163.%20Facing%20the%20Demon%20Train.mp3"
+    },
+    {
+      "title": "Before the Final Battle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/aqcoobqy/164.%20Before%20the%20Final%20Battle.mp3"
+    },
+    {
+      "title": "The Chancellor's Annoyance",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/uemyebsn/165.%20The%20Chancellor%27s%20Annoyance.mp3"
+    },
+    {
+      "title": "The Chancellor's Limit",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/jimnarfb/166.%20The%20Chancellor%27s%20Limit.mp3"
+    },
+    {
+      "title": "The Revival's Completion",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/rfbrdser/167.%20The%20Revival%27s%20Completion.mp3"
+    },
+    {
+      "title": "Fighting Cole and Malladus",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/velpphsp/168.%20Fighting%20Cole%20and%20Malladus.mp3"
+    },
+    {
+      "title": "Malladus Weakened",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/wnbtquek/169.%20Malladus%20Weakened.mp3"
+    },
+    {
+      "title": "Bodiless Malladus",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/pqnoiyqm/170.%20Bodiless%20Malladus.mp3"
+    },
+    {
+      "title": "The Unenterable Body",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/krdsaabe/171.%20The%20Unenterable%20Body.mp3"
+    },
+    {
+      "title": "Byrne Comes to the Rescue",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/rwjetgzg/172.%20Byrne%20Comes%20to%20the%20Rescue.mp3"
+    },
+    {
+      "title": "Link Catches Zelda",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/fhvidprq/173.%20Link%20Catches%20Zelda.mp3"
+    },
+    {
+      "title": "Byrne's Death",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/ailhdupo/174.%20Byrne%27s%20Death.mp3"
+    },
+    {
+      "title": "The End of the Chancellor",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/cshglksh/175.%20The%20End%20of%20the%20Chancellor.mp3"
+    },
+    {
+      "title": "Malladus's Transformation",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/kdkpwkom/176.%20Malladus%27s%20Transformation.mp3"
+    },
+    {
+      "title": "Malladus in Cole’s Body",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/uoibijyo/177.%20Malladus%20in%20Cole%E2%80%99s%20Body.mp3"
+    },
+    {
+      "title": "Final Battle ~ Protecting Zelda",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/alcgxrux/178.%20Final%20Battle%20~%20Protecting%20Zelda.mp3"
+    },
+    {
+      "title": "The Sacred Duet",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/ffmtilgy/179.%20The%20Sacred%20Duet.mp3"
+    },
+    {
+      "title": "Final Battle ~ Malladus",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/wmwvqsor/180.%20Final%20Battle%20~%20Malladus.mp3"
+    },
+    {
+      "title": "Final Battle ~ Malladus (with Duet)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/tsikchey/181.%20Final%20Battle%20~%20Malladus%20%28with%20Duet%29.mp3"
+    },
+    {
+      "title": "Saying Goodbye",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/hozdvrwi/182.%20Saying%20Goodbye.mp3"
+    },
+    {
+      "title": "The Lokomos Ascend",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/bfajsorr/183.%20The%20Lokomos%20Ascend.mp3"
+    },
+    {
+      "title": "Staff Roll",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/jsosuwxz/184.%20Staff%20Roll.mp3"
+    },
+    {
+      "title": "The End",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/gedguena/185.%20The%20End.mp3"
+    },
+    {
+      "title": "Battle Mode",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/mmxdwaky/186.%20Battle%20Mode.mp3"
+    },
+    {
+      "title": "Get Ready",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/pbmgwodb/187.%20Get%20Ready.mp3"
+    },
+    {
+      "title": "Ready, Set, Battle!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/uwwvltnh/188.%20Ready%2C%20Set%2C%20Battle%21.mp3"
+    },
+    {
+      "title": "A Phantom Appears (Battle Mode)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/wmwvncyj/189.%20A%20Phantom%20Appears%20%28Battle%20Mode%29.mp3"
+    },
+    {
+      "title": "Spotted! (Battle Mode)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/bgcrafws/190.%20Spotted%21%20%28Battle%20Mode%29.mp3"
+    },
+    {
+      "title": "Invincibility",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/azvgrpze/191.%20Invincibility.mp3"
+    },
+    {
+      "title": "Battle Mode Results",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/wtgxtdmw/192.%20Battle%20Mode%20Results.mp3"
+    },
+    {
+      "title": "Tag Mode",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/xzcpstrd/193.%20Tag%20Mode.mp3"
+    },
+    {
+      "title": "Got a Treasure! Double",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/prmmwwrx/194.%20Got%20a%20Treasure%21%20Double.mp3"
+    },
+    {
+      "title": "Miss! Double",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/llzpyywl/195.%20Miss%21%20Double.mp3"
+    },
+    {
+      "title": "Cragma, Lava Lord (Retry)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/sdqtwdat/196.%20Cragma%2C%20Lava%20Lord%20%28Retry%29.mp3"
+    },
+    {
+      "title": "Fraaz, Master of Icy Fire (Retry)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/raeuikzu/197.%20Fraaz%2C%20Master%20of%20Icy%20Fire%20%28Retry%29.mp3"
+    },
+    {
+      "title": "Passenger - Mood Down",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/xdxgmpoy/198.%20Passenger%20-%20Mood%20Down.mp3"
+    },
+    {
+      "title": "Passenger - Mood Up",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/dwwugwqq/199.%20Passenger%20-%20Mood%20Up.mp3"
+    },
+    {
+      "title": "Passenger - Mood Very Low",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/gjzxmseq/200.%20Passenger%20-%20Mood%20Very%20Low.mp3"
+    },
+    {
+      "title": "Spirit Zelda Appears",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/qitutgcr/201.%20Spirit%20Zelda%20Appears.mp3"
+    },
+    {
+      "title": "Spirit Zelda Disappears",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/ethgixny/202.%20Spirit%20Zelda%20Disappears.mp3"
+    },
+    {
+      "title": "Stagnox and Phytops (Retry)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/bmicngrs/203.%20Stagnox%20and%20Phytops%20%28Retry%29.mp3"
+    },
+    {
+      "title": "Tag Mode - Trade Complete",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/opixmraa/204.%20Tag%20Mode%20-%20Trade%20Complete.mp3"
+    },
+    {
+      "title": "Unknown Fanfare A",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/acmznqpc/205.%20Unknown%20Fanfare%20A.mp3"
+    },
+    {
+      "title": "Unknown Fanfare B",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/qxpjyqkb/206.%20Unknown%20Fanfare%20B.mp3"
+    },
+    {
+      "title": "Unknown SFX A",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/ciiqghtw/207.%20Unknown%20SFX%20A.mp3"
+    },
+    {
+      "title": "Unknown SFX B",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/bqzdpqjx/208.%20Unknown%20SFX%20B.mp3"
+    },
+    {
+      "title": "Unused Phantom Hourglass Boss Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/lokkuryv/209.%20Unused%20Phantom%20Hourglass%20Boss%20Theme.mp3"
+    },
+    {
+      "title": "Unused Phantom Hourglass Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/enzkcfvl/210.%20Unused%20Phantom%20Hourglass%20Theme.mp3"
+    },
+    {
+      "title": "Unused Song A",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/uokhitsi/211.%20Unused%20Song%20A.mp3"
+    },
+    {
+      "title": "Unused Song B",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-spirit-tracks/lihlkpwo/212.%20Unused%20Song%20B.mp3"
+    }
+  ]
+}
