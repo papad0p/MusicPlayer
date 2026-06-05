@@ -1,0 +1,505 @@
+{
+  "meta": {
+    "game_title": "Kirby and the Rainbow Curse",
+    "art": "https://cdn.wikirby.com/2/20/KatRC_NA_box_art.png",
+    "desc": "January 22, 2015"
+  },
+  "songs": [
+    {
+      "title": "Wii U Boot Screen",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/irhnrvbw/01.%20Wii%20U%20Boot%20Screen.mp3"
+    },
+    {
+      "title": "Title Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/cwedekpr/02.%20Title%20Theme.mp3"
+    },
+    {
+      "title": "Opening",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/rjuvtikb/03.%20Opening.mp3"
+    },
+    {
+      "title": "Main Menu",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/djkbyqjw/04.%20Main%20Menu.mp3"
+    },
+    {
+      "title": "Level Select",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/iyvgvjjs/05.%20Level%20Select.mp3"
+    },
+    {
+      "title": "The Grasslands",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/lawhvgud/06.%20The%20Grasslands.mp3"
+    },
+    {
+      "title": "Learn the Controls!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/jjrkzpcq/07.%20Learn%20the%20Controls%21.mp3"
+    },
+    {
+      "title": "The Adventure Begins",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/abhgjbgb/08.%20The%20Adventure%20Begins.mp3"
+    },
+    {
+      "title": "Stage Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/ptauxebw/09.%20Stage%20Clear.mp3"
+    },
+    {
+      "title": "Up the Big Ol' Tree",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/dbvbtonz/10.%20Up%20the%20Big%20Ol%27%20Tree.mp3"
+    },
+    {
+      "title": "Go for the Giant Star",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/mpmppdvu/11.%20Go%20for%20the%20Giant%20Star.mp3"
+    },
+    {
+      "title": "Great Cave Escape",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/yvidrxpf/12.%20Great%20Cave%20Escape.mp3"
+    },
+    {
+      "title": "Time's Almost Up!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/iubymoia/13.%20Time%27s%20Almost%20Up%21.mp3"
+    },
+    {
+      "title": "Invincible!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/esbeqrlg/14.%20Invincible%21.mp3"
+    },
+    {
+      "title": "Escape from Grab Hand",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/yzbktqxq/15.%20Escape%20from%20Grab%20Hand.mp3"
+    },
+    {
+      "title": "Boss of the Grasslands",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/kfuknlpr/16.%20Boss%20of%20the%20Grasslands.mp3"
+    },
+    {
+      "title": "What's This Now",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/painrsqa/17.%20What%27s%20This%20Now.mp3"
+    },
+    {
+      "title": "That Stubborn Tree!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/etikavbv/18.%20That%20Stubborn%20Tree%21.mp3"
+    },
+    {
+      "title": "Level Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/anpjdndf/19.%20Level%20Clear.mp3"
+    },
+    {
+      "title": "A Happy Message",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/pjazyrpx/20.%20A%20Happy%20Message.mp3"
+    },
+    {
+      "title": "Treasure Chest",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/uftcgwqo/21.%20Treasure%20Chest.mp3"
+    },
+    {
+      "title": "Treasure Chest Opened!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/vogqmjmi/22.%20Treasure%20Chest%20Opened%21.mp3"
+    },
+    {
+      "title": "Figurine Showcase",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/fbqywnyf/23.%20Figurine%20Showcase.mp3"
+    },
+    {
+      "title": "Reading the Secret Diary",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/efpjbfvm/24.%20Reading%20the%20Secret%20Diary.mp3"
+    },
+    {
+      "title": "Challenge Mode",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/zjyrnohr/25.%20Challenge%20Mode.mp3"
+    },
+    {
+      "title": "Whoops!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/nqpcradr/26.%20Whoops%21.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/ztxflojh/27.%20Game%20Over.mp3"
+    },
+    {
+      "title": "The Desert",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/gjbgzghr/28.%20The%20Desert.mp3"
+    },
+    {
+      "title": "Dig and Dash",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/nqqfflmc/29.%20Dig%20and%20Dash.mp3"
+    },
+    {
+      "title": "More Dig and Dash",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/avcbxhwk/30.%20More%20Dig%20and%20Dash.mp3"
+    },
+    {
+      "title": "Evade and Dig and Dash",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/lzpajuww/31.%20Evade%20and%20Dig%20and%20Dash.mp3"
+    },
+    {
+      "title": "Crossing the Sands",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/tfvluokk/32.%20Crossing%20the%20Sands.mp3"
+    },
+    {
+      "title": "Deploy the Kirby Tank!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/vydzjxkh/33.%20Deploy%20the%20Kirby%20Tank%21.mp3"
+    },
+    {
+      "title": "Battle in Numbers",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/edcavdfp/34.%20Battle%20in%20Numbers.mp3"
+    },
+    {
+      "title": "The Long-Lost Ruins",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/hsreyfeh/35.%20The%20Long-Lost%20Ruins.mp3"
+    },
+    {
+      "title": "Find the Weak Point",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/zxsutlyk/36.%20Find%20the%20Weak%20Point.mp3"
+    },
+    {
+      "title": "Boss of the Desert",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/gxxsweid/37.%20Boss%20of%20the%20Desert.mp3"
+    },
+    {
+      "title": "Red-Hot Battle!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/rabdppez/38.%20Red-Hot%20Battle%21.mp3"
+    },
+    {
+      "title": "The Sea",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/nnegsvzk/39.%20The%20Sea.mp3"
+    },
+    {
+      "title": "Drifting on the Waves",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/dmzjztwa/40.%20Drifting%20on%20the%20Waves.mp3"
+    },
+    {
+      "title": "Swept Out to Sea",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/otbbbftf/41.%20Swept%20Out%20to%20Sea.mp3"
+    },
+    {
+      "title": "Fever Time!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/saypcusb/42.%20Fever%20Time%21.mp3"
+    },
+    {
+      "title": "Dethskullk Jam",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/heanqqfe/43.%20Dethskullk%20Jam.mp3"
+    },
+    {
+      "title": "The Haunted Ship",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/fnxaiovo/44.%20The%20Haunted%20Ship.mp3"
+    },
+    {
+      "title": "Close to the Surface",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/gnvsyrov/45.%20Close%20to%20the%20Surface.mp3"
+    },
+    {
+      "title": "Kirby Submarine's Torpedo Time",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/ieyecxht/46.%20Kirby%20Submarine%27s%20Torpedo%20Time.mp3"
+    },
+    {
+      "title": "Battle Alone",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/uthglmcy/47.%20Battle%20Alone.mp3"
+    },
+    {
+      "title": "In Dark Waters",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/nsaxpdxb/48.%20In%20Dark%20Waters.mp3"
+    },
+    {
+      "title": "Boss of the Sea",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/qaewteof/49.%20Boss%20of%20the%20Sea.mp3"
+    },
+    {
+      "title": "Undersea Battle!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/nxyaeycs/50.%20Undersea%20Battle%21.mp3"
+    },
+    {
+      "title": "Undersea Level Clear",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/ikchdwwr/51.%20Undersea%20Level%20Clear.mp3"
+    },
+    {
+      "title": "The Sky",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/xkhisosv/52.%20The%20Sky.mp3"
+    },
+    {
+      "title": "Rainbow Across the Skies",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/aqevsdlv/53.%20Rainbow%20Across%20the%20Skies.mp3"
+    },
+    {
+      "title": "The Wild Red Yonder",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/tgainten/54.%20The%20Wild%20Red%20Yonder.mp3"
+    },
+    {
+      "title": "Kirby Rocket's Big Blastoff",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/efpkdlxb/55.%20Kirby%20Rocket%27s%20Big%20Blastoff.mp3"
+    },
+    {
+      "title": "Hit the Switch",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/sjtpubxk/56.%20Hit%20the%20Switch.mp3"
+    },
+    {
+      "title": "Fly to the Exit!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/ijxibfwr/57.%20Fly%20to%20the%20Exit%21.mp3"
+    },
+    {
+      "title": "Boss of the Sky",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/ttlzpzco/58.%20Boss%20of%20the%20Sky.mp3"
+    },
+    {
+      "title": "The Forest",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/muojescj/59.%20The%20Forest.mp3"
+    },
+    {
+      "title": "Beware the Forest Fungus",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/mknlscjp/60.%20Beware%20the%20Forest%20Fungus.mp3"
+    },
+    {
+      "title": "Woodland Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/vklbympo/61.%20Woodland%20Battle.mp3"
+    },
+    {
+      "title": "Braving the Storm",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/zeyfdemv/62.%20Braving%20the%20Storm.mp3"
+    },
+    {
+      "title": "Gondola Ride",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/qtxgpfei/63.%20Gondola%20Ride.mp3"
+    },
+    {
+      "title": "Grievous Gondola Ride",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/afxyahkc/64.%20Grievous%20Gondola%20Ride.mp3"
+    },
+    {
+      "title": "Deep-Divin' Kirby Submarine",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/fvltkurc/65.%20Deep-Divin%27%20Kirby%20Submarine.mp3"
+    },
+    {
+      "title": "Watch Out for That Sloth",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/mccbchcp/66.%20Watch%20Out%20for%20That%20Sloth.mp3"
+    },
+    {
+      "title": "Boss of the Forest",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/ubxllznq/67.%20Boss%20of%20the%20Forest.mp3"
+    },
+    {
+      "title": "The Volcano",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/pebskylj/68.%20The%20Volcano.mp3"
+    },
+    {
+      "title": "Burning Secrets",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/nmxalels/69.%20Burning%20Secrets.mp3"
+    },
+    {
+      "title": "Scared of Getting Seared",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/ijynwrtv/70.%20Scared%20of%20Getting%20Seared.mp3"
+    },
+    {
+      "title": "Volcanic Panic",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/wvpnszxl/71.%20Volcanic%20Panic.mp3"
+    },
+    {
+      "title": "Boss of the Volcano",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/onwvogqj/72.%20Boss%20of%20the%20Volcano.mp3"
+    },
+    {
+      "title": "Junk Airspace",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/xmsabfwr/73.%20Junk%20Airspace.mp3"
+    },
+    {
+      "title": "Infiltrate the Junk Factory!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/spufqoya/74.%20Infiltrate%20the%20Junk%20Factory%21.mp3"
+    },
+    {
+      "title": "Collecting Stars",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/eydxdxcu/75.%20Collecting%20Stars.mp3"
+    },
+    {
+      "title": "Kirby + Kirby",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/pstpudif/76.%20Kirby%20%2B%20Kirby.mp3"
+    },
+    {
+      "title": "Alone Again",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/dcykgzex/77.%20Alone%20Again.mp3"
+    },
+    {
+      "title": "Wonder Space",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/bopgmqro/78.%20Wonder%20Space.mp3"
+    },
+    {
+      "title": "Wonder Space Warped",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/vifalhzd/79.%20Wonder%20Space%20Warped.mp3"
+    },
+    {
+      "title": "Junk Airspace Boss",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/psuumehb/80.%20Junk%20Airspace%20Boss.mp3"
+    },
+    {
+      "title": "A Bad Feeling...",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/jpxvhcni/81.%20A%20Bad%20Feeling....mp3"
+    },
+    {
+      "title": "A Second Meeting",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/cmdgxqnt/82.%20A%20Second%20Meeting.mp3"
+    },
+    {
+      "title": "Battle with Claycia",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/beojclvv/83.%20Battle%20with%20Claycia.mp3"
+    },
+    {
+      "title": "Final Transformation!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/teokgbpv/84.%20Final%20Transformation%21.mp3"
+    },
+    {
+      "title": "Dark Crafter Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/gtcfsaxm/85.%20Dark%20Crafter%20Battle.mp3"
+    },
+    {
+      "title": "Back to Dream Land",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/raytzouj/86.%20Back%20to%20Dream%20Land.mp3"
+    },
+    {
+      "title": "Staff Roll",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/njhlfwrs/87.%20Staff%20Roll.mp3"
+    },
+    {
+      "title": "The Return of Color",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/migefnxx/88.%20The%20Return%20of%20Color.mp3"
+    },
+    {
+      "title": "Green Greens ~ Kirby's Dream Land",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/xuepjckt/89.%20Green%20Greens%20~%20Kirby%27s%20Dream%20Land.mp3"
+    },
+    {
+      "title": "The Adventure Begins (Arrangement)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/lzovltmb/90.%20The%20Adventure%20Begins%20%28Arrangement%29.mp3"
+    },
+    {
+      "title": "King Dedede's Theme ~ Kirby Mass Attack",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/xkgbonzj/91.%20King%20Dedede%27s%20Theme%20~%20Kirby%20Mass%20Attack.mp3"
+    },
+    {
+      "title": "Through the Sky ~ Kirby Mass Attack",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/wfnaldhe/92.%20Through%20the%20Sky%20~%20Kirby%20Mass%20Attack.mp3"
+    },
+    {
+      "title": "Vegetable Valley ~ Kirby's Adventure",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/zjxlnfmv/93.%20Vegetable%20Valley%20~%20Kirby%27s%20Adventure.mp3"
+    },
+    {
+      "title": "Top Ride Medley ~ Kirby Air Ride",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/qsrhjxkj/94.%20Top%20Ride%20Medley%20~%20Kirby%20Air%20Ride.mp3"
+    },
+    {
+      "title": "Space Area ~ Kirby & The Amazing Mirror",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/qbiorvbv/95.%20Space%20Area%20~%20Kirby%20%26%20The%20Amazing%20Mirror.mp3"
+    },
+    {
+      "title": "Boss Theme ~ Kirby's Dream Land",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/zlftdijs/96.%20Boss%20Theme%20~%20Kirby%27s%20Dream%20Land.mp3"
+    },
+    {
+      "title": "Reflected Laughter ~ Kirby - Triple Deluxe",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/ptbynvnc/97.%20Reflected%20Laughter%20~%20Kirby%20-%20Triple%20Deluxe.mp3"
+    },
+    {
+      "title": "Milky Way Wishes ~ Kirby Super Star",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/auyhpctn/98.%20Milky%20Way%20Wishes%20~%20Kirby%20Super%20Star.mp3"
+    },
+    {
+      "title": "Ripple Field ~ Kirby's Dream Land 3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/guccgzey/99.%20Ripple%20Field%20~%20Kirby%27s%20Dream%20Land%203.mp3"
+    },
+    {
+      "title": "Snowball Scuffle ~ Kirby's Return to Dream Land",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/glikzspw/100.%20Snowball%20Scuffle%20~%20Kirby%27s%20Return%20to%20Dream%20Land.mp3"
+    },
+    {
+      "title": "Ice Cream Island ~ Kirby's Adventure",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/mtlzmlvt/101.%20Ice%20Cream%20Island%20~%20Kirby%27s%20Adventure.mp3"
+    },
+    {
+      "title": "Boss Battle ~ Kirby Super Star",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/ihoyblby/102.%20Boss%20Battle%20~%20Kirby%20Super%20Star.mp3"
+    },
+    {
+      "title": "Sky Tower ~ Kirby's Return to Dream Land",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/mrvfpgoz/103.%20Sky%20Tower%20~%20Kirby%27s%20Return%20to%20Dream%20Land.mp3"
+    },
+    {
+      "title": "The Asteroid ~ Kirby Mass Attack",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/gjchfgpd/104.%20The%20Asteroid%20~%20Kirby%20Mass%20Attack.mp3"
+    },
+    {
+      "title": "Butter Building ~ Kirby's Adventure",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/yiuxcxgl/105.%20Butter%20Building%20~%20Kirby%27s%20Adventure.mp3"
+    },
+    {
+      "title": "Rainbow Resort ~ Kirby's Adventure",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/oibjnoeh/106.%20Rainbow%20Resort%20~%20Kirby%27s%20Adventure.mp3"
+    },
+    {
+      "title": "The Beginner's Room ~ Kirby Super Star",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/vhbjovlt/107.%20The%20Beginner%27s%20Room%20~%20Kirby%20Super%20Star.mp3"
+    },
+    {
+      "title": "Forest Stage ~ Kirby's Adventure",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/mczsqaex/108.%20Forest%20Stage%20~%20Kirby%27s%20Adventure.mp3"
+    },
+    {
+      "title": "Mountain Stage ~ Kirby's Adventure",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/wqpdxboq/109.%20Mountain%20Stage%20~%20Kirby%27s%20Adventure.mp3"
+    },
+    {
+      "title": "Coo's Theme ~ Kirby's Dream Land 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/krfbqyvh/110.%20Coo%27s%20Theme%20~%20Kirby%27s%20Dream%20Land%202.mp3"
+    },
+    {
+      "title": "Bubbly Clouds ~ Kirby's Dream Land",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/aeuncats/111.%20Bubbly%20Clouds%20~%20Kirby%27s%20Dream%20Land.mp3"
+    },
+    {
+      "title": "Big Forest ~ Kirby's Dream Land 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/gctlbyow/112.%20Big%20Forest%20~%20Kirby%27s%20Dream%20Land%202.mp3"
+    },
+    {
+      "title": "Revenge of the Enemy ~ Kirby - Triple Deluxe",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/tbbbgybk/113.%20Revenge%20of%20the%20Enemy%20~%20Kirby%20-%20Triple%20Deluxe.mp3"
+    },
+    {
+      "title": "Kirby Medley ~ Kirby Super Star",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/xhvdemxa/114.%20Kirby%20Medley%20~%20Kirby%20Super%20Star.mp3"
+    },
+    {
+      "title": "Rest Area ~ Kirby Super Star",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/kxkikzts/115.%20Rest%20Area%20~%20Kirby%20Super%20Star.mp3"
+    },
+    {
+      "title": "Iceberg Ocean ~ Kirby's Dream Course",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/kuvuikzt/116.%20Iceberg%20Ocean%20~%20Kirby%27s%20Dream%20Course.mp3"
+    },
+    {
+      "title": "Revenge of Meta Knight - Ending ~ Kirby Super Star",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/vwxwrqhn/117.%20Revenge%20of%20Meta%20Knight%20-%20Ending%20~%20Kirby%20Super%20Star.mp3"
+    },
+    {
+      "title": "Heavy Lobster ~ Kirby Super Star Ultra",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/rxmqrors/118.%20Heavy%20Lobster%20~%20Kirby%20Super%20Star%20Ultra.mp3"
+    },
+    {
+      "title": "Gulpy Ghost ~ Kirby Mass Attack",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/mjinsawi/119.%20Gulpy%20Ghost%20~%20Kirby%20Mass%20Attack.mp3"
+    },
+    {
+      "title": "Studying the Factory ~ Kirby 64 - The Crystal Shards",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/htasosxh/120.%20Studying%20the%20Factory%20~%20Kirby%2064%20-%20The%20Crystal%20Shards.mp3"
+    },
+    {
+      "title": "Moonlight Capital ~ Kirby - Triple Deluxe",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/vejhiubw/121.%20Moonlight%20Capital%20~%20Kirby%20-%20Triple%20Deluxe.mp3"
+    },
+    {
+      "title": "The Legendary Halberd ~ Kirby - Squeak Squad",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/fjfxahlj/122.%20The%20Legendary%20Halberd%20~%20Kirby%20-%20Squeak%20Squad.mp3"
+    },
+    {
+      "title": "Milky Way Wishes - Shooting ~ Kirby Super Star",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/kymoizzz/123.%20Milky%20Way%20Wishes%20-%20Shooting%20~%20Kirby%20Super%20Star.mp3"
+    },
+    {
+      "title": "C-R-O-W-N-E-D ~ Kirby's Return to Dream Land",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-and-the-rainbow-curse-original-soundtrack-wii-u-gamerip-2015/zwmseuig/124.%20C-R-O-W-N-E-D%20~%20Kirby%27s%20Return%20to%20Dream%20Land.mp3"
+    }
+  ]
+}
