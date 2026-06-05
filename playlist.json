@@ -29,7 +29,7 @@
             { "title": "Super Smash Bros. for Wii U", "id": "smash4WiiU" },
             { "title": "Super Mario Maker", "id": "superMarioMaker" },
             { "title": "Paper Mario: Color Splash", "id": "paperMarioColorSplash" },
-            { "title": "Kirby: Rainbow Curse", "id": "kirbyRainbowCurse", "status": "new" }
+            { "title": "Kirby and the Rainbow Curse", "id": "kirbyRainbowCurse", "status": "new" }
         ]
     },
 
@@ -143,7 +143,7 @@
             { "title": "Pokemon: Crystal", "id": "crystal" }
         ]
     },
-    
+
     {
         "platform": "Gameboy",
         "dir": "GB/",
