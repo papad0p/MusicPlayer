@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "game_title": "Mario & Luigi: Bowser's Inside Story",
+    "art": "https://mario.wiki.gallery/images/1/10/Bowsersinsidestorycover.jpg",
+    "desc": "February 11, 2009"
+  },
+  "songs": [
+    {
+      "title": "On To the Next Adventure!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/zuxknevrsp/01.%20On%20To%20the%20Next%20Adventure%21.mp3"
+    },
+    {
+      "title": "File Select",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/rgthhqgmkl/02.%20File%20Select.mp3"
+    },
+    {
+      "title": "Shock!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/evjpakbght/03.%20Shock%21.mp3"
+    },
+    {
+      "title": "Peach's Castle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/oirhrdgigj/04.%20Peach%27s%20Castle.mp3"
+    },
+    {
+      "title": "Bowser!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/qcaxuhodej/05.%20Bowser%21.mp3"
+    },
+    {
+      "title": "Here We Go!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/orsenxzowj/06.%20Here%20We%20Go%21.mp3"
+    },
+    {
+      "title": "Battle Victory",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/ekutpqmnpn/07.%20Battle%20Victory.mp3"
+    },
+    {
+      "title": "Danger!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/rwpkmicjaa/08.%20Danger%21.mp3"
+    },
+    {
+      "title": "The Path of Secrets (Inside Bowser)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/kgmigjadmy/09.%20The%20Path%20of%20Secrets%20%28Inside%20Bowser%29.mp3"
+    },
+    {
+      "title": "Tutorial Time",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/vujrhwkwmx/10.%20Tutorial%20Time.mp3"
+    },
+    {
+      "title": "Item Get - Attack Piece",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/tdxwedaghh/11.%20Item%20Get%20-%20Attack%20Piece.mp3"
+    },
+    {
+      "title": "Fanfare - Attack Item Complete I",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/jnoittoohp/12.%20Fanfare%20-%20Attack%20Item%20Complete%20I.mp3"
+    },
+    {
+      "title": "Fanfare - Attack Item Complete II",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/uhwadzofrx/13.%20Fanfare%20-%20Attack%20Item%20Complete%20II.mp3"
+    },
+    {
+      "title": "A Gentle Breeze at Cavi Cape",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/opjqunwrlz/14.%20A%20Gentle%20Breeze%20at%20Cavi%20Cape.mp3"
+    },
+    {
+      "title": "A Gentle Breeze at Cavi Cape (Inside Bowser)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/xjkwjxahlx/15.%20A%20Gentle%20Breeze%20at%20Cavi%20Cape%20%28Inside%20Bowser%29.mp3"
+    },
+    {
+      "title": "SHOWTIME!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/gewnizrupr/16.%20SHOWTIME%21.mp3"
+    },
+    {
+      "title": "Beachside Dreaming",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/wxufxlmxhj/17.%20Beachside%20Dreaming.mp3"
+    },
+    {
+      "title": "Have a Nice Talk",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/evnncdxhdg/18.%20Have%20a%20Nice%20Talk.mp3"
+    },
+    {
+      "title": "Item Get - Key Item",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/ffdkkkwton/19.%20Item%20Get%20-%20Key%20Item.mp3"
+    },
+    {
+      "title": "Beachside Dreaming (Inside Bowser)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/aqyewfzhzv/20.%20Beachside%20Dreaming%20%28Inside%20Bowser%29.mp3"
+    },
+    {
+      "title": "Mini Game 1",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/oftahprczg/21.%20Mini%20Game%201.mp3"
+    },
+    {
+      "title": "Item Get - Prize",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/vtxyijyqlv/22.%20Item%20Get%20-%20Prize.mp3"
+    },
+    {
+      "title": "Meet Me at Wonder Woods",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/oxzcufhqtu/23.%20Meet%20Me%20at%20Wonder%20Woods.mp3"
+    },
+    {
+      "title": "Meet Me at Wonder Woods (Inside Bowser)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/adilzkjnvk/24.%20Meet%20Me%20at%20Wonder%20Woods%20%28Inside%20Bowser%29.mp3"
+    },
+    {
+      "title": "The Giant",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/vktyyfrqhu/25.%20The%20Giant.mp3"
+    },
+    {
+      "title": "The Path of Secrets",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/vdaihceqsw/26.%20The%20Path%20of%20Secrets.mp3"
+    },
+    {
+      "title": "Mini Game 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/lbxyojgecq/27.%20Mini%20Game%202.mp3"
+    },
+    {
+      "title": "Bowser's Stolen Castle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/xuklcsmeea/28.%20Bowser%27s%20Stolen%20Castle.mp3"
+    },
+    {
+      "title": "It's Fawful!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/cvkhgohpdr/29.%20It%27s%20Fawful%21.mp3"
+    },
+    {
+      "title": "Tough Guy Alert!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/irnyswzcbe/30.%20Tough%20Guy%20Alert%21.mp3"
+    },
+    {
+      "title": "Fanfare - Rank Up",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/znorygyblj/31.%20Fanfare%20-%20Rank%20Up.mp3"
+    },
+    {
+      "title": "Bowser's Stolen Castle (Inside Bowser)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/fjspqussoh/32.%20Bowser%27s%20Stolen%20Castle%20%28Inside%20Bowser%29.mp3"
+    },
+    {
+      "title": "Have a Sweet Talk",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/cpxwludnbu/33.%20Have%20a%20Sweet%20Talk.mp3"
+    },
+    {
+      "title": "Fawful's Evil Plan",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/ehmjmyyixh/34.%20Fawful%27s%20Evil%20Plan.mp3"
+    },
+    {
+      "title": "Resting in Toad Town",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/nfsowucimd/35.%20Resting%20in%20Toad%20Town.mp3"
+    },
+    {
+      "title": "Resting in Toad Town (Inside Bowser)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/jriexdjhrf/36.%20Resting%20in%20Toad%20Town%20%28Inside%20Bowser%29.mp3"
+    },
+    {
+      "title": "Dr. Toadley",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/whyhwldrqf/37.%20Dr.%20Toadley.mp3"
+    },
+    {
+      "title": "Forever in the Plains",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/tvcvlylkwe/38.%20Forever%20in%20the%20Plains.mp3"
+    },
+    {
+      "title": "Forever in the Plains (Inside Bowser)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/zweviuxljy/39.%20Forever%20in%20the%20Plains%20%28Inside%20Bowser%29.mp3"
+    },
+    {
+      "title": "Item Get - Special Item",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/lucvrgbiok/40.%20Item%20Get%20-%20Special%20Item.mp3"
+    },
+    {
+      "title": "Waltz in the Lake",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/ctplvptdrv/41.%20Waltz%20in%20the%20Lake.mp3"
+    },
+    {
+      "title": "Waltz in the Lake (Inside Bowser)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/pggfjogodv/42.%20Waltz%20in%20the%20Lake%20%28Inside%20Bowser%29.mp3"
+    },
+    {
+      "title": "Item Get - Miracle Cure!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/jktfhpmhla/43.%20Item%20Get%20-%20Miracle%20Cure%21.mp3"
+    },
+    {
+      "title": "Final Castle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/nlnvavgrjw/44.%20Final%20Castle.mp3"
+    },
+    {
+      "title": "Final Caste (Inside Bowser)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/cbthbopybx/45.%20Final%20Caste%20%28Inside%20Bowser%29.mp3"
+    },
+    {
+      "title": "Fanfare - Max Rank!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/nqowbfwqpr/46.%20Fanfare%20-%20Max%20Rank%21.mp3"
+    },
+    {
+      "title": "The Castle Depths",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/yqpydjelhy/47.%20The%20Castle%20Depths.mp3"
+    },
+    {
+      "title": "The Castle Depths (Inside Bowser)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/dfxwdwolfv/48.%20The%20Castle%20Depths%20%28Inside%20Bowser%29.mp3"
+    },
+    {
+      "title": "Dark Bowser!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/gflbdbphip/49.%20Dark%20Bowser%21.mp3"
+    },
+    {
+      "title": "The Grand Finale",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/fvkifetehh/50.%20The%20Grand%20Finale.mp3"
+    },
+    {
+      "title": "A Journey To Remember",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/naridbgwkm/51.%20A%20Journey%20To%20Remember.mp3"
+    },
+    {
+      "title": "The End",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/mario-and-luigi-bowser-s-inside-story-ost/gshiasaqip/52.%20The%20End.mp3"
+    }
+  ]
+}
