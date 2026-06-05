@@ -1,3 +1,13 @@
+/* 1. For Safari, Chrome, and older iOS WebViews */
+html::-webkit-scrollbar, 
+body::-webkit-scrollbar {
+  display: none;
+}
+
+/* 2. Modern CSS standard (Firefox and modern Safari versions) */
+html, body {
+  scrollbar-width: none;
+}
 html, body {
     touch-action: manipulation;
 }
