@@ -1,0 +1,449 @@
+{
+  "meta": {
+    "game_title": "Donkey Kong Bananza",
+    "art": "https://mario.wiki.gallery/images/thumb/4/4a/Donkey_Kong_Bananza_Final_Box_Art.png/800px-Donkey_Kong_Bananza_Final_Box_Art.png",
+    "desc": "July 17, 2025"
+  },
+  "songs": [
+    {
+      "title": "Title Time",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/izuqyhmsjy/001.%20Title%20Time.mp3"
+    },
+    {
+      "title": "DK Artist (Simian Segue - Bonus Room Blitz from Donkey Kong Country)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/ugalpdspxp/002.%20DK%20Artist%20%28Simian%20Segue%20-%20Bonus%20Room%20Blitz%20from%20Donkey%20Kong%20Country%29.mp3"
+    },
+    {
+      "title": "Ingot Isle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/zvmkbrdskh/003.%20Ingot%20Isle.mp3"
+    },
+    {
+      "title": "Ingot Isle Cave-In",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/erfmjduasy/004.%20Ingot%20Isle%20Cave-In.mp3"
+    },
+    {
+      "title": "Ingot Isle Cave-In Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/pnomzlgace/005.%20Ingot%20Isle%20Cave-In%20Battle.mp3"
+    },
+    {
+      "title": "Sinkhole",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/kdhpebwxaw/006.%20Sinkhole.mp3"
+    },
+    {
+      "title": "Lagoon Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/qpizxbkipd/007.%20Lagoon%20Layer.mp3"
+    },
+    {
+      "title": "Salvager's Landing (Lagoon Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/unbiqqmdri/008.%20Salvager%27s%20Landing%20%28Lagoon%20Layer%29.mp3"
+    },
+    {
+      "title": "Void Kong Confrontation",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/fghofsavbp/009.%20Void%20Kong%20Confrontation.mp3"
+    },
+    {
+      "title": "Hilltop Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/ormmroypfc/010.%20Hilltop%20Layer.mp3"
+    },
+    {
+      "title": "Fractone Village (Hilltop Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/nljzbpkasf/011.%20Fractone%20Village%20%28Hilltop%20Layer%29.mp3"
+    },
+    {
+      "title": "Canyon Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/spyttkrkwv/012.%20Canyon%20Layer.mp3"
+    },
+    {
+      "title": "Banandium Refinery (Canyon Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/cwuzswmzrk/013.%20Banandium%20Refinery%20%28Canyon%20Layer%29.mp3"
+    },
+    {
+      "title": "Smokestack Depths (Canyon Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/caqdxqgzeg/014.%20Smokestack%20Depths%20%28Canyon%20Layer%29.mp3"
+    },
+    {
+      "title": "The Divide",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/fwuxltojmv/015.%20The%20Divide.mp3"
+    },
+    {
+      "title": "Freezer Path (The Divide)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/eblqpubvfb/016.%20Freezer%20Path%20%28The%20Divide%29.mp3"
+    },
+    {
+      "title": "Forest Path (The Divide)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/pngnztjvus/017.%20Forest%20Path%20%28The%20Divide%29.mp3"
+    },
+    {
+      "title": "Cold-Colt Crest (Freezer Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/xlwsgroxun/018.%20Cold-Colt%20Crest%20%28Freezer%20Layer%29.mp3"
+    },
+    {
+      "title": "Chocolava Lake (Freezer Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/rlvtjagndd/019.%20Chocolava%20Lake%20%28Freezer%20Layer%29.mp3"
+    },
+    {
+      "title": "Canter Creamery (Freezer Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/aqcsipsuli/020.%20Canter%20Creamery%20%28Freezer%20Layer%29.mp3"
+    },
+    {
+      "title": "Hot-Hoof Heater (Freezer Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/nouhcoysas/021.%20Hot-Hoof%20Heater%20%28Freezer%20Layer%29.mp3"
+    },
+    {
+      "title": "Beaky Thicket (Forest Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/tossoupcur/022.%20Beaky%20Thicket%20%28Forest%20Layer%29.mp3"
+    },
+    {
+      "title": "Eggshell Hotel (Forest Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/hkkokxydrp/023.%20Eggshell%20Hotel%20%28Forest%20Layer%29.mp3"
+    },
+    {
+      "title": "Mossplume Marsh (Forest Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/suhalwdutr/024.%20Mossplume%20Marsh%20%28Forest%20Layer%29.mp3"
+    },
+    {
+      "title": "Eggshell Hotel Annex (Forest Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/dncugmlcaz/025.%20Eggshell%20Hotel%20Annex%20%28Forest%20Layer%29.mp3"
+    },
+    {
+      "title": "Bramblenest Bog (Forest Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/yytdxcbmlw/026.%20Bramblenest%20Bog%20%28Forest%20Layer%29.mp3"
+    },
+    {
+      "title": "The Junction",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/otjcoqzozg/027.%20The%20Junction.mp3"
+    },
+    {
+      "title": "Void Chase (The Junction)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/jobhbeixbp/028.%20Void%20Chase%20%28The%20Junction%29.mp3"
+    },
+    {
+      "title": "Resort Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/duknmqkppn/029.%20Resort%20Layer.mp3"
+    },
+    {
+      "title": "Forecaster Refuge (Tempest Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/cxpaxlueph/030.%20Forecaster%20Refuge%20%28Tempest%20Layer%29.mp3"
+    },
+    {
+      "title": "Lava Lake (Tempest Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/jylcbuhdhx/031.%20Lava%20Lake%20%28Tempest%20Layer%29.mp3"
+    },
+    {
+      "title": "Hot-Shower Cave (Tempest Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/ndpzyllhpf/032.%20Hot-Shower%20Cave%20%28Tempest%20Layer%29.mp3"
+    },
+    {
+      "title": "Jumbo Spa (Tempest Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/ukipbzmvtu/033.%20Jumbo%20Spa%20%28Tempest%20Layer%29.mp3"
+    },
+    {
+      "title": "Stormy Weather (Tempest Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/saezudwhsw/034.%20Stormy%20Weather%20%28Tempest%20Layer%29.mp3"
+    },
+    {
+      "title": "Forgotten Pit Entry (Landfill Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/nkswbkwmii/035.%20Forgotten%20Pit%20Entry%20%28Landfill%20Layer%29.mp3"
+    },
+    {
+      "title": "Forgotten Pit (Landfill Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/xpikxlzsll/036.%20Forgotten%20Pit%20%28Landfill%20Layer%29.mp3"
+    },
+    {
+      "title": "Trashtopia (Landfill Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/xobvaecblm/037.%20Trashtopia%20%28Landfill%20Layer%29.mp3"
+    },
+    {
+      "title": "Rambi Rumble (Racing Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/ppsluklyys/038.%20Rambi%20Rumble%20%28Racing%20Layer%29.mp3"
+    },
+    {
+      "title": "Darkness (Radiance Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/ovfvsclvbs/039.%20Darkness%20%28Radiance%20Layer%29.mp3"
+    },
+    {
+      "title": "Elder Court (Radiance Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/vqiyqbrhub/040.%20Elder%20Court%20%28Radiance%20Layer%29.mp3"
+    },
+    {
+      "title": "Solar Control Tower (Radiance Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/ixbejeyyfe/041.%20Solar%20Control%20Tower%20%28Radiance%20Layer%29.mp3"
+    },
+    {
+      "title": "Solar Control Tower On (Radiance Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/ufptequrts/042.%20Solar%20Control%20Tower%20On%20%28Radiance%20Layer%29.mp3"
+    },
+    {
+      "title": "Serpent Sands (Radiance Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/ovtjwurxap/043.%20Serpent%20Sands%20%28Radiance%20Layer%29.mp3"
+    },
+    {
+      "title": "Hiss Hiss Oasis (Radiance Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/aqbbxqempb/044.%20Hiss%20Hiss%20Oasis%20%28Radiance%20Layer%29.mp3"
+    },
+    {
+      "title": "Shade Clouds (Radiance Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/fjbcicrrkx/045.%20Shade%20Clouds%20%28Radiance%20Layer%29.mp3"
+    },
+    {
+      "title": "Crystal-Cobra Den (Radiance Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/aodlpgbtzh/046.%20Crystal-Cobra%20Den%20%28Radiance%20Layer%29.mp3"
+    },
+    {
+      "title": "Jail Hall (Groove Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/pxfrgzoaou/047.%20Jail%20Hall%20%28Groove%20Layer%29.mp3"
+    },
+    {
+      "title": "Disco Hall (Groove Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/ufwiltlixe/048.%20Disco%20Hall%20%28Groove%20Layer%29.mp3"
+    },
+    {
+      "title": "Inside the Great Harmoneel",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/spzthaqauj/049.%20Inside%20the%20Great%20Harmoneel.mp3"
+    },
+    {
+      "title": "Mane Gate Market (Feast Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/fheiuqvyqm/050.%20Mane%20Gate%20Market%20%28Feast%20Layer%29.mp3"
+    },
+    {
+      "title": "Fried Pride Plaza (Feast Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/zxbmewhino/051.%20Fried%20Pride%20Plaza%20%28Feast%20Layer%29.mp3"
+    },
+    {
+      "title": "Grater-Go-Round (Feast Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/rfftistehw/052.%20Grater-Go-Round%20%28Feast%20Layer%29.mp3"
+    },
+    {
+      "title": "Kingly Swings (Feast Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/geptzbgbaf/053.%20Kingly%20Swings%20%28Feast%20Layer%29.mp3"
+    },
+    {
+      "title": "Ferocious Fryhouse (Feast Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/oonttkcvch/054.%20Ferocious%20Fryhouse%20%28Feast%20Layer%29.mp3"
+    },
+    {
+      "title": "Royal Oil Cruise (Feast Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/jlwcwvwtbu/055.%20Royal%20Oil%20Cruise%20%28Feast%20Layer%29.mp3"
+    },
+    {
+      "title": "Cat-Scratch Kitchen (Feast Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/hehgetsvnz/056.%20Cat-Scratch%20Kitchen%20%28Feast%20Layer%29.mp3"
+    },
+    {
+      "title": "Waste-Oil Container (Feast Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/qzrvjvoitz/057.%20Waste-Oil%20Container%20%28Feast%20Layer%29.mp3"
+    },
+    {
+      "title": "Forbidden Layer",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/ftvdidzopi/058.%20Forbidden%20Layer.mp3"
+    },
+    {
+      "title": "Kremling Kourtyard (Planet Core)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/gqiccvpzvc/059.%20Kremling%20Kourtyard%20%28Planet%20Core%29.mp3"
+    },
+    {
+      "title": "First Half (Planet Core)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/ltgityqfon/060.%20First%20Half%20%28Planet%20Core%29.mp3"
+    },
+    {
+      "title": "First Half Battle (Planet Core)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/ayixpjvodv/061.%20First%20Half%20Battle%20%28Planet%20Core%29.mp3"
+    },
+    {
+      "title": "Mine-Cart Ride (Planet Core)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/iavprcnkqv/062.%20Mine-Cart%20Ride%20%28Planet%20Core%29.mp3"
+    },
+    {
+      "title": "Fractone Cradle (Planet Core)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/oynyobtzpk/063.%20Fractone%20Cradle%20%28Planet%20Core%29.mp3"
+    },
+    {
+      "title": "Second Half (Planet Core)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/lqskhypwns/064.%20Second%20Half%20%28Planet%20Core%29.mp3"
+    },
+    {
+      "title": "Climactic Cliff (Planet Core)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/jcjkjaqysh/065.%20Climactic%20Cliff%20%28Planet%20Core%29.mp3"
+    },
+    {
+      "title": "Heart of Gold (Planet Core)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/hfvlrftouo/066.%20Heart%20of%20Gold%20%28Planet%20Core%29.mp3"
+    },
+    {
+      "title": "Banandium Root Tower (Gangplank Galleon from Donkey Kong Country)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/kvlutfjtti/067.%20Banandium%20Root%20Tower%20%28Gangplank%20Galleon%20from%20Donkey%20Kong%20Country%29.mp3"
+    },
+    {
+      "title": "New Donk City",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/dipgnukijl/068.%20New%20Donk%20City.mp3"
+    },
+    {
+      "title": "Sinkhole Dive",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/vfwbtivyjd/069.%20Sinkhole%20Dive.mp3"
+    },
+    {
+      "title": "Sinkhole Dive (Forbidden Layer)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/mpoggiowwm/070.%20Sinkhole%20Dive%20%28Forbidden%20Layer%29.mp3"
+    },
+    {
+      "title": "Sinkhole Dive (Planet Core)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/tuhraphpxe/071.%20Sinkhole%20Dive%20%28Planet%20Core%29.mp3"
+    },
+    {
+      "title": "Kong Bananza",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/dptzvytehw/072.%20Kong%20Bananza.mp3"
+    },
+    {
+      "title": "Kong Bananza (Instrumental)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/aufykqbcsc/073.%20Kong%20Bananza%20%28Instrumental%29.mp3"
+    },
+    {
+      "title": "Zebra Bananza",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/rkeztkbppj/074.%20Zebra%20Bananza.mp3"
+    },
+    {
+      "title": "Zebra Bananza (Instrumental)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/waujyqcotq/075.%20Zebra%20Bananza%20%28Instrumental%29.mp3"
+    },
+    {
+      "title": "Ostrich Bananza",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/wkjnsyssjy/076.%20Ostrich%20Bananza.mp3"
+    },
+    {
+      "title": "Ostrich Bananza (Instrumental)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/kiybxvfrvn/077.%20Ostrich%20Bananza%20%28Instrumental%29.mp3"
+    },
+    {
+      "title": "Elephant Bananza",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/joijpaltlu/078.%20Elephant%20Bananza.mp3"
+    },
+    {
+      "title": "Elephant Bananza (Instrumental)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/knhtxkncuo/079.%20Elephant%20Bananza%20%28Instrumental%29.mp3"
+    },
+    {
+      "title": "Snake Bananza",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/ugsumlytrd/080.%20Snake%20Bananza.mp3"
+    },
+    {
+      "title": "Snake Bananza (Instrumental)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/fslvrxofky/081.%20Snake%20Bananza%20%28Instrumental%29.mp3"
+    },
+    {
+      "title": "Peekabruiser Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/ipgpdzjftq/082.%20Peekabruiser%20Battle.mp3"
+    },
+    {
+      "title": "Grumpy Kong Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/shicsmqvhy/083.%20Grumpy%20Kong%20Battle.mp3"
+    },
+    {
+      "title": "Mad Mixer Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/weajwiegzs/084.%20Mad%20Mixer%20Battle.mp3"
+    },
+    {
+      "title": "Stompenclomper Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/kkjmcrmypq/085.%20Stompenclomper%20Battle.mp3"
+    },
+    {
+      "title": "Poppy Kong Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/zvlsacsbyo/086.%20Poppy%20Kong%20Battle.mp3"
+    },
+    {
+      "title": "Inflammonite Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/nivbsirufq/087.%20Inflammonite%20Battle.mp3"
+    },
+    {
+      "title": "Abracajabya Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/xcapibckre/088.%20Abracajabya%20Battle.mp3"
+    },
+    {
+      "title": "Void Kong Battle 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/wbkurxdyyx/089.%20Void%20Kong%20Battle%201.mp3"
+    },
+    {
+      "title": "Void Kong Battle 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/xylkczlegn/090.%20Void%20Kong%20Battle%202.mp3"
+    },
+    {
+      "title": "Sinister Blusterwing Battle 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/ukxwckujho/091.%20Sinister%20Blusterwing%20Battle%201.mp3"
+    },
+    {
+      "title": "Sinister Blusterwing Battle 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/hjjgvzbzte/092.%20Sinister%20Blusterwing%20Battle%202.mp3"
+    },
+    {
+      "title": "Muckety-Muck Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/tksqmmsrtx/093.%20Muckety-Muck%20Battle.mp3"
+    },
+    {
+      "title": "K. Rool, King of Rot Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/dkcnkzqgoi/094.%20K.%20Rool%2C%20King%20of%20Rot%20Battle.mp3"
+    },
+    {
+      "title": "Getaway (DK Rap from Donkey Kong 64)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/ubvddqchov/095.%20Getaway%20%28DK%20Rap%20from%20Donkey%20Kong%2064%29.mp3"
+    },
+    {
+      "title": "Closet",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/nneqixvigt/096.%20Closet.mp3"
+    },
+    {
+      "title": "Challenge Course 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/ifxkdralzf/097.%20Challenge%20Course%201.mp3"
+    },
+    {
+      "title": "Challenge Course 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/efbuizanjk/098.%20Challenge%20Course%202.mp3"
+    },
+    {
+      "title": "Challenge Course 3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/zgxugtipgg/099.%20Challenge%20Course%203.mp3"
+    },
+    {
+      "title": "Challenge Course 4",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/xfhgaeqyfg/100.%20Challenge%20Course%204.mp3"
+    },
+    {
+      "title": "Challenge Course 5",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/gjuafmzlgo/101.%20Challenge%20Course%205.mp3"
+    },
+    {
+      "title": "2D Challenge Course 1 (DK Island Swing - Jungle Hijinx from Donkey Kong Country)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/heczibbrov/102.%202D%20Challenge%20Course%201%20%28DK%20Island%20Swing%20-%20Jungle%20Hijinx%20from%20Donkey%20Kong%20Country%29.mp3"
+    },
+    {
+      "title": "2D Challenge Course 2 (Stickerbush Symphony from Donkey Kong Country 2)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/swbrvfxvyb/103.%202D%20Challenge%20Course%202%20%28Stickerbush%20Symphony%20from%20Donkey%20Kong%20Country%202%29.mp3"
+    },
+    {
+      "title": "2D Challenge Course 3 (Mine Kart Madness from Donkey Kong Country)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/rrjiqhgqnf/104.%202D%20Challenge%20Course%203%20%28Mine%20Kart%20Madness%20from%20Donkey%20Kong%20Country%29.mp3"
+    },
+    {
+      "title": "2D Challenge Course 4 (Round Start BGM - Round 1 BGM - Hammer BGM from Donkey Kong)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/kgxabwkzxu/105.%202D%20Challenge%20Course%204%20%28Round%20Start%20BGM%20-%20Round%201%20BGM%20-%20Hammer%20BGM%20from%20Donkey%20Kong%29.mp3"
+    },
+    {
+      "title": "Battle Challenge",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/xkgommzndo/106.%20Battle%20Challenge.mp3"
+    },
+    {
+      "title": "Battle Challenge Lobby",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/ayweguhcld/107.%20Battle%20Challenge%20Lobby.mp3"
+    },
+    {
+      "title": "Bonus Stage (Token Tango from Donkey Kong Country 2)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/bhbspfubbk/108.%20Bonus%20Stage%20%28Token%20Tango%20from%20Donkey%20Kong%20Country%202%29.mp3"
+    },
+    {
+      "title": "Breaking Through (Heart of Gold)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/brnejnptud/109.%20Breaking%20Through%20%28Heart%20of%20Gold%29.mp3"
+    },
+    {
+      "title": "Breaking Through (Heart of Gold) (Karaoke)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-bananza-breaking-through-heart-of-gold-2025/gliwoqquzb/110.%20Breaking%20Through%20%28Heart%20of%20Gold%29%20%28Karaoke%29.mp3"
+    }
+  ]
+}
