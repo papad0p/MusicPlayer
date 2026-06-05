@@ -1,0 +1,1729 @@
+{
+  "meta": {
+    "game_title": "Nintendo Land",
+    "art": "https://mario.wiki.gallery/images/thumb/2/21/Nintendoland_boxcover.png/800px-Nintendoland_boxcover.png",
+    "desc": "November 18, 2012"
+  },
+  "songs": [
+    {
+      "title": "Nintendo Land - Startup Theme (Short)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ckshjyrn/1-01.%20Nintendo%20Land%20-%20Startup%20Theme%20%28Short%29.mp3"
+    },
+    {
+      "title": "Nintendo Land - Startup Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/qqebrfak/1-02.%20Nintendo%20Land%20-%20Startup%20Theme.mp3"
+    },
+    {
+      "title": "Nintendo Land - Title Screen",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ceqrkavb/1-03.%20Nintendo%20Land%20-%20Title%20Screen.mp3"
+    },
+    {
+      "title": "Nintendo Land - Intro Sequence",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/tsijztwc/1-04.%20Nintendo%20Land%20-%20Intro%20Sequence.mp3"
+    },
+    {
+      "title": "Nintendo Land - First Demo 1 - Theme of Monita",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/uptynsaz/1-05.%20Nintendo%20Land%20-%20First%20Demo%201%20-%20Theme%20of%20Monita.mp3"
+    },
+    {
+      "title": "Nintendo Land - First Demo 2 - Tower Appear",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/twdznsaw/1-06.%20Nintendo%20Land%20-%20First%20Demo%202%20-%20Tower%20Appear.mp3"
+    },
+    {
+      "title": "Nintendo Land - First Demo 3 - Gate Appear to First Main Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gssoqlig/1-07.%20Nintendo%20Land%20-%20First%20Demo%203%20-%20Gate%20Appear%20to%20First%20Main%20Theme.mp3"
+    },
+    {
+      "title": "Nintendo Land - Main Theme (Daytime)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ixpebtqx/1-08.%20Nintendo%20Land%20-%20Main%20Theme%20%28Daytime%29.mp3"
+    },
+    {
+      "title": "Nintendo Land - Main Theme (Daytime) (8-Bit)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ssmidtgz/1-09.%20Nintendo%20Land%20-%20Main%20Theme%20%28Daytime%29%20%288-Bit%29.mp3"
+    },
+    {
+      "title": "Nintendo Land - Main Theme (Daytime) (Mix 1+2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/givdgvlq/1-10.%20Nintendo%20Land%20-%20Main%20Theme%20%28Daytime%29%20%28Mix%201%2B2%29.mp3"
+    },
+    {
+      "title": "Nintendo Land - Main Theme (Evening)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/xqliipbl/1-11.%20Nintendo%20Land%20-%20Main%20Theme%20%28Evening%29.mp3"
+    },
+    {
+      "title": "Nintendo Land - Main Theme (Evening) (8-Bit)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ccfufugw/1-12.%20Nintendo%20Land%20-%20Main%20Theme%20%28Evening%29%20%288-Bit%29.mp3"
+    },
+    {
+      "title": "Nintendo Land - Main Theme (Evening) (Mix 1+2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/qpajrjvb/1-13.%20Nintendo%20Land%20-%20Main%20Theme%20%28Evening%29%20%28Mix%201%2B2%29.mp3"
+    },
+    {
+      "title": "Nintendo Land - Main Theme (Night)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/vvuijweg/1-14.%20Nintendo%20Land%20-%20Main%20Theme%20%28Night%29.mp3"
+    },
+    {
+      "title": "Nintendo Land - Main Theme (Night) (8-Bit)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/vjjslavd/1-15.%20Nintendo%20Land%20-%20Main%20Theme%20%28Night%29%20%288-Bit%29.mp3"
+    },
+    {
+      "title": "Nintendo Land - Main Theme (Night) (Mix 1+2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/fncwcwct/1-16.%20Nintendo%20Land%20-%20Main%20Theme%20%28Night%29%20%28Mix%201%2B2%29.mp3"
+    },
+    {
+      "title": "Nintendo Land - Main Theme (Daytime) Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ooaldkor/1-17.%20Nintendo%20Land%20-%20Main%20Theme%20%28Daytime%29%20Mix.mp3"
+    },
+    {
+      "title": "Nintendo Land - Main Theme (Evening) Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/rgixnxyb/1-18.%20Nintendo%20Land%20-%20Main%20Theme%20%28Evening%29%20Mix.mp3"
+    },
+    {
+      "title": "Nintendo Land - Main Theme (Night) Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/iowpixnw/1-19.%20Nintendo%20Land%20-%20Main%20Theme%20%28Night%29%20Mix.mp3"
+    },
+    {
+      "title": "Nintendo Land - Coin Game",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ugahitwb/1-20.%20Nintendo%20Land%20-%20Coin%20Game.mp3"
+    },
+    {
+      "title": "Nintendo Land - Parade",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/tmekoqkd/1-21.%20Nintendo%20Land%20-%20Parade.mp3"
+    },
+    {
+      "title": "Nintendo Land - Theme of Monita",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/myhsorts/1-22.%20Nintendo%20Land%20-%20Theme%20of%20Monita.mp3"
+    },
+    {
+      "title": "Nintendo Land - Dark Monita",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/hkazvdeo/1-23.%20Nintendo%20Land%20-%20Dark%20Monita.mp3"
+    },
+    {
+      "title": "Nintendo Land - Sequence Before Staff Credits",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gqjwgrpx/1-24.%20Nintendo%20Land%20-%20Sequence%20Before%20Staff%20Credits.mp3"
+    },
+    {
+      "title": "Nintendo Land - Staff Credits (First Half)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/tcfvkpta/1-25.%20Nintendo%20Land%20-%20Staff%20Credits%20%28First%20Half%29.mp3"
+    },
+    {
+      "title": "Nintendo Land - Staff Credits (Latter Half)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/whucbazw/1-26.%20Nintendo%20Land%20-%20Staff%20Credits%20%28Latter%20Half%29.mp3"
+    },
+    {
+      "title": "Nintendo Land - Game Start",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/hxrrkylj/1-27.%20Nintendo%20Land%20-%20Game%20Start.mp3"
+    },
+    {
+      "title": "Nintendo Land - Game Results",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/nmxdvuma/1-28.%20Nintendo%20Land%20-%20Game%20Results.mp3"
+    },
+    {
+      "title": "Nintendo Land - Found Mii",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/sjvbtnkj/1-29.%20Nintendo%20Land%20-%20Found%20Mii.mp3"
+    },
+    {
+      "title": "Nintendo Land - Stamp Get",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/tpubypbp/1-30.%20Nintendo%20Land%20-%20Stamp%20Get.mp3"
+    },
+    {
+      "title": "Nintendo Land - Stamp Get (All Stamps Collected)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/vhzcnjdr/1-31.%20Nintendo%20Land%20-%20Stamp%20Get%20%28All%20Stamps%20Collected%29.mp3"
+    },
+    {
+      "title": "Nintendo Land - New Options Available",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/yqitslyk/1-32.%20Nintendo%20Land%20-%20New%20Options%20Available.mp3"
+    },
+    {
+      "title": "Nintendo Land - All Platinum Trophies Earned",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gblekony/1-33.%20Nintendo%20Land%20-%20All%20Platinum%20Trophies%20Earned.mp3"
+    },
+    {
+      "title": "Animal Crossing Sweet Day - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ctjrggoz/2-01.%20Animal%20Crossing%20Sweet%20Day%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Animal Crossing Sweet Day - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/hlkrdrac/2-02.%20Animal%20Crossing%20Sweet%20Day%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Animal Crossing Sweet Day - Gate",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ilfruygm/2-03.%20Animal%20Crossing%20Sweet%20Day%20-%20Gate.mp3"
+    },
+    {
+      "title": "Animal Crossing Sweet Day - Tutorial",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/qstomvpn/2-04.%20Animal%20Crossing%20Sweet%20Day%20-%20Tutorial.mp3"
+    },
+    {
+      "title": "Animal Crossing Sweet Day - Start Demo",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/xvogoann/2-05.%20Animal%20Crossing%20Sweet%20Day%20-%20Start%20Demo.mp3"
+    },
+    {
+      "title": "Animal Crossing Sweet Day - Cam Demo",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/yeczpcpr/2-06.%20Animal%20Crossing%20Sweet%20Day%20-%20Cam%20Demo.mp3"
+    },
+    {
+      "title": "Animal Crossing Sweet Day - Sweet Day Island Tour",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/pbkylijt/2-07.%20Animal%20Crossing%20Sweet%20Day%20-%20Sweet%20Day%20Island%20Tour.mp3"
+    },
+    {
+      "title": "Animal Crossing Sweet Day - Sweet Day Island Tour (Fast)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/tmccdltm/2-08.%20Animal%20Crossing%20Sweet%20Day%20-%20Sweet%20Day%20Island%20Tour%20%28Fast%29.mp3"
+    },
+    {
+      "title": "Animal Crossing Sweet Day - Downtown Sweet Day",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/fofhxqlk/2-09.%20Animal%20Crossing%20Sweet%20Day%20-%20Downtown%20Sweet%20Day.mp3"
+    },
+    {
+      "title": "Animal Crossing Sweet Day - Downtown Sweet Day (Fast)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/oqlkpwmu/2-10.%20Animal%20Crossing%20Sweet%20Day%20-%20Downtown%20Sweet%20Day%20%28Fast%29.mp3"
+    },
+    {
+      "title": "Animal Crossing Sweet Day - Game Over (Short)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/mbxiwhyx/2-11.%20Animal%20Crossing%20Sweet%20Day%20-%20Game%20Over%20%28Short%29.mp3"
+    },
+    {
+      "title": "Animal Crossing Sweet Day - Game Over",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/qkfvlrdr/2-12.%20Animal%20Crossing%20Sweet%20Day%20-%20Game%20Over.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/wkimkopj/3-01.%20Balloon%20Trip%20Breeze%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/azwicnje/3-02.%20Balloon%20Trip%20Breeze%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Gate",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/vpmqubvc/3-03.%20Balloon%20Trip%20Breeze%20-%20Gate.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Tutorial",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/wbslbxlk/3-04.%20Balloon%20Trip%20Breeze%20-%20Tutorial.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Start Demo",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/skxjaysq/3-05.%20Balloon%20Trip%20Breeze%20-%20Start%20Demo.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Morning",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/eycunhwm/3-06.%20Balloon%20Trip%20Breeze%20-%20Morning.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Morning (Rain Mix)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/vscjosuu/3-07.%20Balloon%20Trip%20Breeze%20-%20Morning%20%28Rain%20Mix%29.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Morning (Wind Mix)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/qubypaky/3-08.%20Balloon%20Trip%20Breeze%20-%20Morning%20%28Wind%20Mix%29.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Morning (Rain and Wind Mix)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/nrwjgdyh/3-09.%20Balloon%20Trip%20Breeze%20-%20Morning%20%28Rain%20and%20Wind%20Mix%29.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Morning Medley",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/oxxvighr/3-10.%20Balloon%20Trip%20Breeze%20-%20Morning%20Medley.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Noon",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/mmvsacjo/3-11.%20Balloon%20Trip%20Breeze%20-%20Noon.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Noon (Rain Mix)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/qnsxnvpl/3-12.%20Balloon%20Trip%20Breeze%20-%20Noon%20%28Rain%20Mix%29.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Noon (Wind Mix)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ngrovlsh/3-13.%20Balloon%20Trip%20Breeze%20-%20Noon%20%28Wind%20Mix%29.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze -Noon (Rain and Wind Mix)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/hoyajrgi/3-14.%20Balloon%20Trip%20Breeze%20-Noon%20%28Rain%20and%20Wind%20Mix%29.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Noon Medley",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/uasorpyx/3-15.%20Balloon%20Trip%20Breeze%20-%20Noon%20Medley.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Evening",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/tauykbfu/3-16.%20Balloon%20Trip%20Breeze%20-%20Evening.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Evening (Rain Mix)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/jkwgobsg/3-17.%20Balloon%20Trip%20Breeze%20-%20Evening%20%28Rain%20Mix%29.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Evening (Wind Mix)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/dznrtvvp/3-18.%20Balloon%20Trip%20Breeze%20-%20Evening%20%28Wind%20Mix%29.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Evening (Rain and Wind Mix)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/mpqjwhud/3-19.%20Balloon%20Trip%20Breeze%20-%20Evening%20%28Rain%20and%20Wind%20Mix%29.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Evening Medley",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ihjxmujl/3-20.%20Balloon%20Trip%20Breeze%20-%20Evening%20Medley.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Night",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/eplmykci/3-21.%20Balloon%20Trip%20Breeze%20-%20Night.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Night (Rain Mix)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/jxiystpu/3-22.%20Balloon%20Trip%20Breeze%20-%20Night%20%28Rain%20Mix%29.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Night (Wind Mix)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/bbaxmtii/3-23.%20Balloon%20Trip%20Breeze%20-%20Night%20%28Wind%20Mix%29.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Night (Rain and Wind Mix)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/rlcftcif/3-24.%20Balloon%20Trip%20Breeze%20-%20Night%20%28Rain%20and%20Wind%20Mix%29.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Night Medley",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/egtawgqm/3-25.%20Balloon%20Trip%20Breeze%20-%20Night%20Medley.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Bonus Stage",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ltlykfuj/3-26.%20Balloon%20Trip%20Breeze%20-%20Bonus%20Stage.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Game Over",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/jttlxfia/3-27.%20Balloon%20Trip%20Breeze%20-%20Game%20Over.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - Clear",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/dolmelqu/3-28.%20Balloon%20Trip%20Breeze%20-%20Clear.mp3"
+    },
+    {
+      "title": "Balloon Trip Breeze - All Clear",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/byoxvlrc/3-29.%20Balloon%20Trip%20Breeze%20-%20All%20Clear.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/kvvtgzdr/4-01.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Gate",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/enzjyoyb/4-02.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Gate.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/adnflryv/4-02.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Tutorial",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/lzsnoedd/4-03.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Tutorial.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Goal (Tutorial)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gywogoyb/4-04.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Goal%20%28Tutorial%29.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Demo Opening",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/nmthfgoa/4-05.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Demo%20Opening.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Demo Opening Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/kzqhnruz/4-06.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Demo%20Opening%20Mix.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Demo Opening (Mix 2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ljnnygiy/4-07.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Demo%20Opening%20%28Mix%202%29.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Start Demo",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/rmmyfflp/4-08.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Start%20Demo.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Main Theme (Stage 1)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/qittmemu/4-09.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Main%20Theme%20%28Stage%201%29.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Main Theme (Stages 1-3)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/mbymnfmt/4-10.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Main%20Theme%20%28Stages%201-3%29.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Main Theme (Stage 2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/jnpixmtg/4-11.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Main%20Theme%20%28Stage%202%29.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Main Theme (Stages 2-4)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ahkdnegt/4-12.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Main%20Theme%20%28Stages%202-4%29.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Main Theme (Stage 3)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/zrnlumby/4-13.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Main%20Theme%20%28Stage%203%29.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Main Theme (Stage 4)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/mohwnwvo/4-14.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Main%20Theme%20%28Stage%204%29.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Game Over",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gpebutim/4-15.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Game%20Over.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Flip Panel Demo",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ltkwzkzt/4-16.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Flip%20Panel%20Demo.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Goal",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/tptxhtxg/4-17.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Goal.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Goal (Stages 3-4)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/msdngphs/4-18.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Goal%20%28Stages%203-4%29.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Results",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/rfzhntdk/4-19.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Results.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Results Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/sjsjriri/4-20.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Results%20Mix.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Results (Mix 2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/qcracjqc/4-21.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Results%20%28Mix%202%29.mp3"
+    },
+    {
+      "title": "Donkey Kong's Crash Course - Results (Mix 1+2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/pqjwhvgs/4-22.%20Donkey%20Kong%27s%20Crash%20Course%20-%20Results%20%28Mix%201%2B2%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/wdemvqvd/5-01.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/hzbgecav/5-02.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Gate",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/cymnegue/5-03.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Gate.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Tutorial",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/myecwdby/5-04.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Tutorial.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Open Camera",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ljopkgak/5-05.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Open%20Camera.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - The Grasslands",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/zpdupqjx/5-06.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20The%20Grasslands.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Lost Woods",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/kkusfvpm/5-07.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Lost%20Woods.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - The Dark World",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ojfxyafc/5-08.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20The%20Dark%20World.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - The Dark World (Inside Mix)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/uqvfpjbd/5-09.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20The%20Dark%20World%20%28Inside%20Mix%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - The Dark World Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/mykcjlfs/5-10.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20The%20Dark%20World%20Mix.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - The Dark World (Inside Mix 2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/vcylkshj/5-11.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20The%20Dark%20World%20%28Inside%20Mix%202%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - The Dark World (Mix 1+2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/yoajwegv/5-12.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20The%20Dark%20World%20%28Mix%201%2B2%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - The Dark World (Alternate)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/hagdyive/5-13.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20The%20Dark%20World%20%28Alternate%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Temple",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/jgebweek/5-14.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Temple.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Temple (Inside Mix)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/nhzadqtx/5-15.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Temple%20%28Inside%20Mix%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Temple (Mix 1+2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/iuzouigi/5-16.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Temple%20%28Mix%201%2B2%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Temple (Alternate)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ubwfmsbe/5-17.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Temple%20%28Alternate%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Temple (Pre-Boss)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/uhdvsdlx/5-18.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Temple%20%28Pre-Boss%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Temple (Pre-Boss) (Inside Mix)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/cvwvnbvy/5-19.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Temple%20%28Pre-Boss%29%20%28Inside%20Mix%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Temple (Pre-Boss) Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/dyhrkawh/5-20.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Temple%20%28Pre-Boss%29%20Mix.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Temple (Pre-Boss) (Mix 1+2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/udhzcokk/5-21.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Temple%20%28Pre-Boss%29%20%28Mix%201%2B2%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Temple Medley",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/useuiisp/5-22.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Temple%20Medley.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Gerudo Valley",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ufswhsut/5-23.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Gerudo%20Valley.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Gerudo Valley (Inside Mix 1)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/jqdsdoiz/5-24.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Gerudo%20Valley%20%28Inside%20Mix%201%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Gerudo Valley Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/zzxpfiab/5-25.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Gerudo%20Valley%20Mix.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Gerudo Valley (Inside Mix 2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gzhnruxe/5-26.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Gerudo%20Valley%20%28Inside%20Mix%202%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Gerudo Valley (Mix 1+2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ejilhcps/5-27.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Gerudo%20Valley%20%28Mix%201%2B2%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Gerudo Valley (Alternate)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/vxdyitvx/5-28.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Gerudo%20Valley%20%28Alternate%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Gerudo Valley (Field 6)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ajuxamjh/5-29.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Gerudo%20Valley%20%28Field%206%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Gerudo Valley (Field 6) (Inside Mix 1)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/lijvbtoo/5-30.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Gerudo%20Valley%20%28Field%206%29%20%28Inside%20Mix%201%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Gerudo Valley (Field 6) Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/dykesxnu/5-31.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Gerudo%20Valley%20%28Field%206%29%20Mix.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Gerudo Valley (Field 6) (Inside Mix 2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/lwyecvyd/5-32.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Gerudo%20Valley%20%28Field%206%29%20%28Inside%20Mix%202%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Gerudo Valley (Field 6) (Mix 1+2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/xeddftcf/5-33.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Gerudo%20Valley%20%28Field%206%29%20%28Mix%201%2B2%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Boss Intro (Background)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/vmxbrdrw/5-34.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Boss%20Intro%20%28Background%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Boss Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/jhitvunf/5-35.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Boss%20Intro.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Boss Intro 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/nxakxjdo/5-36.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Boss%20Intro%202.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Boss Intro 3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/lolnhuel/5-37.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Boss%20Intro%203.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Boss Intro (Large)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/raeulwyd/5-38.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Boss%20Intro%20%28Large%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Boss Intro (Large) 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/wwsxnukr/5-39.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Boss%20Intro%20%28Large%29%202.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Boss Intro (Large) 3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/etiiqhmn/5-40.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Boss%20Intro%20%28Large%29%203.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Boss Intro Final",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ejfxajvy/5-41.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Boss%20Intro%20Final.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Boss Battle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gkiirlce/5-42.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Boss%20Battle.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Ganon Battle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/nefqlkqy/5-43.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Ganon%20Battle.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Last Ganon Battle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/xqotcife/5-44.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Last%20Ganon%20Battle.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Ganon Battle Medley",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/fpitvygh/5-45.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Ganon%20Battle%20Medley.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Game Over",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/velqwjgd/5-46.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Game%20Over.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest -Triforce Get",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/yittomum/5-47.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-Triforce%20Get.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Triforce Get (Master Clear)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/zlihmmzm/5-48.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Triforce%20Get%20%28Master%20Clear%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Time Attack",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ndcawgqm/5-49.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Time%20Attack.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Time Attack (Clear)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/lusbeteo/5-50.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Time%20Attack%20%28Clear%29.mp3"
+    },
+    {
+      "title": "The Legend of Zelda Battle Quest - Time Attack (Master Clear)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/jdneknia/5-51.%20The%20Legend%20of%20Zelda%20Battle%20Quest%20-%20Time%20Attack%20%28Master%20Clear%29.mp3"
+    },
+    {
+      "title": "Luigi's Ghost Mansion - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gbortrbg/6-01.%20Luigi%27s%20Ghost%20Mansion%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Luigi's Ghost Mansion - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/dzlgxtdi/6-02.%20Luigi%27s%20Ghost%20Mansion%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Luigi's Ghost Mansion - Gate",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/hjaazxms/6-03.%20Luigi%27s%20Ghost%20Mansion%20-%20Gate.mp3"
+    },
+    {
+      "title": "Luigi's Ghost Mansion - Tutorial",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/fxvncvyh/6-04.%20Luigi%27s%20Ghost%20Mansion%20-%20Tutorial.mp3"
+    },
+    {
+      "title": "Luigi's Ghost Mansion - Opening",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/nrwiabfy/6-05.%20Luigi%27s%20Ghost%20Mansion%20-%20Opening.mp3"
+    },
+    {
+      "title": "Luigi's Ghost Mansion - Main Floor (Short)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ahjysrhi/6-06.%20Luigi%27s%20Ghost%20Mansion%20-%20Main%20Floor%20%28Short%29.mp3"
+    },
+    {
+      "title": "Luigi's Ghost Mansion -  Main Floor",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/vbxjeqsp/6-07.%20Luigi%27s%20Ghost%20Mansion%20-%20Main%20Floor.mp3"
+    },
+    {
+      "title": "Luigi's Ghost Mansion - 08 The Basement and The Storage Room",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/yxqljmjl/6-08.%20Luigi%27s%20Ghost%20Mansion%20-%2008%20The%20Basement%20and%20The%20Storage%20Room.mp3"
+    },
+    {
+      "title": "Luigi's Ghost Mansion - 09 Research Lab",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/zpctjpwp/6-09.%20Luigi%27s%20Ghost%20Mansion%20-%2009%20Research%20Lab.mp3"
+    },
+    {
+      "title": "Luigi's Ghost Mansion - 10 Monita's Rooftop",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/jzubwfki/6-10.%20Luigi%27s%20Ghost%20Mansion%20-%2010%20Monita%27s%20Rooftop.mp3"
+    },
+    {
+      "title": "Luigi's Ghost Mansion - 11 Caught By Ghost",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/nohssjsm/6-11.%20Luigi%27s%20Ghost%20Mansion%20-%2011%20Caught%20By%20Ghost.mp3"
+    },
+    {
+      "title": "Luigi's Ghost Mansion - 12 Caught By Ghost 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gufsyoak/6-12.%20Luigi%27s%20Ghost%20Mansion%20-%2012%20Caught%20By%20Ghost%202.mp3"
+    },
+    {
+      "title": "Luigi's Ghost Mansion - 13 Ghost Loses",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/zqfehwmx/6-13.%20Luigi%27s%20Ghost%20Mansion%20-%2013%20Ghost%20Loses.mp3"
+    },
+    {
+      "title": "Luigi's Ghost Mansion - 14 Draw",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/yzdsdnhx/6-14.%20Luigi%27s%20Ghost%20Mansion%20-%2014%20Draw.mp3"
+    },
+    {
+      "title": "Luigi's Ghost Mansion - 15 Ghost Wins",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/nzismigh/6-15.%20Luigi%27s%20Ghost%20Mansion%20-%2015%20Ghost%20Wins.mp3"
+    },
+    {
+      "title": "Mario Chase - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/sqcmgrsl/7-01.%20Mario%20Chase%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Mario Chase - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/dhbjrggn/7-02.%20Mario%20Chase%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Mario Chase - Gate",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/xzdsgalb/7-03.%20Mario%20Chase%20-%20Gate.mp3"
+    },
+    {
+      "title": "Mario Chase - Tutorial",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/yoamfsvz/7-04.%20Mario%20Chase%20-%20Tutorial.mp3"
+    },
+    {
+      "title": "Mario Chase - Open Demo",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/npjdngro/7-05.%20Mario%20Chase%20-%20Open%20Demo.mp3"
+    },
+    {
+      "title": "Mario Chase - Cam Demo",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/tazuyjaa/7-06.%20Mario%20Chase%20-%20Cam%20Demo.mp3"
+    },
+    {
+      "title": "Mario Chase - Chase Arena",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/bdnejgdy/7-07.%20Mario%20Chase%20-%20Chase%20Arena.mp3"
+    },
+    {
+      "title": "Mario Chase - Chase Arena (60 Seconds Left)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/hqhqfddf/7-08.%20Mario%20Chase%20-%20Chase%20Arena%20%2860%20Seconds%20Left%29.mp3"
+    },
+    {
+      "title": "Mario Chase - Chase Arena (30 Seconds Left)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/rsmjkwbt/7-09.%20Mario%20Chase%20-%20Chase%20Arena%20%2830%20Seconds%20Left%29.mp3"
+    },
+    {
+      "title": "Mario Chase - Mud River Run",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/qyubympn/7-10.%20Mario%20Chase%20-%20Mud%20River%20Run.mp3"
+    },
+    {
+      "title": "Mario Chase -  Mud River Run (60 Seconds Left)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/uksgdyjx/7-11.%20Mario%20Chase%20-%20Mud%20River%20Run%20%2860%20Seconds%20Left%29.mp3"
+    },
+    {
+      "title": "Mario Chase - Mud River Run (30 Seconds Left)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/kilfvlqz/7-12.%20Mario%20Chase%20-%20Mud%20River%20Run%20%2830%20Seconds%20Left%29.mp3"
+    },
+    {
+      "title": "Mario Chase - Slide Hill",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/zwlnjilg/7-13.%20Mario%20Chase%20-%20Slide%20Hill.mp3"
+    },
+    {
+      "title": "Mario Chase - Slide Hill (60 Seconds Left)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/zbjqdvqr/7-14.%20Mario%20Chase%20-%20Slide%20Hill%20%2860%20Seconds%20Left%29.mp3"
+    },
+    {
+      "title": "Mario Chase - Slide Hill (30 Seconds Left)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/leqrmhbl/7-15.%20Mario%20Chase%20-%20Slide%20Hill%20%2830%20Seconds%20Left%29.mp3"
+    },
+    {
+      "title": "Mario Chase - Star Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/bymqsqza/7-16.%20Mario%20Chase%20-%20Star%20Theme.mp3"
+    },
+    {
+      "title": "Mario Chase - Speed Up",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/faldjjvz/7-17.%20Mario%20Chase%20-%20Speed%20Up.mp3"
+    },
+    {
+      "title": "Mario Chase - Finish",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/kdkpuekp/7-18.%20Mario%20Chase%20-%20Finish.mp3"
+    },
+    {
+      "title": "Mario Chase - Results",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ubzspxty/7-19.%20Mario%20Chase%20-%20Results.mp3"
+    },
+    {
+      "title": "Metroid Blast - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/mpmrxoct/8-01.%20Metroid%20Blast%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Metroid Blast - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/lasnknie/8-02.%20Metroid%20Blast%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Metroid Blast - Gate",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/wukoqmog/8-03.%20Metroid%20Blast%20-%20Gate.mp3"
+    },
+    {
+      "title": "Metroid Blast - Tutorial",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/qlhbnlra/8-04.%20Metroid%20Blast%20-%20Tutorial.mp3"
+    },
+    {
+      "title": "Metroid Blast - Cam Demo",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/dpmsabdo/8-05.%20Metroid%20Blast%20-%20Cam%20Demo.mp3"
+    },
+    {
+      "title": "Metroid Blast - Main Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/hxnanlra/8-06.%20Metroid%20Blast%20-%20Main%20Theme.mp3"
+    },
+    {
+      "title": "Metroid Blast - Main Theme (With Synth)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/cnelppgn/8-07.%20Metroid%20Blast%20-%20Main%20Theme%20%28With%20Synth%29.mp3"
+    },
+    {
+      "title": "Metroid Blast - Main Theme Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/vqqhpdvt/8-08.%20Metroid%20Blast%20-%20Main%20Theme%20Mix.mp3"
+    },
+    {
+      "title": "Metroid Blast - Main Theme (Long)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/fvohvfod/8-09.%20Metroid%20Blast%20-%20Main%20Theme%20%28Long%29.mp3"
+    },
+    {
+      "title": "Metroid Blast - Sea Tower",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/czpcqzwn/8-10.%20Metroid%20Blast%20-%20Sea%20Tower.mp3"
+    },
+    {
+      "title": "Metroid Blast - Sea Tower (With Percussion)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/zgkfxvko/8-11.%20Metroid%20Blast%20-%20Sea%20Tower%20%28With%20Percussion%29.mp3"
+    },
+    {
+      "title": "Metroid Blast - Sea Tower Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/qmnddhyw/8-12.%20Metroid%20Blast%20-%20Sea%20Tower%20Mix.mp3"
+    },
+    {
+      "title": "Metroid Blast - Sea Tower (Long)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ocvuoiyu/8-13.%20Metroid%20Blast%20-%20Sea%20Tower%20%28Long%29.mp3"
+    },
+    {
+      "title": "Metroid Blast - Lower Norfair",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/eltmaqff/8-14.%20Metroid%20Blast%20-%20Lower%20Norfair.mp3"
+    },
+    {
+      "title": "Metroid Blast - Lower Norfair (With Percussion)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/izabjnmw/8-15.%20Metroid%20Blast%20-%20Lower%20Norfair%20%28With%20Percussion%29.mp3"
+    },
+    {
+      "title": "Metroid Blast - Lower Norfair Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/xwqoxwrt/8-16.%20Metroid%20Blast%20-%20Lower%20Norfair%20Mix.mp3"
+    },
+    {
+      "title": "Metroid Blast - Lower Norfair (Long)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/qzbjouhb/8-17.%20Metroid%20Blast%20-%20Lower%20Norfair%20%28Long%29.mp3"
+    },
+    {
+      "title": "Metroid Blast - Training Zone",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/jpzbjovl/8-18.%20Metroid%20Blast%20-%20Training%20Zone.mp3"
+    },
+    {
+      "title": "Metroid Blast - Training Zone (With Percussion)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/rcmcauzk/8-19.%20Metroid%20Blast%20-%20Training%20Zone%20%28With%20Percussion%29.mp3"
+    },
+    {
+      "title": "Metroid Blast - Training Zone Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/fsbcgble/8-20.%20Metroid%20Blast%20-%20Training%20Zone%20Mix.mp3"
+    },
+    {
+      "title": "Metroid Blast - Training Zone (Long)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/kopfibgb/8-21.%20Metroid%20Blast%20-%20Training%20Zone%20%28Long%29.mp3"
+    },
+    {
+      "title": "Metroid Blast - Ice Sector",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/nnxcsgeb/8-22.%20Metroid%20Blast%20-%20Ice%20Sector.mp3"
+    },
+    {
+      "title": "Metroid Blast - Ice Sector (With Percussion)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/tqyubavd/8-23.%20Metroid%20Blast%20-%20Ice%20Sector%20%28With%20Percussion%29.mp3"
+    },
+    {
+      "title": "Metroid Blast - Ice Sector Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gvhcnids/8-24.%20Metroid%20Blast%20-%20Ice%20Sector%20Mix.mp3"
+    },
+    {
+      "title": "Metroid Blast - Ice Sector (Long)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/dplnhxpi/8-25.%20Metroid%20Blast%20-%20Ice%20Sector%20%28Long%29.mp3"
+    },
+    {
+      "title": "Metroid Blast - Stage 7",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/uarhjbdp/8-26.%20Metroid%20Blast%20-%20Stage%207.mp3"
+    },
+    {
+      "title": "Metroid Blast - Stage 7 (With Cymbals)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/mqubylma/8-27.%20Metroid%20Blast%20-%20Stage%207%20%28With%20Cymbals%29.mp3"
+    },
+    {
+      "title": "Metroid Blast - Stage 7 Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/qfbqbilf/8-28.%20Metroid%20Blast%20-%20Stage%207%20Mix.mp3"
+    },
+    {
+      "title": "Metroid Blast - Boss Appear (Kraid)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/tcifedfp/8-29.%20Metroid%20Blast%20-%20Boss%20Appear%20%28Kraid%29.mp3"
+    },
+    {
+      "title": "Metroid Blast - Boss Appear (Ridley)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/htykdndc/8-30.%20Metroid%20Blast%20-%20Boss%20Appear%20%28Ridley%29.mp3"
+    },
+    {
+      "title": "Metroid Blast - Boss Appear (Kraid and Ridley)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ceqrmkoo/8-31.%20Metroid%20Blast%20-%20Boss%20Appear%20%28Kraid%20and%20Ridley%29.mp3"
+    },
+    {
+      "title": "Metroid Blast - Boss Appear (Ridley and Ridley)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/dzligixp/8-32.%20Metroid%20Blast%20-%20Boss%20Appear%20%28Ridley%20and%20Ridley%29.mp3"
+    },
+    {
+      "title": "Metroid Blast - Boss Battle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/daovmzis/8-33.%20Metroid%20Blast%20-%20Boss%20Battle.mp3"
+    },
+    {
+      "title": "Metroid Blast - Ridley Battle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/nmyglmbx/8-34.%20Metroid%20Blast%20-%20Ridley%20Battle.mp3"
+    },
+    {
+      "title": "Metroid Blast - Boss Explosion (Kraid)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/goziqhkh/8-35.%20Metroid%20Blast%20-%20Boss%20Explosion%20%28Kraid%29.mp3"
+    },
+    {
+      "title": "Metroid Blast - Boss Explosion (Ridley)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/eamkqyta/8-36.%20Metroid%20Blast%20-%20Boss%20Explosion%20%28Ridley%29.mp3"
+    },
+    {
+      "title": "Metroid Blast - Lose",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/uwbrcnia/8-37.%20Metroid%20Blast%20-%20Lose.mp3"
+    },
+    {
+      "title": "Metroid Blast - Last Enemy Defeated",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/clxfjeth/8-38.%20Metroid%20Blast%20-%20Last%20Enemy%20Defeated.mp3"
+    },
+    {
+      "title": "Metroid Blast - Win",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/cpuccepl/8-39.%20Metroid%20Blast%20-%20Win.mp3"
+    },
+    {
+      "title": "Metroid Blast - Win (Master Clear)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/mbwfkkwc/8-40.%20Metroid%20Blast%20-%20Win%20%28Master%20Clear%29.mp3"
+    },
+    {
+      "title": "Metroid Blast - Coin Battle Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/yhtvvrxl/8-41.%20Metroid%20Blast%20-%20Coin%20Battle%20Intro.mp3"
+    },
+    {
+      "title": "Metroid Blast - Coin Battle (Game Version)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ngtauvxz/8-42.%20Metroid%20Blast%20-%20Coin%20Battle%20%28Game%20Version%29.mp3"
+    },
+    {
+      "title": "Metroid Blast - Coin Battle (Token Tank Acquired)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/fapuhafb/8-43.%20Metroid%20Blast%20-%20Coin%20Battle%20%28Token%20Tank%20Acquired%29.mp3"
+    },
+    {
+      "title": "Metroid Blast - Coin Battle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/rcpodwbo/8-44.%20Metroid%20Blast%20-%20Coin%20Battle.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/svcxfkhh/9-01.%20Pikmin%20Adventure%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/pebuvqst/9-02.%20Pikmin%20Adventure%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Gate",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/onzhnrxj/9-03.%20Pikmin%20Adventure%20-%20Gate.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Tutorial",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gbptyllx/9-04.%20Pikmin%20Adventure%20-%20Tutorial.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Open Demo",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gmrwjdsc/9-05.%20Pikmin%20Adventure%20-%20Open%20Demo.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Level Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/joruuolo/9-06.%20Pikmin%20Adventure%20-%20Level%20Intro.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Spring",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/msbgajvy/9-07.%20Pikmin%20Adventure%20-%20Spring.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Spring (With Drums)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/fgocwaor/9-08.%20Pikmin%20Adventure%20-%20Spring%20%28With%20Drums%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Spring (Drums Only)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/rirkxhvf/9-09.%20Pikmin%20Adventure%20-%20Spring%20%28Drums%20Only%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Spring (Alternate)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/rrjuuqvh/9-10.%20Pikmin%20Adventure%20-%20Spring%20%28Alternate%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Summer",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/wnamhbmd/9-11.%20Pikmin%20Adventure%20-%20Summer.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Summer (With Drums)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gywnbskw/9-12.%20Pikmin%20Adventure%20-%20Summer%20%28With%20Drums%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Summer (Drums Only)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ehyvjinq/9-13.%20Pikmin%20Adventure%20-%20Summer%20%28Drums%20Only%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Summer (Alternate)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/oxuifano/9-14.%20Pikmin%20Adventure%20-%20Summer%20%28Alternate%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Autumn",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/fjevojdp/9-15.%20Pikmin%20Adventure%20-%20Autumn.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Autumn (With Drums)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/qisqyvgw/9-16.%20Pikmin%20Adventure%20-%20Autumn%20%28With%20Drums%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Autumn Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/qljoqovk/9-17.%20Pikmin%20Adventure%20-%20Autumn%20Mix.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Autumn (Drums Only)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/rbhitrge/9-18.%20Pikmin%20Adventure%20-%20Autumn%20%28Drums%20Only%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Spring Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/bvxdxdzk/9-19.%20Pikmin%20Adventure%20-%20Spring%20Mix.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Autumn (Alternate)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ftfvjmeo/9-20.%20Pikmin%20Adventure%20-%20Autumn%20%28Alternate%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Summer Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/fmqvdend/9-21.%20Pikmin%20Adventure%20-%20Summer%20Mix.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Underground Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/attlauup/9-22.%20Pikmin%20Adventure%20-%20Underground%20Mix.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Winter",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/pdznpllw/9-23.%20Pikmin%20Adventure%20-%20Winter.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Winter (With Drums)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/yghsutik/9-24.%20Pikmin%20Adventure%20-%20Winter%20%28With%20Drums%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Winter Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/bcijuyfi/9-25.%20Pikmin%20Adventure%20-%20Winter%20Mix.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Winter (Drums Only)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/yuauxede/9-26.%20Pikmin%20Adventure%20-%20Winter%20%28Drums%20Only%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Winter (Alternate)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/mvsbdpoz/9-27.%20Pikmin%20Adventure%20-%20Winter%20%28Alternate%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Underground",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/hnqqjvar/9-28.%20Pikmin%20Adventure%20-%20Underground.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Underground (With Drums)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/hjbdpmry/9-29.%20Pikmin%20Adventure%20-%20Underground%20%28With%20Drums%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Underground (Drums Only)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/qisreuoi/9-30.%20Pikmin%20Adventure%20-%20Underground%20%28Drums%20Only%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Underground (Alternate)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/adpobrck/9-31.%20Pikmin%20Adventure%20-%20Underground%20%28Alternate%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Mini-Boss Clear",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/vxzezjwe/9-32.%20Pikmin%20Adventure%20-%20Mini-Boss%20Clear.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Middle Boss",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/jgcwzhlj/9-33.%20Pikmin%20Adventure%20-%20Middle%20Boss.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Middle Boss Destroy",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/otauyjbd/9-34.%20Pikmin%20Adventure%20-%20Middle%20Boss%20Destroy.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Boss Appear",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/lygmryrm/9-35.%20Pikmin%20Adventure%20-%20Boss%20Appear.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Boss Appear (Bulblord)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/jjwcwdbw/9-36.%20Pikmin%20Adventure%20-%20Boss%20Appear%20%28Bulblord%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Boss Appear (Sleeping)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/dauupphr/9-37.%20Pikmin%20Adventure%20-%20Boss%20Appear%20%28Sleeping%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Boss Appear (Largemouth Wollyhop)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/jxjfybkw/9-38.%20Pikmin%20Adventure%20-%20Boss%20Appear%20%28Largemouth%20Wollyhop%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Boss Appear (Emperor Pinchipede)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/dbwehvjj/9-39.%20Pikmin%20Adventure%20-%20Boss%20Appear%20%28Emperor%20Pinchipede%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Boss Appear (Greater Bladed Baub)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ripyzafb/9-40.%20Pikmin%20Adventure%20-%20Boss%20Appear%20%28Greater%20Bladed%20Baub%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Boss Battle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/nnannbtm/9-41.%20Pikmin%20Adventure%20-%20Boss%20Battle.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Boss Destroy",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gvjhkdnf/9-42.%20Pikmin%20Adventure%20-%20Boss%20Destroy.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Next Area",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/mvpmrypf/9-43.%20Pikmin%20Adventure%20-%20Next%20Area.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Time Up",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ejfanlrc/9-44.%20Pikmin%20Adventure%20-%20Time%20Up.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Landing",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/mddjkxjd/9-45.%20Pikmin%20Adventure%20-%20Landing.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Level Clear",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/nhvgsvap/9-46.%20Pikmin%20Adventure%20-%20Level%20Clear.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Level Clear (Mastered)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/xtcdlsim/9-47.%20Pikmin%20Adventure%20-%20Level%20Clear%20%28Mastered%29.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Battle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/lvujmkoo/9-48.%20Pikmin%20Adventure%20-%20Battle.mp3"
+    },
+    {
+      "title": "Pikmin Adventure - Battle (Finale)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/efoanpiw/9-49.%20Pikmin%20Adventure%20-%20Battle%20%28Finale%29.mp3"
+    },
+    {
+      "title": "Takamaru's Ninja Castle - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/lmejgffo/10-01.%20Takamaru%27s%20Ninja%20Castle%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Takamaru's Ninja Castle - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/cvumatrb/10-02.%20Takamaru%27s%20Ninja%20Castle%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Takamaru's Ninja Castle - Gate",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gbnocvwx/10-03.%20Takamaru%27s%20Ninja%20Castle%20-%20Gate.mp3"
+    },
+    {
+      "title": "Takamaru's Ninja Castle - Tutorial",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/yzzadpob/10-04.%20Takamaru%27s%20Ninja%20Castle%20-%20Tutorial.mp3"
+    },
+    {
+      "title": "Takamaru's Ninja Castle - Target Practice",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/nmwxyxuf/10-05.%20Takamaru%27s%20Ninja%20Castle%20-%20Target%20Practice.mp3"
+    },
+    {
+      "title": "Takamaru's Ninja Castle - Main Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/rsmihitu/10-06.%20Takamaru%27s%20Ninja%20Castle%20-%20Main%20Theme.mp3"
+    },
+    {
+      "title": "Takamaru's Ninja Castle - Takamaru's Theme (Ninja Duel)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/serwicoj/10-07.%20Takamaru%27s%20Ninja%20Castle%20-%20Takamaru%27s%20Theme%20%28Ninja%20Duel%29.mp3"
+    },
+    {
+      "title": "Takamaru's Ninja Castle - Bonus Stage",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/eteszuyl/10-08.%20Takamaru%27s%20Ninja%20Castle%20-%20Bonus%20Stage.mp3"
+    },
+    {
+      "title": "Takamaru's Ninja Castle - Castle Inside",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/kosvzmjm/10-09.%20Takamaru%27s%20Ninja%20Castle%20-%20Castle%20Inside.mp3"
+    },
+    {
+      "title": "Takamaru's Ninja Castle - Medley",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/icmgrtqw/10-10.%20Takamaru%27s%20Ninja%20Castle%20-%20Medley.mp3"
+    },
+    {
+      "title": "Takamaru's Ninja Castle - Boss Battle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/nxcrbjqd/10-11.%20Takamaru%27s%20Ninja%20Castle%20-%20Boss%20Battle.mp3"
+    },
+    {
+      "title": "Takamaru's Ninja Castle - Game Over",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/tgaiowog/10-12.%20Takamaru%27s%20Ninja%20Castle%20-%20Game%20Over.mp3"
+    },
+    {
+      "title": "Takamaru's Ninja Castle - Clear",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/qlgwqoyb/10-13.%20Takamaru%27s%20Ninja%20Castle%20-%20Clear.mp3"
+    },
+    {
+      "title": "Takamaru's Ninja Castle - Boss Defeated and Game Ending",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/mejkwdca/10-14.%20Takamaru%27s%20Ninja%20Castle%20-%20Boss%20Defeated%20and%20Game%20Ending.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/xjdpnxws/11-01.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ypfdccfu/11-02.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Gate",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gyzcokio/11-03.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Gate.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Tutorial",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/rspwmvsb/11-04.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Tutorial.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Cam Demo",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/dpmpoycq/11-05.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Cam%20Demo.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Main (Stages 1-4)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ysuwxxxt/11-06.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Main%20%28Stages%201-4%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Main (Stages 1-4) (No Piano)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/byrkcgzb/11-07.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Main%20%28Stages%201-4%29%20%28No%20Piano%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Main (Stages 1-4) Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/lzrioxvl/11-08.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Main%20%28Stages%201-4%29%20Mix.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Main (Stages 1-4) (Piano Only)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/qyswcwdz/11-09.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Main%20%28Stages%201-4%29%20%28Piano%20Only%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Main (Stages 1-4) (Long)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/mofnwwpn/11-10.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Main%20%28Stages%201-4%29%20%28Long%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Main (Stages 5-8)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/uhfcxeej/11-11.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Main%20%28Stages%205-8%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Main (Stages 5-8) (No Voice)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/iljldhbm/11-12.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Main%20%28Stages%205-8%29%20%28No%20Voice%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Main (Stages 5-8) Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gwlrzxpi/11-13.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Main%20%28Stages%205-8%29%20Mix.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Main (Stages 5-8) (Voice Only)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/uyjbbgbm/11-14.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Main%20%28Stages%205-8%29%20%28Voice%20Only%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Main (Stages 9-12)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/hbjqbinr/11-15.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Main%20%28Stages%209-12%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Main (Stages 9-12) (No Guitar)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/vapageeh/11-16.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Main%20%28Stages%209-12%29%20%28No%20Guitar%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Main (Stages 9-12) Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/xswejetf/11-17.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Main%20%28Stages%209-12%29%20Mix.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Main (Stages 9-12) (Guitar Only)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ukreundd/11-18.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Main%20%28Stages%209-12%29%20%28Guitar%20Only%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Night (Stages 1-4)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/frsnlptz/11-19.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Night%20%28Stages%201-4%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Night (Stages 1-4) (No Drums)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/smjiqdsg/11-20.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Night%20%28Stages%201-4%29%20%28No%20Drums%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Night (Stages 1-4) Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ezjztutk/11-21.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Night%20%28Stages%201-4%29%20Mix.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Night (Stages 1-4) (Drums Only)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/tpsrgiwh/11-22.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Night%20%28Stages%201-4%29%20%28Drums%20Only%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Night (Stages 1-4) (Alternate)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/vfsuwajx/11-23.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Night%20%28Stages%201-4%29%20%28Alternate%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race -Night (Stages 5-8)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/lkutktlb/11-24.%20Captain%20Falcon%27s%20Twister%20Race%20-Night%20%28Stages%205-8%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Night (Stages 5-8) (No Strings)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/yozeanpk/11-25.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Night%20%28Stages%205-8%29%20%28No%20Strings%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Night (Stages 5-8) Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/hfcznrwg/11-26.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Night%20%28Stages%205-8%29%20Mix.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Night (Stages 5-8) (Strings Only)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/svxaldls/11-27.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Night%20%28Stages%205-8%29%20%28Strings%20Only%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Night (Stages 5-8) (Alternate)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/fwvluqtv/11-28.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Night%20%28Stages%205-8%29%20%28Alternate%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Night (Stages 9-12)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/zjyoaiqd/11-29.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Night%20%28Stages%209-12%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Night (Stages 9-12) (No Snare)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/uokkwzjv/11-30.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Night%20%28Stages%209-12%29%20%28No%20Snare%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Night (Stages 9-12) Mix",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/bwfjewvm/11-31.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Night%20%28Stages%209-12%29%20Mix.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Night (Stages 9-12) (Snare Only)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/yhpezkdm/11-32.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Night%20%28Stages%209-12%29%20%28Snare%20Only%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Night (Stages 9-12) (Alternate)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/xeczqgiy/11-33.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Night%20%28Stages%209-12%29%20%28Alternate%29.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Game Over",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/qjwhwjjr/11-34.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Game%20Over.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Checkpoint",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ioteohtz/11-35.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Checkpoint.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Results",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/nugzblzq/11-36.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Results.mp3"
+    },
+    {
+      "title": "Captain Falcon's Twister Race - Goal",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/hllwakzu/11-37.%20Captain%20Falcon%27s%20Twister%20Race%20-%20Goal.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/yitwcvxy/12-01.%20Yoshi%27s%20Fruit%20Cart%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/zdrzvgvk/12-02.%20Yoshi%27s%20Fruit%20Cart%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Gate",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/njggjesc/12-03.%20Yoshi%27s%20Fruit%20Cart%20-%20Gate.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart -Tutorial",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gakxgqli/12-04.%20Yoshi%27s%20Fruit%20Cart%20-Tutorial.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Cam Demo",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/fbshkdlt/12-05.%20Yoshi%27s%20Fruit%20Cart%20-%20Cam%20Demo.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Main Theme 1",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/lxhtuses/12-06.%20Yoshi%27s%20Fruit%20Cart%20-%20Main%20Theme%201.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Main Theme 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/dlvthfdc/12-07.%20Yoshi%27s%20Fruit%20Cart%20-%20Main%20Theme%202.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Main Theme 3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/avddgvlt/12-08.%20Yoshi%27s%20Fruit%20Cart%20-%20Main%20Theme%203.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Main Theme 4",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/josymqqj/12-09.%20Yoshi%27s%20Fruit%20Cart%20-%20Main%20Theme%204.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Main Theme 5",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/yozebqdq/12-10.%20Yoshi%27s%20Fruit%20Cart%20-%20Main%20Theme%205.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Main Theme Medley",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/wicmcbxm/12-11.%20Yoshi%27s%20Fruit%20Cart%20-%20Main%20Theme%20Medley.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Main Theme (Night) 1",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/saazxodx/12-12.%20Yoshi%27s%20Fruit%20Cart%20-%20Main%20Theme%20%28Night%29%201.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Main Theme (Night) 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/fixqkcgx/12-13.%20Yoshi%27s%20Fruit%20Cart%20-%20Main%20Theme%20%28Night%29%202.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Main Theme (Night) 3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/xruwaopi/12-14.%20Yoshi%27s%20Fruit%20Cart%20-%20Main%20Theme%20%28Night%29%203.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Main Theme (Night) 4",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/xnycrabf/12-15.%20Yoshi%27s%20Fruit%20Cart%20-%20Main%20Theme%20%28Night%29%204.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Main Theme (Night) 5",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/xwqnrwic/12-16.%20Yoshi%27s%20Fruit%20Cart%20-%20Main%20Theme%20%28Night%29%205.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Main Theme (Night) Medley",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/jqcmejky/12-17.%20Yoshi%27s%20Fruit%20Cart%20-%20Main%20Theme%20%28Night%29%20Medley.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Yoshi Running",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ntdkpwlr/12-18.%20Yoshi%27s%20Fruit%20Cart%20-%20Yoshi%20Running.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Jingle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/zytzpcpr/12-19.%20Yoshi%27s%20Fruit%20Cart%20-%20Jingle.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Stage Scroll (Night)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/rkwdavyh/12-20.%20Yoshi%27s%20Fruit%20Cart%20-%20Stage%20Scroll%20%28Night%29.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - 1-Up",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/pdyfhwkm/12-21.%20Yoshi%27s%20Fruit%20Cart%20-%201-Up.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Game Over",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/cawhxpit/12-22.%20Yoshi%27s%20Fruit%20Cart%20-%20Game%20Over.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - Clear",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/tniaewvm/12-23.%20Yoshi%27s%20Fruit%20Cart%20-%20Clear.mp3"
+    },
+    {
+      "title": "Yoshi's Fruit Cart - All Clear",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/zmlvtgbm/12-24.%20Yoshi%27s%20Fruit%20Cart%20-%20All%20Clear.mp3"
+    },
+    {
+      "title": "Attraction Tour - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/fpjbfybj/13-25.%20Attraction%20Tour%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Attraction Tour - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/tseulxbr/13-26.%20Attraction%20Tour%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Attraction Tour - Gate",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/eumczqfg/13-27.%20Attraction%20Tour%20-%20Gate.mp3"
+    },
+    {
+      "title": "Attraction Tour - Gate 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/mukqzyvg/13-28.%20Attraction%20Tour%20-%20Gate%202.mp3"
+    },
+    {
+      "title": "Attraction Tour - Round Results",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/viewvncy/13-29.%20Attraction%20Tour%20-%20Round%20Results.mp3"
+    },
+    {
+      "title": "Attraction Tour - Round Results (Final)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/likzrlem/13-30.%20Attraction%20Tour%20-%20Round%20Results%20%28Final%29.mp3"
+    },
+    {
+      "title": "Attraction Tour - Final Results",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/yhqhmnfo/13-31.%20Attraction%20Tour%20-%20Final%20Results.mp3"
+    },
+    {
+      "title": "Attraction Tour - Winner Crowned",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/dxdaskwf/13-32.%20Attraction%20Tour%20-%20Winner%20Crowned.mp3"
+    },
+    {
+      "title": "Octopus Dance - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/jfydunhy/14-01.%20Octopus%20Dance%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Octopus Dance - Gate Intro",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/txjckqbi/14-02.%20Octopus%20Dance%20-%20Gate%20Intro.mp3"
+    },
+    {
+      "title": "Octopus Dance - Gate",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/kdjnkomu/14-03.%20Octopus%20Dance%20-%20Gate.mp3"
+    },
+    {
+      "title": "Octopus Dance - Tutorial",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/mbusikbb/14-04.%20Octopus%20Dance%20-%20Tutorial.mp3"
+    },
+    {
+      "title": "Octopus Dance - Open Demo",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/etdjoqox/14-05.%20Octopus%20Dance%20-%20Open%20Demo.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 1 (Intro)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ugvkqvif/14-06.%20Octopus%20Dance%20-%20Main%201%20%28Intro%29.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 1 (Intro) (2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/zgjdndgt/14-07.%20Octopus%20Dance%20-%20Main%201%20%28Intro%29%20%282%29.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 1 (Intro) 2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/yoaioteo/14-08.%20Octopus%20Dance%20-%20Main%201%20%28Intro%29%202.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 1-1",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/jacjnmye/14-09.%20Octopus%20Dance%20-%20Main%201-1.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 1-2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/asjriqcq/14-10.%20Octopus%20Dance%20-%20Main%201-2.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 1-3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/xroujjrj/14-11.%20Octopus%20Dance%20-%20Main%201-3.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 1-4",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/smidtgct/14-12.%20Octopus%20Dance%20-%20Main%201-4.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 1-5",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/jqcprpzd/14-13.%20Octopus%20Dance%20-%20Main%201-5.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 1-6",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ryrnpnsa/14-14.%20Octopus%20Dance%20-%20Main%201-6.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 1-7",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/bcjnphtw/14-15.%20Octopus%20Dance%20-%20Main%201-7.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 1-8",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/cvuolnfn/14-16.%20Octopus%20Dance%20-%20Main%201-8.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 1-9",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/zjxjclyj/14-17.%20Octopus%20Dance%20-%20Main%201-9.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 1-10",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/zuylkrev/14-18.%20Octopus%20Dance%20-%20Main%201-10.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 1 (Outro)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/pmpqjwhu/14-19.%20Octopus%20Dance%20-%20Main%201%20%28Outro%29.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 2 (Intro)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/bzrlfrsn/14-20.%20Octopus%20Dance%20-%20Main%202%20%28Intro%29.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 2-1",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/lqvguelu/14-21.%20Octopus%20Dance%20-%20Main%202-1.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 2-2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/nicngqou/14-22.%20Octopus%20Dance%20-%20Main%202-2.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 2-3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/hafcvuol/14-23.%20Octopus%20Dance%20-%20Main%202-3.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 2-4",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/lwziqgke/14-24.%20Octopus%20Dance%20-%20Main%202-4.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 2-5",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/tfujmifz/14-25.%20Octopus%20Dance%20-%20Main%202-5.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 2-6",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/hpblatre/14-26.%20Octopus%20Dance%20-%20Main%202-6.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 2-7",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/tikauzov/14-27.%20Octopus%20Dance%20-%20Main%202-7.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 2-8",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ndccgwqq/14-28.%20Octopus%20Dance%20-%20Main%202-8.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 2-9",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/eygllusf/14-29.%20Octopus%20Dance%20-%20Main%202-9.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 2-10",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/wugwrttk/14-30.%20Octopus%20Dance%20-%20Main%202-10.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 2 (Outro)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/wcvuppff/14-31.%20Octopus%20Dance%20-%20Main%202%20%28Outro%29.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 3 (Intro)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/kmccgxvl/14-32.%20Octopus%20Dance%20-%20Main%203%20%28Intro%29.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 3-1",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/serysrgg/14-33.%20Octopus%20Dance%20-%20Main%203-1.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 3-2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/mpnwsxms/14-34.%20Octopus%20Dance%20-%20Main%203-2.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 3-3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/cheapyxq/14-35.%20Octopus%20Dance%20-%20Main%203-3.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 3-4",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/nsypctmd/14-36.%20Octopus%20Dance%20-%20Main%203-4.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 3-5",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gxsxhwic/14-37.%20Octopus%20Dance%20-%20Main%203-5.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 3-6",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/niaethcs/14-38.%20Octopus%20Dance%20-%20Main%203-6.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 3-7",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/hfgrnpkg/14-39.%20Octopus%20Dance%20-%20Main%203-7.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 3-8",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/crclzpbk/14-40.%20Octopus%20Dance%20-%20Main%203-8.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 3-9",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/yliirlgu/14-41.%20Octopus%20Dance%20-%20Main%203-9.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 3-10",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/fsymrxny/14-42.%20Octopus%20Dance%20-%20Main%203-10.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 3 (Outro)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ajrjslbb/14-43.%20Octopus%20Dance%20-%20Main%203%20%28Outro%29.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 4 (Intro)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/bchezlft/14-44.%20Octopus%20Dance%20-%20Main%204%20%28Intro%29.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 4-1",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/cgzdrzxp/14-45.%20Octopus%20Dance%20-%20Main%204-1.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 4-2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/iuxefnxz/14-46.%20Octopus%20Dance%20-%20Main%204-2.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 4-3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/dumatpvj/14-47.%20Octopus%20Dance%20-%20Main%204-3.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 4-4",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gcwzhmoj/14-48.%20Octopus%20Dance%20-%20Main%204-4.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 4-5",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/eujopiwk/14-49.%20Octopus%20Dance%20-%20Main%204-5.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 4-6",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/kutjoswf/14-50.%20Octopus%20Dance%20-%20Main%204-6.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 4-7",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/mrzwlnib/14-51.%20Octopus%20Dance%20-%20Main%204-7.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 4-8",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/gfflqwid/14-52.%20Octopus%20Dance%20-%20Main%204-8.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 4-9",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ryrotdkp/14-53.%20Octopus%20Dance%20-%20Main%204-9.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 4-10",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/tzqhlmzl/14-54.%20Octopus%20Dance%20-%20Main%204-10.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 4 (Outro)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ijvyglnh/14-55.%20Octopus%20Dance%20-%20Main%204%20%28Outro%29.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 5 (Intro)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/vhzzxrqd/14-56.%20Octopus%20Dance%20-%20Main%205%20%28Intro%29.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 5-1",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/sdqrleqr/14-57.%20Octopus%20Dance%20-%20Main%205-1.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 5-2",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/mifcutjo/14-58.%20Octopus%20Dance%20-%20Main%205-2.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 5-3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/rrhnqrkz/14-59.%20Octopus%20Dance%20-%20Main%205-3.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 5-4",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/tutlvvrz/14-60.%20Octopus%20Dance%20-%20Main%205-4.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 5-5",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/tuunizzy/14-61.%20Octopus%20Dance%20-%20Main%205-5.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 5-6",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/wjhhrkcg/14-62.%20Octopus%20Dance%20-%20Main%205-6.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 5-7",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/aiotceqq/14-63.%20Octopus%20Dance%20-%20Main%205-7.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 5-8",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/iqgiwhxr/14-64.%20Octopus%20Dance%20-%20Main%205-8.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 5-9",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/owohvdie/14-65.%20Octopus%20Dance%20-%20Main%205-9.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 5-10",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/vpmszxoc/14-66.%20Octopus%20Dance%20-%20Main%205-10.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 5 (Outro)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/sjtnlprp/14-67.%20Octopus%20Dance%20-%20Main%205%20%28Outro%29.mp3"
+    },
+    {
+      "title": "Octopus Dance - Stages 1-5 Medley",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/ahjypfgp/14-68.%20Octopus%20Dance%20-%20Stages%201-5%20Medley.mp3"
+    },
+    {
+      "title": "Octopus Dance - Stage 6",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/fiaacild/14-69.%20Octopus%20Dance%20-%20Stage%206.mp3"
+    },
+    {
+      "title": "Octopus Dance - Stage 6 (With Piano Outro)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/myfiysuw/14-70.%20Octopus%20Dance%20-%20Stage%206%20%28With%20Piano%20Outro%29.mp3"
+    },
+    {
+      "title": "Octopus Dance - Game Over",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/vqspufqr/14-71.%20Octopus%20Dance%20-%20Game%20Over.mp3"
+    },
+    {
+      "title": "Octopus Dance - Main 1 (Outro for Attraction Tour)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/nintendo-land-original-soundtrack/iqgjckqc/14-72.%20Octopus%20Dance%20-%20Main%201%20%28Outro%20for%20Attraction%20Tour%29.mp3"
+    }
+  ]
+}
