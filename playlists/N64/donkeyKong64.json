@@ -1,0 +1,713 @@
+{
+  "meta": {
+    "game_title": "Donkey Kong 64",
+    "art": "https://mario.wiki.gallery/images/thumb/f/fb/N64_donkeykong64.jpg/1600px-N64_donkeykong64.jpg",
+    "desc": "November 22, 1999"
+  },
+  "songs": [
+    {
+      "title": "Intro",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/ytaqoswuqo/01.%20Intro.mp3"
+    },
+    {
+      "title": "DK Rap",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/rkbddwubpp/02.%20DK%20Rap.mp3"
+    },
+    {
+      "title": "Main Menu",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/herurumnfn/003.%20Main%20Menu.mp3"
+    },
+    {
+      "title": "Opening",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/yyqbsvigef/04.%20Opening.mp3"
+    },
+    {
+      "title": "DK's Treehouse",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/ykleyslyvz/005.%20DK%27s%20Treehouse.mp3"
+    },
+    {
+      "title": "Welcome to Bonus Stage ~ Bonus Barrel Challenge",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/dpjapwhsul/006.%20Welcome%20to%20Bonus%20Stage%20~%20Bonus%20Barrel%20Challenge.mp3"
+    },
+    {
+      "title": "Bonus Win-Solution",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/ooisychxxu/007.%20Bonus%20Win-Solution.mp3"
+    },
+    {
+      "title": "Bonus Lose",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/vhspowcrjm/008.%20Bonus%20Lose.mp3"
+    },
+    {
+      "title": "The Mad Scientist (Cranky's Theme)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/ihtghlhlra/009.%20The%20Mad%20Scientist%20%28Cranky%27s%20Theme%29.mp3"
+    },
+    {
+      "title": "Cranky's Potion (New Ability)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/vnbsbrwqur/010.%20Cranky%27s%20Potion%20%28New%20Ability%29.mp3"
+    },
+    {
+      "title": "DK Isle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/eelycrftrf/011.%20DK%20Isle.mp3"
+    },
+    {
+      "title": "Tag Barrel - Donkey Kong",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/elxhkjxaqp/012.%20Tag%20Barrel%20-%20Donkey%20Kong.mp3"
+    },
+    {
+      "title": "Clumsy K. Lumsy",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/cyodbfkauu/013.%20Clumsy%20K.%20Lumsy.mp3"
+    },
+    {
+      "title": "Happy K. Lumsy",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/ntbisicvax/014.%20Happy%20K.%20Lumsy.mp3"
+    },
+    {
+      "title": "Find Golden Banana",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/aycabiotqu/015.%20Find%20Golden%20Banana.mp3"
+    },
+    {
+      "title": "Collect Golden Banana",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/kmpmiwmnbq/016.%20Collect%20Golden%20Banana.mp3"
+    },
+    {
+      "title": "DK Isle - Jungle Japes",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/gbgfpiaiyn/017.%20DK%20Isle%20-%20Jungle%20Japes.mp3"
+    },
+    {
+      "title": "Wrinkly's Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/tztjioqacf/018.%20Wrinkly%27s%20Theme.mp3"
+    },
+    {
+      "title": "Jungle Madness (Jungle Japes)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/otyljzvswy/019.%20Jungle%20Madness%20%28Jungle%20Japes%29.mp3"
+    },
+    {
+      "title": "Jungle Japes - Caves",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/dyvbwzavvf/020.%20Jungle%20Japes%20-%20Caves.mp3"
+    },
+    {
+      "title": "Jungle Japes - Mountain",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/icfqkuiirn/021.%20Jungle%20Japes%20-%20Mountain.mp3"
+    },
+    {
+      "title": "Badaboom! (Funky's Theme)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/xkgwazjizc/022.%20Badaboom%21%20%28Funky%27s%20Theme%29.mp3"
+    },
+    {
+      "title": "Weapon Upgrade",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/regmpumisp/023.%20Weapon%20Upgrade.mp3"
+    },
+    {
+      "title": "Tag Barrel - Diddy Kong",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/fcunidcbee/024.%20Tag%20Barrel%20-%20Diddy%20Kong.mp3"
+    },
+    {
+      "title": "Jungle Japes - Storm",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/sfdpmleylz/025.%20Jungle%20Japes%20-%20Storm.mp3"
+    },
+    {
+      "title": "Rambi's Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/hehhdlszln/026.%20Rambi%27s%20Theme.mp3"
+    },
+    {
+      "title": "Jungle Japes - Barrel Course",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/rseltysjko/027.%20Jungle%20Japes%20-%20Barrel%20Course.mp3"
+    },
+    {
+      "title": "Barrel Course Completed",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/mjoocfxjlo/028.%20Barrel%20Course%20Completed.mp3"
+    },
+    {
+      "title": "Jungle Japes - Underground",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/xgktrzkuwl/029.%20Jungle%20Japes%20-%20Underground.mp3"
+    },
+    {
+      "title": "Jungle Japes - Mine Cart",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/njbagnjjmp/030.%20Jungle%20Japes%20-%20Mine%20Cart.mp3"
+    },
+    {
+      "title": "Troff 'N' Scoff",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/wxdvnevrey/031.%20Troff%20%27N%27%20Scoff.mp3"
+    },
+    {
+      "title": "Boss Door Unlocked",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/hksmaibhwb/032.%20Boss%20Door%20Unlocked.mp3"
+    },
+    {
+      "title": "Troff 'N' Scoff - Boss Door Opened",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/idhpngxqps/033.%20Troff%20%27N%27%20Scoff%20-%20Boss%20Door%20Opened.mp3"
+    },
+    {
+      "title": "Boss Introduction",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/xchfimtkfx/034.%20Boss%20Introduction.mp3"
+    },
+    {
+      "title": "Angry Army Dillo (Jungle Japes - Boss)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/smvpidnnly/035.%20Angry%20Army%20Dillo%20%28Jungle%20Japes%20-%20Boss%29.mp3"
+    },
+    {
+      "title": "Boss Defeated",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/ucrqkqjfhf/036.%20Boss%20Defeated.mp3"
+    },
+    {
+      "title": "Pause Menu",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/thgubmlqxu/037.%20Pause%20Menu.mp3"
+    },
+    {
+      "title": "Collect Banana Bunch Coin",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/dpbozimbqt/038.%20Collect%20Banana%20Bunch%20Coin.mp3"
+    },
+    {
+      "title": "DK Isle - Angry Aztec",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/mzyodiklfd/039.%20DK%20Isle%20-%20Angry%20Aztec.mp3"
+    },
+    {
+      "title": "The Sands of Mystery (Angry Aztec)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/xqtiuuyzwh/040.%20The%20Sands%20of%20Mystery%20%28Angry%20Aztec%29.mp3"
+    },
+    {
+      "title": "Sassy Swing (Candy's Theme)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/idwosizpqc/041.%20Sassy%20Swing%20%28Candy%27s%20Theme%29.mp3"
+    },
+    {
+      "title": "Bongo Blast",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/nqprompzyd/042.%20Bongo%20Blast.mp3"
+    },
+    {
+      "title": "Guitar Gazump",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/vkmtynckts/043.%20Guitar%20Gazump.mp3"
+    },
+    {
+      "title": "Candy's Headphones",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/dujudetrhd/044.%20Candy%27s%20Headphones.mp3"
+    },
+    {
+      "title": "Angry Aztec - Caves",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/dmjrlsijow/045.%20Angry%20Aztec%20-%20Caves.mp3"
+    },
+    {
+      "title": "Strong Kong",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/ondoazlluu/046.%20Strong%20Kong.mp3"
+    },
+    {
+      "title": "Rocketbarrel Boost",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/hapuhnlljw/047.%20Rocketbarrel%20Boost.mp3"
+    },
+    {
+      "title": "Collect Crystal Coconut",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/dzmivcumwe/048.%20Collect%20Crystal%20Coconut.mp3"
+    },
+    {
+      "title": "Angry Aztec - Barrel Course",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/hovsygjdzn/049.%20Angry%20Aztec%20-%20Barrel%20Course.mp3"
+    },
+    {
+      "title": "Angry Aztec - Temple",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/qyluupanlj/050.%20Angry%20Aztec%20-%20Temple.mp3"
+    },
+    {
+      "title": "Tag Barrel - Lanky Kong",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/ikyttqcpaj/051.%20Tag%20Barrel%20-%20Lanky%20Kong.mp3"
+    },
+    {
+      "title": "Trombone Tremor",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/tqqtbzrohp/052.%20Trombone%20Tremor.mp3"
+    },
+    {
+      "title": "Tag Barrel - Tiny Kong",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/dlgyahvitf/053.%20Tag%20Barrel%20-%20Tiny%20Kong.mp3"
+    },
+    {
+      "title": "Saxophone Slam",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/fpiibbxuay/054.%20Saxophone%20Slam.mp3"
+    },
+    {
+      "title": "Angry Aztec - Challenge",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/xmjpatjktq/055.%20Angry%20Aztec%20-%20Challenge.mp3"
+    },
+    {
+      "title": "Angry Aztec - Chambers",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/qxibhzjygt/056.%20Angry%20Aztec%20-%20Chambers.mp3"
+    },
+    {
+      "title": "Mini-Monkey",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/pubpbfqejx/057.%20Mini-Monkey.mp3"
+    },
+    {
+      "title": "Fast & Furious (Angry Aztec - Race)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/mmtdvlrakp/058.%20Fast%20%26%20Furious%20%28Angry%20Aztec%20-%20Race%29.mp3"
+    },
+    {
+      "title": "Dangerous Dogadon (Angry Aztec - Boss)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/vdjwbrcwda/059.%20Dangerous%20Dogadon%20%28Angry%20Aztec%20-%20Boss%29.mp3"
+    },
+    {
+      "title": "Crocodile Isle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/cafasvgfrr/060.%20Crocodile%20Isle.mp3"
+    },
+    {
+      "title": "Crocodile Isle - Frantic Factory",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/bhugdcmirh/061.%20Crocodile%20Isle%20-%20Frantic%20Factory.mp3"
+    },
+    {
+      "title": "Toys 'R' Alive (Frantic Factory)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/yfryrwpsbr/062.%20Toys%20%27R%27%20Alive%20%28Frantic%20Factory%29.mp3"
+    },
+    {
+      "title": "Baboon Balloon",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/nodxmtwtmp/063.%20Baboon%20Balloon.mp3"
+    },
+    {
+      "title": "Tag Barrel - Chunky Kong",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/hafjxstypz/064.%20Tag%20Barrel%20-%20Chunky%20Kong.mp3"
+    },
+    {
+      "title": "Hunky Chunky",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/ievtfuslos/065.%20Hunky%20Chunky.mp3"
+    },
+    {
+      "title": "Triangle Trample",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/wwmbkhahpz/066.%20Triangle%20Trample.mp3"
+    },
+    {
+      "title": "Frantic Factory - Production",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/rpbdxnvpsr/067.%20Frantic%20Factory%20-%20Production.mp3"
+    },
+    {
+      "title": "Frantic Factory - Compactor",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/uixsujhgxl/068.%20Frantic%20Factory%20-%20Compactor.mp3"
+    },
+    {
+      "title": "Frantic Factory - R&D",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/oqhhrycibg/069.%20Frantic%20Factory%20-%20R%26D.mp3"
+    },
+    {
+      "title": "Frantic Factory - Race",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/lxypgwbmel/070.%20Frantic%20Factory%20-%20Race.mp3"
+    },
+    {
+      "title": "Race Win",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/gaiospzhok/071.%20Race%20Win.mp3"
+    },
+    {
+      "title": "Race Lose",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/mwpduapson/072.%20Race%20Lose.mp3"
+    },
+    {
+      "title": "Toy Monster Terror (Frantic Factory - Mini-Boss)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/iyegxsdham/073.%20Toy%20Monster%20Terror%20%28Frantic%20Factory%20-%20Mini-Boss%29.mp3"
+    },
+    {
+      "title": "Mad Jack Madness (Frantic Factory - Boss)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/xfaofqbkti/074.%20Mad%20Jack%20Madness%20%28Frantic%20Factory%20-%20Boss%29.mp3"
+    },
+    {
+      "title": "Find Watermelon Piece",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/vwkrsmpiab/075.%20Find%20Watermelon%20Piece.mp3"
+    },
+    {
+      "title": "Collect Watermelon Piece",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/qwpxwvbgta/076.%20Collect%20Watermelon%20Piece.mp3"
+    },
+    {
+      "title": "Crocodile Isle - Gloomy Galleon",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/ookqbjzpqk/077.%20Crocodile%20Isle%20-%20Gloomy%20Galleon.mp3"
+    },
+    {
+      "title": "Gloomy Galleon - Caves",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/vrbxiukeni/078.%20Gloomy%20Galleon%20-%20Caves.mp3"
+    },
+    {
+      "title": "Shipwreck Shanty (Gloomy Galleon)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/wfajiqlthe/079.%20Shipwreck%20Shanty%20%28Gloomy%20Galleon%29.mp3"
+    },
+    {
+      "title": "Gloomy Galleon - Barrel Course",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/rlvuciikll/080.%20Gloomy%20Galleon%20-%20Barrel%20Course.mp3"
+    },
+    {
+      "title": "Gloomy Galleon - Lighthouse",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/baowtgyanx/081.%20Gloomy%20Galleon%20-%20Lighthouse.mp3"
+    },
+    {
+      "title": "Mermaid Palace",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/hsaclqhdpq/082.%20Mermaid%20Palace.mp3"
+    },
+    {
+      "title": "Enguarde's Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/oxfdmropwk/083.%20Enguarde%27s%20Theme.mp3"
+    },
+    {
+      "title": "Gloomy Galleon - Treasure Chest",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/vmtrvyivzu/084.%20Gloomy%20Galleon%20-%20Treasure%20Chest.mp3"
+    },
+    {
+      "title": "Collect Pearl",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/igxpdfsxdh/085.%20Collect%20Pearl.mp3"
+    },
+    {
+      "title": "Gloomy Galleon - Pirate Ship",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/exudcrrfoe/086.%20Gloomy%20Galleon%20-%20Pirate%20Ship.mp3"
+    },
+    {
+      "title": "Gloomy Galleon - Glower's Keep-Submarine",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/jjwkuvqvxw/087.%20Gloomy%20Galleon%20-%20Glower%27s%20Keep-Submarine.mp3"
+    },
+    {
+      "title": "Gloomy Galleon - Mechanical Fish",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/uptspajskn/088.%20Gloomy%20Galleon%20-%20Mechanical%20Fish.mp3"
+    },
+    {
+      "title": "Gloomy Galleon - Race",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/zbgcjflzrn/089.%20Gloomy%20Galleon%20-%20Race.mp3"
+    },
+    {
+      "title": "Puftoss Peril (Gloomy Galleon - Boss)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/fnkskjfdxb/090.%20Puftoss%20Peril%20%28Gloomy%20Galleon%20-%20Boss%29.mp3"
+    },
+    {
+      "title": "DK Star Activated",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/gqhhtfbilv/091.%20DK%20Star%20Activated.mp3"
+    },
+    {
+      "title": "Banana Fairy Isle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/xeavogigke/092.%20Banana%20Fairy%20Isle.mp3"
+    },
+    {
+      "title": "Banana Fairy",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/hlrzvphfkd/093.%20Banana%20Fairy.mp3"
+    },
+    {
+      "title": "Banana Fairy Photo",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/aaxkyfxycn/094.%20Banana%20Fairy%20Photo.mp3"
+    },
+    {
+      "title": "DK Isle - Fungi Forest",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/pipedbtpxs/095.%20DK%20Isle%20-%20Fungi%20Forest.mp3"
+    },
+    {
+      "title": "The Clock in the Woods (Fungi Forest - Day)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/havnmadmzw/096.%20The%20Clock%20in%20the%20Woods%20%28Fungi%20Forest%20-%20Day%29.mp3"
+    },
+    {
+      "title": "Fungi Forest - Mill",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/xmctymbakx/097.%20Fungi%20Forest%20-%20Mill.mp3"
+    },
+    {
+      "title": "Fungi Forest - Mushroom Stem",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/tnwoxulhzk/098.%20Fungi%20Forest%20-%20Mushroom%20Stem.mp3"
+    },
+    {
+      "title": "Fungi Forest - Barrel Course",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/mjemzroyea/099.%20Fungi%20Forest%20-%20Barrel%20Course.mp3"
+    },
+    {
+      "title": "Fungi Forest - Mushroom Top",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/gupcttkvqd/100.%20Fungi%20Forest%20-%20Mushroom%20Top.mp3"
+    },
+    {
+      "title": "The Clock in the Woods at Night (Fungi Forest - Night)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/onduiabeqj/101.%20The%20Clock%20in%20the%20Woods%20at%20Night%20%28Fungi%20Forest%20-%20Night%29.mp3"
+    },
+    {
+      "title": "Fungi Forest - Cabin",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/fksflucffu/102.%20Fungi%20Forest%20-%20Cabin.mp3"
+    },
+    {
+      "title": "Fungi Forest - Tree Trunk",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/azcmdmxhwq/103.%20Fungi%20Forest%20-%20Tree%20Trunk.mp3"
+    },
+    {
+      "title": "Giant Spider Showdown (Fungi Forest - Mini-Boss)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/dcldehhlhw/104.%20Giant%20Spider%20Showdown%20%28Fungi%20Forest%20-%20Mini-Boss%29.mp3"
+    },
+    {
+      "title": "Fungi Forest - Race",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/adgsggxasi/105.%20Fungi%20Forest%20-%20Race.mp3"
+    },
+    {
+      "title": "Rolling Rhaspody (Fungi Forest - Mine Cart)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/hdkhhxkuqc/106.%20Rolling%20Rhaspody%20%28Fungi%20Forest%20-%20Mine%20Cart%29.mp3"
+    },
+    {
+      "title": "Dogadon's Revenge (Fungi Forest - Boss)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/likjbzupfy/107.%20Dogadon%27s%20Revenge%20%28Fungi%20Forest%20-%20Boss%29.mp3"
+    },
+    {
+      "title": "DK Isle - Crystal Caves",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/kzuymuwakj/108.%20DK%20Isle%20-%20Crystal%20Caves.mp3"
+    },
+    {
+      "title": "Hidden Waterfalls (Crystal Caves)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/uyscugacpl/109.%20Hidden%20Waterfalls%20%28Crystal%20Caves%29.mp3"
+    },
+    {
+      "title": "Giant Kosha Karnage (Crystal Caves - Mini-Boss-Earthquake)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/dmpzzuvdgn/110.%20Giant%20Kosha%20Karnage%20%28Crystal%20Caves%20-%20Mini-Boss-Earthquake%29.mp3"
+    },
+    {
+      "title": "OrangSprint",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/skrlwycnnf/111.%20OrangSprint.mp3"
+    },
+    {
+      "title": "Crystal Caves - Barrel Course",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/jmpxuiebmp/112.%20Crystal%20Caves%20-%20Barrel%20Course.mp3"
+    },
+    {
+      "title": "Crystal Caves - Cabin",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/vqqvshomoo/113.%20Crystal%20Caves%20-%20Cabin.mp3"
+    },
+    {
+      "title": "Crystal Caves - Rotating Cabin",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/dhhmlxeuih/114.%20Crystal%20Caves%20-%20Rotating%20Cabin.mp3"
+    },
+    {
+      "title": "Gorilla Gone",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/xdsctewuem/115.%20Gorilla%20Gone.mp3"
+    },
+    {
+      "title": "Crystal Caves - Igloo",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/kdfnxdlvjq/116.%20Crystal%20Caves%20-%20Igloo.mp3"
+    },
+    {
+      "title": "Crystal Caves - Board Game",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/ccfbcqyxyq/117.%20Crystal%20Caves%20-%20Board%20Game.mp3"
+    },
+    {
+      "title": "Crystal Caves - Race",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/atxffqfwnz/118.%20Crystal%20Caves%20-%20Race.mp3"
+    },
+    {
+      "title": "Army Dillo Armageddon (Crystal Caves - Boss)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/royzswffju/119.%20Army%20Dillo%20Armageddon%20%28Crystal%20Caves%20-%20Boss%29.mp3"
+    },
+    {
+      "title": "Crocodile Isle - Creepy Castle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/zqpcrgxkuv/120.%20Crocodile%20Isle%20-%20Creepy%20Castle.mp3"
+    },
+    {
+      "title": "Haunted Bananas (Creepy Castle)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/zxcjoerihu/121.%20Haunted%20Bananas%20%28Creepy%20Castle%29.mp3"
+    },
+    {
+      "title": "Creepy Castle - Barrel Course",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/dlackydxeu/122.%20Creepy%20Castle%20-%20Barrel%20Course.mp3"
+    },
+    {
+      "title": "Creepy Castle - Tree",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/kpisvkglfv/123.%20Creepy%20Castle%20-%20Tree.mp3"
+    },
+    {
+      "title": "Creepy Castle - Catacombs",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/mmssywpfzo/124.%20Creepy%20Castle%20-%20Catacombs.mp3"
+    },
+    {
+      "title": "Creepy Castle - Tomb",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/kmqhuatakf/125.%20Creepy%20Castle%20-%20Tomb.mp3"
+    },
+    {
+      "title": "Creepy Castle - Mine Cart",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/zsfulcexjj/126.%20Creepy%20Castle%20-%20Mine%20Cart.mp3"
+    },
+    {
+      "title": "Collect Bonus Token",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/uqttqhlvji/127.%20Collect%20Bonus%20Token.mp3"
+    },
+    {
+      "title": "Lose Bonus Tokens",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/ehqavsbpge/128.%20Lose%20Bonus%20Tokens.mp3"
+    },
+    {
+      "title": "Creepy Castle - Caverns",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/idlrfgwjqc/129.%20Creepy%20Castle%20-%20Caverns.mp3"
+    },
+    {
+      "title": "Creepy Castle - Prison",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/kckxtgeofm/130.%20Creepy%20Castle%20-%20Prison.mp3"
+    },
+    {
+      "title": "Creepy Castle - Trash Can",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/opdzzmqmnv/131.%20Creepy%20Castle%20-%20Trash%20Can.mp3"
+    },
+    {
+      "title": "Creepy Castle - Greenhouse",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/mknjzjcurf/132.%20Creepy%20Castle%20-%20Greenhouse.mp3"
+    },
+    {
+      "title": "Creepy Castle - Museum",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/todmnubqra/133.%20Creepy%20Castle%20-%20Museum.mp3"
+    },
+    {
+      "title": "Creepy Castle - Library",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/sfbuozjjkc/134.%20Creepy%20Castle%20-%20Library.mp3"
+    },
+    {
+      "title": "Creepy Castle - Ballroom",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/zhyxeddljk/135.%20Creepy%20Castle%20-%20Ballroom.mp3"
+    },
+    {
+      "title": "Creepy Castle - Tower",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/bsjalvgtee/136.%20Creepy%20Castle%20-%20Tower.mp3"
+    },
+    {
+      "title": "Krazy King Kut-Out (Creepy Castle - Boss)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/dsnzjzrutp/137.%20Krazy%20King%20Kut-Out%20%28Creepy%20Castle%20-%20Boss%29.mp3"
+    },
+    {
+      "title": "Find 5-Banana Coin",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/wicvexrwuv/138.%20Find%205-Banana%20Coin.mp3"
+    },
+    {
+      "title": "Collect 5-Banana Coin",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/vdenugdood/139.%20Collect%205-Banana%20Coin.mp3"
+    },
+    {
+      "title": "Crocodile Isle - Snide's HQ",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/vippwcwxfa/140.%20Crocodile%20Isle%20-%20Snide%27s%20HQ.mp3"
+    },
+    {
+      "title": "Snide's HQ",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/okcjhauvps/141.%20Snide%27s%20HQ.mp3"
+    },
+    {
+      "title": "Find Blueprint",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/zujojjdpvo/142.%20Find%20Blueprint.mp3"
+    },
+    {
+      "title": "Collect Blueprint",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/uhkxcahwkr/143.%20Collect%20Blueprint.mp3"
+    },
+    {
+      "title": "Stealthy Snoop",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/vpqevzhohp/144.%20Stealthy%20Snoop.mp3"
+    },
+    {
+      "title": "Mine Cart Mayhem",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/ezwtlimvmt/145.%20Mine%20Cart%20Mayhem.mp3"
+    },
+    {
+      "title": "Mad Maze Maul",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/pwfihyouxa/146.%20Mad%20Maze%20Maul.mp3"
+    },
+    {
+      "title": "Battle Arena",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/mnewsrnbxc/147.%20Battle%20Arena.mp3"
+    },
+    {
+      "title": "Collect Banana Medal-Battle Crown",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/isyqmsnxxp/148.%20Collect%20Banana%20Medal-Battle%20Crown.mp3"
+    },
+    {
+      "title": "Collect 100 Bananas",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/pmwxseatrx/149.%20Collect%20100%20Bananas.mp3"
+    },
+    {
+      "title": "Monkey Smash",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/mhiwtkovar/150.%20Monkey%20Smash.mp3"
+    },
+    {
+      "title": "Collect Nintendo Coin-Rareware Coin",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/pmqtxbcooh/151.%20Collect%20Nintendo%20Coin-Rareware%20Coin.mp3"
+    },
+    {
+      "title": "Crocodile Isle - Hideout Helm",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/cfkuypsaau/152.%20Crocodile%20Isle%20-%20Hideout%20Helm.mp3"
+    },
+    {
+      "title": "K. Rool's Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/pbtlkmaqlj/153.%20K.%20Rool%27s%20Theme.mp3"
+    },
+    {
+      "title": "Critical Countdown (Hideout Helm 1)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/ymbxdpgycq/154.%20Critical%20Countdown%20%28Hideout%20Helm%201%29.mp3"
+    },
+    {
+      "title": "K. Rool's Barrel Challenge",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/nhckzptxmr/155.%20K.%20Rool%27s%20Barrel%20Challenge.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/vdoczsfcwm/156.%20Game%20Over.mp3"
+    },
+    {
+      "title": "Shutdown Stronghold (Hideout Helm 2)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/hxpsstvbde/157.%20Shutdown%20Stronghold%20%28Hideout%20Helm%202%29.mp3"
+    },
+    {
+      "title": "The Flying Krock Take-Off",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/vhyiqazxty/158.%20The%20Flying%20Krock%20Take-Off.mp3"
+    },
+    {
+      "title": "The Heavyweight Champion",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/riunxocavy/159.%20The%20Heavyweight%20Champion.mp3"
+    },
+    {
+      "title": "King ''Krusha'' K. Rool (Final Boss)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/zyilziisym/160.%20King%20%27%27Krusha%27%27%20K.%20Rool%20%28Final%20Boss%29.mp3"
+    },
+    {
+      "title": "K. Rool Defeated",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/onfcqtvrmo/161.%20K.%20Rool%20Defeated.mp3"
+    },
+    {
+      "title": "Kong-clusion (Staff Roll)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/lsvftbpndl/162.%20Kong-clusion%20%28Staff%20Roll%29.mp3"
+    },
+    {
+      "title": "Epilogue",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/gfsuljzlrg/163.%20Epilogue.mp3"
+    },
+    {
+      "title": "Jungle Japes (w-o Ambience)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/gczdkygkzg/164.%20Jungle%20Japes%20%28w-o%20Ambience%29.mp3"
+    },
+    {
+      "title": "Jungle Japes - Mountain (w-o Ambience)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/xgnoeoetwh/165.%20Jungle%20Japes%20-%20Mountain%20%28w-o%20Ambience%29.mp3"
+    },
+    {
+      "title": "Frantic Factory - Boss (w-o Laugh)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/ojiipygdar/166.%20Frantic%20Factory%20-%20Boss%20%28w-o%20Laugh%29.mp3"
+    },
+    {
+      "title": "Gloomy Galleon (w Ambience)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/ivacfjgyjr/167.%20Gloomy%20Galleon%20%28w%20Ambience%29.mp3"
+    },
+    {
+      "title": "Fungi Forest - Day (w-o Ambience)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/vgmwwbofin/168.%20Fungi%20Forest%20-%20Day%20%28w-o%20Ambience%29.mp3"
+    },
+    {
+      "title": "Fungi Forest - Night (w-o Ambience)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/ocycfbjwbj/169.%20Fungi%20Forest%20-%20Night%20%28w-o%20Ambience%29.mp3"
+    },
+    {
+      "title": "Creepy Castle (w-o Laughs)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/lmhjjmudeb/170.%20Creepy%20Castle%20%28w-o%20Laughs%29.mp3"
+    },
+    {
+      "title": "Creepy Castle - Ballroom (w-o Laughs)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/quigsikqye/171.%20Creepy%20Castle%20-%20Ballroom%20%28w-o%20Laughs%29.mp3"
+    },
+    {
+      "title": "DK Theme",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/hruchbxszg/172.%20DK%20Theme.mp3"
+    },
+    {
+      "title": "Jingle 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/lbszdewtyt/173.%20Jingle%201.mp3"
+    },
+    {
+      "title": "Jingle 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/kipmhavgiw/174.%20Jingle%202.mp3"
+    },
+    {
+      "title": "Jingle 3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/sbsuhlfvvf/175.%20Jingle%203.mp3"
+    },
+    {
+      "title": "Jingle 4",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/donkey-kong-64-gamerip/othpijraee/176%20Jingle%204.mp3"
+    }
+  ]
+}
