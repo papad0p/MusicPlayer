@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "game_title": "The Legend of Zelda: The Minish Cap",
+    "art": "https://upload.wikimedia.org/wikipedia/en/0/0a/TLOZ-_Minish_Cap_NA_Box_art.png",
+    "desc": "November 4, 2004"
+  },
+  "songs": [
+    {
+      "title": "Title Screen",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/fvlvujpu/01.%20Title%20Screen.mp3"
+    },
+    {
+      "title": "File Select",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/eohstomv/02.%20File%20Select.mp3"
+    },
+    {
+      "title": "Introduction",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/sbcijxhv/03.%20Introduction.mp3"
+    },
+    {
+      "title": "Princess Zelda",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/hxqouhew/04.%20Princess%20Zelda.mp3"
+    },
+    {
+      "title": "Festival Outskirts",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/vqrjwfnw/05.%20Festival%20Outskirts.mp3"
+    },
+    {
+      "title": "Picori Festival",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/ujjwefqm/06.%20Picori%20Festival.mp3"
+    },
+    {
+      "title": "King Daltus",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/ohwklyjc/07.%20King%20Daltus.mp3"
+    },
+    {
+      "title": "Vaati's Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/hfehvhzb/08.%20Vaati%27s%20Theme.mp3"
+    },
+    {
+      "title": "Vaati Attacks",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/ktqwmseu/09.%20Vaati%20Attacks.mp3"
+    },
+    {
+      "title": "Hyrule Castle (w -  Intro)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/kqadrwln/10.%20Hyrule%20Castle%20%28w%20-%20%20Intro%29.mp3"
+    },
+    {
+      "title": "Hyrule Castle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/hvifbpwn/11.%20Hyrule%20Castle.mp3"
+    },
+    {
+      "title": "Hyrule Field",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/zkzuasmf/12.%20Hyrule%20Field.mp3"
+    },
+    {
+      "title": "Minish Woods",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/syozghtv/13.%20Minish%20Woods.mp3"
+    },
+    {
+      "title": "The Minish Cap",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/ygkgcret/14.%20The%20Minish%20Cap.mp3"
+    },
+    {
+      "title": "Danger",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/ijwdccdk/15.%20Danger.mp3"
+    },
+    {
+      "title": "The Journey Begins",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/pvklzovm/16.%20The%20Journey%20Begins.mp3"
+    },
+    {
+      "title": "Minish Village",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/zlfwofic/17.%20Minish%20Village.mp3"
+    },
+    {
+      "title": "Inside the House",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/meieycsg/18.%20Inside%20the%20House.mp3"
+    },
+    {
+      "title": "Deepwood Shrine",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/ctnjetfw/19.%20Deepwood%20Shrine.mp3"
+    },
+    {
+      "title": "Mini-Boss",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/szttnjin/20.%20Mini-Boss.mp3"
+    },
+    {
+      "title": "Boss",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/nddhzadr/21.%20Boss.mp3"
+    },
+    {
+      "title": "Element Appears",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/zuarkxki/22.%20Element%20Appears.mp3"
+    },
+    {
+      "title": "Element Received",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/jymrwiab/23.%20Element%20Received.mp3"
+    },
+    {
+      "title": "Fairy Fountain",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/josxkfze/24.%20Fairy%20Fountain.mp3"
+    },
+    {
+      "title": "Hyrule Town",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/zhnukqzb/25.%20Hyrule%20Town.mp3"
+    },
+    {
+      "title": "Cucco Chase",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/gcvsfvpk/26.%20Cucco%20Chase.mp3"
+    },
+    {
+      "title": "Training",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/ilfsvdek/27.%20Training.mp3"
+    },
+    {
+      "title": "Training Complete",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/nlrxqlii/28.%20Training%20Complete.mp3"
+    },
+    {
+      "title": "Mt. Crenel",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/pcpubxln/29.%20Mt.%20Crenel.mp3"
+    },
+    {
+      "title": "Cave",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/fnyfeelp/30.%20Cave.mp3"
+    },
+    {
+      "title": "Great Fairy Fountain",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/qnpjdqrm/31.%20Great%20Fairy%20Fountain.mp3"
+    },
+    {
+      "title": "Mt. Crenel Summit",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/ihjayqmj/32.%20Mt.%20Crenel%20Summit.mp3"
+    },
+    {
+      "title": "Cave of Flames",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/jvbuvtfw/33.%20Cave%20of%20Flames.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/sxjfvpkh/34.%20Game%20Over.mp3"
+    },
+    {
+      "title": "Elemental Sanctuary",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/hpahjayp/35.%20Elemental%20Sanctuary.mp3"
+    },
+    {
+      "title": "Flashback",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/hpctkskw/36.%20Flashback.mp3"
+    },
+    {
+      "title": "Royal Orders (Cave 2)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/ehwoctpq/37.%20Royal%20Orders%20%28Cave%202%29.mp3"
+    },
+    {
+      "title": "Castor Wilds",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/jaxnxzco/38.%20Castor%20Wilds.mp3"
+    },
+    {
+      "title": "Malon",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/oaopkfws/39.%20Malon.mp3"
+    },
+    {
+      "title": "Syrup the Witch",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/xkfzghtx/40.%20Syrup%20the%20Witch.mp3"
+    },
+    {
+      "title": "Wind Ruins",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/eekmelrc/41.%20Wind%20Ruins.mp3"
+    },
+    {
+      "title": "Fortress of Winds",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/masmfrtr/42.%20Fortress%20of%20Winds.mp3"
+    },
+    {
+      "title": "Ocarina of Wind",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/eujpvhyw/43.%20Ocarina%20of%20Wind.mp3"
+    },
+    {
+      "title": "Into the Skies",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/mxzhkdlv/44.%20Into%20the%20Skies.mp3"
+    },
+    {
+      "title": "Temple of Droplets",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/tjpxswef/45.%20Temple%20of%20Droplets.mp3"
+    },
+    {
+      "title": "Secret Tunnel",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/qmmbtqyv/46.%20Secret%20Tunnel.mp3"
+    },
+    {
+      "title": "Royal Valley",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/icnickuu/47.%20Royal%20Valley.mp3"
+    },
+    {
+      "title": "Royal Crypt",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/mcccftci/48.%20Royal%20Crypt.mp3"
+    },
+    {
+      "title": "Cloud Tops",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/jtqywkky/49.%20Cloud%20Tops.mp3"
+    },
+    {
+      "title": "Palace of Winds",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/jcilemxc/50.%20Palace%20of%20Winds.mp3"
+    },
+    {
+      "title": "Hurry!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/shiuwalg/51.%20Hurry%21.mp3"
+    },
+    {
+      "title": "Dark Hyrule Castle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/wqpcrckr/52.%20Dark%20Hyrule%20Castle.mp3"
+    },
+    {
+      "title": "Vaati Battle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/gdyhrors/53.%20Vaati%20Battle.mp3"
+    },
+    {
+      "title": "Vaati's Wrath",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/pwlserwh/54.%20Vaati%27s%20Wrath.mp3"
+    },
+    {
+      "title": "Zelda Awakens",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/ysvxcuqv/55.%20Zelda%20Awakens.mp3"
+    },
+    {
+      "title": "The Journey Ends",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/emungtyn/56.%20The%20Journey%20Ends.mp3"
+    },
+    {
+      "title": "A Kingdom Restored",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/ruaqdtjq/57.%20A%20Kingdom%20Restored.mp3"
+    },
+    {
+      "title": "Credits",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/cppgnulu/58.%20Credits.mp3"
+    },
+    {
+      "title": "Get Item",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/sbfwrtup/59.%20Get%20Item.mp3"
+    },
+    {
+      "title": "Secret Found",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/qmmzkdnb/60.%20Secret%20Found.mp3"
+    },
+    {
+      "title": "Special Secret Found",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/wcxefmvt/61.%20Special%20Secret%20Found.mp3"
+    },
+    {
+      "title": "SFX (Misc)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/eruzowsv/62.%20SFX%20%28Misc%29.mp3"
+    },
+    {
+      "title": "Voice (Misc)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/cxiyrnrr/63.%20Voice%20%28Misc%29.mp3"
+    },
+    {
+      "title": "Dark Hyrule Castle Intro (Unused)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/lfsymqrl/64.%20Dark%20Hyrule%20Castle%20Intro%20%28Unused%29.mp3"
+    },
+    {
+      "title": "Vaati Intro (Unused)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/fswgsusi/65.%20Vaati%20Intro%20%28Unused%29.mp3"
+    },
+    {
+      "title": "Link to the Past Title (Unused)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/jxmsaach/66.%20Link%20to%20the%20Past%20Title%20%28Unused%29.mp3"
+    },
+    {
+      "title": "Lost Woods (Unused)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/glkqclyi/67.%20Lost%20Woods%20%28Unused%29.mp3"
+    },
+    {
+      "title": "Get Small Item (Unused)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/xmthfefm/68.%20Get%20Small%20Item%20%28Unused%29.mp3"
+    },
+    {
+      "title": "Discovery (Unused)",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/the-legend-of-zelda-the-minish-cap-original-soundtrack/umdfogqh/69.%20Discovery%20%28Unused%29.mp3"
+    }
+  ]
+}
