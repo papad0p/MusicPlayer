@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "game_title": "Mario & Luigi: Paper Jam",
+    "art": "https://mario.wiki.gallery/images/thumb/f/f5/Mario_%26_Luigi_-_Paper_Jam_-_NOA_Boxart.png/1600px-Mario_%26_Luigi_-_Paper_Jam_-_NOA_Boxart.png",
+    "desc": "December 3, 2015"
+  },
+  "songs": [
+    {
+      "title": "Start of the Adventure",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/betdneic/01%20Start%20of%20the%20Adventure.mp3"
+    },
+    {
+      "title": "Our Story Begins",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/mejinrtu/02%20Our%20Story%20Begins.mp3"
+    },
+    {
+      "title": "Cheerful Interlude",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/rbesaayt/03.%20Cheerful%20Interlude.mp3"
+    },
+    {
+      "title": "Falling to Pieces",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/xgozfcxd/04%20Falling%20to%20Pieces.mp3"
+    },
+    {
+      "title": "Strange Things Afoot",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/asmguftb/05%20Strange%20Things%20Afoot.mp3"
+    },
+    {
+      "title": "Good-Bye Sadness",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/aztvyfef/06%20Good-Bye%20Sadness.mp3"
+    },
+    {
+      "title": "What Happens Next?",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/qkgahker/07.%20What%20Happens%20Next%3F.mp3"
+    },
+    {
+      "title": "Just Passing Time",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/xkikawjd/08%20Just%20Passing%20Time.mp3"
+    },
+    {
+      "title": "Steel Yourself",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/rysslcbb/09%20Steel%20Yourself.mp3"
+    },
+    {
+      "title": "Do It Now!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/cgbmfplj/10%20Do%20It%20Now%21.mp3"
+    },
+    {
+      "title": "Bowser's Coming!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/lguhaeyc/11%20Bowser%27s%20Coming%21.mp3"
+    },
+    {
+      "title": "Respect Your Elders",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/sevneiaf/12%20Respect%20Your%20Elders.mp3"
+    },
+    {
+      "title": "Whispered Secrets",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/xxuhcqwm/13%20Whispered%20Secrets.mp3"
+    },
+    {
+      "title": "Peach's Castle Theme",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/seschfdc/14%20Peach%27s%20Castle%20Theme.mp3"
+    },
+    {
+      "title": "Springtime Breeze",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/cendbvcz/15%20Springtime%20Breeze.mp3"
+    },
+    {
+      "title": "Uh-Oh, Sand Flow!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/oujjwdbz/16%20Uh-Oh%2C%20Sand%20Flow%21.mp3"
+    },
+    {
+      "title": "Epic Story",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/qgixnxah/17%20Epic%20Story.mp3"
+    },
+    {
+      "title": "Behind Closed Doors",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/mmxfgqjx/18%20Behind%20Closed%20Doors.mp3"
+    },
+    {
+      "title": "Forest Fairy Melody",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/klwcxgoa/19%20Forest%20Fairy%20Melody.mp3"
+    },
+    {
+      "title": "Mountaintop Secrets",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/jvcyljle/20%20Mountaintop%20Secrets.mp3"
+    },
+    {
+      "title": "Mysterious Bowser's Castle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/oiwlomsd/21%20Mysterious%20Bowser%27s%20Castle.mp3"
+    },
+    {
+      "title": "Holding Hands in the Darkness",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/nflrbfzf/22.%20Holding%20Hands%20in%20the%20Darkness.mp3"
+    },
+    {
+      "title": "Welcome to the Lakitu Info Center!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/apxswflq/23%20Welcome%20to%20the%20Lakitu%20Info%20Center%21.mp3"
+    },
+    {
+      "title": "Teatime on the Clouds",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/wkimmzjx/24%20Teatime%20on%20the%20Clouds.mp3"
+    },
+    {
+      "title": "Floating Castle of Doom",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/mrxmujor/25%20Floating%20Castle%20of%20Doom.mp3"
+    },
+    {
+      "title": "Get Ready!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/rirhlheb/26%20Get%20Ready%21.mp3"
+    },
+    {
+      "title": "Time's Running Out!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/rhjbbfwp/27%20Time%27s%20Running%20Out%21.mp3"
+    },
+    {
+      "title": "Where's Toad?",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/molmbvzm/28.%20Where%27s%20Toad%3F.mp3"
+    },
+    {
+      "title": "Destination Unknown",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/krbimkqx/29%20Destination%20Unknown.mp3"
+    },
+    {
+      "title": "You Did It!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/qkeokiir/30%20You%20Did%20It%21.mp3"
+    },
+    {
+      "title": "Come On!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/jwhsuwwr/31%20Come%20On%21.mp3"
+    },
+    {
+      "title": "Mixed-Up Scramble",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/wjerzwic/32%20Mixed-Up%20Scramble.mp3"
+    },
+    {
+      "title": "New Item!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/mbvyitsi/33%20New%20Item%21.mp3"
+    },
+    {
+      "title": "Big Bang!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/pzbjrfak/34%20Big%20Bang%21.mp3"
+    },
+    {
+      "title": "Double Bowsers!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/ceruyjaz/35%20Double%20Bowsers%21.mp3"
+    },
+    {
+      "title": "Final Battle",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/wkjqagdz/36%20Final%20Battle.mp3"
+    },
+    {
+      "title": "Getting Stronger",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/ljmhaevp/37%20Getting%20Stronger.mp3"
+    },
+    {
+      "title": "Crowning Glory",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/pdxcsjrh/38.%20Crowning%20Glory.mp3"
+    },
+    {
+      "title": "Soldiers Marching",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/jztwbqzz/39%20Soldiers%20Marching.mp3"
+    },
+    {
+      "title": "Attack and Run!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/afwvkrae/40%20Attack%20and%20Run%21.mp3"
+    },
+    {
+      "title": "Mario Craft Rhythm",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/ujnofiae/41%20Mario%20Craft%20Rhythm.mp3"
+    },
+    {
+      "title": "Luigi Craft Rhythm",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/tftfujjs/42%20Luigi%20Craft%20Rhythm.mp3"
+    },
+    {
+      "title": "Princess Peach Craft Rhythm",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/mievsbbe/43%20Princess%20Peach%20Craft%20Rhythm.mp3"
+    },
+    {
+      "title": "Yoshi Craft Rhythm",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/rubuvukq/44%20Yoshi%20Craft%20Rhythm.mp3"
+    },
+    {
+      "title": "Fire Mario Craft Rhythm",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/ywkmgudj/45%20Fire%20Mario%20Craft%20Rhythm.mp3"
+    },
+    {
+      "title": "Paper Parade!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/ipyzdqtw/46%20Paper%20Parade%21.mp3"
+    },
+    {
+      "title": "Say Good-Bye!",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-luigi-paper-jam-bros.-gamerip/edhxtzsn/47%20Say%20Good-Bye%21.mp3"
+    }
+  ]
+}
