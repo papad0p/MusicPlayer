@@ -1,0 +1,749 @@
+{
+  "meta": {
+    "game_title": "Pokémon Brilliant Diamond & Shining Pearl",
+    "art": "https://upload.wikimedia.org/wikipedia/en/3/3e/Pokemon_Brilliant_Diamond_Shining_Pearl.png",
+    "desc": "November 19, 2021"
+  },
+  "songs": [
+    {
+      "title": "Opening Movie",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/wqnsztvv/1-01.%20Opening%20Movie.mp3"
+    },
+    {
+      "title": "Introduction",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/szwjfzgh/1-02.%20Introduction.mp3"
+    },
+    {
+      "title": "Special Report Search For The Red Gyarados!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/rmkqwnxa/1-03.%20Special%20Report%20Search%20For%20The%20Red%20Gyarados%21.mp3"
+    },
+    {
+      "title": "Twinleaf Town (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/laxkjoud/1-04.%20Twinleaf%20Town%20%28Day%29.mp3"
+    },
+    {
+      "title": "Rival",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/knlsdppf/1-05.%20Rival.mp3"
+    },
+    {
+      "title": "Route 201 (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/hvgsweiz/1-06.%20Route%20201%20%28Day%29.mp3"
+    },
+    {
+      "title": "Lake",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/bildmxff/1-07.%20Lake.mp3"
+    },
+    {
+      "title": "A Surprise At The Lake!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/kmcavasn/1-08.%20A%20Surprise%20At%20The%20Lake%21.mp3"
+    },
+    {
+      "title": "Battle! (Wild Pokémon)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/lqvgueoh/1-09.%20Battle%21%20%28Wild%20Pok%C3%A9mon%29.mp3"
+    },
+    {
+      "title": "Victory! (Wild Pokémon)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/tykdojfv/1-10.%20Victory%21%20%28Wild%20Pok%C3%A9mon%29.mp3"
+    },
+    {
+      "title": "Dawn",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/pmpqhpdv/1-11.%20Dawn.mp3"
+    },
+    {
+      "title": "Obtained An Item!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/sckqywkn/1-12.%20Obtained%20An%20Item%21.mp3"
+    },
+    {
+      "title": "Sandgem Town (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/hacmbxjd/1-13.%20Sandgem%20Town%20%28Day%29.mp3"
+    },
+    {
+      "title": "The Pokémon Lab",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/nfmtjpvi/1-14.%20The%20Pok%C3%A9mon%20Lab.mp3"
+    },
+    {
+      "title": "Hurry Along",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/dqwlppgk/1-15.%20Hurry%20Along.mp3"
+    },
+    {
+      "title": "Pokémon Center (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/jpwodcby/1-16.%20Pok%C3%A9mon%20Center%20%28Day%29.mp3"
+    },
+    {
+      "title": "Pokémon Healed",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/oxzbjsmf/1-17.%20Pok%C3%A9mon%20Healed.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Youngster)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/oflprota/1-18.%20Trainers%27%20Eyes%20Meet%20%28Youngster%29.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Lass)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/xmrzubzp/1-19.%20Trainers%27%20Eyes%20Meet%20%28Lass%29.mp3"
+    },
+    {
+      "title": "Battle! (Trainer Battle)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/ezmmwwuh/1-20.%20Battle%21%20%28Trainer%20Battle%29.mp3"
+    },
+    {
+      "title": "Victory! (Trainer Battle)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/bkwdczts/1-21.%20Victory%21%20%28Trainer%20Battle%29.mp3"
+    },
+    {
+      "title": "Jubilife City (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/hiuxdbts/1-22.%20Jubilife%20City%20%28Day%29.mp3"
+    },
+    {
+      "title": "Obtained A Key Item!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/fakylmdd/1-23.%20Obtained%20A%20Key%20Item%21.mp3"
+    },
+    {
+      "title": "Poké Mart",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/ifdariqc/1-24.%20Pok%C3%A9%20Mart.mp3"
+    },
+    {
+      "title": "Route 203 (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/qvibhjzu/1-25.%20Route%20203%20%28Day%29.mp3"
+    },
+    {
+      "title": "Battle! (Rival)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/atsgbqxq/1-26.%20Battle%21%20%28Rival%29.mp3"
+    },
+    {
+      "title": "Oreburgh Gate",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/mmxebvxc/1-27.%20Oreburgh%20Gate.mp3"
+    },
+    {
+      "title": "Obtained A TM!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/vthebsld/1-28.%20Obtained%20A%20TM%21.mp3"
+    },
+    {
+      "title": "Oreburgh City (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/hzzcmeji/1-29.%20Oreburgh%20City%20%28Day%29.mp3"
+    },
+    {
+      "title": "Oreburgh Mine",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/nruxeejh/1-30.%20Oreburgh%20Mine.mp3"
+    },
+    {
+      "title": "Pokémon Gym",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/jawjevpo/1-31.%20Pok%C3%A9mon%20Gym.mp3"
+    },
+    {
+      "title": "Battle! (Gym Leader)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/ajsnnyfh/1-32.%20Battle%21%20%28Gym%20Leader%29.mp3"
+    },
+    {
+      "title": "Victory! (Gym Leader)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/uzpajtrc/1-33.%20Victory%21%20%28Gym%20Leader%29.mp3"
+    },
+    {
+      "title": "Obtained a Badge!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/mbuwzhli/1-34.%20Obtained%20a%20Badge%21.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Twins)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/hpzfdznq/1-35.%20Trainers%27%20Eyes%20Meet%20%28Twins%29.mp3"
+    },
+    {
+      "title": "Level Up!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/pdwwtchc/1-36.%20Level%20Up%21.mp3"
+    },
+    {
+      "title": "Floaroma Town (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/sgcvscks/1-37.%20Floaroma%20Town%20%28Day%29.mp3"
+    },
+    {
+      "title": "Obtained a Berry!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/kxhsslby/1-38.%20Obtained%20a%20Berry%21.mp3"
+    },
+    {
+      "title": "Route 205 (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/pbnmtimj/1-39.%20Route%20205%20%28Day%29.mp3"
+    },
+    {
+      "title": "Team Galactic Appears!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/kykhdvth/1-40.%20Team%20Galactic%20Appears%21.mp3"
+    },
+    {
+      "title": "Battle! (Team Galactic)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/fcyjzwib/1-41.%20Battle%21%20%28Team%20Galactic%29.mp3"
+    },
+    {
+      "title": "Eterna Forest",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/ilgxufrv/1-42.%20Eterna%20Forest.mp3"
+    },
+    {
+      "title": "Let's Go Together!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/bvaqzcnj/1-43.%20Let%27s%20Go%20Together%21.mp3"
+    },
+    {
+      "title": "Eterna City (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/gdyhspuf/1-44.%20Eterna%20City%20%28Day%29.mp3"
+    },
+    {
+      "title": "Galactic Eterna Building",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/rtrcolmf/1-45.%20Galactic%20Eterna%20Building.mp3"
+    },
+    {
+      "title": "Battle! (Team Galactic Commander)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/mvsazuau/1-46.%20Battle%21%20%28Team%20Galactic%20Commander%29.mp3"
+    },
+    {
+      "title": "Victory! (Team Galactic)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/uqucdkra/1-47.%20Victory%21%20%28Team%20Galactic%29.mp3"
+    },
+    {
+      "title": "Evolution",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/bhecymmy/1-48.%20Evolution.mp3"
+    },
+    {
+      "title": "Congratulations! Your Pokémon Evolved!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/jaaaberv/1-49.%20Congratulations%21%20Your%20Pok%C3%A9mon%20Evolved%21.mp3"
+    },
+    {
+      "title": "Bicycle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/dfswdcdj/1-50.%20Bicycle.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Cyclist)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/lemyfhuc/1-51.%20Trainers%27%20Eyes%20Meet%20%28Cyclist%29.mp3"
+    },
+    {
+      "title": "Route 206 (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/enbtophs/1-52.%20Route%20206%20%28Day%29.mp3"
+    },
+    {
+      "title": "Hearthome City (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/oufsymsb/1-53.%20Hearthome%20City%20%28Day%29.mp3"
+    },
+    {
+      "title": "Route 209 (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/eqpfdejg/1-54.%20Route%20209%20%28Day%29.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Hiker)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/hoboofgt/1-55.%20Trainers%27%20Eyes%20Meet%20%28Hiker%29.mp3"
+    },
+    {
+      "title": "Solaceon Town (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/atrdtgai/1-56.%20Solaceon%20Town%20%28Day%29.mp3"
+    },
+    {
+      "title": "Obtained a Pokétch App!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/rhlkrbkv/1-57.%20Obtained%20a%20Pok%C3%A9tch%20App%21.mp3"
+    },
+    {
+      "title": "Route 210",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/vsckrdqt/1-58.%20Route%20210.mp3"
+    },
+    {
+      "title": "Veilstone City (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/xehwmvqt/1-59.%20Veilstone%20City%20%28Day%29.mp3"
+    },
+    {
+      "title": "Valor Lakefront (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/tnkmdfqn/1-60.%20Valor%20Lakefront%20%28Day%29.mp3"
+    },
+    {
+      "title": "Canalave City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/tdndbxjc/1-61.%20Canalave%20City.mp3"
+    },
+    {
+      "title": "Route 216 (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/lyjzubwg/1-62.%20Route%20216%20%28Day%29.mp3"
+    },
+    {
+      "title": "Snowpoint City (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/qjzvdgue/1-63.%20Snowpoint%20City%20%28Day%29.mp3"
+    },
+    {
+      "title": "Team Galactic HQ",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/nbtnicom/1-64.%20Team%20Galactic%20HQ.mp3"
+    },
+    {
+      "title": "Battle! (Team Galactic Boss)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/umyjaytu/1-65.%20Battle%21%20%28Team%20Galactic%20Boss%29.mp3"
+    },
+    {
+      "title": "Deep Within Team Galactic HQ",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/upozghua/1-66.%20Deep%20Within%20Team%20Galactic%20HQ.mp3"
+    },
+    {
+      "title": "Mt. Coronet",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/tqzyvhbh/1-67.%20Mt.%20Coronet.mp3"
+    },
+    {
+      "title": "Spear Pillar",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/hnultktq/1-68.%20Spear%20Pillar.mp3"
+    },
+    {
+      "title": "The Legendary Pokémon Appears!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/yvgsuxff/1-69.%20The%20Legendary%20Pok%C3%A9mon%20Appears%21.mp3"
+    },
+    {
+      "title": "Catastrophe!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/lqwidqwj/1-70.%20Catastrophe%21.mp3"
+    },
+    {
+      "title": "Battle! (Dialga-Palkia)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/fzgkescg/1-71.%20Battle%21%20%28Dialga-Palkia%29.mp3"
+    },
+    {
+      "title": "Sunyshore City (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/agituumd/1-72.%20Sunyshore%20City%20%28Day%29.mp3"
+    },
+    {
+      "title": "Victory Road",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/frrjwfnv/1-73.%20Victory%20Road.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Ace Trainer)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/rypcvtgc/1-74.%20Trainers%27%20Eyes%20Meet%20%28Ace%20Trainer%29.mp3"
+    },
+    {
+      "title": "Pokémon League (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/sevqttmd/1-75.%20Pok%C3%A9mon%20League%20%28Day%29.mp3"
+    },
+    {
+      "title": "Fight Area (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/hadtiisn/1-76.%20Fight%20Area%20%28Day%29.mp3"
+    },
+    {
+      "title": "Route 225 (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/ocxfhuba/1-77.%20Route%20225%20%28Day%29.mp3"
+    },
+    {
+      "title": "Route 228 (Day)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/xlpnwszu/1-78.%20Route%20228%20%28Day%29.mp3"
+    },
+    {
+      "title": "Twinleaf Town (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/znpnteqt/2-01.%20Twinleaf%20Town%20%28Night%29.mp3"
+    },
+    {
+      "title": "Route 201 (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/tlbxjbeu/2-02.%20Route%20201%20%28Night%29.mp3"
+    },
+    {
+      "title": "Pokémon Center (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/ikxkfwrs/2-03.%20Pok%C3%A9mon%20Center%20%28Night%29.mp3"
+    },
+    {
+      "title": "Sandgem Town (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/qyvjjtre/2-04.%20Sandgem%20Town%20%28Night%29.mp3"
+    },
+    {
+      "title": "Lucas",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/sdlygntg/2-05.%20Lucas.mp3"
+    },
+    {
+      "title": "Jubilife City",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/bonydygl/2-06.%20Jubilife%20City.mp3"
+    },
+    {
+      "title": "TV Station",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/nfpgmrys/2-07.%20TV%20Station.mp3"
+    },
+    {
+      "title": "GTS",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/sldgyxsx/2-08.%20GTS.mp3"
+    },
+    {
+      "title": "Surf",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/hsrfaosw/2-09.%20Surf.mp3"
+    },
+    {
+      "title": "Canalave City (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/fmtjmhcr/2-10.%20Canalave%20City%20%28Night%29.mp3"
+    },
+    {
+      "title": "Move Deleted",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/yssjuvuj/2-11.%20Move%20Deleted.mp3"
+    },
+    {
+      "title": "Route 203 (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/nnbslbxj/2-12.%20Route%20203%20%28Night%29.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Black Belt)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/beuigiyq/2-13.%20Trainers%27%20Eyes%20Meet%20%28Black%20Belt%29.mp3"
+    },
+    {
+      "title": "Oreburgh City (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/jaxozgke/2-14.%20Oreburgh%20City%20%28Night%29.mp3"
+    },
+    {
+      "title": "Route 205 (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/pnwsxlku/2-15.%20Route%20205%20%28Night%29.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Sailor)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/sgdxdxec/2-16.%20Trainers%27%20Eyes%20Meet%20%28Sailor%29.mp3"
+    },
+    {
+      "title": "Eterna City (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/bwfmvpoz/2-17.%20Eterna%20City%20%28Night%29.mp3"
+    },
+    {
+      "title": "The Underground",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/feddieye/2-18.%20The%20Underground.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Aroma Lady)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/zlhdungt/2-19.%20Trainers%27%20Eyes%20Meet%20%28Aroma%20Lady%29.mp3"
+    },
+    {
+      "title": "Floaroma Town (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/ylikyqgk/2-20.%20Floaroma%20Town%20%28Night%29.mp3"
+    },
+    {
+      "title": "Old Chateau",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/heziuxfk/2-21.%20Old%20Chateau.mp3"
+    },
+    {
+      "title": "Solaceon Town (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/heczpcqx/2-22.%20Solaceon%20Town%20%28Night%29.mp3"
+    },
+    {
+      "title": "Great Marsh",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/pgmpozgj/2-23.%20Great%20Marsh.mp3"
+    },
+    {
+      "title": "Route 206 (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/zvejhkdk/2-24.%20Route%20206%20%28Night%29.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Collector)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/rdrazyua/2-25.%20Trainers%27%20Eyes%20Meet%20%28Collector%29.mp3"
+    },
+    {
+      "title": "Veilstone City (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/uvsfxxsy/2-26.%20Veilstone%20City%20%28Night%29.mp3"
+    },
+    {
+      "title": "Game Corner",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/pebtnjhk/2-27.%20Game%20Corner.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (PI)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/eojesazv/2-28.%20Trainers%27%20Eyes%20Meet%20%28PI%29.mp3"
+    },
+    {
+      "title": "Route 209 (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/eklbaveh/2-29.%20Route%20209%20%28Night%29.mp3"
+    },
+    {
+      "title": "Snowpoint City (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/aetjlgvj/2-30.%20Snowpoint%20City%20%28Night%29.mp3"
+    },
+    {
+      "title": "Route 216 (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/jtsgdwyb/2-31.%20Route%20216%20%28Night%29.mp3"
+    },
+    {
+      "title": "Lake Caverns",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/oodatqza/2-32.%20Lake%20Caverns.mp3"
+    },
+    {
+      "title": "Battle! (Azelf-Mesprit-Uxie)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/ewruykep/2-33.%20Battle%21%20%28Azelf-Mesprit-Uxie%29.mp3"
+    },
+    {
+      "title": "Route 210 (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/nvncyjck/2-34.%20Route%20210%20%28Night%29.mp3"
+    },
+    {
+      "title": "A Poké Radar Hit!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/qxtawejf/2-35.%20A%20Pok%C3%A9%20Radar%20Hit%21.mp3"
+    },
+    {
+      "title": "Sunyshore City (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/zjvbvxdy/2-36.%20Sunyshore%20City%20%28Night%29.mp3"
+    },
+    {
+      "title": "Trainers' Eyes Meet (Artist)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/jwhxpgnt/2-37.%20Trainers%27%20Eyes%20Meet%20%28Artist%29.mp3"
+    },
+    {
+      "title": "Amity Square",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/gxwrsnkm/2-38.%20Amity%20Square.mp3"
+    },
+    {
+      "title": "Got an Accessory",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/emyfhsrf/2-39.%20Got%20an%20Accessory.mp3"
+    },
+    {
+      "title": "Hearthome City (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/anplhfeg/2-40.%20Hearthome%20City%20%28Night%29.mp3"
+    },
+    {
+      "title": "Contest Hall",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/sxgqligh/2-41.%20Contest%20Hall.mp3"
+    },
+    {
+      "title": "Poffins",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/ssiqdrcl/2-42.%20Poffins.mp3"
+    },
+    {
+      "title": "Contest Title",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/xgnxvncw/2-43.%20Contest%20Title.mp3"
+    },
+    {
+      "title": "Contest Dress",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/btnkjqbj/2-44.%20Contest%20Dress.mp3"
+    },
+    {
+      "title": "Dance Easy",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/rfctpqlg/2-45.%20Dance%20Easy.mp3"
+    },
+    {
+      "title": "Dance Difficult",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/yywlsete/2-46.%20Dance%20Difficult.mp3"
+    },
+    {
+      "title": "Contest 1",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/qqjwfklz/2-47.%20Contest%201.mp3"
+    },
+    {
+      "title": "Contest 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/pzconvsz/2-48.%20Contest%202.mp3"
+    },
+    {
+      "title": "Contest 3",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/uzqdwxxw/2-49.%20Contest%203.mp3"
+    },
+    {
+      "title": "Contest 4",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/napyyvie/2-50.%20Contest%204.mp3"
+    },
+    {
+      "title": "Contest 5",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/xakxhvgt/2-51.%20Contest%205.mp3"
+    },
+    {
+      "title": "Contest Results Announcement",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/bcepmrwj/2-52.%20Contest%20Results%20Announcement.mp3"
+    },
+    {
+      "title": "Contest Winner",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/gctnjfzh/2-53.%20Contest%20Winner.mp3"
+    },
+    {
+      "title": "Route 228 (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/ovoixmvp/2-54.%20Route%20228%20%28Night%29.mp3"
+    },
+    {
+      "title": "Valor Lakefront (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/msaazvhz/2-55.%20Valor%20Lakefront%20%28Night%29.mp3"
+    },
+    {
+      "title": "Fight Area (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/ytxixmsd/2-56.%20Fight%20Area%20%28Night%29.mp3"
+    },
+    {
+      "title": "Battle Tower",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/plojdpoc/2-57.%20Battle%20Tower.mp3"
+    },
+    {
+      "title": "Route 225 (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/tlyjbdpl/2-58.%20Route%20225%20%28Night%29.mp3"
+    },
+    {
+      "title": "Stark Mountain",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/ojdpqler/2-59.%20Stark%20Mountain.mp3"
+    },
+    {
+      "title": "Battle! (Legendary Pokémon)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/spwlraab/2-60.%20Battle%21%20%28Legendary%20Pok%C3%A9mon%29.mp3"
+    },
+    {
+      "title": "Mystery Gift",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/hhmpoxxt/2-61.%20Mystery%20Gift.mp3"
+    },
+    {
+      "title": "Pokémon League (Night)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/zuxgkjqb/2-62.%20Pok%C3%A9mon%20League%20%28Night%29.mp3"
+    },
+    {
+      "title": "Decisive Battle! (Pokémon League)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/lzpbnidr/2-63.%20Decisive%20Battle%21%20%28Pok%C3%A9mon%20League%29.mp3"
+    },
+    {
+      "title": "The Elite Four Appear!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/xmvpmqua/2-64.%20The%20Elite%20Four%20Appear%21.mp3"
+    },
+    {
+      "title": "Battle! (Elite Four)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/ttjrhkfv/2-65.%20Battle%21%20%28Elite%20Four%29.mp3"
+    },
+    {
+      "title": "Victory! (Elite Four)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/lunizzzw/2-66.%20Victory%21%20%28Elite%20Four%29.mp3"
+    },
+    {
+      "title": "Champion Cynthia",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/msclzmls/2-67.%20Champion%20Cynthia.mp3"
+    },
+    {
+      "title": "Battle! (Champion)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/jrfakbbe/2-68.%20Battle%21%20%28Champion%29.mp3"
+    },
+    {
+      "title": "Victory! (Champion)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/rxmqtxed/2-69.%20Victory%21%20%28Champion%29.mp3"
+    },
+    {
+      "title": "Hall of Fame",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/fpkfwsyp/2-70.%20Hall%20of%20Fame.mp3"
+    },
+    {
+      "title": "Congratulations on Entering the Hall of Fame!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/dxctlbxi/2-71.%20Congratulations%20on%20Entering%20the%20Hall%20of%20Fame%21.mp3"
+    },
+    {
+      "title": "Ending Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/zzwjfzis/2-72.%20Ending%20Theme.mp3"
+    },
+    {
+      "title": "Battle! (Giratina)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/osuuokjs/2-73.%20Battle%21%20%28Giratina%29.mp3"
+    },
+    {
+      "title": "Battle! (Arceus)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/iqdthhmr/2-74.%20Battle%21%20%28Arceus%29.mp3"
+    },
+    {
+      "title": "Ramanas Park",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/vbxhuzpa/2-75.%20Ramanas%20Park.mp3"
+    },
+    {
+      "title": "Battle! (Raikou-Entei-Suicune)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/inszttnh/2-76.%20Battle%21%20%28Raikou-Entei-Suicune%29.mp3"
+    },
+    {
+      "title": "Battle! (Articuno-Zapdos-Moltres)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/yvhahhpd/2-77.%20Battle%21%20%28Articuno-Zapdos-Moltres%29.mp3"
+    },
+    {
+      "title": "Battle! (Wild Pokémon) (Alt.)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/wyebqcpt/2-78.%20Battle%21%20%28Wild%20Pok%C3%A9mon%29%20%28Alt.%29.mp3"
+    },
+    {
+      "title": "Unknown Track",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/wddfpiwi/2-79.%20Unknown%20Track.mp3"
+    },
+    {
+      "title": "Battle! (Trainer Battle) [Ver. 1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/adokimmx/3-01.%20Battle%21%20%28Trainer%20Battle%29%20%5BVer.%201.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Rival) [Ver. 1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/akxkgble/3-02.%20Battle%21%20%28Rival%29%20%5BVer.%201.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Gym Leader) [Ver. 1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/oeelsesa/3-03.%20Battle%21%20%28Gym%20Leader%29%20%5BVer.%201.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Team Galactic) [Ver. 1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/xoctnidq/3-04.%20Battle%21%20%28Team%20Galactic%29%20%5BVer.%201.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Team Galactic Commander) [Ver. 1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/veigfgss/3-05.%20Battle%21%20%28Team%20Galactic%20Commander%29%20%5BVer.%201.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Team Galactic Boss) [Ver. 1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/ldjjutly/3-06.%20Battle%21%20%28Team%20Galactic%20Boss%29%20%5BVer.%201.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Dialga-Palkia) [Ver. 1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/mlusciit/3-07.%20Battle%21%20%28Dialga-Palkia%29%20%5BVer.%201.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Azelf-Mesprit-Uxie) [Ver. 1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/uscjpyvj/3-08.%20Battle%21%20%28Azelf-Mesprit-Uxie%29%20%5BVer.%201.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Legendary Pokémon) [Ver. 1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/hlfvognv/3-09.%20Battle%21%20%28Legendary%20Pok%C3%A9mon%29%20%5BVer.%201.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Elite Four) [Ver. 1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/poakwfji/3-10.%20Battle%21%20%28Elite%20Four%29%20%5BVer.%201.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Champion) [Ver. 1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/lervbvxc/3-11.%20Battle%21%20%28Champion%29%20%5BVer.%201.0%5D.mp3"
+    },
+    {
+      "title": "Ending Theme [Ver. 1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/upodwamj/3-12.%20Ending%20Theme%20%5BVer.%201.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Giratina) [Ver. 1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/ipyxrpcq/3-13.%20Battle%21%20%28Giratina%29%20%5BVer.%201.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Arceus) [Ver. 1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/vhyvicon/3-14.%20Battle%21%20%28Arceus%29%20%5BVer.%201.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Trainer Battle) [Merge v0.1 & v1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/yfdaqfcv/4-01.%20Battle%21%20%28Trainer%20Battle%29%20%5BMerge%20v0.1%20%26%20v1.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Rival) [Merge v0.1 & v1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/ydwwuhbn/4-02.%20Battle%21%20%28Rival%29%20%5BMerge%20v0.1%20%26%20v1.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Gym Leader) [Mashup v0.1 & v1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/lptwcvwy/4-03.%20Battle%21%20%28Gym%20Leader%29%20%5BMashup%20v0.1%20%26%20v1.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Team Galactic) [Mashup v0.1 & v1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/bmhzackv/4-04.%20Battle%21%20%28Team%20Galactic%29%20%5BMashup%20v0.1%20%26%20v1.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Team Galactic Commander) [Mashup v0.1 & v1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/wxwogqjz/4-05.%20Battle%21%20%28Team%20Galactic%20Commander%29%20%5BMashup%20v0.1%20%26%20v1.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Team Galactic Boss) [Mashup v0.1 & v1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/srfbpxrq/4-06.%20Battle%21%20%28Team%20Galactic%20Boss%29%20%5BMashup%20v0.1%20%26%20v1.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Dialga-Palkia) [Mashup v0.1 & v1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/fefmulwa/4-07.%20Battle%21%20%28Dialga-Palkia%29%20%5BMashup%20v0.1%20%26%20v1.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Azelf-Mesprit-Uxie) [Mashup v0.1 & v1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/oqqdtlwz/4-08.%20Battle%21%20%28Azelf-Mesprit-Uxie%29%20%5BMashup%20v0.1%20%26%20v1.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Legendary Pokémon) [Mashup v0.1 & v1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/irmhafzf/4-09.%20Battle%21%20%28Legendary%20Pok%C3%A9mon%29%20%5BMashup%20v0.1%20%26%20v1.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Elite Four) [Mashup v0.1 & v1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/flpqirmk/4-10.%20Battle%21%20%28Elite%20Four%29%20%5BMashup%20v0.1%20%26%20v1.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Champion) [Mashup v0.1 & v1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/nknhzzxp/4-11.%20Battle%21%20%28Champion%29%20%5BMashup%20v0.1%20%26%20v1.0%5D.mp3"
+    },
+    {
+      "title": "Ending Theme [Mashup v0.1 & v1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/glmdekoq/4-12.%20Ending%20Theme%20%5BMashup%20v0.1%20%26%20v1.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Giratina) [Mashup v0.1 & v1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/npljotbz/4-13.%20Battle%21%20%28Giratina%29%20%5BMashup%20v0.1%20%26%20v1.0%5D.mp3"
+    },
+    {
+      "title": "Battle! (Arceus) [Mashup v0.1 & v1.0]",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/sqdrzvel/4-14.%20Battle%21%20%28Arceus%29%20%5BMashup%20v0.1%20%26%20v1.0%5D.mp3"
+    }
+  ]
+}
