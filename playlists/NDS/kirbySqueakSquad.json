@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "game_title": "Kirby: Squeak Squad",
+    "art": "https://upload.wikimedia.org/wikipedia/en/9/99/Kirby_-_Squeak_Squad_Coverart.png",
+    "desc": "November 2, 2006"
+  },
+  "songs": [
+    {
+      "title": "Ttile Screen",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/nxaiovof/01.%20Ttile%20Screen.mp3"
+    },
+    {
+      "title": "File Select",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/mrackrfc/02.%20File%20Select.mp3"
+    },
+    {
+      "title": "Level Entrance",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/tnjeulus/03.%20Level%20Entrance.mp3"
+    },
+    {
+      "title": "Prism Plains",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/etdncawd/04.%20Prism%20Plains.mp3"
+    },
+    {
+      "title": "Sparkling Stars",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/foegtykh/05.%20Sparkling%20Stars.mp3"
+    },
+    {
+      "title": "Kirby Dance (Short)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/ezlfrvdf/06.%20Kirby%20Dance%20%28Short%29.mp3"
+    },
+    {
+      "title": "Mini-Boss",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/qnqsqcng/07.%20Mini-Boss.mp3"
+    },
+    {
+      "title": "Boss Prelude",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/rsnmtjnm/08.%20Boss%20Prelude.mp3"
+    },
+    {
+      "title": "King Dedede",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/wwtfuihl/09.%20King%20Dedede.mp3"
+    },
+    {
+      "title": "Kirby Dance (Long)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/igjcktol/10.%20Kirby%20Dance%20%28Long%29.mp3"
+    },
+    {
+      "title": "Squeak Squad Appears!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/ppedcbbd/11.%20Squeak%20Squad%20Appears%21.mp3"
+    },
+    {
+      "title": "World Map",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/mygmpnul/12.%20World%20Map.mp3"
+    },
+    {
+      "title": "Boss Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/vumcatup/13.%20Boss%20Battle.mp3"
+    },
+    {
+      "title": "Cushy Cloud",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/sripagdz/14.%20Cushy%20Cloud.mp3"
+    },
+    {
+      "title": "Storm Cloud",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/mnbtoobq/15.%20Storm%20Cloud.mp3"
+    },
+    {
+      "title": "Squeak Boss Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/adpocvvs/16.%20Squeak%20Boss%20Battle.mp3"
+    },
+    {
+      "title": "Eerie Underground",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/zwhyucdi/17.%20Eerie%20Underground.mp3"
+    },
+    {
+      "title": "Vocal Volcano",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/hlksjovk/18.%20Vocal%20Volcano.mp3"
+    },
+    {
+      "title": "Ice Island",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/qvgtcftf/19.%20Ice%20Island.mp3"
+    },
+    {
+      "title": "Gamble Galaxy",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/rvarhmnf/20.%20Gamble%20Galaxy.mp3"
+    },
+    {
+      "title": "The Legendary Halberd",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/jimlurxm/21.%20The%20Legendary%20Halberd.mp3"
+    },
+    {
+      "title": "Dark Nebula Prelude",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/rzxnwwpm/22.%20Dark%20Nebula%20Prelude.mp3"
+    },
+    {
+      "title": "Dark Nebula Battle",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/qsrgdaqe/23.%20Dark%20Nebula%20Battle.mp3"
+    },
+    {
+      "title": "Ending",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/yebtpros/24.%20Ending.mp3"
+    },
+    {
+      "title": "Invincible Candy",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/axnxxwnz/25.%20Invincible%20Candy.mp3"
+    },
+    {
+      "title": "Done In",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/jwfnycun/26.%20Done%20In.mp3"
+    },
+    {
+      "title": "Game Over",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/iaewsbch/27.%20Game%20Over.mp3"
+    },
+    {
+      "title": "Sub-Game Menu",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/ebsipxuh/28.%20Sub-Game%20Menu.mp3"
+    },
+    {
+      "title": "Speedy Teatime",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/agdatony/29.%20Speedy%20Teatime.mp3"
+    },
+    {
+      "title": "Smash Ride",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/fddhafal/30.%20Smash%20Ride.mp3"
+    },
+    {
+      "title": "Treasure Shot",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/fsynvmbs/31.%20Treasure%20Shot.mp3"
+    },
+    {
+      "title": "Well Done!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/mfsvcxfj/32.%20Well%20Done%21.mp3"
+    },
+    {
+      "title": "Perfect!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/dppfgpiu/33.%20Perfect%21.mp3"
+    },
+    {
+      "title": "Failure",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/xgmsabdn/34.%20Failure.mp3"
+    },
+    {
+      "title": "Vegetable Valley (Arrangement)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/huenyhmq/35.%20Vegetable%20Valley%20%28Arrangement%29.mp3"
+    },
+    {
+      "title": "Forest - Nature Area (Arrangement)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/sqzdqvfn/36.%20Forest%20-%20Nature%20Area%20%28Arrangement%29.mp3"
+    },
+    {
+      "title": "Butter Building (Arrangement)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/brfannyh/37.%20Butter%20Building%20%28Arrangement%29.mp3"
+    },
+    {
+      "title": "Cave - Rocky Area (Arrangement)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/mpqgkfwq/38.%20Cave%20-%20Rocky%20Area%20%28Arrangement%29.mp3"
+    },
+    {
+      "title": "Green Greens (Arrangement)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/rjwfkmfq/39.%20Green%20Greens%20%28Arrangement%29.mp3"
+    },
+    {
+      "title": "Ice Cream Island (Arrangement)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/nqqgkhec/40.%20Ice%20Cream%20Island%20%28Arrangement%29.mp3"
+    },
+    {
+      "title": "Ruins Area (Arrangement)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/vyfflngs/41.%20Ruins%20Area%20%28Arrangement%29.mp3"
+    },
+    {
+      "title": "Space Area (Arrangement)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-squeak-squad/uxbqzbgd/42.%20Space%20Area%20%28Arrangement%29.mp3"
+    }
+  ]
+}
