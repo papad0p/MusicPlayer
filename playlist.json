@@ -4,7 +4,7 @@
         "dir": "NSW2/",
         "games": [
             { "title": "Mario Kart World", "id": "marioKartWorld" },
-            { "title": "Donkey Kong Bananza", "id": "donkeyKongBananza", "status": "new" }
+            { "title": "Donkey Kong Bananza", "id": "donkeyKongBananza" }
         ]
     },
 
@@ -12,9 +12,9 @@
         "platform": "Nintendo Switch",
         "dir": "NSW/",
         "games": [
-            { "title": "Super Smash Bros. Ultimate", "url": "playlists/NSW/smashUltimate/index.html", "status": "new" },
-            { "title": "Pokemon: Let's Go, Pikachu! & Let's Go, Eevee!", "id": "pokemonLetsGo", "status": "new" },
-            { "title": "Pokemon: Brilliant Diamond & Shining Pearl", "id": "pokemonBDSP", "status": "new" },
+            { "title": "Super Smash Bros. Ultimate", "url": "playlists/NSW/smashUltimate/index.html" },
+            { "title": "Pokemon: Let's Go, Pikachu! & Let's Go, Eevee!", "id": "pokemonLetsGo" },
+            { "title": "Pokemon: Brilliant Diamond & Shining Pearl", "id": "pokemonBDSP" },
             { "title": "Kirby's Return to Dream Land Deluxe", "id": "kirbysReturnToDreamLandDX" },
             { "title": "Kirby Fighters 2", "id": "kirbyFighters2" }
         ]
@@ -29,7 +29,7 @@
             { "title": "Super Smash Bros. for Wii U", "id": "smash4WiiU" },
             { "title": "Super Mario Maker", "id": "superMarioMaker" },
             { "title": "Paper Mario: Color Splash", "id": "paperMarioColorSplash" },
-            { "title": "Kirby and the Rainbow Curse", "id": "kirbyRainbowCurse", "status": "new" }
+            { "title": "Kirby and the Rainbow Curse", "id": "kirbyRainbowCurse" }
         ]
     },
 
@@ -56,7 +56,7 @@
         "platform": "Wii",
         "dir": "WII/",
         "games": [
-            { "title": "Wii Sports Resort", "id": "wiiSportsResort" },
+            { "title": "Wii Sports Resort", "id": "wiiSportsResort", "status": "leaving" },
             { "title": "New Super Mario Bros. Wii", "id": "newSuperMarioBrosWii" },
             { "title": "Mario Kart Wii", "id": "marioKartWii" },
             { "title": "Super Paper Mario", "id": "superPaperMario" },
@@ -74,21 +74,21 @@
             { "title": "Super Mario 64 DS", "id": "superMario64DS" },
             { "title": "Kirby Super Star Ultra", "id": "kirbySuperStarUltra" },
             { "title": "Pokemon: Diamond & Pearl", "id": "diamondPearl" },
-            { "title": "Pokemon: Platinum", "id": "platinum", "status": "new" },
-            { "title": "Pokemon: HeartGold and SoulSilver", "id": "heartGoldSoulSilver" },
+            { "title": "Pokemon: Platinum", "id": "platinum" },
+            { "title": "Pokemon: HeartGold and SoulSilver", "id": "heartGoldSoulSilver"},
             { "title": "Pokemon: Black & White", "id": "blackWhite" },
             { "title": "Pokemon: Black 2 & White 2", "id": "blackWhite2" },
             { "title": "Mario Kart DS", "id": "marioKartDS" },
             { "title": "Mario Party DS", "id": "marioPartyDS" },
             { "title": "Animal Crossing: Wild World", "id": "animalCrossingWildWorld" },
-            { "title": "Pokemon: Mystery Dungeon (Blue Rescue Team)", "id": "mysteryDungeonBlue", "status": "new" },
-            { "title": "Pokemon Conquest", "id": "pokemonConquest", "status": "new" },
+            { "title": "Pokemon: Mystery Dungeon (Blue Rescue Team)", "id": "mysteryDungeonBlue" },
+            { "title": "Pokemon Conquest", "id": "pokemonConquest" },
             { "title": "Mario & Luigi: Partners in Time", "id": "marioLuigiPartners" },
             { "title": "Mario & Luigi: Bowser's Inside Story", "id": "marioLuigiBowser" },
-            { "title": "The Legend of Zelda: Spirit Tracks", "id": "zeldaSpiritTracks", "status": "new" },
-            { "title": "Kirby Squeak Squad", "id": "kirbySqueakSquad", "status": "new" },
+            { "title": "The Legend of Zelda: Spirit Tracks", "id": "zeldaSpiritTracks" },
+            { "title": "Kirby Squeak Squad", "id": "kirbySqueakSquad"},
             { "title": "Kirby Mass Attack", "id": "kirbyMassAttack" },
-            { "title": "Kirby: Canvas Curse", "id": "kirbyCanvasCurse", "status": "new" },
+            { "title": "Kirby: Canvas Curse", "id": "kirbyCanvasCurse" },
             { "title": "Cooking Mama", "id": "cookingMama" },
             { "title": "Yoshi's Island DS", "id": "yoshisIslandDS" }
         ]
@@ -115,10 +115,10 @@
             { "title": "Super Mario Bros. 3: Super Mario Advance 4", "id": "superMarioAdvance4" },
             { "title": "Mario Kart: Super Circuit", "id": "marioKartSuperCircuit" },
             { "title": "Mario & Luigi: Superstar Saga", "id": "marioLuigiSaga" },
-            { "title": "The Legend of Zelda: The Minish Cap", "id": "zeldaMinishCap", "status": "new" },
+            { "title": "The Legend of Zelda: The Minish Cap", "id": "zeldaMinishCap" },
             { "title": "Pokemon: Ruby & Sapphire", "id": "rubySapphire" },
-            { "title": "Pokemon: Emerald", "id": "emerald", "status": "new" },
-            { "title": "Pokemon: Mystery Dungeon (Red Rescue Team)", "id": "mysteryDungeonRed", "status": "new" },
+            { "title": "Pokemon: Emerald", "id": "emerald" },
+            { "title": "Pokemon: Mystery Dungeon (Red Rescue Team)", "id": "mysteryDungeonRed" },
             { "title": "Kirby: Nightmare in Dream Land", "id": "kirbyNightmareInDreamLand" },
             { "title": "Kirby & The Amazing Mirror", "id": "kirbyAndTheAmazingMirror" }
         ]
@@ -130,9 +130,9 @@
         "games": [
             { "title": "Majora's Mask", "id": "majorasMask" },
             { "title": "Super Smash Bros.", "id": "smash64" },
-            { "title": "Donkey Kong 64", "id": "donkeyKong64", "status": "new" },
-            { "title": "Banjo-Kazooie", "id": "banjoKazooie", "status": "new" },
-            { "title": "Banjo-Tooie", "id": "banjoTooie", "status": "new" },
+            { "title": "Donkey Kong 64", "id": "donkeyKong64" },
+            { "title": "Banjo-Kazooie", "id": "banjoKazooie" },
+            { "title": "Banjo-Tooie", "id": "banjoTooie" },
             { "title": "Paper Mario", "id": "paperMario" }
         ]
     },
