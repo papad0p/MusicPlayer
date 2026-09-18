@@ -65,14 +65,13 @@ body {
     width: 100%;
 }
 #playlist-info {
-    align-items: center;
-    width: 100%;
-    max-width: 60em;
     display: grid;
     justify-items: center;
-    position: fixed;
-    margin: 2em 0em;
-    
+    align-self: start;
+    position: sticky;
+    top: 2em;
+    width: 100%;
+    margin: 2em 0;
 }
 #playlist-info img {
     /* width: 100%; */
