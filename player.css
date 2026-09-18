@@ -7,13 +7,13 @@
     --btn-font-size:1.5em;
 }
 
-/* 1. For Safari, Chrome, and older iOS WebViews */
+
 html::-webkit-scrollbar, 
 body::-webkit-scrollbar {
   display: none;
 }
 
-/* 2. Modern CSS standard (Firefox and modern Safari versions) */
+
 html, body {
   scrollbar-width: none;
 }
@@ -63,6 +63,8 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     width: 100%;
+    /* justify-items: left;
+    align-items: left; */
 }
 #playlist-info {
     display: grid;
@@ -82,6 +84,8 @@ body {
     object-fit: contain;
     flex-shrink: 0;
     display: grid;
+    justify-items: center;
+    align-items: center;
     
 }
 #playlist-info h1 {
