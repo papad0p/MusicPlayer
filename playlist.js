@@ -1,6 +1,5 @@
 async function loadLibrary() {
     try {
-        // 1. Fetch the data from the JSON file
         const response = await fetch('playlist.json');
         
         if (!response.ok) {
@@ -10,7 +9,7 @@ async function loadLibrary() {
         const libraryData = await response.json();
         const container = document.getElementById('game-playlists');
 
-        // 2. Loop through the data to build the elements
+        // 2. Loop through data to build elements
         libraryData.forEach(system => {
             const h2 = document.createElement('h2');
             h2.textContent = system.platform;
@@ -31,7 +30,7 @@ async function loadLibrary() {
                     a.appendChild(li);
                     ul.appendChild(a);
                 } else {
-                    // Prepend the directory if it exists, otherwise just use the id
+                    // fallback
                     const directory = system.dir ? system.dir : ""; 
                     li.dataset.playlist = directory + game.id;
                     ul.appendChild(li);
@@ -41,7 +40,7 @@ async function loadLibrary() {
             container.appendChild(ul);
         });
 
-        // 3. Attach click event listeners AFTER the elements exist
+
         document.querySelectorAll('ul li[data-playlist]').forEach((li) => {
             li.addEventListener('click', () => {
                 const key = li.dataset.playlist;
@@ -55,5 +54,5 @@ async function loadLibrary() {
     }
 }
 
-// Run the function when the script loads
+
 loadLibrary();
