@@ -51,3 +51,12 @@ button {
     cursor: pointer;
     transition: 0s;
 }
+button:hover {
+    background-color: #ff4d4d88;
+    color: #eee;
+    transition: 0.2s;
+}
+button:active {
+    transform: scale(0.9);
+    transition: 0s;
+}
