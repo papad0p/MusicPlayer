@@ -223,7 +223,7 @@ body {
 }
 
 
-@media (max-width: 1720px) {
+@media (max-width: 780px) {
     .cont {
         grid-template-columns: 1fr;
     }
