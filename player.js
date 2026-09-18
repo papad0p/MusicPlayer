@@ -2,8 +2,7 @@
 let playlist = [];
 let playlistMeta = {};
 let currentIndex = 0;
-let loopMode = 0; // 0 = off, 1 = autoplay next, 2 = loop current
-// Reads playlist key from URL `?playlist=...` first then falls back to localStorage if needed
+let loopMode = 0; // 0 = off, 1 = autoplay, 2 = repeat loop
 const urlParams = new URLSearchParams(window.location.search);
 const playlistKey = urlParams.get('playlist') || localStorage.getItem('playlist');
 const playlistFile = playlistKey ? `playlists/${playlistKey}.json` : null;
@@ -21,15 +20,15 @@ const listEl = document.getElementById("playlist");
 
 
 
-// 1. Get the reference
+
 const seekBar = document.getElementById("seek-bar");
 
-// 2. When a song loads, set the max value of the slider to the song duration
+
 audio.addEventListener("loadedmetadata", () => {
     seekBar.max = audio.duration;
 });
 
-// 3. As the song plays, update the slider's value
+
 audio.addEventListener("timeupdate", () => {
     seekBar.value = audio.currentTime;
 });
@@ -40,7 +39,7 @@ audio.addEventListener("ended", () => {
     }
 });
 
-// 4. When the user moves the slider, update the audio's time
+
 seekBar.addEventListener("input", () => {
     audio.currentTime = seekBar.value;
 });
@@ -51,7 +50,7 @@ function backBtn() {
 }
 
 
-// 2. INITIALIZATION
+// 2. ==========INITIALIZATION==========
 function initPlaylist() {
 
     gameTitleEl.innerText = playlistMeta.game_title;
@@ -91,7 +90,7 @@ async function loadPlaylistData() {
 }
 
 
-// 3. LOGIC
+// 3. ==========LOGIC==========
 function togglePlay() {
     if (audio.paused) {
         audio.play();
@@ -108,12 +107,12 @@ function toggleLoop() {
     const loopBtn = document.getElementById("loop-btn");
     if (!loopBtn) return;
     
-    // Set color based on mode
+
     let bgColor = "";
     if (loopMode === 1) {
-        bgColor = "#00bceb"; // Blue for autoplay next
+        bgColor = "#00bceb"; // autoplay
     } else if (loopMode === 2) {
-        bgColor = "#af69ee"; // Purple for loop current
+        bgColor = "#af69ee"; // repeat loop
     }
     
     loopBtn.style.background = bgColor;
