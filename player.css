@@ -165,6 +165,10 @@ body {
 .music-controls input {
     display: grid;
 }
+
+.music-controls input[type="range"] {
+    touch-action: none;
+}
 .music-controls button {
     position: relative;
     border-radius: 100px;
@@ -266,6 +270,7 @@ body {
 #speed-slider {
     width: 100%;
     max-width: none;
+    -webkit-appearance: slider-horizontal;
 }
 
 .favorite::before {

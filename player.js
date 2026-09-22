@@ -106,6 +106,10 @@ function changeSpeedSlider() {
     speedLabel.innerText = `${playbackSpeed.toFixed(2)}x`;
 }
 
+function syncSpeedSlider() {
+    changeSpeedSlider();
+}
+
 function togglePlay() {
     if (audio.paused) {
         audio.play();
@@ -166,6 +170,9 @@ function changeSpeed() {
     speedSelection.classList.toggle("show");
 }
 
-speedSlider.addEventListener("input", changeSpeedSlider);
+speedSlider.addEventListener("input", syncSpeedSlider);
+speedSlider.addEventListener("change", syncSpeedSlider);
+speedSlider.addEventListener("touchend", syncSpeedSlider);
+speedSlider.addEventListener("pointerup", syncSpeedSlider);
 
 loadPlaylistData();
