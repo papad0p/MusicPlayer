@@ -27,6 +27,16 @@ h2 {
 ul {
     margin-bottom: 4em;
     padding: 1em;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    justify-self: center;
+    align-self: center;
 }
 
 #warning {
@@ -35,10 +45,19 @@ ul {
     margin: 2em;
     padding: 1em;
 }
+
+.game-item {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* background-color: #333; */
+
+    align-items: center;
+    gap: 1em;
+}
     
     li {
     list-style: none;
-    display: block;
+    display: grid;
     user-select: none;
     /* background: linear-gradient(180deg, #aaa, 40%, transparent); */
     margin: 0.1em 0em;
@@ -80,7 +99,7 @@ li:active {
   font-family: inter;
   font-size: 0.75em;
   position: absolute;
-  top: 50%;
+  top: 10%;
   transform: translateY(-50%);
   right: 1%;
   color: white;
