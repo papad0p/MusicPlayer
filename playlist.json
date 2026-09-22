@@ -3,8 +3,7 @@
         "platform": "Nintendo Switch 2",
         "dir": "NSW2/",
         "games": [
-            { "title": "Mario Kart World", "id": "marioKartWorld" },
-            { "title": "Donkey Kong Bananza", "id": "donkeyKongBananza" }
+            { "title": "Mario Kart World", "id": "marioKartWorld" }
         ]
     },
 
@@ -56,7 +55,6 @@
         "platform": "Wii",
         "dir": "WII/",
         "games": [
-            { "title": "Wii Sports Resort", "id": "wiiSportsResort", "status": "leaving" },
             { "title": "New Super Mario Bros. Wii", "id": "newSuperMarioBrosWii" },
             { "title": "Mario Kart Wii", "id": "marioKartWii" },
             { "title": "Super Paper Mario", "id": "superPaperMario" },
@@ -98,7 +96,6 @@
         "platform": "Gamecube",
         "dir": "GCN/",
         "games": [
-            { "title": "Super Mario Sunshine", "id": "superMarioSunshine" },
             { "title": "Mario Kart: Double Dash!!", "id": "marioKartDoubleDash" },
             { "title": "Super Smash Bros. Melee", "id": "smashMelee" },
             { "title": "The Legend of Zelda: Twilight Princess", "id": "twilightPrincess" }
@@ -132,8 +129,7 @@
             { "title": "Super Smash Bros.", "id": "smash64" },
             { "title": "Donkey Kong 64", "id": "donkeyKong64" },
             { "title": "Banjo-Kazooie", "id": "banjoKazooie" },
-            { "title": "Banjo-Tooie", "id": "banjoTooie" },
-            { "title": "Paper Mario", "id": "paperMario" }
+            { "title": "Banjo-Tooie", "id": "banjoTooie" }
         ]
     },
 
