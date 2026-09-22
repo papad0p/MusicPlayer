@@ -160,7 +160,7 @@ speedSelection.addEventListener("click", (event) => {
     if (event.target.tagName === "BUTTON") {
         const speed = parseFloat(event.target.textContent.replace("x", ""));
         audio.playbackRate = speed;
-        speedSelection.classList.remove("show");
+        // speedSelection.classList.remove("show");
     }
 });
 
