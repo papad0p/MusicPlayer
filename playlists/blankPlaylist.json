@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "game_title": "",
+    "art": "",
+    "desc": ""
+  },
+
+  
+  "songs": [
+    { "title": "", "src": "", "favorite": false},
+    { "title": "", "src": "", "favorite": false},
+    { "title": "", "src": "", "favorite": false},
+    { "title": "", "src": "", "favorite": false},
+    { "title": "", "src": "", "favorite": false},
+    { "title": "", "src": "", "favorite": false}
+  ]
+}

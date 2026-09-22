@@ -1,0 +1,127 @@
+html::-webkit-scrollbar, 
+body::-webkit-scrollbar {
+  display: none;
+}
+
+
+html, body {
+  scrollbar-width: none;
+}
+html, body {
+    touch-action: manipulation;
+}
+
+body {
+    background-color: #222130;
+    color: #eee;
+    font-family: inter;
+}
+a {
+    color: #4da8da;
+}
+h2 {
+    /* text-align: center; */
+    margin: 0.5em;
+}
+
+ul {
+    margin-bottom: 4em;
+    padding: 1em;
+}
+
+#warning {
+    background-color: #5B5570;
+    border-radius: 5px;
+    margin: 2em;
+    padding: 1em;
+}
+    
+    li {
+    list-style: none;
+    display: block;
+    user-select: none;
+    /* background: linear-gradient(180deg, #aaa, 40%, transparent); */
+    margin: 0.1em 0em;
+    width: 100%;
+    padding: 0.75em 1em;
+    /* border-radius: 100px; */
+    cursor: pointer;
+    /* box-shadow: inset 5px 5px 20px #eee; */
+    transition: 0s;
+    box-sizing: border-box;
+    border-radius:5px;
+
+}
+li:hover {
+    border: 1px solid #aaa;
+
+}
+ul a {
+    text-decoration: none;
+    color: inherit;
+}
+li:active {
+    background-color: #555;
+}
+
+.new-playlist {
+    background-color: #ff4d4d55;
+    border: 1px solid #ff4d4d;
+    transition: 0s;
+    position: relative;
+
+}
+.new-playlist:hover {
+ 
+    border: 1px solid #eee;
+}
+.new-playlist::after {
+  content: "NEW";
+  font-family: inter;
+  font-size: 0.75em;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 1%;
+  color: white;
+
+}
+
+.leaving-soon {
+    background-color: #00bceb55;
+    border: 1px dashed #00bceb;
+    transition: 0s;
+    position: relative;
+
+}
+.leaving-soon:hover {
+ 
+    border: 1px solid #eee;
+}
+.leaving-soon::after {
+  content: "LEAVING SOON";
+  font-family: inter;
+  font-size: 0.75em;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 1%;
+  color: white;
+
+}
+
+
+footer {
+    text-align: center;
+    margin: 1em;
+    font-size: 0.75em;
+}
+
+@media (max-width: 780px) {
+    li {
+        padding: 1.2em 1em;
+    }
+    .new-playlist::after {
+        right: 2%;
+    }
+}

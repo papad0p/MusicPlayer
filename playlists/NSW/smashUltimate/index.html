@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VGM Player</title>
+    <link rel="stylesheet" href="index.css">
+    <script src="index.js" defer></script>
+    <link rel="shortcut icon" href="logo.PNG" type="image/x-icon">
+    <link rel="apple-touch-icon" href="logo.PNG">
+    <link rel="apple-touch-startup-image" href="logo.PNG">
+
+        <script src="https://kit.fontawesome.com/9b6d1f3105.js" crossorigin="anonymous"></script>
+
+
+
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <button id="back-btn" onclick="backBtn()"><i class="fa-solid fa-left-long"></i></button>
+    <p id="warning">
+        WARNING: This website is still a work in progress, so don't be alarmed at bad/ugly UI, incorrect infomation, etc. 
+        Some songs or information may be incorrect due to scraping method or human error. If you find anything that seems wrong, please 
+        mention it <a href="contact.html" target="_blank">here</a>. We will try to correct it as soon as possible.
+    </p>
+    <div id="game-playlists">
+        <h1>Super Smash Bros. Ultimate</h1>
+        <h2>Select Volume</h2>
+        <ul>
+            <li class="new-playlist" data-playlist="NSW/smashUltimate/smashUVol1">Super Smash Bros. Ultimate Vol. 01 - Super Smash Bros.</li>
+            <li class="new-playlist" data-playlist="NSW/smashUltimate/smashUVol2">Super Smash Bros. Ultimate Vol. 02 - Super Mario</li>
+            <li class="new-playlist" data-playlist="NSW/smashUltimate/smashUVol3">Super Smash Bros. Ultimate Vol. 03 - Donkey Kong</li>
+            <li class="new-playlist" data-playlist="NSW/smashUltimate/smashUVol4">Super Smash Bros. Ultimate Vol. 04 - The Legend of Zelda</li>
+            <li class="new-playlist" data-playlist="NSW/smashUltimate/smashUVol5">Super Smash Bros. Ultimate Vol. 05 - Metroid</li>
+        </ul>
+        <p style="font-style: italic; font-size: 0.75em;">*More volumes coming soon!</p>
+    </div>
+
+    <footer style="bottom: 0; position: fixed; width: 100%;">
+        <p>Powered by <a href="https://downloads.khinsider.com/" target="_blank">Khinsider</a></p>
+        <p>All music is property of their respective owners.</p>
+    </footer>
+</body>
+</html>
