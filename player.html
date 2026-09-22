@@ -37,14 +37,20 @@
             <input type="range" id="seek-bar" value="0" min="0" step="any">
 
             <div class="control-btns">
-                <button onclick="changeSpeed()"><i class="fa-solid fa-gauge"></i></button>
+                <button onclick="changeSpeed()" id="speed-btn" aria-label="Playback speed" type="button"><i class="fa-solid fa-gauge"></i><span id="speed-label">1.00x</span></button>
                 <div id="speed-selection">
-                    <button>2.0x</button>
-                    <button>1.5x</button>
-                    <button>1.25x</button>
-                    <button>1.0x</button>
-                    <button>0.75x</button>
-                    <button>0.50x</button>
+                    <input type="range" id="speed-slider" min="0.25" max="2.0" step="0.01" value="1.0" list="speed-options">
+
+                    <datalist id="speed-options">
+                        <option value="0.25" label="0.25x"></option>
+                        <option value="0.5" label="0.5x"></option>
+                        <option value="0.75" label="0.75x"></option>
+                        <option value="1.0" label="1.0x"></option>
+                        <option value="1.25" label="1.25x"></option>
+                        <option value="1.5" label="1.5x"></option>
+                        <option value="1.75" label="1.75x"></option>
+                        <option value="2.0" label="2.0x"></option>
+                    </datalist>
                 </div>
                 <button onclick="prevTrack()"><i class="fa-solid fa-backward"></i></button>
                 <button onclick="togglePlay()" id="play-pause" ><i class="fa-solid fa-play"></i></button>

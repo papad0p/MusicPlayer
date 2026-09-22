@@ -19,6 +19,9 @@ const playBtn = document.getElementById("play-pause");
 const listEl = document.getElementById("playlist");
 
 const speedSelection = document.getElementById("speed-selection");
+const speedSlider = document.getElementById("speed-slider");
+const speedLabel = document.getElementById("speed-label");
+let playbackSpeed = parseFloat(speedSlider.value);
 
 
 
@@ -96,6 +99,13 @@ async function loadPlaylistData() {
 
 
 // 3. ==========LOGIC==========
+function changeSpeedSlider() {
+    playbackSpeed = parseFloat(speedSlider.value);
+    audio.playbackRate = playbackSpeed;
+    audio.defaultPlaybackRate = playbackSpeed;
+    speedLabel.innerText = `${playbackSpeed.toFixed(2)}x`;
+}
+
 function togglePlay() {
     if (audio.paused) {
         audio.play();
@@ -130,6 +140,8 @@ function toggleLoop() {
 function loadTrack(index) {
     currentIndex = index;
     audio.src = playlist[index].src;
+    audio.playbackRate = playbackSpeed;
+    audio.defaultPlaybackRate = playbackSpeed;
     titleEl.innerText = playlist[index].title;
 
     const bars = document.querySelectorAll(".song-bar");
@@ -154,17 +166,6 @@ function changeSpeed() {
     speedSelection.classList.toggle("show");
 }
 
-
-
-speedSelection.addEventListener("click", (event) => {
-    if (event.target.tagName === "BUTTON") {
-        const speed = parseFloat(event.target.textContent.replace("x", ""));
-        audio.playbackRate = speed;
-        // speedSelection.classList.remove("show");
-    }
-});
-
-
-
+speedSlider.addEventListener("input", changeSpeedSlider);
 
 loadPlaylistData();
