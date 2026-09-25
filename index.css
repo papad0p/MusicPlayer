@@ -47,6 +47,36 @@ img {
     padding: 1em;
 }
 
+#index-info-btn {
+    font-family: inter;
+    /* position: fixed; */
+    bottom: 1em;
+    right: 1em;
+    width: 2em;
+    height: 2em;
+    border-radius: 100px;
+    border: 1px solid #eee;
+    background-color: #5B5570;
+    color: #eee;
+    font-size: 1.em;
+    cursor: pointer;
+}
+
+#index-info {
+    display: none;
+    position: absolute;
+    background-color: #5B5570;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 5px;
+}
+
+#index-info span {
+    margin: 0.5em 0;
+    color: #4da8da;
+    display: grid;
+}
+
 .game-item {
     display: grid;
     grid-template-columns: 1fr 1fr;
