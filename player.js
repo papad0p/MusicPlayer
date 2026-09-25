@@ -140,24 +140,6 @@ function toggleLoop() {
     loopBtn.setAttribute("aria-pressed", (loopMode !== 0).toString());
 }
 
-
-
-function loadTrack(index) {
-    currentIndex = index;
-    audio.src = playlist[index].src;
-    audio.playbackRate = playbackSpeed;
-    audio.defaultPlaybackRate = playbackSpeed;
-    titleEl.innerText = playlist[index].title;
-    document.title = `${playlist[index].title} - ${playlistMeta.game_title}`;
-
-    const bars = document.querySelectorAll(".song-bar");
-    bars.forEach(b => b.classList.remove("active-song"));
-    bars[index].classList.add("active-song");
-
-    audio.play();
-    playBtn.innerHTML = "<i class='fa-solid fa-pause'></i>"
-}
-
 function updateMediaSession() {
 // Adds album icon for apple device's lock screen and control center
     if ('mediaSession' in navigator) {
@@ -182,6 +164,25 @@ function updateMediaSession() {
         navigator.mediaSession.setActionHandler('nexttrack', nextTrack);
     }
 }
+
+
+function loadTrack(index) {
+    currentIndex = index;
+    audio.src = playlist[index].src;
+    updateMediaSession();
+    audio.playbackRate = playbackSpeed;
+    audio.defaultPlaybackRate = playbackSpeed;
+    titleEl.innerText = playlist[index].title;
+    document.title = `${playlist[index].title} - ${playlistMeta.game_title}`;
+
+    const bars = document.querySelectorAll(".song-bar");
+    bars.forEach(b => b.classList.remove("active-song"));
+    bars[index].classList.add("active-song");
+
+    audio.play();
+    playBtn.innerHTML = "<i class='fa-solid fa-pause'></i>"
+}
+
 
 function nextTrack() {
     currentIndex = (currentIndex + 1) % playlist.length;
