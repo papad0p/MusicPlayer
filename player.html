@@ -39,9 +39,15 @@
             <div class="control-btns">
                 <button onclick="changeSpeed()" id="speed-btn" aria-label="Playback speed" type="button"><i class="fa-solid fa-gauge"></i><span id="speed-label">1.00x</span></button>
                 <div id="speed-selection">
-                    <input type="range" id="speed-slider" min="0.25" max="2.0" step="0.01" value="1.0" list="speed-options">
+                    <div>
+                        <div id="speed-labels">
+                            <span style="justify-self: start;">0.25x</span>    <span style="justify-self: center;">1x</span>    <span style="justify-self: end;">2x</span>
+                        </div>
+                    <input type="range" id="speed-slider" min="0.1" max="2.0" step="0.01" value="1.0" list="speed-options">
+                    </div>
 
                     <datalist id="speed-options">
+                        <option value="0.1" label="0.1x"></option>
                         <option value="0.25" label="0.25x"></option>
                         <option value="0.5" label="0.5x"></option>
                         <option value="0.75" label="0.75x"></option>

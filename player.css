@@ -267,9 +267,22 @@ body {
     justify-self: center;
 }
 
+#speed-labels {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    /* margin-bottom: 0.5em; */
+}
+
 #speed-slider {
+    justify-self: center;
     width: 100%;
     max-width: none;
+    padding: 0;
+    margin: 0;
     -webkit-appearance: slider-horizontal;
 }
 
