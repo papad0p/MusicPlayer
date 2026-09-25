@@ -3,7 +3,8 @@
         "platform": "Nintendo Switch 2",
         "dir": "NSW2/",
         "games": [
-            { "title": "Mario Kart World", "id": "marioKartWorld" }
+            { "title": "Mario Kart World", "id": "marioKartWorld" },
+            { "title": "Kirby and the Forgotten Land: Star-Crossed World", "id": "kirbyStarCrossedWorld" }
         ]
     },
 
@@ -61,7 +62,7 @@
             { "title": "Super Paper Mario", "id": "superPaperMario" },
             { "title": "Kirby's Epic Yarn", "id": "kirbysEpicYarn" },
             { "title": "Animal Crossing: City Folk", "id": "animalCrossingCityFolk" },
-            { "title": "Rhythm Heaven Fever", "id": "rhythmHeavenFever" }
+            { "title": "Rhythm Heaven Fever (JPN)", "id": "rhythmHeavenFeverJPN" }
         ]
     },
     

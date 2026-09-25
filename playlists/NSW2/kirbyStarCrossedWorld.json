@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "game_title": "Kirby and the Forgotten Land: Star-Crossed World",
+    "art":"https://cdn.wikirby.com/2/2c/KatFL_SCW_Key_art.png",
+    "desc":"August 28, 2025"
+  },
+  "songs": [
+    {
+      "title": "Meteor Swarm of Dark and Light",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/jpjujmqjpu/01.%20Meteor%20Swarm%20of%20Dark%20and%20Light.mp3"
+    },
+    {
+      "title": "The Star Awakens",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/fornkgvpbh/02.%20The%20Star%20Awakens.mp3"
+    },
+    {
+      "title": "Fallen-Star Volcano",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/nzkwrpmrey/03.%20Fallen-Star%20Volcano.mp3"
+    },
+    {
+      "title": "Song of the Starfall Children",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/zxsxfpbluv/04.%20Song%20of%20the%20Starfall%20Children.mp3"
+    },
+    {
+      "title": "Meteor Shower's Arrival",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/mfxknidwjj/05.%20Meteor%20Shower%27s%20Arrival.mp3"
+    },
+    {
+      "title": "Meteoric Beast Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/jhlnicxrmp/06.%20Meteoric%20Beast%20Battle.mp3"
+    },
+    {
+      "title": "Kirby Dance Short (Starry Ver.)",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/oetcgodeoj/07.%20Kirby%20Dance%20Short%20%28Starry%20Ver.%29.mp3"
+    },
+    {
+      "title": "Sparkling Results",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/dgeoqssnvj/08.%20Sparkling%20Results.mp3"
+    },
+    {
+      "title": "Lost in Alivel Mall",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/krsoolzdpe/09.%20Lost%20in%20Alivel%20Mall.mp3"
+    },
+    {
+      "title": "Heart-Racing Beach",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/exzrstspap/10.%20Heart-Racing%20Beach.mp3"
+    },
+    {
+      "title": "Fallen-Star Beach",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/vlgpuikjbw/11.%20Fallen-Star%20Beach.mp3"
+    },
+    {
+      "title": "Washed Away at the Cement Summit",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/vlmaeokatz/12.%20Washed%20Away%20at%20the%20Cement%20Summit.mp3"
+    },
+    {
+      "title": "Crossing Wondaria",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/ucqfqqrltd/13.%20Crossing%20Wondaria.mp3"
+    },
+    {
+      "title": "Spinning Dream Parade",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/egssyijphj/14.%20Spinning%20Dream%20Parade.mp3"
+    },
+    {
+      "title": "Frost Street Snow Park",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/bnvedbvlny/15.%20Frost%20Street%20Snow%20Park.mp3"
+    },
+    {
+      "title": "TWINKLING SKATING RINK",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/gnvzfoyiuc/16.%20TWINKLING%20SKATING%20RINK.mp3"
+    },
+    {
+      "title": "Freezing Wind and Some Snowmen",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/avirdzyahs/17.%20Freezing%20Wind%20and%20Some%20Snowmen.mp3"
+    },
+    {
+      "title": "Wastes That Count Time",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/kkjvseovcp/18.%20Wastes%20That%20Count%20Time.mp3"
+    },
+    {
+      "title": "Rally Raid Speedway",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/dsvzjweqzg/19.%20Rally%20Raid%20Speedway.mp3"
+    },
+    {
+      "title": "Moonlight Canyon Labyrinth",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/iqirvvzeeq/20.%20Moonlight%20Canyon%20Labyrinth.mp3"
+    },
+    {
+      "title": "Secret Area HAL Room (Starry Ver.)",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/guglikurnq/21.%20Secret%20Area%20HAL%20Room%20%28Starry%20Ver.%29.mp3"
+    },
+    {
+      "title": "Meteor Swarm of Dark and Light (Kirby Alone Ver.)",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/nrsyivftgd/22.%20Meteor%20Swarm%20of%20Dark%20and%20Light%20%28Kirby%20Alone%20Ver.%29.mp3"
+    },
+    {
+      "title": "Kirby's Tilt-and-Roll Festival",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/fpbevlufpc/23.%20Kirby%27s%20Tilt-and-Roll%20Festival.mp3"
+    },
+    {
+      "title": "Admiring the Shiny Figure Collection",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/pxxxwqukij/24.%20Admiring%20the%20Shiny%20Figure%20Collection.mp3"
+    },
+    {
+      "title": "Crumbling Fiery Forbidden Lands",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/cwyuohedaq/25.%20Crumbling%20Fiery%20Forbidden%20Lands.mp3"
+    },
+    {
+      "title": "Crystal Beast Pack Volcano Battle",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/icgyyvtpez/26.%20Crystal%20Beast%20Pack%20Volcano%20Battle.mp3"
+    },
+    {
+      "title": "Panspermia, Caller of Ruin",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/ffzkuymcbm/27.%20Panspermia%2C%20Caller%20of%20Ruin.mp3"
+    },
+    {
+      "title": "Prescient Stirring Fa-lu-wa-a Song",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/cifzgjotmm/28.%20Prescient%20Stirring%20Fa-lu-wa-a%20Song.mp3"
+    },
+    {
+      "title": "The Falling Star Now Pierces Through the Lagrange Point - Sing of Radiant Theia",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/wjvgelwdyp/29.%20The%20Falling%20Star%20Now%20Pierces%20Through%20the%20Lagrange%20Point%20-%20Sing%20of%20Radiant%20Theia.mp3"
+    },
+    {
+      "title": "The Planet's Cradle",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/hsgzcsavnu/30.%20The%20Planet%27s%20Cradle.mp3"
+    },
+    {
+      "title": "TWINKLING STAR SHOWERS (Full)",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/kdxedonuqa/31.%20TWINKLING%20STAR%20SHOWERS%20%28Full%29.mp3"
+    },
+    {
+      "title": "To the Stage of Stardom",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/fzgjnvmcmc/32.%20To%20the%20Stage%20of%20Stardom.mp3"
+    },
+    {
+      "title": "Beast Drum of Meteor",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/dwbvecefna/33.%20Beast%20Drum%20of%20Meteor.mp3"
+    },
+    {
+      "title": "Ultimate Extra Stars",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/vphlicdxic/34.%20Ultimate%20Extra%20Stars.mp3"
+    },
+    {
+      "title": "Try Again When the Stars Rain Down",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/wyvjuokkib/35.%20Try%20Again%20When%20the%20Stars%20Rain%20Down.mp3"
+    },
+    {
+      "title": "Champion Road of the Four Warriors",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/ywrpexsdxp/36.%20Champion%20Road%20of%20the%20Four%20Warriors.mp3"
+    },
+    {
+      "title": "Revenge of Steel Wings (Kirby's Dream Buffet)",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/oanbfyqvlj/37.%20Revenge%20of%20Steel%20Wings%20%28Kirby%27s%20Dream%20Buffet%29.mp3"
+    },
+    {
+      "title": "The Prince of Mirrors and Regret (Team Kirby Clash Deluxe)",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/vsnmfafhtp/38.%20The%20Prince%20of%20Mirrors%20and%20Regret%20%28Team%20Kirby%20Clash%20Deluxe%29.mp3"
+    },
+    {
+      "title": "The Battle of Sworn Partners (Kirby Fighters 2)",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/ucyglcqpdk/39.%20The%20Battle%20of%20Sworn%20Partners%20%28Kirby%20Fighters%202%29.mp3"
+    },
+    {
+      "title": "Judgment of the Malus Pumila (Kirby's Return to Dream Land Deluxe)",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/znkpzxbpet/40.%20Judgment%20of%20the%20Malus%20Pumila%20%28Kirby%27s%20Return%20to%20Dream%20Land%20Deluxe%29.mp3"
+    },
+    {
+      "title": "Onward to a Pain My Heart Knows Well (Kirby's Return to Dreamland Deluxe)",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/wfpakollbr/41.%20Onward%20to%20a%20Pain%20My%20Heart%20Knows%20Well%20%28Kirby%27s%20Return%20to%20Dreamland%20Deluxe%29.mp3"
+    },
+    {
+      "title": "Suite - The Star-Conquering Traveler - Fourth Movement (Kirby Star Allies)",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/vtdpufpmvj/42.%20Suite%20-%20The%20Star-Conquering%20Traveler%20-%20Fourth%20Movement%20%28Kirby%20Star%20Allies%29.mp3"
+    },
+    {
+      "title": "Eternally Stirring Fa-lu-wa-a Song",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/qgklubhxct/43.%20Eternally%20Stirring%20Fa-lu-wa-a%20Song.mp3"
+    },
+    {
+      "title": "Two Planets Approach the Roche Limit (Starry Ver.)",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/qlpwmhkbuv/44.%20Two%20Planets%20Approach%20the%20Roche%20Limit%20%28Starry%20Ver.%29.mp3"
+    },
+    {
+      "title": "Kindness and Light in the Stars",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/ayzpmspwiq/45.%20Kindness%20and%20Light%20in%20the%20Stars.mp3"
+    },
+    {
+      "title": "Fanfare of the Meteor",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/moejcupqjj/46.%20Fanfare%20of%20the%20Meteor.mp3"
+    },
+    {
+      "title": "Kirby of the Stars Interview",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/kuouphxlel/47.%20Kirby%20of%20the%20Stars%20Interview.mp3"
+    },
+    {
+      "title": "This World's Light Complete",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/hfmhcafumt/48.%20This%20World%27s%20Light%20Complete.mp3"
+    },
+    {
+      "title": "Everything Shines Gotcha Machine Master",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/oglqzemmom/49.%20Everything%20Shines%20Gotcha%20Machine%20Master.mp3"
+    },
+    {
+      "title": "STAR-CROSSED WORLD PERFECT",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/oafjzpwozt/50.%20STAR-CROSSED%20WORLD%20PERFECT.mp3"
+    },
+    {
+      "title": "Welcome Home, Hero",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/toupvdvkbu/51.%20Welcome%20Home%2C%20Hero.mp3"
+    },
+    {
+      "title": "Bless the Plains with Song",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/kktprrqlam/52.%20Bless%20the%20Plains%20with%20Song.mp3"
+    },
+    {
+      "title": "TWINKLING STAR SHOWERS (Bonus Track)",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/igoeucubbe/53.%20TWINKLING%20STAR%20SHOWERS%20%28Bonus%20Track%29.mp3"
+    },
+    {
+      "title": "Last Song (Incomplete) - NEICHEL's Unfinished Track",
+      "src": "https://vgmtreasurechest.com/soundtracks/kirby-and-the-forgotten-land-–-nintendo-switch-2-edition-starcrossed-world-switch-2-gamerip-2025/jvzhbrgqmw/54.%20Last%20Song%20%28Incomplete%29%20-%20NEICHEL%27s%20Unfinished%20Track.mp3"
+    }
+  ]
+}
