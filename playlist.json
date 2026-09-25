@@ -36,7 +36,7 @@
         "platform": "3DS",
         "dir": "N3DS/",
         "games": [
-            { "title": "3DS System Music", "id": "n3dsSystemMusic", "status": "new" },
+            { "title": "3DS System Music", "id": "n3dsSystemMusic"},
             { "title": "Super Mario 3D Land", "id": "superMario3dLand" },
             { "title": "Super Smash Bros. for 3DS", "id": "smash43DS" },
             { "title": "New Super Mario Bros. 2", "id": "newSuperMarioBros2" },
