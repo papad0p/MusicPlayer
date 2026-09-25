@@ -302,7 +302,7 @@ body {
 
 .favorite::before {
     content: "\25CF";
-    /* color: #ff4d4d; */
+    color: #f5c542;
     font-weight: bold;
     position: absolute;
     left: -0.5em;
