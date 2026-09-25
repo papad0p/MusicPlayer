@@ -158,6 +158,22 @@ function loadTrack(index) {
     playBtn.innerHTML = "<i class='fa-solid fa-pause'></i>"
 }
 
+function updateMediaSession() {
+    if ('mediaSession' in navigator) {
+        navigator.mediaSession.metadata = new MediaMetadata({
+            title: playlist[currentIndex].title,
+            artist: playlistMeta.game_title,
+            artwork: [
+                { src: playlistMeta.art, sizes: '512x512', type: 'image/png' }
+            ]
+        });
+        
+        navigator.mediaSession.setActionHandler('play', () => {
+            togglePlay();
+        });
+    }
+}
+
 function nextTrack() {
     currentIndex = (currentIndex + 1) % playlist.length;
     loadTrack(currentIndex);
