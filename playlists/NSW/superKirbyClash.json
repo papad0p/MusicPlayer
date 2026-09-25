@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "game_title": "Super Kirby Clash",
+    "art":"https://upload.wikimedia.org/wikipedia/en/c/ce/Super_Kirby_Clash_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+    "desc":"September 4, 2019"
+  },
+  "songs": [
+    {
+      "title": "Prologue",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/ieycsimk/01.%20Prologue.mp3"
+    },
+    {
+      "title": "Port Village 1",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/qywlomtj/02.%20Port%20Village%201.mp3"
+    },
+    {
+      "title": "Profile",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/mhzconwv/03.%20Profile.mp3"
+    },
+    {
+      "title": "Quest Board",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/mapzclbw/04.%20Quest%20Board.mp3"
+    },
+    {
+      "title": "Seaside & Dunes Quests",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/gpfgstsf/05.%20Seaside%20%26%20Dunes%20Quests.mp3"
+    },
+    {
+      "title": "Victory!",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/wuifbqcn/06.%20Victory%21.mp3"
+    },
+    {
+      "title": "Quest Clear (Kirby Dance)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/idqssjrf/07.%20Quest%20Clear%20%28Kirby%20Dance%29.mp3"
+    },
+    {
+      "title": "Results",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/eeidrbfv/08.%20Results.mp3"
+    },
+    {
+      "title": "Village Tree",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/nbwaoqqe/09.%20Village%20Tree.mp3"
+    },
+    {
+      "title": "Shoppe",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/bskymmcy/10.%20Shoppe.mp3"
+    },
+    {
+      "title": "Party Quest Board",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/mqrnohst/11.%20Party%20Quest%20Board.mp3"
+    },
+    {
+      "title": "Party Quest",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/onalgvmx/12.%20Party%20Quest.mp3"
+    },
+    {
+      "title": "Whoa! (Dedede's Drum Dash Deluxe)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/bpuceqow/13.%20Whoa%21%20%28Dedede%27s%20Drum%20Dash%20Deluxe%29.mp3"
+    },
+    {
+      "title": "Shrine of Passwords",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/sayrlftd/14.%20Shrine%20of%20Passwords.mp3"
+    },
+    {
+      "title": "Amiibo Statue",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/jmfsxllw/15.%20Amiibo%20Statue.mp3"
+    },
+    {
+      "title": "Ordeal Quest Prologue",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/zkbztxgn/16.%20Ordeal%20Quest%20Prologue.mp3"
+    },
+    {
+      "title": "Save the Kingdom! Ordeal Quest (Remix)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/voiaclyk/17.%20Save%20the%20Kingdom%21%20Ordeal%20Quest%20%28Remix%29.mp3"
+    },
+    {
+      "title": "Ruins & Volcano Quests",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/dmarhjay/18.%20Ruins%20%26%20Volcano%20Quests.mp3"
+    },
+    {
+      "title": "VS. Parallel Nightmare",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/qitvwuhf/19.%20VS.%20Parallel%20Nightmare.mp3"
+    },
+    {
+      "title": "Village Tree (Half)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/cwbtprov/20.%20Village%20Tree%20%28Half%29.mp3"
+    },
+    {
+      "title": "Tough Quest",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/mxdyfiyt/21.%20Tough%20Quest.mp3"
+    },
+    {
+      "title": "Road to Victory (Remix)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/ykdpoalb/22.%20Road%20to%20Victory%20%28Remix%29.mp3"
+    },
+    {
+      "title": "VS. Sphere Doomer (Remix)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/awjgamhc/23.%20VS.%20Sphere%20Doomer%20%28Remix%29.mp3"
+    },
+    {
+      "title": "Guardian Angel: Landia (Remix)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/mdftcfuh/24.%20Guardian%20Angel%20-%20Landia%20%28Remix%29.mp3"
+    },
+    {
+      "title": "Revenge of the Enemy (Remix)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/bjtqwmul/25.%20Revenge%20of%20the%20Enemy%20%28Remix%29.mp3"
+    },
+    {
+      "title": "Decisive Battle with a Mighty Boss",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/yiwiclzo/26.%20Decisive%20Battle%20with%20a%20Mighty%20Boss.mp3"
+    },
+    {
+      "title": "Combat Evaluation Program (Remix)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/vluolokk/27.%20Combat%20Evaluation%20Program%20%28Remix%29.mp3"
+    },
+    {
+      "title": "VS. Team A",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/tqueknie/28.%20VS.%20Team%20A.mp3"
+    },
+    {
+      "title": "VS. Parallel Nightmare (Empyrean)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/xyyxtzts/29.%20VS.%20Parallel%20Nightmare%20%28Empyrean%29.mp3"
+    },
+    {
+      "title": "Village Tree (Big)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/hlftbcfx/30.%20Village%20Tree%20%28Big%29.mp3"
+    },
+    {
+      "title": "Port Village 2",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/vmzitsku/31.%20Port%20Village%202.mp3"
+    },
+    {
+      "title": "Final Takeoff (Remix)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/ungqkdnc/32.%20Final%20Takeoff%20%28Remix%29.mp3"
+    },
+    {
+      "title": "Fly, Kirby! (Remix)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/bxjdppfi/33.%20Fly%2C%20Kirby%21%20%28Remix%29.mp3"
+    },
+    {
+      "title": "Port Village 3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/wmscktla/34.%20Port%20Village%203.mp3"
+    },
+    {
+      "title": "VS. Team B",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/sosvarey/35.%20VS.%20Team%20B.mp3"
+    },
+    {
+      "title": "Save this World! Ordeal Quest (Remix)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/ebvvsdnd/36.%20Save%20this%20World%21%20Ordeal%20Quest%20%28Remix%29.mp3"
+    },
+    {
+      "title": "VS. Pres. Parallel Susie",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/dfswehyw/37.%20VS.%20Pres.%20Parallel%20Susie.mp3"
+    },
+    {
+      "title": "Final Boss Prologue",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/konxyyzb/38.%20Final%20Boss%20Prologue.mp3"
+    },
+    {
+      "title": "Giant Masked Dedede (Remix)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/hitvxyzc/39.%20Giant%20Masked%20Dedede%20%28Remix%29.mp3"
+    },
+    {
+      "title": "Green Tree Memories (English) (Staff Credits)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/psrhkert/40.%20Green%20Tree%20Memories%20%28English%29%20%28Staff%20Credits%29.mp3"
+    },
+    {
+      "title": "Green Tree Memories (Japanese) (Staff Credits)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/uptvzjwh/41.%20Green%20Tree%20Memories%20%28Japanese%29%20%28Staff%20Credits%29.mp3"
+    },
+    {
+      "title": "True Final Boss Prologue",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/vfsuwziq/42.%20True%20Final%20Boss%20Prologue.mp3"
+    },
+    {
+      "title": "VS. Parallel Nightmare's Revenge",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/dvultmem/43.%20VS.%20Parallel%20Nightmare%27s%20Revenge.mp3"
+    },
+    {
+      "title": "VS. Aeon Hero",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/umaskavb/44.%20VS.%20Aeon%20Hero.mp3"
+    },
+    {
+      "title": "VS. Aeon Hero (Light & Dark)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/utmbwfms/45.%20VS.%20Aeon%20Hero%20%28Light%20%26%20Dark%29.mp3"
+    },
+    {
+      "title": "Ending",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/dokktlcd/46.%20Ending.mp3"
+    },
+    {
+      "title": "Castle Village",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/jkzsoqlk/47.%20Castle%20Village.mp3"
+    },
+    {
+      "title": "Ultra-Super Boss Battle (Remix)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/siouifan/48.%20Ultra-Super%20Boss%20Battle%20%28Remix%29.mp3"
+    },
+    {
+      "title": "Phantom of the Moon's Spirit (Remix)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/ohqkazvd/49.%20Phantom%20of%20the%20Moon%27s%20Spirit%20%28Remix%29.mp3"
+    },
+    {
+      "title": "Deus Ex Machina at a Young Age (Remix)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/encxgoak/50.%20Deus%20Ex%20Machina%20at%20a%20Young%20Age%20%28Remix%29.mp3"
+    },
+    {
+      "title": "Heroes in Another Dimension (Remix)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/ztskwbur/51.%20Heroes%20in%20Another%20Dimension%20%28Remix%29.mp3"
+    },
+    {
+      "title": "Decisive Battle with a Mighty Boss (Remix)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/aclwzjwf/52.%20Decisive%20Battle%20with%20a%20Mighty%20Boss%20%28Remix%29.mp3"
+    },
+    {
+      "title": "VS. King D-Mind's Revenge (Remix)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/nydwzirl/53.%20VS.%20King%20D-Mind%27s%20Revenge%20%28Remix%29.mp3"
+    },
+    {
+      "title": "Village Tree (Max)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/baxnwvnc/54.%20Village%20Tree%20%28Max%29.mp3"
+    },
+    {
+      "title": "Blazing! Boss Battle (Remix)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/yixpedbx/55.%20Blazing%21%20Boss%20Battle%20%28Remix%29.mp3"
+    },
+    {
+      "title": "Grand Doomer (Remix)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/kgahmpln/56.%20Grand%20Doomer%20%28Remix%29.mp3"
+    },
+    {
+      "title": "The True Arena - Kirby Super Star Ultra (Remix)",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/super-kirby-clash-gamerip/gphrnpkf/57.%20The%20True%20Arena%20-%20Kirby%20Super%20Star%20Ultra%20%28Remix%29.mp3"
+    }
+  ]
+}
