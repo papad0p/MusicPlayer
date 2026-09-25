@@ -144,9 +144,14 @@ function toggleLoop() {
 
     let bgColor = "";
     if (loopMode === 1) {
-        bgColor = "#00bceb"; // autoplay
+        loopBtn.style.color = "#eee"; // autoplay
     } else if (loopMode === 2) {
-        bgColor = "#af69ee"; // repeat loop
+        loopBtn.classList.add("repeat-loop");
+        // bgColor = "#af69ee"; // repeat loop
+    }
+    else {
+        loopBtn.classList.remove("repeat-loop");
+        loopBtn.style.color = ""; // default color
     }
     
     loopBtn.style.background = bgColor;

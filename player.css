@@ -171,6 +171,7 @@ body {
     touch-action: none;
 }
 .music-controls button {
+    content: "";
     position: relative;
     border-radius: 100px;
     /* padding: 1em; */
@@ -191,6 +192,18 @@ body {
     color: #333;
 
 
+}
+
+.repeat-loop:before {
+    content: "1";
+    font-size: 0.8em;
+    font-family: inter;
+    font-weight: bold;
+    position: absolute;
+    right: 1.3em;
+    bottom: 1.3em;
+    /* background-color: #af69ee; */
+    /* color: #fff; */
 }
 
 #speed-label {
