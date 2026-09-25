@@ -75,8 +75,8 @@
             { "title": "Pokemon: Platinum", "id": "platinum" },
             { "title": "Pokemon: HeartGold and SoulSilver", "id": "heartGoldSoulSilver"},
             { "title": "Pokemon: Black & White", "id": "blackWhite" },
-            { "title": "Pokemon: Black 2 & White 2", "id": "blackWhite2" },
-            { "title": "Mario Kart DS", "id": "marioKartDS" },
+            { "title": "Pokemon: Black 2 & White 2", "id": "blackWhite2", "status": "broken" },
+            { "title": "Mario Kart DS", "id": "marioKartDS", "status": "broken" },
             { "title": "Mario Party DS", "id": "marioPartyDS" },
             { "title": "Animal Crossing: Wild World", "id": "animalCrossingWildWorld" },
             { "title": "Pokemon: Mystery Dungeon (Blue Rescue Team)", "id": "mysteryDungeonBlue" },
@@ -96,7 +96,7 @@
         "platform": "Gamecube",
         "dir": "GCN/",
         "games": [
-            { "title": "Mario Kart: Double Dash!!", "id": "marioKartDoubleDash" },
+            { "title": "Mario Kart: Double Dash!!", "id": "marioKartDoubleDash", "status": "broken" },
             { "title": "Super Smash Bros. Melee", "id": "smashMelee" },
             { "title": "The Legend of Zelda: Twilight Princess", "id": "twilightPrincess" }
         ]

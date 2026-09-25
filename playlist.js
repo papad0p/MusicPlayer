@@ -63,6 +63,7 @@ async function createGameItem(system, game) {
 
     if (game.status === 'new') li.classList.add('new-playlist');
     if (game.status === 'leaving') li.classList.add('leaving-soon');
+    if (game.status === 'broken') li.classList.add('broken');
 
     if (game.url) {
         const a = document.createElement('a');

@@ -132,7 +132,7 @@ li:active {
   position: absolute;
   top: 10%;
   transform: translateY(-50%);
-  right: 1%;
+  right: 5%;
   color: white;
 
 }
@@ -153,9 +153,31 @@ li:active {
   font-family: inter;
   font-size: 0.75em;
   position: absolute;
-  top: 50%;
+  top: 10%;
   transform: translateY(-50%);
-  right: 1%;
+  right: 5%;
+  color: white;
+
+}
+
+.broken {
+    background-color: #f5c542a5;
+    border-radius: 5px;
+    position: relative;
+    /* margin: 2em; */
+    /* padding: 1em; */
+}
+.broken:hover {
+    border: 1px solid #eee;
+}
+.broken::after {
+  content: "BROKEN";
+  font-family: inter;
+  font-size: 0.75em;
+  position: absolute;
+  top: 10%;
+  transform: translateY(-50%);
+  right: 5%;
   color: white;
 
 }
