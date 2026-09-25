@@ -196,12 +196,12 @@ body {
 
 .repeat-loop:before {
     content: "1";
-    font-size: 0.8em;
+    font-size: 0.6em;
     font-family: inter;
     font-weight: bold;
     position: absolute;
-    right: 1.3em;
-    bottom: 1.3em;
+    right: 20%;
+    bottom: 30%;
     /* background-color: #af69ee; */
     /* color: #fff; */
 }
@@ -386,6 +386,12 @@ body {
         align-self: end;
         margin: 0;
         padding: 0;
+    }
+
+    .repeat-loop:before {
+            right: 25%;
+            bottom: 30%;
+            font-size: 0.8em;
     }
 
     .song-bar {
