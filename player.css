@@ -211,7 +211,7 @@ body {
     left: 50%;
     transform: translateX(-50%);
     bottom: 0.8em;
-    font-size: 0.6em;
+    font-size: 0.4em;
     font-weight: bold;
     line-height: 1;
 }
@@ -356,6 +356,16 @@ body {
         display: grid;
         max-width: 100%;
     }
+    
+    #speed-label {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0.8em;
+    font-size: 0.6em;
+    font-weight: bold;
+    line-height: 1;
+}
     
     .music-controls {
         gap: 0.5em;
