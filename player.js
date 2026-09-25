@@ -30,6 +30,20 @@ const seekBar = document.getElementById("seek-bar");
 
 audio.addEventListener("loadedmetadata", () => {
     seekBar.max = audio.duration;
+    updateMediaSession();
+});
+
+audio.addEventListener("playing", () => {
+    updateMediaSession();
+    if ('mediaSession' in navigator) {
+        navigator.mediaSession.playbackState = 'playing';
+    }
+});
+
+audio.addEventListener("pause", () => {
+    if ('mediaSession' in navigator) {
+        navigator.mediaSession.playbackState = 'paused';
+    }
 });
 
 
@@ -141,28 +155,33 @@ function toggleLoop() {
 }
 
 function updateMediaSession() {
-// Adds album icon for apple device's lock screen and control center
-    if ('mediaSession' in navigator) {
-        navigator.mediaSession.metadata = new MediaMetadata({
-            title: playlist[currentIndex].title,
-            artist: playlistMeta.game_title,
-            album: playlistMeta.game_title,
-            artwork: [
-                { src: playlistMeta.art, sizes: '512x512', type: 'image/png' }
-            ]
-        });
+    if (!('mediaSession' in navigator) || typeof MediaMetadata === 'undefined') return;
 
-        navigator.mediaSession.setActionHandler('play', () => {
-            audio.play();
-            playBtn.innerHTML = "<i class='fa-solid fa-pause'></i>";
-        });
-        navigator.mediaSession.setActionHandler('pause', () => {
-            audio.pause();
-            playBtn.innerHTML = "<i class='fa-solid fa-play'></i>";
-        });
-        navigator.mediaSession.setActionHandler('previoustrack', prevTrack);
-        navigator.mediaSession.setActionHandler('nexttrack', nextTrack);
-    }
+    const song = playlist[currentIndex];
+    if (!song) return;
+
+    const artwork = song.art || playlistMeta.art;
+    navigator.mediaSession.metadata = new MediaMetadata({
+        title: song.title,
+        artist: song.artist || playlistMeta.game_title || '',
+        album: song.album || playlistMeta.game_title || '',
+        artwork: artwork
+            ? [{ src: new URL(artwork, window.location.href).href }]
+            : []
+    });
+}
+
+if ('mediaSession' in navigator) {
+    navigator.mediaSession.setActionHandler('play', () => {
+        audio.play();
+        playBtn.innerHTML = "<i class='fa-solid fa-pause'></i>";
+    });
+    navigator.mediaSession.setActionHandler('pause', () => {
+        audio.pause();
+        playBtn.innerHTML = "<i class='fa-solid fa-play'></i>";
+    });
+    navigator.mediaSession.setActionHandler('previoustrack', prevTrack);
+    navigator.mediaSession.setActionHandler('nexttrack', nextTrack);
 }
 
 
