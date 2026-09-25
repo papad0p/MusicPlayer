@@ -47,6 +47,7 @@ body {
     text-align: center;
     color: #333;
     margin: 0.4em;
+    z-index: 100;
 }
 
 #back-btn:hover {
