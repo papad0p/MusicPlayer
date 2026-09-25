@@ -90,6 +90,7 @@ async function loadPlaylistData() {
         const data = await response.json();
         playlistMeta = data.meta || {};
         playlist = data.songs || [];
+        document.title = `${playlistMeta.game_title || 'Music Player'}`;
         initPlaylist();
     } catch (error) {
         console.error("Failed to load playlist JSON:", error);
@@ -147,6 +148,7 @@ function loadTrack(index) {
     audio.playbackRate = playbackSpeed;
     audio.defaultPlaybackRate = playbackSpeed;
     titleEl.innerText = playlist[index].title;
+    document.title = `${playlist[index].title} - ${playlistMeta.game_title}`;
 
     const bars = document.querySelectorAll(".song-bar");
     bars.forEach(b => b.classList.remove("active-song"));
