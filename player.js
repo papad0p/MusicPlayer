@@ -159,18 +159,27 @@ function loadTrack(index) {
 }
 
 function updateMediaSession() {
+// Adds album icon for apple device's lock screen and control center
     if ('mediaSession' in navigator) {
         navigator.mediaSession.metadata = new MediaMetadata({
             title: playlist[currentIndex].title,
             artist: playlistMeta.game_title,
+            album: playlistMeta.game_title,
             artwork: [
                 { src: playlistMeta.art, sizes: '512x512', type: 'image/png' }
             ]
         });
-        
+
         navigator.mediaSession.setActionHandler('play', () => {
-            togglePlay();
+            audio.play();
+            playBtn.innerHTML = "<i class='fa-solid fa-pause'></i>";
         });
+        navigator.mediaSession.setActionHandler('pause', () => {
+            audio.pause();
+            playBtn.innerHTML = "<i class='fa-solid fa-play'></i>";
+        });
+        navigator.mediaSession.setActionHandler('previoustrack', prevTrack);
+        navigator.mediaSession.setActionHandler('nexttrack', nextTrack);
     }
 }
 
