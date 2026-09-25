@@ -1,0 +1,48 @@
+name: Repair playlist links
+
+on:
+  schedule:
+    # Every Sunday at 6:23 AM UTC. The off-hour minute reduces queue delays.
+    - cron: "23 6 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repair-playlist-links
+  cancel-in-progress: false
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements-repair.txt
+
+      - name: Install repair dependencies
+        run: pip install -r requirements-repair.txt
+
+      - name: Check and repair playlist links
+        run: python auto_repair.py
+
+      - name: Commit repaired links
+        run: |
+          git config user.name "playlist-repair-bot"
+          git config user.email "playlist-repair-bot@users.noreply.github.com"
+          git add playlists
+          if git diff --cached --quiet; then
+            echo "No playlist links needed repair."
+          else
+            git commit -m "Automatically repair playlist links"
+            git push
+          fi
