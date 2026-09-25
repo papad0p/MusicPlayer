@@ -1,709 +1,701 @@
 {
   "meta": {
-    "game_title": "Pokemon: Black 2 & White 2",
-    "art": "https://upload.wikimedia.org/wikipedia/en/d/dd/Pokemon_White_2.png",
-    "desc": "June 23, 2012"
+    "game_title": "Pokémon Black 2 & White 2: Super Music Collection",
+    "art":"https://upload.wikimedia.org/wikipedia/en/d/dd/Pokemon_White_2.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "desc":"June 23, 2012"
   },
   "songs": [
     {
       "title": "Opening",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/fxmnpnrtrg/1-01.%20Opening.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ezkeogoc/1-01.%20Opening.mp3"
     },
     {
-      "title": "Title Screen",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/hrlaafkefy/1-02.%20Title%20Screen.mp3",
-      "favorite": false
+      "title": "Title",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/walendbz/1-02.%20Title.mp3"
     },
     {
-      "title": "An Adventure Is Beginning",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/iyekioupem/1-03.%20An%20Adventure%20Is%20Beginning.mp3",
-      "favorite": false
+      "title": "An Adventure is Beginning",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/qiqfdcby/1-03.%20An%20Adventure%20is%20Beginning.mp3"
     },
     {
       "title": "Aspertia City",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/gzakcwdgqt/1-04.%20Aspertia%20City.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/qhoxufuh/1-04.%20Aspertia%20City.mp3"
     },
     {
-      "title": "Bianca",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/pjpgyaeclg/1-05.%20Bianca.mp3",
-      "favorite": false
+      "title": "Bianca's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/crzzyuas/1-05.%20Bianca%27s%20Theme.mp3"
     },
     {
-      "title": "Route 19 (Spring)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/jpfkqefsrl/1-06.%20Route%2019%20%28Spring%29.mp3",
-      "favorite": false
+      "title": "Route 19 (Spring - Summer)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/qxqmksjp/1-06.%20Route%2019%20%28Spring%20-%20Summer%29.mp3"
     },
     {
-      "title": "Route 19 (Summer)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/qzzwowaqkq/1-07.%20Route%2019%20%28Summer%29.mp3",
-      "favorite": false
-    },
-    {
-      "title": "Battle! (Wild Pokémon)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/atgyuccqtc/1-08.%20Battle%21%20%28Wild%20Pok%C3%A9mon%29.mp3",
-      "favorite": false
+      "title": "Battle! (Wild Pokemon)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/zdthgkhg/1-07.%20Battle%21%20%28Wild%20Pokemon%29.mp3"
     },
     {
       "title": "Floccesy Town",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/eiwccgnlqa/1-09.%20Floccesy%20Town.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/hsslavzm/1-08.%20Floccesy%20Town.mp3"
     },
     {
       "title": "Floccesy Ranch",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/whszbavlpx/1-10.%20Floccesy%20Ranch.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/knnbqbkx/1-09.%20Floccesy%20Ranch.mp3"
     },
     {
-      "title": "Rival",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/sjmapbafuh/1-11.%20Rival.mp3",
-      "favorite": false
+      "title": "Rival's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/fjgeanrt/1-10.%20Rival%27s%20Theme.mp3"
     },
     {
       "title": "Battle! (Rival)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/xwhlpztdis/1-12.%20Battle%21%20%28Rival%29.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/usdnehae/1-11.%20Battle%21%20%28Rival%29.mp3"
     },
     {
       "title": "Virbank City",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/oiwddjhfkq/1-13.%20Virbank%20City.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/tfxwpivh/1-12.%20Virbank%20City.mp3"
     },
     {
-      "title": "Virbank City Gym (Japanese Version)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/seqcirpfke/1-14.%20Virbank%20City%20Gym%20%28Japanese%20Version%29.mp3",
-      "favorite": false
-    },
-    {
-      "title": "Virbank City Gym (International Version)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/rbmbmydity/1-15.%20Virbank%20City%20Gym%20%28International%20Version%29.mp3",
-      "favorite": false
+      "title": "Virbank Gym",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/wmupoydw/1-13.%20Virbank%20Gym.mp3"
     },
     {
       "title": "Team Plasma Returns",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/ueedrksnyc/1-16.%20Team%20Plasma%20Returns.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/umarinsa/1-14.%20Team%20Plasma%20Returns.mp3"
     },
     {
       "title": "Pokéstar Studios",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/umqxrdwpzn/1-17.%20Pok%C3%A9star%20Studios.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ypfgqjxl/1-15.%20Pok%C3%A9star%20Studios.mp3"
     },
     {
-      "title": "Filming Underway At Pokéstar Studios!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/rtkfmqeopu/1-18.%20Filming%20Underway%20At%20Pok%C3%A9star%20Studios%21.mp3",
-      "favorite": false
+      "title": "Filming Underway at Pokéstar Studios!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/omsbfwsz/1-16.%20Filming%20Underway%20at%20Pok%C3%A9star%20Studios%21.mp3"
     },
     {
       "title": "Pokéstar Studios - Battle",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/rcdpxcbiuz/1-19.%20Pok%C3%A9star%20Studios%20-%20Battle.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/rnmvujnl/1-17.%20Pok%C3%A9star%20Studios%20-%20Battle.mp3"
     },
     {
       "title": "Pokéstar Studios - Glory",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/wnhntjilqp/1-20.%20Pok%C3%A9star%20Studios%20-%20Glory.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/tjpywlrb/1-18.%20Pok%C3%A9star%20Studios%20-%20Glory.mp3"
     },
     {
       "title": "Pokéstar Studios - Defeat",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/kgurdmrpxq/1-21.%20Pok%C3%A9star%20Studios%20-%20Defeat.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/fwsawjes/1-19.%20Pok%C3%A9star%20Studios%20-%20Defeat.mp3"
     },
     {
       "title": "Pokéstar Studios - Invasion",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/iazktwwzku/1-22.%20Pok%C3%A9star%20Studios%20-%20Invasion.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/bdppbqxs/1-20.%20Pok%C3%A9star%20Studios%20-%20Invasion.mp3"
     },
     {
       "title": "Pokéstar Studios - Success",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/zakgwmwtbl/1-23.%20Pok%C3%A9star%20Studios%20-%20Success.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/uvtihljn/1-21.%20Pok%C3%A9star%20Studios%20-%20Success.mp3"
     },
     {
       "title": "Pokéstar Studios - Retreat",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/kjkcuzqhep/1-24.%20Pok%C3%A9star%20Studios%20-%20Retreat.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/mxzhnszs/1-22.%20Pok%C3%A9star%20Studios%20-%20Retreat.mp3"
     },
     {
-      "title": "Pokéstar Studios - Wierd",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/xpvikvwhun/1-25.%20Pok%C3%A9star%20Studios%20-%20Wierd.mp3",
-      "favorite": false
+      "title": "Pokéstar Studios - Weird",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/slzrlcdk/1-23.%20Pok%C3%A9star%20Studios%20-%20Weird.mp3"
     },
     {
       "title": "Pokéstar Studios - Love",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/ehbaokynbl/1-26.%20Pok%C3%A9star%20Studios%20-%20Love.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/pswddfsz/1-24.%20Pok%C3%A9star%20Studios%20-%20Love.mp3"
     },
     {
       "title": "Pokéstar Studios - Sorrow",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/oeuwdkdtjx/1-27.%20Pok%C3%A9star%20Studios%20-%20Sorrow.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/qjwgsslc/1-25.%20Pok%C3%A9star%20Studios%20-%20Sorrow.mp3"
     },
     {
       "title": "Pokéstar Studios - Horror",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/xerbkiacrs/1-28.%20Pok%C3%A9star%20Studios%20-%20Horror.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/eoflqsto/1-26.%20Pok%C3%A9star%20Studios%20-%20Horror.mp3"
     },
     {
       "title": "Pokéstar Studios - Purified",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/znbuwjkcgv/1-29.%20Pok%C3%A9star%20Studios%20-%20Purified.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/nwwrspwm/1-27.%20Pok%C3%A9star%20Studios%20-%20Purified.mp3"
     },
     {
       "title": "Pokéstar Studios - Fear",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/ngzpyxzdjm/1-30.%20Pok%C3%A9star%20Studios%20-%20Fear.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/wuksinpi/1-28.%20Pok%C3%A9star%20Studios%20-%20Fear.mp3"
     },
     {
       "title": "Pokéstar Studios - Humor",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/afdbkaxuit/1-31.%20Pok%C3%A9star%20Studios%20-%20Humor.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/zwjgfjbf/1-29.%20Pok%C3%A9star%20Studios%20-%20Humor.mp3"
     },
     {
       "title": "Pokéstar Studios - Despair",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/beatdivuxc/1-32.%20Pok%C3%A9star%20Studios%20-%20Despair.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/xujjvzkd/1-30.%20Pok%C3%A9star%20Studios%20-%20Despair.mp3"
     },
     {
       "title": "Pokéstar Studios - Shock",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/ndzanilkud/1-33.%20Pok%C3%A9star%20Studios%20-%20Shock.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ltlatshh/1-31.%20Pok%C3%A9star%20Studios%20-%20Shock.mp3"
     },
     {
-      "title": "Immortalized In Pokéstar Studios!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/gsqequgruy/1-34.%20Immortalized%20In%20Pok%C3%A9star%20Studios%21.mp3",
-      "favorite": false
+      "title": "Immortalized in Pokéstar Studios!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/oxyyxtat/1-32.%20Immortalized%20in%20Pok%C3%A9star%20Studios%21.mp3"
     },
     {
       "title": "Castelia Sewers",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/hpayimonfi/1-35.%20Castelia%20Sewers.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/vumarjux/1-33.%20Castelia%20Sewers.mp3"
     },
     {
       "title": "Castelia City Gym",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/vdoclsuxxs/1-36.%20Castelia%20City%20Gym.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/bpvhzdqt/1-34.%20Castelia%20City%20Gym.mp3"
     },
     {
       "title": "Trainers' Eyes Meet (Harlequin)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/vjrlforlsb/1-37.%20Trainers%27%20Eyes%20Meet%20%28Harlequin%29.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/vvujmjhj/1-35.%20Trainers%27%20Eyes%20Meet%20%28Harlequin%29.mp3"
     },
     {
       "title": "Funfest Mission Start!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/atflknwzmo/1-38.%20Funfest%20Mission%20Start%21.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ztxhtvxa/1-36.%20Funfest%20Mission%20Start%21.mp3"
     },
     {
-      "title": "Colress",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/ddwpgrqsum/1-39.%20Colress.mp3",
-      "favorite": false
+      "title": "Unity Tower",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/jttmcbba/1-37.%20Unity%20Tower.mp3"
     },
     {
-      "title": "Battle! (Trainer)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/gniuwpuxln/1-40.%20Battle%21%20%28Trainer%29.mp3",
-      "favorite": false
+      "title": "Colress's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ayrnqpbn/1-38.%20Colress%27s%20Theme.mp3"
+    },
+    {
+      "title": "Battle! (Trainer Battle)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/jhissjri/1-39.%20Battle%21%20%28Trainer%20Battle%29.mp3"
     },
     {
       "title": "Join Avenue",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/rpowgyacli/1-41.%20Join%20Avenue.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/oujldjlc/1-40.%20Join%20Avenue.mp3"
     },
     {
       "title": "Join Avenue - Level Up 1",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/crvqfxqqgq/1-42.%20Join%20Avenue%20-%20Level%20Up%201.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/dightusf/1-41.%20Join%20Avenue%20-%20Level%20Up%201.mp3"
     },
     {
       "title": "Join Avenue - Level Up 2",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/ywjjljozpt/1-43.%20Join%20Avenue%20-%20Level%20Up%202.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/wrtuserv/1-42.%20Join%20Avenue%20-%20Level%20Up%202.mp3"
     },
     {
       "title": "Join Avenue Meet and Greet!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/kftrnxkblf/1-44.%20Join%20Avenue%20Meet%20and%20Greet%21.mp3",
-      "favorite": false
-    },
-    {
-      "title": "Join Avenue - Raffle Won!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/sefwuzppob/1-45.%20Join%20Avenue%20-%20Raffle%20Won%21.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/gqmohvfq/1-43.%20Join%20Avenue%20Meet%20and%20Greet%21.mp3"
     },
     {
       "title": "Nimbasa City Gym - Runway",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/mgmyzalasm/1-46.%20Nimbasa%20City%20Gym%20-%20Runway.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ovmwxyyw/1-44.%20Nimbasa%20City%20Gym%20-%20Runway.mp3"
     },
     {
       "title": "Trainers' Eyes Meet (Beauty)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/hufibhbqcb/1-47.%20Trainers%27%20Eyes%20Meet%20%28Beauty%29.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ltksipxt/1-45.%20Trainers%27%20Eyes%20Meet%20%28Beauty%29.mp3"
     },
     {
       "title": "Nimbasa City Gym - Stage",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/ikiizjaphu/1-48.%20Nimbasa%20City%20Gym%20-%20Stage.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/zuxfiysr/1-46.%20Nimbasa%20City%20Gym%20-%20Stage.mp3"
     },
     {
       "title": "Battle! (Gym Leader)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/eanyzzjpgb/1-49.%20Battle%21%20%28Gym%20Leader%29.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/jvxeczpa/1-47.%20Battle%21%20%28Gym%20Leader%29.mp3"
     },
     {
       "title": "Victory Lies Before You!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/kjbxkzsxtq/1-50.%20Victory%20Lies%20Before%20You%21.mp3",
-      "favorite": false
-    },
-    {
-      "title": "Xtransceiver (Long)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/mpdnkgsjnf/1-51.%20Xtransceiver%20%28Long%29.mp3",
-      "favorite": false
-    },
-    {
-      "title": "Hidden Grotto",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/askwmajnfl/1-52.%20Hidden%20Grotto.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/iouhagfg/1-48.%20Victory%20Lies%20Before%20You%21.mp3"
     },
     {
       "title": "Driftveil Gym",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/ytzgenmtcw/2-01.%20Driftveil%20Gym.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/piwgrpxv/2-01.%20Driftveil%20Gym.mp3"
     },
     {
       "title": "Pokémon World Tournament (PWT)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/spervifhzk/2-02.%20Pok%C3%A9mon%20World%20Tournament%20%28PWT%29.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/kpueknmu/2-02.%20Pok%C3%A9mon%20World%20Tournament%20%28PWT%29.mp3"
     },
     {
       "title": "The PWT",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/feghgwwncz/2-03.%20The%20PWT.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/lwcurysu/2-03.%20The%20PWT.mp3"
     },
     {
-      "title": "Battle! (Gym Leader - Kanto Verison)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/znoqokosda/2-04.%20Battle%21%20%28Gym%20Leader%20-%20Kanto%20Verison%29.mp3",
-      "favorite": false
+      "title": "Battle! (Gym Leader—Kanto Version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/sfycqwmv/2-04.%20Battle%21%20%28Gym%20Leader%E2%80%94Kanto%20Version%29.mp3"
     },
     {
-      "title": "Battle! (Champion - Kanto Verison)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/vvcueaulbz/2-05.%20Battle%21%20%28Champion%20-%20Kanto%20Verison%29.mp3",
-      "favorite": false
+      "title": "Battle! (Champion—Kanto Version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/pnuijwei/2-05.%20Battle%21%20%28Champion%E2%80%94Kanto%20Version%29.mp3"
     },
     {
-      "title": "Battle! (Gym Leader - Johto Verison)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/hzrpyyyseo/2-06.%20Battle%21%20%28Gym%20Leader%20-%20Johto%20Verison%29.mp3",
-      "favorite": false
+      "title": "Battle! (Gym Leader—Johto Version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/conxzcol/2-06.%20Battle%21%20%28Gym%20Leader%E2%80%94Johto%20Version%29.mp3"
     },
     {
-      "title": "Battle! (Champion - Johto Verison)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/feqoxddfou/2-07.%20Battle%21%20%28Champion%20-%20Johto%20Verison%29.mp3",
-      "favorite": false
+      "title": "Battle! (Champion—Johto Version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/qveknidr/2-07.%20Battle%21%20%28Champion%E2%80%94Johto%20Version%29.mp3"
     },
     {
-      "title": "Battle! (Gym Leader - Hoenn Verison)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/fkyfecbmhc/2-08.%20Battle%21%20%28Gym%20Leader%20-%20Hoenn%20Verison%29.mp3",
-      "favorite": false
+      "title": "Battle! (Gym Leader—Hoenn Version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/zxpfgqjx/2-08.%20Battle%21%20%28Gym%20Leader%E2%80%94Hoenn%20Version%29.mp3"
     },
     {
-      "title": "Battle! (Champion - Hoenn Verison)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/xlrmawqthp/2-09.%20Battle%21%20%28Champion%20-%20Hoenn%20Verison%29.mp3",
-      "favorite": false
+      "title": "Battle! (Champion—Hoenn Version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/khispueo/2-09.%20Battle%21%20%28Champion%E2%80%94Hoenn%20Version%29.mp3"
     },
     {
-      "title": "Battle! (Gym Leader - Sinnoh Verison)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/lngdbouoiq/2-10.%20Battle%21%20%28Gym%20Leader%20-%20Sinnoh%20Verison%29.mp3",
-      "favorite": false
+      "title": "Battle! (Gym Leader—Sinnoh Version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/efqljnmw/2-10.%20Battle%21%20%28Gym%20Leader%E2%80%94Sinnoh%20Version%29.mp3"
     },
     {
-      "title": "Battle! (Champion - Sinnoh Verison)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/ehuhystnqq/2-11.%20Battle%21%20%28Champion%20-%20Sinnoh%20Verison%29.mp3",
-      "favorite": false
+      "title": "Battle! (Champion—Sinnoh Version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/xxtaveha/2-11.%20Battle%21%20%28Champion%E2%80%94Sinnoh%20Version%29.mp3"
     },
     {
-      "title": "PWT Final Round!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/ezematylpv/2-12.%20PWT%20Final%20Round%21.mp3",
-      "favorite": false
+      "title": "PWT Final Round",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/fzghubxi/2-12.%20PWT%20Final%20Round.mp3"
     },
     {
-      "title": "Winning In the PWT!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/whtuuuhljd/2-13.%20Winning%20In%20the%20PWT%21.mp3",
-      "favorite": false
+      "title": "Winning in the PWT!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/azzxnzgh/2-13.%20Winning%20in%20the%20PWT%21.mp3"
     },
     {
       "title": "PWT Victory!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/dghkxsnxil/2-14.%20PWT%20Victory%21.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/rpxsxkgd/2-14.%20PWT%20Victory%21.mp3"
     },
     {
       "title": "Underground Ruins",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/mppnllxrtd/2-15.%20Underground%20Ruins.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/wxzfanmv/2-15.%20Underground%20Ruins.mp3"
     },
     {
-      "title": "Battle! (Regirock  -  Regice  -  Registeel)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/ollppcewaw/2-16.%20Battle%21%20%28Regirock%20%20-%20%20Regice%20%20-%20%20Registeel%29.mp3",
-      "favorite": false
+      "title": "Battle! (Regirock - Regice - Registeel)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/sbdpoxxt/2-16.%20Battle%21%20%28Regirock%20-%20Regice%20-%20Registeel%29.mp3"
     },
     {
       "title": "Aboard the Plasma Frigate",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/fdtllggfva/2-17.%20Aboard%20the%20Plasma%20Frigate.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/djmhbktr/2-17.%20Aboard%20the%20Plasma%20Frigate.mp3"
     },
     {
-      "title": "Zinzolin",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/fuommsubed/2-18.%20Zinzolin.mp3",
-      "favorite": false
+      "title": "Zinzolin's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/zzwmulyh/2-18.%20Zinzolin%27s%20Theme.mp3"
     },
     {
-      "title": "Cheren",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/gnidnxocit/2-19.%20Cheren.mp3",
-      "favorite": false
+      "title": "Cheren's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/rmmvtgyb/2-19.%20Cheren%27s%20Theme.mp3"
     },
     {
       "title": "Mistralton City Gym",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/alvtuthmei/2-20.%20Mistralton%20City%20Gym.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/mgvieyez/2-20.%20Mistralton%20City%20Gym.mp3"
     },
     {
       "title": "Earned a Participation Prize Medal!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/pyijafjszk/2-21.%20Earned%20a%20Participation%20Prize%20Medal%21.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/lgzeyfdd/2-21.%20Earned%20a%20Participation%20Prize%20Medal%21.mp3"
     },
     {
       "title": "Medal Box - Medal Box Upgraded!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/wpwujofcab/2-22.%20Medal%20Box%20-%20Medal%20Box%20Upgraded%21.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/fsvznqov/2-22.%20Medal%20Box%20-%20Medal%20Box%20Upgraded%21.mp3"
     },
     {
       "title": "Lentimas Town",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/lkmmjodjpv/2-23.%20Lentimas%20Town.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ojbhgiwl/2-23.%20Lentimas%20Town.mp3"
     },
     {
       "title": "The Road to Reversal Mountain",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/wwyfjnrntk/2-24.%20The%20Road%20to%20Reversal%20Mountain.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/qtvzjxjc/2-24.%20The%20Road%20to%20Reversal%20Mountain.mp3"
     },
     {
-      "title": "Reversal Mountain (Pokémon Black 2)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/dyloffvgcw/2-25.%20Reversal%20Mountain%20%28Pok%C3%A9mon%20Black%202%29.mp3",
-      "favorite": false
+      "title": "Reversal Mountain (Pokémon Black)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/jotztuqw/2-25.%20Reversal%20Mountain%20%28Pok%C3%A9mon%20Black%29.mp3"
     },
     {
-      "title": "Reversal Mountain (Pokémon White 2)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/bskuczbmor/2-26.%20Reversal%20Mountain%20%28Pok%C3%A9mon%20White%202%29.mp3",
-      "favorite": false
+      "title": "Reversal Mountain (Pokémon White)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/jhkchexc/2-26.%20Reversal%20Mountain%20%28Pok%C3%A9mon%20White%29.mp3"
     },
     {
       "title": "Strange House",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/uwpqfoiiuh/2-27.%20Strange%20House.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/rclxfjfa/2-27.%20Strange%20House.mp3"
     },
     {
-      "title": "Battle! (Legendary Pokémon - Sinnoh Version)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/vfvvuazrvw/2-28.%20Battle%21%20%28Legendary%20Pok%C3%A9mon%20-%20Sinnoh%20Version%29.mp3",
-      "favorite": false
+      "title": "Battle! (Legendary Pokémon—Sinnoh Version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/jtrcnfof/2-28.%20Battle%21%20%28Legendary%20Pok%C3%A9mon%E2%80%94Sinnoh%20Version%29.mp3"
     },
     {
       "title": "Opelucid City Gym",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/fmbklfaojm/2-29.%20Opelucid%20City%20Gym.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/jgbopjzv/2-29.%20Opelucid%20City%20Gym.mp3"
     },
     {
       "title": "Opelucid City Attacked!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/vlpeuyrirs/2-30.%20Opelucid%20City%20Attacked%21.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/gsuxcwxy/2-30.%20Opelucid%20City%20Attacked%21.mp3"
     },
     {
       "title": "The Frozen City",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/thcbskfkga/2-31.%20The%20Frozen%20City.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/agfiabil/2-31.%20The%20Frozen%20City.mp3"
     },
     {
       "title": "Trainers' Eyes Meet (Team Plasma)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/ltrkocpcaj/2-32.%20Trainers%27%20Eyes%20Meet%20%28Team%20Plasma%29.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/eoizvgrs/2-32.%20Trainers%27%20Eyes%20Meet%20%28Team%20Plasma%29.mp3"
     },
     {
       "title": "Battle! (Team Plasma)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/jtachtmzes/2-33.%20Battle%21%20%28Team%20Plasma%29.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/lemwyajr/2-33.%20Battle%21%20%28Team%20Plasma%29.mp3"
     },
     {
-      "title": "Shadow Triad",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/cmwapmnmjk/2-34.%20Shadow%20Triad.mp3",
-      "favorite": false
+      "title": "Shadow Triad's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/jvbvyfeh/2-34.%20Shadow%20Triad%27s%20Theme.mp3"
     },
     {
       "title": "Marine Tube",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/tiqgihzxmr/2-35.%20Marine%20Tube.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ywklcbcf/2-35.%20Marine%20Tube.mp3"
     },
     {
       "title": "Humilau City",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/nacrfrudnt/2-36.%20Humilau%20City.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ujlbayoz/2-36.%20Humilau%20City.mp3"
     },
     {
       "title": "Humilau City Gym",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/ktzrvfgvhi/2-37.%20Humilau%20City%20Gym.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ezjxkgbm/2-37.%20Humilau%20City%20Gym.mp3"
     },
     {
-      "title": "Route 22 (Spring)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/uedcastoua/2-38.%20Route%2022%20%28Spring%29.mp3",
-      "favorite": false
-    },
-    {
-      "title": "Route 22 (Summer)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/cqybecwpjv/2-39.%20Route%2022%20%28Summer%29.mp3",
-      "favorite": false
+      "title": "Route 22 (Spring - Summer)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/jimneicn/2-38.%20Route%2022%20%28Spring%20-%20Summer%29.mp3"
     },
     {
       "title": "Plasma Frigate Sortie",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/kthqlemwmv/2-40.%20Plasma%20Frigate%20Sortie.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/fpivdeof/2-39.%20Plasma%20Frigate%20Sortie.mp3"
     },
     {
       "title": "Infiltrating the Plasma Frigate!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/jwzpdfhgao/3-01.%20Infiltrating%20the%20Plasma%20Frigate%21.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/lmejjtqz/3-01.%20Infiltrating%20the%20Plasma%20Frigate%21.mp3"
     },
     {
       "title": "Battle! (Colress)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/jpjgscknsw/3-02.%20Battle%21%20%28Colress%29.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/abevnehx/3-02.%20Battle%21%20%28Colress%29.mp3"
     },
     {
       "title": "Awakening",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/qbfziowxtb/3-03.%20Awakening.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/qnsazwhv/3-03.%20Awakening.mp3"
     },
     {
       "title": "Confrontation",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/xwldlucyzh/3-04.%20Confrontation.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/jkutkuqx/3-04.%20Confrontation.mp3"
     },
     {
       "title": "Absorption",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/zdwboaiams/3-05.%20Absorption.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/qmmzkazw/3-05.%20Absorption.mp3"
     },
     {
       "title": "Fusion",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/waheroizqs/3-06.%20Fusion.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/jevpoaju/3-06.%20Fusion.mp3"
     },
     {
-      "title": "Battle! (Black Kyurem  -  White Kyurem)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/bzjomdcyca/3-07.%20Battle%21%20%28Black%20Kyurem%20%20-%20%20White%20Kyurem%29.mp3",
-      "favorite": false
+      "title": "Battle! (Black Kyurem - White Kyurem)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/xcshjzsp/3-07.%20Battle%21%20%28Black%20Kyurem%20-%20White%20Kyurem%29.mp3"
     },
     {
       "title": "Battle! (Ghetsis)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/rgdcoxatth/3-08.%20Battle%21%20%28Ghetsis%29.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/vjjtorpz/3-08.%20Battle%21%20%28Ghetsis%29.mp3"
     },
     {
       "title": "Route 23",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/hnnwaoglrt/3-09.%20Route%2023.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/blcaxkjq/3-09.%20Route%2023.mp3"
     },
     {
       "title": "N's Castle",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/vyzopqeldn/3-10.%20N%27s%20Castle.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/dqucawgr/3-10.%20N%27s%20Castle.mp3"
     },
     {
       "title": "N's Room",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/gaszzqlylj/3-11.%20N%27s%20Room.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/pzbjskwd/3-11.%20N%27s%20Room.mp3"
     },
     {
-      "title": "N",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/djadybuflw/3-12.%20N.mp3",
-      "favorite": false
+      "title": "N's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/demyecyj/3-12.%20N%27s%20Theme.mp3"
     },
     {
       "title": "Battle! (N)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/ugvhqxuakc/3-13.%20Battle%21%20%28N%29.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/dlwbqcmf/3-13.%20Battle%21%20%28N%29.mp3"
     },
     {
       "title": "Unova Link",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/yruzgbclbv/3-14.%20Unova%20Link.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/oglppdwx/3-14.%20Unova%20Link.mp3"
     },
     {
-      "title": "Xtransceiver Minigame!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/mgqegxfept/3-15.%20Xtransceiver%20Minigame%21.mp3",
-      "favorite": false
+      "title": "Xtransceiver Minigames",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/yzafzjvz/3-15.%20Xtransceiver%20Minigames.mp3"
     },
     {
       "title": "Xtransceiver - Game Start!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/jamnexcgeu/3-16.%20Xtransceiver%20-%20Game%20Start%21.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/nruxfibh/3-16.%20Xtransceiver%20-%20Game%20Start%21.mp3"
     },
     {
       "title": "Xtransceiver - Game Won!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/riqxjllngw/3-17.%20Xtransceiver%20-%20Game%20Won%21.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/hmppfegt/3-17.%20Xtransceiver%20-%20Game%20Won%21.mp3"
     },
     {
-      "title": "Xtransceiver - Winner Decided",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/seeemzojtn/3-18.%20Xtransceiver%20-%20Winner%20Decided.mp3",
-      "favorite": false
-    },
-    {
-      "title": "Route 19 (Autumn)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/kqwlohipkw/3-19.%20Route%2019%20%28Autumn%29.mp3",
-      "favorite": false
-    },
-    {
-      "title": "Route 19 (Winter)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/izrbrgjzii/3-20.%20Route%2019%20%28Winter%29.mp3",
-      "favorite": false
+      "title": "Route 19 (Winter - Autumn)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/yoyagdar/3-18.%20Route%2019%20%28Winter%20-%20Autumn%29.mp3"
     },
     {
       "title": "Cave of Being",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/snodqmemlh/3-21.%20Cave%20of%20Being.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/juvvplmb/3-19.%20Cave%20of%20Being.mp3"
     },
     {
-      "title": "Battle! (Azelf  -  Mesprit  -  Uxie)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/ljfumzisfd/3-22.%20Battle%21%20%28Azelf%20%20-%20%20Mesprit%20%20-%20%20Uxie%29.mp3",
-      "favorite": false
+      "title": "Battle! (Azelf - Mesprit - Uxie)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/xiwibimm/3-20.%20Battle%21%20%28Azelf%20-%20Mesprit%20-%20Uxie%29.mp3"
     },
     {
       "title": "Black Tower - Entrance",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/kjhkffsvpw/3-23.%20Black%20Tower%20-%20Entrance.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/yffkmekm/3-21.%20Black%20Tower%20-%20Entrance.mp3"
     },
     {
       "title": "Black Tower",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/ovwvyfdvju/3-24.%20Black%20Tower.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ekldhagd/3-22.%20Black%20Tower.mp3"
     },
     {
       "title": "White Treehollow - Entrance",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/myfzarcpsn/3-25.%20White%20Treehollow%20-%20Entrance.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ykcijuuq/3-23.%20White%20Treehollow%20-%20Entrance.mp3"
     },
     {
       "title": "White Treehollow",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/rixvebioza/3-26.%20White%20Treehollow.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ucdknloo/3-24.%20White%20Treehollow.mp3"
     },
     {
       "title": "Tympole Choir",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/ptghuxwlhp/3-27.%20Tympole%20Choir.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/cuqxocus/3-25.%20Tympole%20Choir.mp3"
     },
     {
-      "title": "Route 22 (Autumn)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/vlxesiizlf/3-28.%20Route%2022%20%28Autumn%29.mp3",
-      "favorite": false
-    },
-    {
-      "title": "Route 22 (Winter)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/gesctvkyra/3-29.%20Route%2022%20%28Winter%29.mp3",
-      "favorite": false
+      "title": "Route 22 (Winter - Autumn)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/dnegvifa/3-26.%20Route%2022%20%28Winter%20-%20Autumn%29.mp3"
     },
     {
       "title": "Pokédex Habitat List Complete!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/qnjkxzxpph/3-30.%20Pok%C3%A9dex%20Habitat%20List%20Complete%21.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/mifdasky/3-27.%20Pok%C3%A9dex%20Habitat%20List%20Complete%21.mp3"
     },
     {
       "title": "Medal Rally Complete!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/ujhzfvtbjo/3-31.%20Medal%20Rally%20Complete%21.mp3",
-      "favorite": false
-    },
-    {
-      "title": "National Pokédex Complete!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/awpxjwawav/3-32.%20National%20Pok%C3%A9dex%20Complete%21.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ljoqmpoa/3-28.%20Medal%20Rally%20Complete%21.mp3"
     },
     {
       "title": "Battle! (Champion Iris)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/qwhfssywqh/3-33.%20Battle%21%20%28Champion%20Iris%29.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ipbkxhua/3-29.%20Battle%21%20%28Champion%20Iris%29.mp3"
     },
     {
-      "title": "Ending",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/pwiulpzwmr/3-34.%20Ending.mp3",
-      "favorite": false
+      "title": "Staff Credits",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/slfsvdbz/3-30.%20Staff%20Credits.mp3"
     },
     {
       "title": "The End",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/gezvsnpjra/3-35.%20The%20End.mp3",
-      "favorite": false
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/uxfhwkmd/3-31.%20The%20End.mp3"
     },
     {
-      "title": "Route 19 (Spring) [No Drums]",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/mldfhvwjgq/4-01.%20Route%2019%20%28Spring%29%20%5BNo%20Drums%5D.mp3",
-      "favorite": false
+      "title": "Musical - Charming Munna",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/guhdrabe/3-32.%20Musical%20-%20Charming%20Munna.mp3"
     },
     {
-      "title": "Route 19 (Summer) [No Drums]",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/bxmxzuhzkx/4-02.%20Route%2019%20%28Summer%29%20%5BNo%20Drums%5D.mp3",
-      "favorite": false
+      "title": "Musical - Pokémon Party!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/sbdngphp/3-33.%20Musical%20-%20Pok%C3%A9mon%20Party%21.mp3"
     },
     {
-      "title": "Virbank City Gym (Entrance)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/cpblbiizxp/4-03.%20Virbank%20City%20Gym%20%28Entrance%29.mp3",
-      "favorite": false
+      "title": "Musical - Carnival Pokémon",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/feemumaq/3-34.%20Musical%20-%20Carnival%20Pok%C3%A9mon.mp3"
     },
     {
-      "title": "Virbank City Gym (Aircheck)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/gbhktwxghe/4-04.%20Virbank%20City%20Gym%20%28Aircheck%29.mp3",
-      "favorite": false
+      "title": "Musical - Meloettaaa!!!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/fefmtjqz/3-35.%20Musical%20-%20Meloettaaa%21%21%21.mp3"
     },
     {
-      "title": "Nimbasa City Gym - Runway (Trainer 1 Defeated)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/uosvyswtaq/4-05.%20Nimbasa%20City%20Gym%20-%20Runway%20%28Trainer%201%20Defeated%29.mp3",
-      "favorite": false
+      "title": "Pokémon World Championships Final",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/bkvvujld/3-36.%20Pok%C3%A9mon%20World%20Championships%20Final.mp3"
     },
     {
-      "title": "Nimbasa City Gym - Runway (Trainer 2 Defeated)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/yaketvexeb/4-06.%20Nimbasa%20City%20Gym%20-%20Runway%20%28Trainer%202%20Defeated%29.mp3",
-      "favorite": false
+      "title": "Relic Song",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/kopgmryt/3-37.%20Relic%20Song.mp3"
     },
     {
-      "title": "Route 22 (Spring) [No Drums]",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/mlsvvvvgtz/4-07.%20Route%2022%20%28Spring%29%20%5BNo%20Drums%5D.mp3",
-      "favorite": false
+      "title": "Title Screen (Pokémon Emerald)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/xefocvvr/4-01.%20Title%20Screen%20%28Pok%C3%A9mon%20Emerald%29.mp3"
     },
     {
-      "title": "Route 22 (Summer) [No Drums]",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/prxzcugcgz/4-08.%20Route%2022%20%28Summer%29%20%5BNo%20Drums%5D.mp3",
-      "favorite": false
+      "title": "Match Call",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/xmsbdoiz/4-02.%20Match%20Call.mp3"
     },
     {
-      "title": "N's Castle (No Crackling)",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/qbqxvihgkf/4-09.%20N%27s%20Castle%20%28No%20Crackling%29.mp3",
-      "favorite": false
+      "title": "Abnormal Weather",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/zyviafze/4-03.%20Abnormal%20Weather.mp3"
     },
     {
-      "title": "Route 19 (Autumn) [No Drums]",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/gwnwhmgnbl/4-10.%20Route%2019%20%28Autumn%29%20%5BNo%20Drums%5D.mp3",
-      "favorite": false
+      "title": "Rayquaza Appears!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/btptzqez/4-04.%20Rayquaza%20Appears%21.mp3"
     },
     {
-      "title": "Route 19 (Winter) [No Drums]",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/lguiqlirju/4-11.%20Route%2019%20%28Winter%29%20%5BNo%20Drums%5D.mp3",
-      "favorite": false
+      "title": "Battle Frontier (Hoenn Version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/jwgpgkhi/4-05.%20Battle%20Frontier%20%28Hoenn%20Version%29.mp3"
     },
     {
-      "title": "Route 22 (Autumn) [No Drums]",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/mzrmylxvjf/4-12.%20Route%2022%20%28Autumn%29%20%5BNo%20Drums%5D.mp3",
-      "favorite": false
+      "title": "Battle Tower (Hoenn Version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/rjvcxhub/4-06.%20Battle%20Tower%20%28Hoenn%20Version%29.mp3"
     },
     {
-      "title": "Route 22 (Winter) [No Drums]",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/pokemon-black-2-white-2-2012/vujowlbmjf/4-13.%20Route%2022%20%28Winter%29%20%5BNo%20Drums%5D.mp3",
-      "favorite": false
+      "title": "Battle Factory (Hoenn Version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/wgoamjjt/4-07.%20Battle%20Factory%20%28Hoenn%20Version%29.mp3"
+    },
+    {
+      "title": "Battle Arena",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/puelqyvh/4-08.%20Battle%20Arena.mp3"
+    },
+    {
+      "title": "Battle Dome",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/zadoklyl/4-09.%20Battle%20Dome.mp3"
+    },
+    {
+      "title": "Battle Pike",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ltnibjrh/4-10.%20Battle%20Pike.mp3"
+    },
+    {
+      "title": "Battle Palace",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ivelqvfr/4-11.%20Battle%20Palace.mp3"
+    },
+    {
+      "title": "Battle Pyramid",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/rkxljpwm/4-12.%20Battle%20Pyramid.mp3"
+    },
+    {
+      "title": "Battle Pyramid Summit",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/umcccepm/4-13.%20Battle%20Pyramid%20Summit.mp3"
+    },
+    {
+      "title": "Received Battle Points! (Hoenn Version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ojeukpud/4-14.%20Received%20Battle%20Points%21%20%28Hoenn%20Version%29.mp3"
+    },
+    {
+      "title": "Battle! Frontier Brain (Hoenn Version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/jipagedf/4-15.%20Battle%21%20Frontier%20Brain%20%28Hoenn%20Version%29.mp3"
+    },
+    {
+      "title": "Battle Symbol Received!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/qmoiadnf/4-16.%20Battle%20Symbol%20Received%21.mp3"
+    },
+    {
+      "title": "Battle! (Mew)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/mvrwiywk/4-17.%20Battle%21%20%28Mew%29.mp3"
+    },
+    {
+      "title": "Title Screen (Pokémon Platinum)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/nieulwak/4-18.%20Title%20Screen%20%28Pok%C3%A9mon%20Platinum%29.mp3"
+    },
+    {
+      "title": "Press Start",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/cdltmelp/4-19.%20Press%20Start.mp3"
+    },
+    {
+      "title": "Special Program - Let's Ask Prof. Rowan!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/uauwxzcr/4-20.%20Special%20Program%20-%20Let%27s%20Ask%20Prof.%20Rowan%21.mp3"
+    },
+    {
+      "title": "Looker's Theme",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/bgdygkhi/4-21.%20Looker%27s%20Theme.mp3"
+    },
+    {
+      "title": "Global Terminal",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/qghrnndd/4-22.%20Global%20Terminal.mp3"
+    },
+    {
+      "title": "Wi-Fi Plaza",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/gvkmeoda/4-23.%20Wi-Fi%20Plaza.mp3"
+    },
+    {
+      "title": "Wi-Fi Plaza - Mini-Games",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/qexzexcr/4-24.%20Wi-Fi%20Plaza%20-%20Mini-Games.mp3"
+    },
+    {
+      "title": "Cleared Wobbuffet Pop!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ckusesdn/4-25.%20Cleared%20Wobbuffet%20Pop%21.mp3"
+    },
+    {
+      "title": "Wi-Fi Plaza - Parade",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/egwlrzyu/4-26.%20Wi-Fi%20Plaza%20-%20Parade.mp3"
+    },
+    {
+      "title": "Giratina Appears!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/atrcmcbz/4-27.%20Giratina%20Appears%21.mp3"
+    },
+    {
+      "title": "Giratina Appears! Part 2",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/uxeflrbe/4-28.%20Giratina%20Appears%21%20Part%202.mp3"
+    },
+    {
+      "title": "Distortion World",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/rwhyvifz/4-29.%20Distortion%20World.mp3"
+    },
+    {
+      "title": "Battle! (Giratina)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/hlkqafyd/4-30.%20Battle%21%20%28Giratina%29.mp3"
+    },
+    {
+      "title": "Spin Trade",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/tktptxfk/4-31.%20Spin%20Trade.mp3"
+    },
+    {
+      "title": "Mystery Gift (Pokémon Platinum)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/latsilie/4-32.%20Mystery%20Gift%20%28Pok%C3%A9mon%20Platinum%29.mp3"
+    },
+    {
+      "title": "Super Contest - Cuteness",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/yfgnwwrt/4-33.%20Super%20Contest%20-%20Cuteness.mp3"
+    },
+    {
+      "title": "Super Contest - Coolness",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/vtkrdqwl/4-34.%20Super%20Contest%20-%20Coolness.mp3"
+    },
+    {
+      "title": "Super Contest - Toughness",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/njfanlps/4-35.%20Super%20Contest%20-%20Toughness.mp3"
+    },
+    {
+      "title": "Super Contest - Beauty",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/vyhqhllw/4-36.%20Super%20Contest%20-%20Beauty.mp3"
+    },
+    {
+      "title": "Super Contest - Smartness",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/xbonamjj/4-37.%20Super%20Contest%20-%20Smartness.mp3"
+    },
+    {
+      "title": "Villa Music Box - Twinleaf Tune",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/smfqnuga/4-38.%20Villa%20Music%20Box%20-%20Twinleaf%20Tune.mp3"
+    },
+    {
+      "title": "Villa Audio System - Bossa Nova Lilycove",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/hivcavaq/4-39.%20Villa%20Audio%20System%20-%20Bossa%20Nova%20Lilycove.mp3"
+    },
+    {
+      "title": "Fight Area (Battle Frontier)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ewvpoyya/4-40.%20Fight%20Area%20%28Battle%20Frontier%29.mp3"
+    },
+    {
+      "title": "Battle Arcade",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ggloibfy/4-41.%20Battle%20Arcade.mp3"
+    },
+    {
+      "title": "Received BP in the Battle Arcade!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/dvthdume/4-42.%20Received%20BP%20in%20the%20Battle%20Arcade%21.mp3"
+    },
+    {
+      "title": "Battle Hall",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/hafycqwk/4-43.%20Battle%20Hall.mp3"
+    },
+    {
+      "title": "Battle Factory (Sinnoh Version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/mcelupqk/4-44.%20Battle%20Factory%20%28Sinnoh%20Version%29.mp3"
+    },
+    {
+      "title": "Battle Castle",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/ayqisreu/4-45.%20Battle%20Castle.mp3"
+    },
+    {
+      "title": "Received Castle Points!",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/lvwxvjla/4-46.%20Received%20Castle%20Points%21.mp3"
+    },
+    {
+      "title": "Received Battle Points! (Sinnoh Version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/vdemvtgz/4-47.%20Received%20Battle%20Points%21%20%28Sinnoh%20Version%29.mp3"
+    },
+    {
+      "title": "Battle! (Frontier Brain—Sinnoh Version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/dvrypfiy/4-48.%20Battle%21%20%28Frontier%20Brain%E2%80%94Sinnoh%20Version%29.mp3"
+    },
+    {
+      "title": "Victory! (Frontier Brain—Sinnoh Version)",
+      "src": "https://jetta.vgmtreasurechest.com/soundtracks/pokemon-black-and-white-2-super-music-collection/tzqdwvpl/4-49.%20Victory%21%20%28Frontier%20Brain%E2%80%94Sinnoh%20Version%29.mp3"
     }
   ]
 }

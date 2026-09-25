@@ -75,7 +75,7 @@
             { "title": "Pokemon: Platinum", "id": "platinum" },
             { "title": "Pokemon: HeartGold and SoulSilver", "id": "heartGoldSoulSilver"},
             { "title": "Pokemon: Black & White", "id": "blackWhite" },
-            { "title": "Pokemon: Black 2 & White 2", "id": "blackWhite2", "status": "broken" },
+            { "title": "Pokemon: Black 2 & White 2", "id": "blackWhite2" },
             { "title": "Mario Kart DS", "id": "marioKartDS", "status": "broken" },
             { "title": "Mario Party DS", "id": "marioPartyDS" },
             { "title": "Animal Crossing: Wild World", "id": "animalCrossingWildWorld" },
