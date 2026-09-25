@@ -2,337 +2,338 @@
   "meta": {
     "game_title": "Mario Party DS",
     "art": "https://mario.wiki.gallery/images/c/c4/MPDSNA.jpg",
-    "desc": "November 19th, 2007"
+    "desc": "November 19th, 2007",
+    "source": "https://downloads.khinsider.com/game-soundtracks/album/mario-party-double-screen-ds-wii-u-gamerip-2007"
   },
   "songs": [
     {
       "title": "One Dark Night",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/yahkbepp/01.%20One%20Dark%20Night.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/yahkbepp/04.%20One%20Dark%20Night.mp3",
       "favorite": false
     },
     {
       "title": "What's That Light",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/cuqstnkn/02.%20What%27s%20That%20Light.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/cuqstnkn/05.%20What%27s%20That%20Light%3F.mp3",
       "favorite": false
     },
     {
       "title": "Here's Bowser!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/kjrhljkx/03.%20Here%27s%20Bowser%21.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/kjrhljkx/06.%20Here%27s%20Bowser%21.mp3",
       "favorite": false
     },
     {
       "title": "Back To Bowser",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/iabhfeek/04.%20Back%20To%20Bowser.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/iabhfeek/07.%20Back%20to%20Bowser.mp3",
       "favorite": false
     },
     {
       "title": "Go For It, Superstar",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/pqlgaimn/05.%20Go%20For%20It%2C%20Superstar.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/pqlgaimn/09.%20Go%20For%20It%2C%20Superstar.mp3",
       "favorite": false
     },
     {
       "title": "The Adventure Begins",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/cyllwalg/06.%20The%20Adventure%20Begins.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/cyllwalg/10.%20The%20Adventure%20Begins.mp3",
       "favorite": false
     },
     {
       "title": "Where's That Star",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/wogmsabf/07.%20Where%27s%20That%20Star.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/wogmsabf/11.%20Where%27s%20That%20Star.mp3",
       "favorite": false
     },
     {
       "title": "How To Play",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/xvlsileq/08.%20How%20To%20Play.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/xvlsileq/12.%20How%20to%20Play.mp3",
       "favorite": false
     },
     {
       "title": "Wiggler's Garden Pest",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/pbmiexze/09.%20Wiggler%27s%20Garden%20Pest.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/pbmiexze/08.%20Wiggler%27s%20Garden%20Pest.mp3",
       "favorite": false
     },
     {
       "title": "Wiggler's Garden",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/zhmoiyss/10.%20Wiggler%27s%20Garden.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/zhmoiyss/13.%20Wiggler%27s%20Garden.mp3",
       "favorite": false
     },
     {
       "title": "Toadette's Request",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/mhxsvbsn/11.%20Toadette%27s%20Request.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/mhxsvbsn/14.%20Toadette%27s%20Request.mp3",
       "favorite": false
     },
     {
       "title": "Toadette's Music Room",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/icmfmwxx/12.%20Toadette%27s%20Music%20Room.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/icmfmwxx/15.%20Toadette%27s%20Music%20Room.mp3",
       "favorite": false
     },
     {
       "title": "Diddy Needs Help",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/uhahjyqi/13.%20Diddy%20Needs%20Help.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/uhahjyqi/16.%20Diddy%20Needs%20Help.mp3",
       "favorite": false
     },
     {
       "title": "DK's Stone Statue",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/uyiuyjab/14.%20DK%27s%20Stone%20Statue.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/uyiuyjab/17.%20DK%27s%20Stone%20Statue.mp3",
       "favorite": false
     },
     {
       "title": "Down With Kamek",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/dplolmbu/15.%20Down%20With%20Kamek.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/dplolmbu/18.%20Down%20With%20Kamek.mp3",
       "favorite": false
     },
     {
       "title": "Kamek's Library",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/xbosvyhr/16.%20Kamek%27s%20Library.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/xbosvyhr/19.%20Kamek%27s%20Library.mp3",
       "favorite": false
     },
     {
       "title": "Showdown With Bowser",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/mjldjjsk/17.%20Showdown%20With%20Bowser.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/mjldjjsk/20.%20Showdown%20With%20Bowser.mp3",
       "favorite": false
     },
     {
       "title": "Bowser's Pinball Machine",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/zrisosuv/18.%20Bowser%27s%20Pinball%20Machine.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/zrisosuv/21.%20Bowser%27s%20Pinball%20Machine.mp3",
       "favorite": false
     },
     {
       "title": "Bowser Time!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/thfehywl/19.%20Bowser%20Time%21.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/thfehywl/22.%20Bowser%20Time%21.mp3",
       "favorite": false
     },
     {
       "title": "Final 5 Frenzy",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/onxzfbtn/20.%20Final%205%20Frenzy.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/onxzfbtn/23.%20Final%205%20Frenzy.mp3",
       "favorite": false
     },
     {
       "title": "Good Job, Everyone",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/jfyezlep/21.%20Good%20Job%2C%20Everyone.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/jfyezlep/24.%20Good%20Job%2C%20Everyone.mp3",
       "favorite": false
     },
     {
       "title": "Lucky Seven",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/kildluol/22.%20Lucky%20Seven.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/kildluol/25.%20Lucky%20Seven.mp3",
       "favorite": false
     },
     {
       "title": "The Numbers Match",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/pphowtft/23.%20The%20Numbers%20Match.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/pphowtft/26.%20The%20Numbers%20Match.mp3",
       "favorite": false
     },
     {
       "title": "You Got A Star",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/cfwqnruz/24.%20You%20Got%20A%20Star.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/cfwqnruz/27.%20You%20Got%20A%20Star.mp3",
       "favorite": false
     },
     {
       "title": "Who Needs A Star!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/nqspvlrz/25.%20Who%20Needs%20A%20Star%21.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/nqspvlrz/28.%20Who%20Needs%20a%20Star%21%3F.mp3",
       "favorite": false
     },
     {
       "title": "Beat Him Down",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/zwklbzsr/26.%20Beat%20Him%20Down.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/zwklbzsr/29.%20Beat%20Him%20Down.mp3",
       "favorite": false
     },
     {
       "title": "You Got A Minigame",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/cokjskyn/27.%20You%20Got%20A%20Minigame.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/cokjskyn/30.%20You%20Got%20a%20Minigame.mp3",
       "favorite": false
     },
     {
       "title": "Until Next Time",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/sysqafak/28.%20Until%20Next%20Time.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/sysqafak/31.%20Until%20Next%20Time.mp3",
       "favorite": false
     },
     {
       "title": "Tips For Success",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/bayqlfvl/29.%20Tips%20For%20Success.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/bayqlfvl/32.%20Tips%20For%20Success.mp3",
       "favorite": false
     },
     {
       "title": "Into The Fairy Tale",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/sfycoqml/30.%20Into%20The%20Fairy%20Tale.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/sfycoqml/33.%20Into%20the%20Fairy%20Tale.mp3",
       "favorite": false
     },
     {
       "title": "Play Nicely, Everyone",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/vsdnehxs/31.%20Play%20Nicely%2C%20Everyone.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/vsdnehxs/34.%20Play%20Nicely%2C%20Everyone.mp3",
       "favorite": false
     },
     {
       "title": "Fresh As Mint",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/tsjpzzbh/32.%20Fresh%20As%20Mint.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/tsjpzzbh/35.%20Fresh%20as%20Mint.mp3",
       "favorite": false
     },
     {
       "title": "The Pressure's On",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/iuyhpeda/33.%20The%20Pressure%27s%20On.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/iuyhpeda/36.%20The%20Pressure%27s%20On.mp3",
       "favorite": false
     },
     {
       "title": "Get Into It",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/vaqainpj/34.%20Get%20Into%20It.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/vaqainpj/37.%20Get%20Into%20It.mp3",
       "favorite": false
     },
     {
       "title": "Bouncing Around",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/eqttqvem/35.%20Bouncing%20Around.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/eqttqvem/38.%20Bouncing%20Around.mp3",
       "favorite": false
     },
     {
       "title": "They're Neck & Neck",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/upozfflo/36.%20They%27re%20Neck%20%26%20Neck.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/upozfflo/39.%20They%27re%20Neck%20%26%20Neck.mp3",
       "favorite": false
     },
     {
       "title": "Contemplation",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/nunekjsj/37.%20Contemplation.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/nunekjsj/40.%20Contemplation.mp3",
       "favorite": false
     },
     {
       "title": "Another Crazy Match",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/tqzbfaiq/38.%20Another%20Crazy%20Match.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/tqzbfaiq/41.%20Another%20Crazy%20Match.mp3",
       "favorite": false
     },
     {
       "title": "Boss Battle",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/gjchgkfw/39.%20Boss%20Battle.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/gjchgkfw/42.%20Boss%20Battle.mp3",
       "favorite": false
     },
     {
       "title": "Think It Out",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/sxkgctkv/40.%20Think%20It%20Out.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/sxkgctkv/43.%20Think%20It%20Out.mp3",
       "favorite": false
     },
     {
       "title": "What's This Song",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/wxwsvddf/41.%20What%27s%20This%20Song.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/wxwsvddf/44.%20What%27s%20This%20Song.mp3",
       "favorite": false
     },
     {
       "title": "Strike A Pose!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/svcasnls/42.%20Strike%20A%20Pose%21.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/svcasnls/45.%20Strike%20a%20Pose%21.mp3",
       "favorite": false
     },
     {
       "title": "Ahhhhh!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/esazyrqd/43.%20Ahhhhh%21.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/esazyrqd/46.%20Ahhhhh%21.mp3",
       "favorite": false
     },
     {
       "title": "Easy Victory!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/tktmfrsl/44.%20Easy%20Victory%21.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/tktmfrsl/47.%20Easy%20Victory%21.mp3",
       "favorite": false
     },
     {
       "title": "How Could I Lose",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/emwxyzbi/45.%20How%20Could%20I%20Lose.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/emwxyzbi/48.%20How%20Could%20I%20Lose.mp3",
       "favorite": false
     },
     {
       "title": "A Draw",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/npmqtwzk/46.%20A%20Draw.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/npmqtwzk/49.%20A%20Draw.mp3",
       "favorite": false
     },
     {
       "title": "No Way! New Record",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/chexzhlj/47.%20No%20Way%21%20New%20Record.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/chexzhlj/50.%20No%20Way%21%20New%20Record.mp3",
       "favorite": false
     },
     {
       "title": "Who Came Out On Top",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/oswczoyy/48.%20Who%20Came%20Out%20On%20Top.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/oswczoyy/51.%20Who%20Came%20Out%20On%20Top.mp3",
       "favorite": false
     },
     {
       "title": "Take Down The Boss",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/xrqexzfd/49.%20Take%20Down%20The%20Boss.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/xrqexzfd/52.%20Take%20Down%20The%20Boss.mp3",
       "favorite": false
     },
     {
       "title": "You Beat Bowser",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/cdgwogpe/50.%20You%20Beat%20Bowser.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/cdgwogpe/53.%20You%20Beat%20Bowser.mp3",
       "favorite": false
     },
     {
       "title": "Duel OK, It's On!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/eibjotdj/51.%20Duel%20OK%2C%20It%27s%20On%21.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/eibjotdj/54.%20Duel%20OK%2C%20It%27s%20On%21.mp3",
       "favorite": false
     },
     {
       "title": "First Or Last",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/lceogqlf/52.%20First%20Or%20Last.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/lceogqlf/55.%20First%20or%20Last.mp3",
       "favorite": false
     },
     {
       "title": "The Duel Is On!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/vlsgecxi/53.%20The%20Duel%20Is%20On%21.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/vlsgecxi/56.%20The%20Duel%20is%20On%21.mp3",
       "favorite": false
     },
     {
       "title": "Desert Duel",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/yqlhbnkn/54.%20Desert%20Duel.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/yqlhbnkn/57.%20Desert%20Duel.mp3",
       "favorite": false
     },
     {
       "title": "Who Goes When",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/icmbwdbz/55.%20Who%20Goes%20When.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/icmbwdbz/58.%20Who%20Goes%20When.mp3",
       "favorite": false
     },
     {
       "title": "Teamwork Is Key!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/rjvczqgg/56.%20Teamwork%20Is%20Key%21.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/rjvczqgg/59.%20Teamwork%20Is%20Key%21.mp3",
       "favorite": false
     },
     {
       "title": "Caught",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/ozffklyl/57.%20Caught.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/ozffklyl/60.%20Caught.mp3",
       "favorite": false
     },
     {
       "title": "Who's The Victor",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/hfcuupob/58.%20Who%27s%20The%20Victor.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/hfcuupob/61.%20Who%27s%20the%20Victor%3F.mp3",
       "favorite": false
     },
     {
       "title": "The Rocket Is Mine",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/qwodatrb/59.%20The%20Rocket%20Is%20Mine.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/qwodatrb/62.%20The%20Rocket%20is%20Mine.mp3",
       "favorite": false
     },
     {
       "title": "Who's The Champ",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/fakynujm/60.%20Who%27s%20The%20Champ.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/fakynujm/63.%20Who%27s%20The%20Champ.mp3",
       "favorite": false
     },
     {
       "title": "Out-Of-Reach Rocket",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/jjslbxlo/61.%20Out-Of-Reach%20Rocket.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/jjslbxlo/64.%20Out-Of-Reach%20Rocket.mp3",
       "favorite": false
     },
     {
       "title": "Who's The Superstar",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/jfzgiwhy/62.%20Who%27s%20The%20Superstar.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/jfzgiwhy/65.%20Who%27s%20The%20Superstar.mp3",
       "favorite": false
     },
     {
       "title": "Congrats, Superstar!",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/wlsdolmd/63.%20Congrats%2C%20Superstar%21.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/wlsdolmd/66.%20Congrats%2C%20Superstar%21.mp3",
       "favorite": false
     },
     {
       "title": "Grand Opening",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/gxqoujjv/64.%20Grand%20Opening.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/gxqoujjv/01.%20Grand%20Opening.mp3",
       "favorite": false
     },
     {
       "title": "Play Which Mode",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/aosynvoh/65.%20Play%20Which%20Mode.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/aosynvoh/02.%20Play%20Which%20Mode.mp3",
       "favorite": false
     },
     {
       "title": "The Story Begins",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/twehuemv/66.%20The%20Story%20Begins.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/twehuemv/03.%20The%20Story%20Begins.mp3",
       "favorite": false
     },
     {
@@ -387,7 +388,7 @@
     },
     {
       "title": "Thanks A Lot",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/kfxuhewv/77.%20Thanks%20A%20Lot.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/mario-party-double-screen-ds-wii-u-gamerip-2007/kfxuhewv/77.%20Thanks%20a%20Lot.mp3",
       "favorite": false
     },
     {

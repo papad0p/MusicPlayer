@@ -2,12 +2,13 @@
   "meta": {
     "game_title": "Mario Kart: Double Dash!!",
     "art": "https://mario.wiki.gallery/images/7/70/Mario_Kart_Double_Dash%21%21.jpg",
-    "desc": "November 7, 2003"
+    "desc": "November 7, 2003",
+    "source": "https://downloads.khinsider.com/game-soundtracks/album/mario-kart-double-dash"
   },
   "songs": [
     {
       "title": "Intro Movie",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/dolmasop/01.%20Intro%20Movie.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/gxuxoafzda/01.%20Intro%20Movie.mp3",
       "favorite": false
     },
     {
@@ -32,7 +33,7 @@
     },
     {
       "title": "Luigi Circuit - Mario Circuit - Yoshi Circuit",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/grqdtijw/06.%20Luigi%20Circuit%20-%20Mario%20Circuit%20-%20Yoshi%20Circuit.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/axadxzadtq/08.%20Luigi%20Circuit%2C%20Mario%20Circuit%2C%20Yoshi%20Circuit.mp3",
       "favorite": false
     },
     {
@@ -42,7 +43,7 @@
     },
     {
       "title": "Luigi Circuit - Mario Circuit - Yoshi Circuit (Final Lap)",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/kcgbnknk/08.%20Luigi%20Circuit%20-%20Mario%20Circuit%20-%20Yoshi%20Circuit%20%28Final%20Lap%29.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/suquaalmge/12.%20Luigi%20Circuit%2C%20Mario%20Circuit%2C%20Yoshi%20Circuit%20%28Final%20Lap%29.mp3",
       "favorite": false
     },
     {
@@ -52,7 +53,7 @@
     },
     {
       "title": "Peach Beach - Daisy Cruiser",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/yrotazst/10.%20Peach%20Beach%20-%20Daisy%20Cruiser.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/tlowaqhvai/17.%20Peach%20Beach%2C%20Daisy%20Cruiser.mp3",
       "favorite": false
     },
     {
@@ -62,7 +63,7 @@
     },
     {
       "title": "Peach Beach - Daisy Cruiser (Final Lap)",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/viexaiov/12.%20Peach%20Beach%20-%20Daisy%20Cruiser%20%28Final%20Lap%29.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/axkorqmces/19.%20Peach%20Beach%2C%20Daisy%20Cruiser%20%28Final%20Lap%29.mp3",
       "favorite": false
     },
     {
@@ -72,7 +73,7 @@
     },
     {
       "title": "Baby Park",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/bfwrxjdq/14.%20Baby%20Park.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/evwgrabksr/21.%20Baby%20Park.mp3",
       "favorite": false
     },
     {
@@ -82,7 +83,7 @@
     },
     {
       "title": "Baby Park (Final Lap)",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/sosvygmr/16.%20Baby%20Park%20%28Final%20Lap%29.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/qwscvcloro/23.%20Baby%20Park%20%28Final%20Lap%29.mp3",
       "favorite": false
     },
     {
@@ -92,7 +93,7 @@
     },
     {
       "title": "Dry Dry Desert",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/zqcoqjzu/18.%20Dry%20Dry%20Desert.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/mhzwatkzqr/25.%20Dry%20Dry%20Desert.mp3",
       "favorite": false
     },
     {
@@ -102,7 +103,7 @@
     },
     {
       "title": "Dry Dry Desert (Final Lap)",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/cqxqlhbm/20.%20Dry%20Dry%20Desert%20%28Final%20Lap%29.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/mylwmxyrnx/27.%20Dry%20Dry%20Desert%20%28Final%20Lap%29.mp3",
       "favorite": false
     },
     {
@@ -112,7 +113,7 @@
     },
     {
       "title": "Mushroom Bridge - Mushroom City",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/ojdomrzu/22.%20Mushroom%20Bridge%20-%20Mushroom%20City.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/jjqzfoaagi/32.%20Mushroom%20Bridge%2C%20Mushroom%20City.mp3",
       "favorite": false
     },
     {
@@ -122,7 +123,7 @@
     },
     {
       "title": "Mushroom Bridge - Mushroom City (Final Lap)",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/wzhnujnl/24.%20Mushroom%20Bridge%20-%20Mushroom%20City%20%28Final%20Lap%29.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/ojvogsndnh/34.%20Mushroom%20Bridge%2C%20Mushroom%20City%20%28Final%20Lap%29.mp3",
       "favorite": false
     },
     {
@@ -132,7 +133,7 @@
     },
     {
       "title": "Waluigi Stadium - Wario Colosseum",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/ystonalf/26.%20Waluigi%20Stadium%20-%20Wario%20Colosseum.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/zhuicudfta/36.%20Waluigi%20Stadium%2C%20Wario%20Colosseum.mp3",
       "favorite": false
     },
     {
@@ -142,7 +143,7 @@
     },
     {
       "title": "Waluigi Stadium - Wario Colosseum (Final Lap)",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/nkomrack/28.%20Waluigi%20Stadium%20-%20Wario%20Colosseum%20%28Final%20Lap%29.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/bbreuhqwny/38.%20Waluigi%20Stadium%2C%20Wario%20Colosseum%20%28Final%20Lap%29.mp3",
       "favorite": false
     },
     {
@@ -152,7 +153,7 @@
     },
     {
       "title": "Sherbet Land",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/iowrrjuu/30.%20Sherbet%20Land.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/yjbyxxlmqb/40.%20Sherbet%20Land.mp3",
       "favorite": false
     },
     {
@@ -162,7 +163,7 @@
     },
     {
       "title": "Sherbet Land (Final Lap)",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/vsabdmaq/32.%20Sherbet%20Land%20%28Final%20Lap%29.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/odavpxkgpf/42.%20Sherbet%20Land%20%28Final%20Lap%29.mp3",
       "favorite": false
     },
     {
@@ -172,7 +173,7 @@
     },
     {
       "title": "DK Mountain - Dino Dino Jungle",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/xzgfizad/34.%20DK%20Mountain%20-%20Dino%20Dino%20Jungle.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/ershulanim/44.%20DK%20Mountain%2C%20Dino%20Dino%20Jungle.mp3",
       "favorite": false
     },
     {
@@ -182,7 +183,7 @@
     },
     {
       "title": "DK Mountain - Dino Dino Jungle (Final Lap)",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/nruzmkrb/36.%20DK%20Mountain%20-%20Dino%20Dino%20Jungle%20%28Final%20Lap%29.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/ugfjparaaf/46.%20DK%20Mountain%2C%20Dino%20Dino%20Jungle%20%28Final%20Lap%29.mp3",
       "favorite": false
     },
     {
@@ -212,7 +213,7 @@
     },
     {
       "title": "Rainbow Road",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/fncuulyh/42.%20Rainbow%20Road.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/lwguqmkmgd/52.%20Rainbow%20Road.mp3",
       "favorite": false
     },
     {
@@ -222,7 +223,7 @@
     },
     {
       "title": "Rainbow Road (Final Lap)",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/edfsvzns/44.%20Rainbow%20Road%20%28Final%20Lap%29.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/diabxtcjon/54.%20Rainbow%20Road%20%28Final%20Lap%29.mp3",
       "favorite": false
     },
     {
@@ -237,12 +238,12 @@
     },
     {
       "title": "Chain Chomp",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/ajskzpak/47.%20Chain%20Chomp.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/rkjjyiycpo/04.%20Chain%20Chomp.mp3",
       "favorite": false
     },
     {
       "title": "Final Lap",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/rowofkjr/48.%20Final%20Lap.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/jpkmaefgic/10.%20Final%20Lap.mp3",
       "favorite": false
     },
     {
@@ -277,7 +278,7 @@
     },
     {
       "title": "Reward",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/pfibijxl/55.%20Reward.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/prnrweetss/31.%20Reward.mp3",
       "favorite": false
     },
     {
@@ -287,12 +288,12 @@
     },
     {
       "title": "Start Grid Fanfare (Battle)",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/hailjkzr/57.%20Start%20Grid%20Fanfare%20%28Battle%29.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/ehylzbnwgx/59.%20Start%20Grid%20Fanfare%20%28Battle%29.mp3",
       "favorite": false
     },
     {
       "title": "Balloon Battle",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/jvbwbtop/58.%20Balloon%20Battle.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/pvijnofyox/60.%20Balloon%20Battle.mp3",
       "favorite": false
     },
     {
@@ -302,7 +303,7 @@
     },
     {
       "title": "Shine Thief",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/adquylhe/60.%20Shine%20Thief.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/mypnmuaygl/62.%20Shine%20Thief.mp3",
       "favorite": false
     },
     {
@@ -312,7 +313,7 @@
     },
     {
       "title": "Shine Thief - Shine Stolen",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/spzadsbd/62.%20Shine%20Thief%20-%20Shine%20Stolen.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/ylnuizdcoe/64.%20Shine%20Thief%20-%20Shine%20Stolen.mp3",
       "favorite": false
     },
     {
@@ -322,7 +323,7 @@
     },
     {
       "title": "Tilt-A-Kart",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/smguhzbl/64.%20Tilt-A-Kart.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/ivpnmivwpd/66.%20Tilt-A-Kart.mp3",
       "favorite": false
     },
     {
@@ -342,12 +343,12 @@
     },
     {
       "title": "New Time Trial Record",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/uaqfbusd/68.%20New%20Time%20Trial%20Record.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/bfruivhrpk/70.%20New%20Time%20Trial%20Record.mp3",
       "favorite": false
     },
     {
       "title": "No Time Trial Record",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/okhfgqkb/69.%20No%20Time%20Trial%20Record.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/mario-kart-double-dash/mmxriccwed/71.%20No%20Time%20Trial%20Record.mp3",
       "favorite": false
     },
     {
