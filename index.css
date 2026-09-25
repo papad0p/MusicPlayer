@@ -28,7 +28,7 @@ ul {
     margin-bottom: 4em;
     padding: 1em;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 img {
@@ -37,6 +37,7 @@ img {
     border-radius: 5px;
     justify-self: center;
     align-self: center;
+    
 }
 
 #warning {
@@ -137,6 +138,9 @@ footer {
 }
 
 @media (max-width: 780px) {
+    ul {
+        grid-template-columns: 1fr 1fr;
+    }
     li {
         padding: 1.2em 1em;
     }
