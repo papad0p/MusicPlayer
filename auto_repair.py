@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import difflib
 import json
 import re
 import sys
@@ -19,39 +20,58 @@ from curl_cffi import requests
 PLAYLIST_DIR = Path("playlists")
 ALBUM_BASE = "https://downloads.khinsider.com/game-soundtracks/album/"
 GOOD_STATUSES = {200, 206}
+RETRY_STATUSES = {403, 429, 500, 502, 503, 504}
+IMPERSONATIONS = ("chrome", "safari", "firefox")
 
 
-def fetch(url: str, *, method: str = "GET", stream: bool = False):
-    return requests.request(
-        method,
-        url,
-        impersonate="chrome",
-        allow_redirects=True,
-        timeout=25,
-        stream=stream,
-        headers={"Range": "bytes=0-0"} if method == "GET" and stream else None,
-    )
+def fetch(
+    url: str,
+    *,
+    method: str = "GET",
+    stream: bool = False,
+    byte_range: str | None = None,
+):
+    last_response = None
+    for attempt, impersonation in enumerate(IMPERSONATIONS):
+        response = requests.request(
+            method,
+            url,
+            impersonate=impersonation,
+            allow_redirects=True,
+            timeout=30,
+            stream=stream,
+            headers={"Range": byte_range} if byte_range else None,
+        )
+        last_response = response
+        if response.status_code not in RETRY_STATUSES:
+            return response
+        response.close()
+        time.sleep(2 ** attempt)
+    return last_response
 
 
 def url_works(url: str) -> bool:
-    """Prefer a cheap HEAD request and fall back to a one-byte GET."""
+    """Verify that a URL returns MP3 bytes, not merely an HTTP 200 page."""
     if not url:
         return False
 
     try:
-        response = fetch(url, method="HEAD")
-        if response.status_code in GOOD_STATUSES:
-            return True
-        if response.status_code not in {403, 405}:
+        response = fetch(url, stream=True, byte_range="bytes=0-4095")
+        if response.status_code not in GOOD_STATUSES:
+            response.close()
             return False
-    except Exception:
-        pass
-
-    try:
-        response = fetch(url, stream=True)
-        works = response.status_code in GOOD_STATUSES
+        first_bytes = next(response.iter_content(chunk_size=4096), b"")
+        content_type = response.headers.get("content-type", "").casefold()
         response.close()
-        return works
+        has_id3 = first_bytes.startswith(b"ID3")
+        has_mp3_frame = any(
+            first_bytes[index] == 0xFF and first_bytes[index + 1] & 0xE0 == 0xE0
+            for index in range(max(0, len(first_bytes) - 1))
+        )
+        looks_like_html = first_bytes.lstrip().lower().startswith((b"<!doctype", b"<html"))
+        return not looks_like_html and (
+            has_id3 or has_mp3_frame or ("audio/" in content_type and bool(first_bytes))
+        )
     except Exception:
         return False
 
@@ -94,6 +114,32 @@ def album_song_pages(album_url: str) -> list[tuple[str, str]]:
     return result
 
 
+def comparable_title(value: str) -> str:
+    """Normalize common source-site renames without changing song meaning."""
+    value = normalized_title(value)
+    value = re.sub(r"\blightning\b", "hit by lightning", value)
+    value = re.sub(r"\btime trials?\b", "ta vs", value)
+    value = re.sub(r"\brace\b", "gp", value)
+    value = re.sub(r"\s+", " ", value).strip()
+    common_renames = {
+        "title screen": "main theme",
+        "main menu": "menu",
+        "super star": "star invincibility",
+        "course intro fanfare gp": "course fanfare gp",
+        "course intro fanfare battle": "course fanfare battle",
+        "bowser s castle luigi s mansion": "bowser s castle",
+        "1st place results": "goal 1st",
+        "2nd 4th place results": "goal 2nd 4th",
+        "5th 8th place results": "goal 5th 8th",
+        "losing results": "no trophy for you",
+        "award ceremony": "you got a trophy",
+        "battle results": "battle end",
+        "staff credits": "staff roll",
+        "staff credits 2": "staff roll pal50",
+    }
+    return common_renames.get(value, value)
+
+
 def direct_mp3(song_page_url: str) -> str | None:
     response = fetch(song_page_url)
     response.raise_for_status()
@@ -106,10 +152,25 @@ def direct_mp3(song_page_url: str) -> str | None:
 
 
 def find_song_page(title: str, song_pages: list[tuple[str, str]]) -> str | None:
-    wanted = normalized_title(title)
-    exact = [url for candidate, url in song_pages if normalized_title(candidate) == wanted]
+    wanted = comparable_title(title)
+    unique_pages = list(dict.fromkeys(song_pages))
+    exact = [url for candidate, url in unique_pages if comparable_title(candidate) == wanted]
     if len(exact) == 1:
         return exact[0]
+
+    scored = sorted(
+        (
+            difflib.SequenceMatcher(None, wanted, comparable_title(candidate)).ratio(),
+            url,
+        )
+        for candidate, url in unique_pages
+    )
+    if not scored:
+        return None
+    best_score, best_url = scored[-1]
+    second_score = scored[-2][0] if len(scored) > 1 else 0
+    if best_score >= 0.88 and best_score - second_score >= 0.04:
+        return best_url
     return None
 
 
