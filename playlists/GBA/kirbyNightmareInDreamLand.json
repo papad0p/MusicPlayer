@@ -2,7 +2,8 @@
   "meta": {
     "game_title": "Kirby: Nightmare in Dream Land",
     "art": "https://upload.wikimedia.org/wikipedia/en/f/fc/KirbyNightmareInDreamlandUSCover.jpg",
-    "desc": "October 25, 2002"
+    "desc": "October 25, 2002",
+    "source": "https://downloads.khinsider.com/game-soundtracks/album/kirby-nightmare-in-dreamland"
   },
   "songs": [
     {
@@ -162,7 +163,7 @@
     },
     {
       "title": "Fountain of Dreams",
-      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-nightmare-in-dreamland/gviewvmz/32%20Fountain%20of%20Dreams.mp3",
+      "src": "https://lambda.vgmtreasurechest.com/soundtracks/kirby-nightmare-in-dreamland/gviewvmz/32.%20The%20Fountain%20of%20Dreams.mp3",
       "favorite": false
     },
     {
