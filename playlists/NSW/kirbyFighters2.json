@@ -2,7 +2,8 @@
   "meta": {
     "game_title": "Kirby Fighters 2",
     "art": "https://cdn.wikirby.com/8/8f/KF2_Cover_art.jpg",
-    "desc": "September 23, 2020"
+    "desc": "September 23, 2020",
+    "source": "https://downloads.khinsider.com/game-soundtracks/album/kirby-fighters-2-gamerip"
   },
   "songs": [
     {
@@ -182,7 +183,7 @@
     },
     {
       "title": "Battle Intro (VS. King Dedede & Meta Knight)",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-fighters-2-gamerip/cfrtskuu/1-36.%20Battle%20Intro%20%28VS.%20King%20Dedede%20%26%20Meta%20Knight%29.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-fighters-2-gamerip/cfrtskuu/1-36.%20Battle%20Intro%20%28King%20Dedede%20%26%20Meta%20Knight%29.mp3",
       "favorite": false
     },
     {
@@ -192,7 +193,7 @@
     },
     {
       "title": "Battle Intro (VS. Shadow Kirby (Chapter 4))",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-fighters-2-gamerip/vuktnhyv/1-38.%20Battle%20Intro%20%28VS.%20Shadow%20Kirby%20%28Chapter%204%29%29.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-fighters-2-gamerip/vuktnhyv/1-38.%20Battle%20Intro%20%28Shadow%20Kirby%20%28Chapter%204%29%29.mp3",
       "favorite": false
     },
     {
@@ -222,7 +223,7 @@
     },
     {
       "title": "Battle Intro (VS. Shadow Kirby (Final Chapter))",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-fighters-2-gamerip/bimjlcep/1-44.%20Battle%20Intro%20%28VS.%20Shadow%20Kirby%20%28Final%20Chapter%29%29.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-fighters-2-gamerip/bimjlcep/1-44.%20Battle%20Intro%20%28Shadow%20Kirby%20%28Final%20Chapter%29%29.mp3",
       "favorite": false
     },
     {
@@ -237,7 +238,7 @@
     },
     {
       "title": "Battle Intro (Final Chapter)",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-fighters-2-gamerip/rxmscgcs/1-47.%20Battle%20Intro%20%28Final%20Chapter%29.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-fighters-2-gamerip/wruyhpfh/1-42.%20Battle%20Intro%20%28Final%20Chapter%29.mp3",
       "favorite": false
     },
     {

@@ -2,7 +2,8 @@
   "meta": {
     "game_title": "Pokémon: Brilliant Diamond & Shining Pearl",
     "art": "https://upload.wikimedia.org/wikipedia/en/3/3e/Pokemon_Brilliant_Diamond_Shining_Pearl.png",
-    "desc": "November 19, 2021"
+    "desc": "November 19, 2021",
+    "source": "https://downloads.khinsider.com/game-soundtracks/album/pokemon-brilliant-diamond-shining-pearl-gamerip"
   },
   "songs": [
     {
@@ -432,7 +433,7 @@
     },
     {
       "title": "GTS",
-      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/sldgyxsx/2-08.%20GTS.mp3",
+      "src": "https://vgmtreasurechest.com/soundtracks/pokemon-brilliant-diamond-shining-pearl-gamerip/rvblhxbjox/1-33%20GTS.mp3",
       "favorite": false
     },
     {
