@@ -2,12 +2,13 @@
   "meta": {
     "game_title": "Kirby: Canvas Curse",
     "art": "https://upload.wikimedia.org/wikipedia/en/9/9f/Kirby_Canvas_Curse_Game_Cover.jpg",
-    "desc": "March 24, 2005"
+    "desc": "March 24, 2005",
+    "source": "https://downloads.khinsider.com/game-soundtracks/album/kirby-canvas-curse"
   },
   "songs": [
     {
       "title": "Opening",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/fajsnmvt/01.%20Opening.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/ntcbzuhhcm/1.%20Opening.mp3",
       "favorite": false
     },
     {
@@ -147,7 +148,7 @@
     },
     {
       "title": "Drawcia Demo",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/ympoajtr/29.%20Drawcia%20Demo.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/qvshwubxzn/41.%20Drawcia%20Demo.mp3",
       "favorite": false
     },
     {
@@ -197,7 +198,7 @@
     },
     {
       "title": "The World of Drawcia",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/neibkwdb/39.%20The%20World%20of%20Drawcia.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/yjaqnzecvf/25.%20The%20World%20of%20Drawcia.mp3",
       "favorite": false
     },
     {
@@ -207,7 +208,7 @@
     },
     {
       "title": "vs. Drawcia Soul",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/ivdgwofh/41.%20vs.%20Drawcia%20Soul.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/lreaqwiphe/43.%20Drawcia%20Soul.mp3",
       "favorite": false
     },
     {
@@ -232,7 +233,7 @@
     },
     {
       "title": "Game Over",
-      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/qjuxdarh/46.%20Game%20Over.mp3",
+      "src": "https://nu.vgmtreasurechest.com/soundtracks/kirby-canvas-curse/mtynvyfvhh/34.%20Game%20Over.mp3",
       "favorite": false
     }
   ]
