@@ -2,7 +2,8 @@
   "meta": {
     "game_title": "Super Smash Bros. Melee",
     "art": "https://upload.wikimedia.org/wikipedia/en/7/75/Super_Smash_Bros_Melee_box_art.png",
-    "desc": "November 21, 2001"
+    "desc": "November 21, 2001",
+    "source": "https://downloads.khinsider.com/game-soundtracks/album/super-smash-bros.-melee-original-sound-version"
   },
   "songs": [
     {
@@ -32,12 +33,12 @@
     },
     {
       "title": "Princess Peach's Castle (Ground - Underground Theme - Super Mario Bros.)",
-      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-melee-original-sound-version/ifycqyua/1-06.%20Princess%20Peach%27s%20Castle%20%28Ground%20-%20Underground%20Theme%20-%20Super%20Mario%20Bros.%29.mp3",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-smash-bros.-melee-original-sound-version/ifycqyua/1-06.%20Princess%20Peach%27s%20Castle%20%28Ground%20BGM%20-%20Underground%20BGM%20-%20Super%20Mario%20Bros.%29.mp3",
       "favorite": false
     },
     {
       "title": "Rainbow Cruise (Slider - Super Mario 64 - Underwater Theme - Super Mario Bros.)",
-      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-melee-original-sound-version/wflpsutk/1-07.%20Rainbow%20Cruise%20%28Slider%20-%20Super%20Mario%2064%20-%20Underwater%20Theme%20-%20Super%20Mario%20Bros.%29.mp3",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-smash-bros.-melee-original-sound-version/wflpsutk/1-07.%20Rainbow%20Cruise%20%28Slider%20-%20Super%20Mario%2064%20-%20Underwater%20BGM%20-%20Super%20Mario%20Bros.%29.mp3",
       "favorite": false
     },
     {
@@ -57,7 +58,7 @@
     },
     {
       "title": "Hyrule Temple (Temple - Zelda II - Adventure of Link)",
-      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-melee-original-sound-version/bjorsoqo/1-11.%20Hyrule%20Temple%20%28Temple%20-%20Zelda%20II%20-%20Adventure%20of%20Link%29.mp3",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-smash-bros.-melee-original-sound-version/bjorsoqo/1-11.%20Hyrule%20Temple%20%28Temple%20-%20Zelda%20II%20-%20The%20Adventure%20of%20Link%29.mp3",
       "favorite": false
     },
     {
@@ -77,7 +78,7 @@
     },
     {
       "title": "Yoshi's Island (Athletic Theme - Super Mario World)",
-      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-melee-original-sound-version/yxvklbaw/1-15.%20Yoshi%27s%20Island%20%28Athletic%20Theme%20-%20Super%20Mario%20World%29.mp3",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-smash-bros.-melee-original-sound-version/yxvklbaw/1-15.%20Yoshi%27s%20Island%20%28Athletic%20BGM%20-%20Super%20Mario%20World%29.mp3",
       "favorite": false
     },
     {
@@ -102,12 +103,12 @@
     },
     {
       "title": "Pokémon Stadium (Main Theme - Pokemon Red - Blue)",
-      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-melee-original-sound-version/czrmjhkc/1-20.%20Pok%C3%A9mon%20Stadium%20%28Main%20Theme%20-%20Pokemon%20Red%20-%20Blue%29.mp3",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-smash-bros.-melee-original-sound-version/czrmjhkc/1-20.%20Pok%C3%A9mon%20Stadium%20%28Main%20Theme%20-%20Pokemon%20Red%20%26%20Blue%29.mp3",
       "favorite": false
     },
     {
       "title": "Poké Floats (Trainer Battle - Gym Leader Battle - Wild Pokemon - Pokemon Red - Blue))",
-      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-melee-original-sound-version/jopgpedd/1-21.%20Pok%C3%A9%20Floats%20%28Trainer%20Battle%20-%20Gym%20Leader%20Battle%20-%20Wild%20Pokemon%20-%20Pokemon%20Red%20-%20Blue%29%29.mp3",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-smash-bros.-melee-original-sound-version/jopgpedd/1-21.%20Pok%C3%A9%20Floats%20%28Trainer%20Battle%20-%20Gym%20Leader%20Battle%20-%20Wild%20Pokemon%20-%20Pokemon%20Red%20%26%20Blue%29.mp3",
       "favorite": false
     },
     {
@@ -187,7 +188,7 @@
     },
     {
       "title": "Pokémon Battle! (Wild Pokemon - Red Battle - Pokemon Gold - Silver)",
-      "src": "https://jetta.vgmtreasurechest.com/soundtracks/super-smash-bros.-melee-original-sound-version/vkldjimn/1-37.%20Pok%C3%A9mon%20Battle%21%20%28Wild%20Pokemon%20-%20Red%20Battle%20-%20Pokemon%20Gold%20-%20Silver%29.mp3",
+      "src": "https://vgmtreasurechest.com/soundtracks/super-smash-bros.-melee-original-sound-version/vkldjimn/1-37.%20Pok%C3%A9mon%20Battle%21%20%28Wild%20Pokemon%20-%20Red%20Battle%20-%20Pokemon%20Gold%20%26%20Silver%29.mp3",
       "favorite": false
     },
     {
