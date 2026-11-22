@@ -2,7 +2,8 @@
   "meta": {
     "game_title": "Paper Mario: Color Splash",
     "art": "https://mario.wiki.gallery/images/thumb/c/ce/PMCS_Boxart.png/800px-PMCS_Boxart.png",
-    "desc": "October 7, 2016"
+    "desc": "October 7, 2016",
+    "source": "https://downloads.khinsider.com/game-soundtracks/album/paper-mario-color-splash-original-sound-version-mp3"
   },
   "songs": [
     {
@@ -382,7 +383,7 @@
     },
     {
       "title": "Unremarkable Forst",
-      "src": "https://jetta.vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/knjjpmqxpk/076.%20Unremarkable%20Forst.mp3",
+      "src": "https://vgmtreasurechest.com/soundtracks/paper-mario-color-splash-original-sound-version-mp3/knjjpmqxpk/76.%20Unremarkable%20Forest.mp3",
       "favorite": false
     },
     {
